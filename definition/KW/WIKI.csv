@@ -1,0 +1,946 @@
+activity;['rugby'];Rugby yw sport.
+activity;['go'];Go yw gwari bordh rag dew gwarier.
+activity;['goedhboell', 'gwydhbol'];Goedhboell yw gwari bordh rag dew gwarier.
+activity;['nessa bresel an bys'];Nessa Bresel an Bys a hwarva 1939-1945, yntra Galosow Aghel, ha'n Geffrysysi.
+activity;['hilgasieth'];Hilgasieth yw kryjyans po tybyans eus yn bennrewl warnyans ma via unn urdhas yn-mysk an eghennow dus herwydh aga “hil” po aga fobel dalleth.
+activity;['an dek aradow'];An Dek Aradow yw rol a rewlys yn Cristoneth ha Yedhoweth.
+activity;['art'];Art yw, rag ensompel, Ilow Lymnans Gwari Donshag erell.
+activity;['kewer'];Kewer yw chanjyow dedhyek po euryek y'n ayrgylgh.
+activity;['pennmenyster an rywvaneth unys'];Pennmenyster an Ruvaneth Unys yw lywydh governans Ruwvaneth Unys Breten Veur ha Wordhen Gledh.
+activity;['te'];Te yw diwes meurgerys dres oll an bys.
+activity;['domhwelans frynkek', 'domwhelans frenkek'];An Domhwelans Frynkek o an domhwelans meur hwarvedhys yn Pow Frynk yn 1789.
+agentive-figure;['bogan sarf'];Bogan Sarf yw enyval mythologiek, haval dhe pryv, sarf bras po dragon, mes gans eskelli ha dewdroes haval dhe Marghsylli ha penn an kulyek.
+agentive-figure;['marghkell'];Marghkell yw enyval mythologiek, haval dhe vargh mes gans eskelli.
+agentive-figure;['an lu selwans'];An lu selwans yw eglos keswlasek kristonyen.
+agentive-figure;['dragon'];Dragon yw enyval mythologiek, haval dhe sarf vras mes gans eskelli ha, herwydh usadow, peder po diw arr.
+agentive-figure;['marghsylli'];Marghsylli yw enyval mythologiek, haval dhe bryv po sarf bras, mes gans eskelli ha penn haval dhe dhragon ha dewdroes haval dhe Bogan Yar.
+agentive-figure;['parti lavur', 'lavur', 'party lafur'];An Parti Lavur yw parti politek kres-kledh y'n Rywvaneth Unys.
+agentive-figure;['stat'];Yn politegieth arnowydh, yth yw stat kowethas gans maystri war le doroniethel po tiredh.
+agentive-figure;['kowethyans yeghes an bys'];Kowethyans Yeghes an Bys yw rann a'n Kenedhlow Unys.
+agentive-figure;['kokan'];Kowethyans Kevambos an Atlantek North, henwys yn Sowsnek an "North Atlantic Treaty Organization", yw keffrysyans breselek.
+agentive-figure;['unyans europek', 'ue', '🇪🇺', 'eu', 'unyans europa', 'unyans ewropek'];Keffrysyans gwlasek hag erbysiethek yw an Unyans Europek.
+agentive-figure;['kesunyans arab'];Kesunyans Arab yw kowethyans gwrys a bowyow y'n bys Arab yn Afrika North ha Asi Soth-West.
+agentive-figure;['kenedhlow unys', 'ku'];An Kenedhlow Unys yw kesunyans keswlasek, furvys wosa diwedh Nessa Bresel an Bys yn 1945 rag avonsya kres y'n bys ma.
+agentive-figure;['parti'];Parti yw bagas restrys a dus po kor a wra hwilas dalghenna nerth politek der etholans mayth hallo dyghtya negys an genedhel.
+agentive-figure;['eglos katholik romanek', 'eglos katholek romanek', 'eglos romanek katholik', 'katholik', 'katholik eglos'];An Eglos Katholik Romanek yw unn eglos a Gristonyon a-dreus an bys ma yn komunyans leun gans an Pab hag owth holya kryjyansow a gonsels an Eglos koth.
+agentive-figure;['kryjyans', 'cryjyans'];Yma dew vagas chyf a gryjyans y'n bys ma, h.y.
+agentive-figure;['bogan yar'];Bogan Yar yw enyval mythologiek, haval dhe pryv, sarf bras po dragon, mes gans eskelli ha dewdroes haval dhe Marghsylli ha penn an kulyek.
+agentive-figure;['islam', 'islamek', 'moslem', 'muslim', 'muslimyon', 'sarsyn', 'sarsyns', 'yslam'];Islām yw fay unndywyel ha'n nessa moyha kryjyans y'n nor.
+agentive-figure;['hindoueth', 'hindou'];Hindoueth yw kryjyans dharmek ow talleth yn Eynda.
+agentive-figure;['urss', 'ubss'];An Unyans a Repoblegow Socyalydh Sovyetek o a-dhia 1922 bys 1991.
+agentive-figure;['eglos pow sows'];Eglos Pow Sows yw an eglos kristyon selys yn soedhogel yn Pow Sows, Kernow, Ynys Manow, hag Ynysek an Chanel.
+agentive-figure;['almayn nazi'];Almayn Nazi yw hanow kemmyn an Stat Almaynek hembrenkys gans Adolf Hitler yntra 1933 ha 1945.
+agentive-figure;['parti demokratek'];An Parti Demokratek yw parti politek y'n Statys Unys.
+agentive-figure;['parti repoblikanek', 'republican party'];An Parti Repoblikanek yw parti politek y'n Statys Unys.
+agentive-figure;['eglos an vethodysi', 'methodek'];Yma'n movyans Medhodek ow kul rann a Gristoneth Protestantek.
+agentive-physical-object;['derow', 'quercus'];Quercus yw genas a 600 ehen gwydh, yn teylu Fagaceae, ow triga yn tylleryow oer a hanter-kylgh gogledh an Norvys.
+agentive-physical-object;['yr wyddgrug'];Yr Wyddgrug yw tre yn Sir y Fflint, Kembra..
+agentive-physical-object;['jagwar', 'panthera onca'];Jagwar yw onan a'n pymp eghen yn fyw y'n kinda Panthera, esel a'n teylu Felidae.
+agentive-physical-object;['enyval', 'animalia', 'eneval', 'enyvales', 'mil', 'miles'];Enyvales po miles yw eseli an wlaskor vywoniethek Animalia.
+agentive-physical-object;['plans', 'plantae'];Plansow yw pythow byw ow kul rann a'n wlaskor vywoniethek Plantae.
+agentive-physical-object;['comptyor', 'jynn-amontya', 'amontyer', 'scyens comptyor'];Jynn-amontya yw jynn owth oberi gans tredanegow.
+agentive-physical-object;['fong', 'fungi'];Fongow yw bagas a organedhow y'n wlaskor Fungi.
+agentive-physical-object;['gwydh', 'gwydhenn'];Gwydh yw bagas a blans gans garr vras henwys kyf.
+agentive-physical-object;['falhun prierin', 'falco peregrinus', 'falghun pryerin', 'falghun pryeryn'];An falhun prierin yw edhen y'n teylu Falconidae.
+agentive-physical-object;['olldhebrer'];Olldhebroryon po omnivores yw enyvales a yll kavos aga megyans a lies eghen a voos hag aga boos a yll komprehendya plansow, enyvales, algae, fongow ha bakteria.
+agentive-physical-object;['divellkeynek'];Divellkeynoges yw enevales heb displegyans a vellkeyn.
+agentive-physical-object;['chordata'];An fylum Chordata yw onan a'n brassa fyla a enevales, ow komprehendya a-dro dhe 65,000 a ehennow.
+agentive-physical-object;['gwelsdebrer'];Gwelsdebroryon po herbivores yw enyvales gans korfonieth ha gnasonieth aswiwys dhe dhybri pyth plans, rag ensampel del, rag pennran a'ga boos.
+agentive-physical-object;['kramvil', 'cramvil', 'kramviles', 'reptilia'];Kramviles yw enevales gans mellow keyn ha goos yeyn y'n klass Reptilia.
+agentive-physical-object;['tus', 'homo sapiens', 'den', 'pobel', 'poblans'];Tus, po pobel, yw eseli an ehen Homo sapiens.
+agentive-physical-object;['krestennek', 'crustacea', 'crestednek', 'crestennek', 'krestednek'];Krestennogyon yw divellkeynoges y'n isfylum Crustacea.
+agentive-physical-object;['gaver', 'capra aegagrus hircus'];Yma an gaver diworth enyval gwyls, peder garr usi ow tos a Asia ha'n est a Europ yn kynsa.
+agentive-physical-object;['salix'];Salix yw genas a 400 ehen a wydhen ha prysken, yn teylu Salicaceae, ow triga yn tylleryow oer a hanter-kylgh gogledh an Norvys.
+agentive-physical-object;['castanea', 'kestenen'];Castanea yw genas a 8 po 9 ehen gwydh, yn teylu Fagaceae, ow triga yn tylleryow oer a hanter-kylgh gogledh an Norvys.
+agentive-physical-object;['zebra'];Bronnvil Afrikanek y'n teylu Equidae yw an zebra.
+agentive-physical-object;['kangarou'];An kangarou yw porsvil a'n teylu Macropodidae.
+agentive-physical-object;['fagus', 'fawen'];Fagus yw genas a 50 ehen gwydh, yn teylu Fagaceae, ow triga yn Asi, Europa, hag Amerika Gledh.
+agentive-physical-object;['golvan'];Golvan yw edhen vyghan Europek y'n teylu Passeridae.
+agentive-physical-object;['apys'];Apys yw enevales y'n bagas dilost henwys prymatys hag yn wreydhek a Afrika mes a drig yn Asia Soth-Est ynwedh.
+agentive-physical-object;['pedresyf', 'caudata', 'urodela'];Pedresyfes, pajarpawes po pedrevanes an dowr, yw bagas a diwelvennoges, gans mir a bedrevanes, yn urdh Urodela/Caudata.
+agentive-physical-object;['bronnvil', 'mammalia', 'bronnviles'];Bronnviles yw eseli a Mammalia, unn klas a enyvales ow triga a-dreus an bys.
+agentive-physical-object;['kekesow', 'kykesow'];Kekesow ew ehen a rug a'n jeves bleujyow gwydnrudh ha del cres-glas.
+agentive-physical-object;['diwelvennek', 'amphibia'];Diwelvennoges yw enyvales mellkeynek yn klass Amphibia.
+agentive-physical-object;['blejen ergh'];Blejen ergh yw blejen.
+agentive-physical-object;['kowrvargh'];Bronnvil meur a wra bewa yn difeythtiryow yw kowrvargh.
+agentive-physical-object;['derow', 'derwenn'];Derow (unnplek derwen, Lat.
+agentive-physical-object;['skaw dowr'];Skaw dowr (unnplek skawen dhowr, Lat.
+agentive-physical-object;['bugh', 'gwarthek', 'buhes', 'bos primigenius taurus', 'bughes', 'chatel', 'leugh', 'lodhen', 'oghen', 'tarow'];Chatel yw enyvales bras y'n teylu Bovidae.
+agentive-physical-object;['owsyl purpur'];Owsyl purpur
+agentive-physical-object;['liwles', 'líolaind'];Liwles yw plans bleujyowadow y'n teylu Brassicaceae.
+agentive-physical-object;['glastan'];Glastan (unnplek Glastanen, Lat.
+agentive-physical-object;['kath', 'felis silvestris catus'];Kathes, henwys ynwedh kathes dov, yw bronnviles kigdevoryer a'n teylu Felidae.
+agentive-physical-object;['bugh', 'gwarthek', 'buhes', 'bos primigenius taurus', 'bughes', 'chatel', 'leugh', 'lodhen', 'oghen', 'tarow'];Chatel yw enyvales bras y'n teylu Bovidae.
+agentive-physical-object;['olifans'];Bronnvil meur hag esel a deylu Elephantidae yw olifans.
+agentive-physical-object;['melldrosek', 'arthropoda', 'meldrosek'];Melldrosogyon yw divellkeynoges y'n fylum Arthropoda.
+agentive-physical-object;['emu'];Emu stag edhen.
+agentive-physical-object;['panda bras', 'ailuropoda melanoleuca'];An panda, arth panda po panda bras rag dissernya ynter i ha'n panda rudh, yw arth genesik yn China kresel soth.
+agentive-physical-object;['keynek atlantek', 'trachurus trachurus'];Keynogow Atlantek yw eghen a keynek y'n teylu Carangidae.
+agentive-physical-object;['fow'];Fow, po Fowydh, (unnplek Fowen, po Fowydhen, Lat.
+agentive-physical-object;['lewpard', 'panthera pardus'];An lewpard yw onan an pymp eghen yn few y'n genus Panthera, esel a teylu Felidae.
+agentive-physical-object;['lewpard an ergh', 'uncia uncia'];Kath veur yw 'lewpard an ergh', trigys yn Asia Kres.
+agentive-physical-object;['lew', 'lion', 'panthera leo'];Yma'n lew onan a'n peswar eghen a kathes meur y'n genus Panthera, hag yma ev esel teylu Felidae.
+agentive-physical-object;['iguana', 'iguanidae'];Bras pajarpaw.
+agentive-physical-object;['lostledan', 'bever', 'castor'];Bronnvil a wra bewa a-dro dhe avonyow yw lostledan.
+agentive-physical-object;['sedher', 'gavia'];Sedhoryon yw bagas a edhen dhowr divroansek a'n hantergylgh kledh.
+agentive-physical-object;['morvran', 'phalacrocorax carbo'];Morvran yw rann a'n kordh edhen. Phalacrocoracidae, owth yssynsi dres 40 eghenn ruw a morvranow ha spilgarnow.
+agentive-physical-object;['marhek'];Marheges yw bagas a edhen hirgarrek divroansek bras a'n genas Limosa.
+agentive-physical-object;['helyk gwynn'];Helyk gwynn (unnplek Helygen wynn, Lat.
+agentive-physical-object;['helyk bryw'];Helyk bryw (unnplek Helygen bryw, Lat.
+agentive-physical-object;['gorilla', 'gorylla'];Yma Gorylles genus a apa, yn brassa losowegorek a drig yn koswigow kanol Afrika.
+agentive-physical-object;['morvil glas', 'balaenoptera musculus'];Morvil glas yw enyval-mor.
+agentive-physical-object;['sarf', 'serf', 'serpentes'];Sarf yw kramvil hir ha moen, heb esker, ow kul rann a'n is-urdh Serpentes.
+agentive-physical-object;['arth', 'ors', 'ursidae'];Arthes, po orses, yw bronnviles yn teylu Artheges.
+agentive-physical-object;['dar'];Dar (Lat.
+agentive-physical-object;['quercus virginiana'];Quercus virginiana, an Glastan Dehow, yw ehen a wydhen vythlas, yn genas Quercus, ow triga yn Amerika Gledh soth-est.
+agentive-physical-object;['gwern', 'alnus glutinosa'];Gwern (unnplek gwernen, Lat.
+agentive-physical-object;['helyk'];Helyk
+agentive-physical-object;['oula', 'cowan', 'kowan', 'kowann', 'strigiformes', 'ula'];Oula po kowan yw edhen y'n urdh Strigiformes.
+agentive-physical-object;['fow amerika gledh'];Fow Amerika Gledh, po Fowydh Amerika Gledh, (unnplek Fowen Amerika Gledh, po Fowydhen Amerika Gledh, Lat.
+agentive-physical-object;['alnus'];Alnus yw genas a 30 ehen gwydh, yn teylu Betulaceae, ow triga yn tylleryow oer a hanter-kylgh gogledh an Norvys.
+agentive-physical-object;['ewin'];Ewin
+agentive-physical-object;['quercus arizonica'];Quercus arizonica, an Glastan Gwynn Arisona, yw ehen a wydhen vythlas, yn genas Quercus, ow triga yn Statys Unys soth-west ha Meksiko north-west.
+agentive-physical-object;['penn gwynn'];Edhen na yll neyja yw Penn gwynn.
+agentive-physical-object;['bakteria', 'bacteria', 'bacterian', 'bacteriom', 'bacterium', 'bacterya', 'bacteryum', 'bakteriom'];Bakteria yw bagas a organedhow ungellek, korrwelek.
+agentive-physical-object;['hweskeren', 'insecta', 'hwesker', 'hweskerenn', 'whesker', 'wheskeren'];Hwesker yw enevales heb mellow keyn y'n klass Insecta.
+agentive-physical-object;['alamandwydh'];Alamandwydh
+agentive-physical-object;['hernen'];Hern yw teylu a bysk byghan oylek, Clupeidae.
+agentive-physical-object;['lavyn'];Lavynnyon, engraulidae, yw teylu a buskes mor.
+agentive-physical-object;['margh', 'equus caballus'];Margh yw bronnvil veur lowr ow perghenni dhe onan a seyth eghenn an genus Equus.
+agentive-physical-object;['hogh gyni', 'cavia porcellus'];Hoghes gyni yw cavia porcellus, eghenn knivil dovys.
+agentive-physical-object;['theobroma cacao'];Theobroma cacao yw eghen gwydh byghan dhyworth Mesoamerika.
+agentive-physical-object;['yvynnen', 'ammodytidae'];Yvyn, Ammodytidae, yw teylu a buskes mor bian.
+agentive-physical-object;['gwinwydh'];Gwinwydh
+agentive-physical-object;['edhen', 'aves', 'ydhyn'];Edhen (liesplek ydhyn) yw esel unn ugh-urdh a enyvales (Lat.
+agentive-physical-object;['arth gwynn', 'ors gwynn', 'ursus maritimus'];An arth gwynn po ors gwynn yw an brassa arth y'n bys, yn Kanada, Russi, Alaska, Greunland ha Norgagh.
+agentive-physical-object;['gwydh krabbys'];Gwydh krabbys
+agentive-physical-object;['kesten'];Kesten (unnplek kestenen, Lat.
+agentive-physical-object;['owsyl'];Owsyl
+amount-of-matter;['cider'];Diwes alkoholek a wrer gans sugen avalow gweythys yw cider, kyn hyllir y wul gans sugen per keffrys.
+amount-of-matter;['kober', 'cu'];Kober yw elven gymyk gans an arwoedh Cu ha'n niver atomek 29.
+amount-of-matter;['y fflint'];Y Fflint yw tre yn Sir y Fflint, Kembra..
+amount-of-matter;['sten', 'sn'];Sten yw elven gymyk gans an arwoedh Sn ha'n niver atomek 50.
+amount-of-matter;['gwin'];Gwin yw an anow un diwes gwrys gans grappa.
+amount-of-matter;['gwin gwynn'];Gwin gwynn yw an eghen gwin gwrys gans grappa gwynn.
+amount-of-matter;['gwin rudh'];Gwin rudh yw an eghen gwin gwrys gans grappa du.
+biological-object;['kneus'];Kneus yw kudhen tu a-ves a enevales.
+biological-object;['enep'];Enep yw an rann a-dherag penn denel a'n tal dhe'n elgeth, ow komprehendya an tal, dewabrans, dewlagas, troon, diwvogh, diwweus, hag elgeth.
+biological-object;['skovarn'];An skovarn yw rann an korf a wra gasa enevales dhe glewes.
+biological-object;['mellkeyn'];An mellkeyn yw rann a'n korfeskern aksial.
+classification-system;['dydhyador yuliek', 'dydhyans yuliek'];An dydhyador yuliek yw henwys yndella awos y vos dyllys gans Yuli Kesar yn 46 KK. Ev o an dydhyador usadow y'n Howlsedhes bys 1582 pan veu an dydhyador gregorek dyllys gans Pab Gregori XIII. Awos y vos dyllys gans an Eglos Katholik Romanek, lies bro brotestant a skonyas adoptya an dydhyador gregorek, hag a besyas gans an dydhyador yuliek, henwys ynwedh an dydhyador Gis Koth, dres moy es kansblydhen.
+classification-system;['calans gregorek', 'dydhyans gregorek', 'kalander gregorek', 'kalans gregorek'];An calans gregorek yu an calans usadow y'n Howlsedhes hedhyu.
+cognitive-event;['emperouregieth'];Emperouregieth yw polisi mayth assayons kenedhlow bras ha kevothek ystynna aga awtorita dres aga emlow.
+cognitive-event;['gis'];Gis yw maner a omwiska, desedhys dhe dast a unn oos yn unn tiredh.
+cognitive-modal-description;['gwithyaseth'];Gwithyaseth yw enebieth erbynn chanjyow uskis, hag y skoedh gwitha hengovyow y'n gemmynieth.
+cognitive-modal-description;['faskorieth'];Faskorieth yw furv governans war askell dhyghow, mayth yw kevys an nerth oll gans unn rewlyas hepken.
+cognitive-modal-description;['socyalieth'];Sosyalieth yw kevreyth erbysek ha politek.
+cognitive-modal-description;['kemynegoreth'];Kemmynegoreth yw movyans politek kowethasek.
+cognitive-modal-description;['tybonieth'];Tybonieth yw kuntelles a tybyansow po kryjyansow kevrynnys yn-mysk bagas a dus.
+dependent-place;['angle'];Angle yw tre yn Sir Benfro, Kembra..
+ecological-collective;['plans', 'plantae'];Plansow yw pythow byw ow kul rann a'n wlaskor vywoniethek Plantae.
+event;['gwariow olympek'];An Gwariow Olympek yw an hwarvos sport keswlasek posekka, a hwer pub peder bledhen.
+functional-matter;['dehen molys'];Dehen molys yw ehen a dhehen tew.
+functional-matter;['cider'];Diwes alkoholek a wrer gans sugen avalow gweythys yw cider, kyn hyllir y wul gans sugen per keffrys.
+functional-matter;['kober', 'cu'];Kober yw elven gymyk gans an arwoedh Cu ha'n niver atomek 29.
+functional-matter;['pri gwynn'];Pri gwynn yw growan podrek devnydhys yn diwysyans paper, cheni ha medhygneth.
+functional-matter;['keus'];Keus yw leth yn furv soled ha dybradow.
+functional-matter;['mel'];Mel yw lin melyn gwrys gwenen.
+functional-matter;['gwin'];Gwin yw an anow un diwes gwrys gans grappa.
+functional-matter;['choklet'];Choklet yw darbar a rostys ha melys has cacao y'n form a lin, past po stock.
+functional-matter;['gwin gwynn'];Gwin gwynn yw an eghen gwin gwrys gans grappa gwynn.
+functional-matter;['pasti', 'pasti: hogen', 'pasty', 'hogen. pasti'];== Descryfans == Pastis yw boes hengofek dybrys yn Kernow.
+functional-matter;['kig'];Kig yw keher dybrys rag boos.
+functional-matter;['gwin rudh'];Gwin rudh yw an eghen gwin gwrys gans grappa du.
+geographical-object;['borneo'];Borneo yw enys vras war an Kehesedh yn Asi Soth-est.
+geographical-object;['ynysow kayman', 'enesow kayman'];An Ynysow Kayman yw tiredh ynysek y'n Mor Karib.
+geographical-object;['angwilla', 'anguilla'];Angwilla yw tiredh ynysek y'n Mor Karib.
+geographical-object;['amerika dheghow', 'amerika dhehow', 'deghow amerika', 'soth america', 'south america'];Deghow Amerika yw brastir.
+geographical-object;['mor'];Mor yw arenebeth dowr sall, ha'n pyth yw rann keynvor po brassa mor.
+geographical-object;['taywan', 'repoblek china', 'taiwan'];Taywan, yn sodhogel Repoblek China, yw gwlas yn Asi Est.
+geographical-object;['ynysow faroe', 'enesow faroe', 'ynysek faroyek'];An Ynysow Faroe yw pow ynysek y'n kledhbarth an Keynvor Atlantek, rewlys gans Denmark.
+geographical-object;['ynysow marshall'];Ynysow Marshall yw gwlas ynysek y'n Keynvor Hebask.
+geographical-object;['bermuda'];Bermuda yw tiredh ynysek y'n Keynvor Iwerydh.
+geographical-object;['antillys iseldiryek'];An Antillys Iseldiryek o tiredh ynysek y'n Mor Karib.
+geographical-object;['canarias'];Canarias yw kemmynieth omrewl yn Keynvor Iwerydh.
+geographical-object;['ynysow falkland', 'ynysow falkland/malvinas'];Ynysow Falkland yw tiredh ynysek y'n Keynvor Iwerydh.
+geographical-object;['keynvor'];Keynvor yw lown bras hyli yntra brastiryow ha moryow.
+geographical-object;['oceania'];Oceania yw brastir.
+geographical-object;['mor kaspi'];Mor Kaspi yw mor hag yw an brassa korf a dhowr yn Norvys degys yn tien dre dir.
+geographical-object;['kongo'];Avon yn Afrika yw an Kongo.
+geographical-object;['avon amazon', 'amason'];Avon Amazon yw avon yn Amerika Dheghow.
+geographical-object;['dowrhyns'];Pub eghen a gorf dowr viajadow yw dowrhyns.
+geographical-object;['svalbard'];Svalbard yw pow ynysek y'n Keynvor Arktek.
+geographical-object;['arabi'];Arabi yw rannvro veur ynni lies gwlaskor anserghek.
+geographical-object;['potomac'];Dowr Potomac yw avon yn Statys Unys Amerika est, hag a enter yn Kammas Chesapeake orth Point Lookout, Tir Varia.
+geographical-object;['mor marow'];An Mor Marow yw lynn holanek ynter Israel ha Jordan.
+geographical-object;['mor du'];An Mor Du yw mor ynter Europa hag Asi.
+geographical-object;['mor baltek'];Mor Baltek yw mor yntra Danmark, Swedherwyk, Estoni, Pow Finn, Almayn, Latvi, Lithouani, Poloni, ha Russi.
+geographical-object;['koswik law'];Koswik law yw koos a gemmer glawas poos.
+geographical-object;['montserrat'];Montserrat yw tiredh ynysek y'n Mor Karib.
+geographical-object;['ynysow balearek', 'ynysek balearek'];Ynysow Balearek yw kemmynieth omrewl yn Mor Gres.
+geographical-object;['mor karib'];An Mor Karib yw mor trovannel ow kul rann a'n Keynvor Iwerydh, soth-est a Gammas Meksiko.
+geographical-object;['mor bretannek', 'chanel'];An Mor Bretannek yw rann a'n Keynvor Iwerydh ow kevrenna an Mor Keltek ha'n Mor Kledh.
+geographical-object;['mor kledh', 'mor a-gledhbarth'];Mor Kledh yw mor yntra Breten Veur y'n howlsedhes, gonna-tir Skandinavek ha Denmark y'n howldrehevel, hag Almayn, Iseldiryow, Pow Belg ha Pow Frynk y'n soth.
+geographical-object;['korea', 'korea dheghow', 'konna-tir koreek'];Korea yw konna-tir ha gwlaskor gyns yn Howldrehevel Asi, diberthys yn diw repoblek arnowydh: Korea Gledh ha Korea Dhyhow.
+geographical-object;['antarktika'];Antarktika yw brastir.
+geographical-object;['breten veur', 'predennik', 'ynys breten veur'];Ynys veur yn Europa yw Breten Veur.
+geographical-object;['kelesoni nowydh', 'kelesoni nowyth'];Kelesoni Nowydh yw collectivité d'outre-mer y'n Keynvor Hebask.
+geographical-object;['martinik'];Martinik yw bagas ynysek y'n Mor Karib neb yw rannvro ha département a Bow Frynk.
+geographical-object;['gwadeloup', 'guadeloupe'];Gwadeloup yw bagas ynysek y'n Mor Karib neb yw rannvro ha département a Bow Frynk.
+geographical-object;['ostralasi'];Ostralasi yw brastir.
+geographical-object;['keynvor arktek', 'keynvor an arktek', 'keynvor an arktik'];An Keynvor Arktek yw korf a dhowr a gyrghyn Pennaghel an North.
+geographical-object;['amerika'];Amerika yw brastir ynter an Keynvor Atlantek ha'n Keynvor Hebask.
+geographical-object;['ynys manow', 'manow', 'enys marow', 'enys vanow', 'enys manow'];Manow po Ynys Manow yw ynys yn Mor Wordhon gensi omrewl.
+geographical-object;['keynvor atlantek', 'keynvor iwerydh', 'atlantek', 'iwerydh', 'mor iwerydh'];Yma'n Keynvor Atlantek owth ystynna a-dreus enep a 100 000 000 km². ev yw ytho an nessa keynvor an brassa y'n Norvys.
+geographical-object;['danaw'];Danaw yw avon an nessa hirra yn Europa.
+geographical-object;['greunland', 'groenland', 'groenlond', 'kalaallit nunaat'];Brassa Ynys an bys yw Greunland ynter an keynvoryow Iwerydh hag Arktik.
+geographical-object;['lynn victoria'];Lynn Victoria po Victoria Nyanza yw lynn yn Afrika.
+geographical-object;['keynvor hebask', 'mor cosel'];An Mor Cosel po ew an broassa keynvor e'n Nor.
+geographical-object;['keynvor dyghow'];An Keynvor Dyghow yw dowrow an Keynvor Iwerydh, Mor Kosel, ha Keynvor Eynda, a-dro dhe vrastir Antarktika.
+geographical-object;['nil', 'nile'];An Nil yw avon yn Afrika.
+gestalt;['delow an frankedh'];Delow an Frankedh yw delow yn Evrek Nowydh, Statys Unys.
+gestalt;['gravyans'];Gravyans yw ryw art trymynsek.
+information-encoding-system;['bardhonieth', 'prydydhieth'];Bardhonieth yw ryw art ha lien.
+information-encoding-system;['yeth plen'];Yeth plen yw furv kemmyn an yeth skrifys.
+information-object;['bogalen', 'bogalenn'];Bogalenn yw son yeth gwrys der anall an trakt a lev heb veur a lettyans.
+information-object;['kessonen', 'kessonenn'];Kessonenn yw son yeth gwrys ow lettya anall der an trakt a lev.
+information-object;['h'];H yw ethves lyther an lytherennek Kernewek hag a'n lytherennans romanek dre vras.
+information-object;['z'];Z yw an hweghes lytherenn war'n ugens y'n lytherennek romanek dre vras hag yn re lytherennansow Kernewek.
+information-realization;['romans'];Romans yw lyver gans unn hwedhel hir skrifys ynno.
+information-realization;['iliad'];Iliad yw skrif kottha hwath y'n bys yn lien Grek.
+information-realization;['delow an frankedh'];Delow an Frankedh yw delow yn Evrek Nowydh, Statys Unys.
+information-realization;['daguerreskrifa'];Daguerreskrifa o an kensa process skeusennek, esa devnydhyes yn ledan y'n 1840ow ha'n 1850ow.
+information-realization;['peurel wias'];Peurel wias yw towlen amontyer may halla tus usya rag hedhes folednow gwias war an Kesrosweyth.
+information-realization;['godhoniador'];Godhoniador yw sort ober godhvos, cotheans ow sensy derivas cot a dherivadow dhort poken pub scoren skentoleth po scoren arbednek skentoleth.
+information-realization;['hayl maria'];Hayl Maria yw pysadow sans a hengof gans eglosyow Crystyon.
+information-realization;['kan'];Kan yw oberen ilow gans geryow.
+information-realization;['romansik'];Romansik yw hwedhel yeth plen fugiethek skrifys, hirra ages hwedhel ber mes berra ages romans del yw usys.
+information-realization;['henhwedhlow'];Henhwedhlow yw drollow po hwedhlow a dermyn eus passyes a-rag skrifennow istorek, haval dhe Henhwedhlow Kernewek.
+information-realization;['gravyans'];Gravyans yw ryw art trymynsek.
+information-realization;['ylow', 'musik', 'ilow'];Ylow yw patron sonyow lyeskweyth rag art po yntertaynment.
+information-realization;['lien'];Lien yw bagas a oberow art gwrys a eryow.
+information-realization;['korf lagha'];An korf lagha a genedhel yw eghenn arbennek a skrifenn laghel a wra derivas fatell dhegoedh dh'y governans oberi.
+information-realization;['fugieth skiensel'];Eghenn a fugieth hag a gesun skiens ha tybyansow nowydh hag awenek yw fugieth skiensel po skiens fugiethek.
+information-realization;['lyskanasedh'];Lyskanasedh a henwir an devnydh dothter owth assaya gwaynya les stratejek, po kavos digolm meur gemeradow dhe jalenj kemmyn.
+information-realization;['korf lagha an statys unys'];An Korf Lagha Statys Unys yw an lagha gorughel a'n SUA. Ev a dheskrif an maner dre an governans SUA a ober.
+information-realization;['igor stravinsky'];Igor Stravinsky veu genys Lomonosov, 17 mis Metheven 1882 ha merwel yn Evrek Nowydh, 6 mis Ebrel 1971.
+information-realization;['bibel', 'beybel', 'an testament nowydh', 'bibel kernewek', 'testament koth', 'testament noweth agan arluth ha savyour jesu cryst', 'testament nowydh'];An Bibel yw kuntell lyvrow ha lytherow sans rag Yedhewon ha Kristonyon.
+information-realization;['molethi'];Molethi yw taves offensus.
+intentional-collective;['sinn féin', 'sinn fein'];Sinn Féin yw parti yn Wordhen Gledh ha Werdhon.
+language;['yethow germanek', 'germanek', 'germanek west'];Teylu a yethow eyndo-europek yw an yethow germanek.
+language;['yethow keltek', 'keltek'];Teylu a yethow eyndo-europek yw an yethow keltek.
+language;['yethow slavek'];Teylu a yethow eyndo-europek yw an yethow slavek.
+language;['yedhowek', 'yeth yedhowek'];Yedhowek yw an yeth germanek kewsys yn hengovek gans an Yedhewon Ashkenasek a Europa Gledh hag Howldrehevel.
+language;['yethow irokoiek'];Teylu yethow tus enesik Amerika Gledh yw an yethow Irokoiek.
+language;['yethow ouralek', 'ouralek'];An yethow Ouralek yw teylu yethow kewsys gans 20 milvil a dus yn kledhbarth Europa, kledhbarth Russi ha Hungari.
+language;['hindoustanek', 'hindi', 'hindoustani', 'ourdou', 'urdu'];Hindoustanek yw yeth Eyndo-Europek kewsys yn Asi Soth.
+language;['bengalek', 'bangla', 'bengali'];Bengalek yw yeth Eyndo-Iranek kewsys yn Bangladesh hag Eynda gans a-dro dhe 230 milvil a dus.
+language;['yethow semitek', 'semitek'];An yethow Semitek a wra rann a'n gordeylu Afro-Asiatek.
+language;['faroyek'];Faroyek yw yeth ermanek pur ogas hag Islandek, kewsys y'n Ynysek Faroyek gans 48,000 a dus, ha Denmark gans 25,000 a dus.
+language;['norgahek', 'norgaghek', 'norvegek'];Norgaghek yw yeth ermanek kewsys yn Norgagh.
+language;['danek', 'da', 'dan'];Danek yw yeth ermanek kewsys yn Denmark, an Ynysek Faroyek, ha Groenlond.
+language;['islandek', 'islendek', 'islensek', 'islondek'];Islandek yw yeth ermanek kewsys yn Island.
+language;['swedek'];Swedek yw yeth ermanek kewsys yn Swedherwyk, Åland ha Pow Finn.
+language;['bulgarek'];Bulgarek yw an yeth slavek kewsys yn Bulgari.
+language;['yeth', 'taves', 'tavas', 'yethow'];Gwelewgh ynwedh: Scyens Yeth Rol yethow an norvys herwydh aga theylu yeth yw an rol awoles.
+language;['turkek'];Turkek ew tavas Turky ha Cobros Cledh.
+language;['sanskrytek', 'sanskrit', 'sanskritek', 'sanskryt'];Sanskrytek yw yeth koth kewsys yn Eynda, Pakistan, hag Afghanistan nans yw moy ages diw vil vlydhen.
+language;['esperantek'];Esperantek yw yeth heweres drehevys.
+language;['roumanek', 'moldovek', 'rymanek'];Roumanek yw yeth romanek kewsys yn Roumani ha Moldova.
+language;['sowsnek', 'yeth sowsnek', 'sawsnek'];Sowsnek yw yeth ermanek kewsys gans 400 milvil a dus yn lies pow an Norvys.
+language;['afrikaans', 'afrikanek'];Afrikaans yw yeth ermanek kewsys yn Afrika Dheghow ha Namibi.
+language;['latin', 'latynek'];Latin yw yeth italek a wreydh eyndo-europek, kewsys an kynsa yn Pow Latin, ogas ha Rom.
+language;['godhelek', 'goedhelek', 'goedhyli'];An yethow godhalek yw skorenn a deylu tavosow keltek.
+language;['yethow teythyek an amerikaow'];Yethow kewsys gans tus deythyek a-dhyworth Alaska ha Greunland bys dhe boynt mogha soth Amerika Soth yw Yethow Teythyek an Amerikaow.
+language;['chinek', 'cheynek', 'sinek'];Chinek ew yeth a China, cowsys gen 1.1 bilvil a dus.
+language;['flemek'];Flemek po Iseldiryek Beljek yw an yeth Iseldiryek dell yw gewsys yn Flanders, kledhbarth Pow Belg.
+language;['koreek'];Koreek yw yeth kewsys y'n Konna-tir Koreek.
+language;['ebrow'];Ebrow yw yeth semitek kewsys yn Ysrael hag usys rag gordhyansow yedhowek a-dreus an bys.
+language;['wordhonek', 'iwerdhonek', 'godhalek', 'yeth iwerdhonek', 'ywerdhonek'];Wordhenek, Godhalek po Iwerdhonek yw yeth keltek Wordhen.
+language;['cantonek'];Cantonek ew yeth Sino-Tibetek cowsys gans nebes 71 milvil a dus en China.
+language;['skots', 'scots', 'skotek', 'skots a ulster'];Skots yw yeth ermanek kewsys yn iseldir Alban ha Kledhbarth Wordhon.
+language;['indonesek'];Indonesek yw unn furv a'n taves Malayek hag yw soedhogel yn Indonesi.
+language;['amharek'];Amharek yw yeth sodhogel Ethiopi.
+language;['yethow eyndo-europek', 'eyndo-europek'];An yethow eyndo-europek a furv gordeylu kowrek a yethow, kewsys yn arbennik yn Europa, Amerika, hag Asi Soth ha Kres.
+language;['manowek'];Manowek yw yêth keltek Manow.
+language;['albanek', 'godhalek alban', 'gwydhalek', 'gwydhelek', 'gwydhelek alban'];Rag yeth Albani y'n Balkanys, gwel Albaynek.Albanek yw yeth keltek Alban.
+language;['romanek', 'yethow romanek'];An tavosow romanek yw teylu a yethow eyndo-europek ow talleth y'n furvow war Latin kewsys y'n Emperoureth Romanek diwedhes.
+language;['grew', 'greca', 'grek', 'greka', 'grekek'];Grew, po Greka, yw yeth eyndo-europek kewsys yn Europa ha tramor gans nebes pymthek milvil a dus.
+language;['albaynek'];Albaynek yw yeth Eyndo-Europek kewsys yn Albayn, Makedoni, Kosova, ha Pow Grew, hag yn nebes gwigow yn Itali dheghow.
+language;['cherokee'];Cherokee / Cherokiek yw yeth Irokoiek peryllys an dus Jerokiek.
+language;['persek'];Persek yw yeth Eyndo-Europek kewsys yn Iran, Afganistan, Bahreyn, Tajikistan ha nebes ranndir Ousbekistan gans a-dro dhe 75 vilvil a dus.
+language;['oksitanek'];Oksitanek yw yeth Romanek kewsys yn deghowbarth Pow Frynk, yn Spayn, yn Itali hag yn Monako.
+language;['normanek'];Normanek yw yeth romanek kewsys yn Normandi ha yn Ynysow Chanel.
+language;['tavas māori', 'maori'];Yeth polynesek yn Mordir Nowydh yw Māori.
+language;['estonek', 'estoniek'];Estonek yw yeth Ouralek kewsys yn Estoni.
+language;['finnek', 'fynnek'];Finnek yw yeth Ouralek kewsys yn Pow Finn, kledhbarth Swedherwyk, ha Russi.
+language;['hungarek'];Hungarek yu yeth Fynnek-Ugrek kewsys yn Hungari hag yn randyryow adenewan yn Romanya, Slovakya, Ukren, Croatya, Austrya, Serbya ha Slovenya.
+language;['latviek', 'letonek'];Latviek yw yeth Baltek kewsys yn Latvi.
+language;['spaynek'];Spaynek yw yeth romanek kewsys yn Spayn hag Amerika Latinek.
+language;['arabek'];Arabek yw yeth Afro-Asiatek, kewsys yn powyow arabek y'n Konna-tir Arabek, Kledhbarth Afrika ha Keynvor Eyndek.
+language;['makedonek'];Makedonek yw yeth slavek kewsys yn Repoblek Makedoni.
+language;['polonek'];Polonek yw yeth slavek kewsys yn Poloni.
+language;['chekek'];Chekek yw an yeth slavek kewsys yn Pow Chek.
+language;['belarussek', 'byelorussek'];Belarussek yw yeth Slavek ogas dhe Russek ha Ukraynek kewsys yn Belarussi ha north-est Poloni.
+language;['slovakek'];Slovakek yw yeth slavek kewsys yn Slovaki.
+language;['ukraynek'];Ukraynek yw yeth Slavek kewsys yn Ukrayn.
+language;['russek'];Russek yw yeth slavek kewsys yn Russi ha lies gwlas kentrevek.
+language;['almaynek', 'yeth almaynek'];Almaynek yw yeth ermanek, kewsys yn Almayn, Estrych, Swistir, Lushaborg ha broyow erell.
+language;['iseldiryek', 'hollandek', 'yeth iseldiryek'];Iseldiryek yw taves germanek kewsys gans nebes 21 milvil a dus, yn arbennik yn Iseldiryow ha Pow Belg.
+locative-role;['orlando, florida', 'orlando'];Orlando yw sita yn Konteth Orange, Florida, Statys Unys.
+locative-role;['florens'];Florens yw cita en Italy, en radnvro Toscana.
+locative-role;['kyoto'];Kyoto yw an vrassa sita yn Nihon.
+locative-role;['kaunas'];Kaunas yw sita yn Lithouani.
+locative-role;['lyon'];Lyon yw pennsita an rannvro Rhône-Alpes yn Pow Frynk yn le metyans an avenow Ros ha Saône.
+locative-role;['nanjing'];Nanjing yw cita yn China.
+locative-role;['delhi'];Delhi yw an vrassa sita yn Eynda.
+locative-role;['sioux city, iowa', 'sioux city'];Sioux City yw sita yn Iowa, Statys Unys.
+locative-role;['edirne'];Edirne yw cita yn Turki.
+locative-role;['cincinnati, ohio', 'cincinnati'];Cincinnati yw sita yn Ohio, Statys Unys.
+locative-role;['cita ho chi minh', 'sita an ho chi minh'];Cita Ho Chi Minh yw brassa cita Vietnam.
+locative-role;['lund'];Lund yw sita yn Swedherwyk.
+locative-role;['los angeles', 'los angeles, kaliforni'];Los Angeles yw an brassa sita yn Kaliforni, Statys Unys.
+locative-role;['pittsburgh, pennsylvani', 'pittsburgh'];Pittsburgh yw sita yn Pennsylvani, Statys Unys.
+locative-role;['brighton'];Brighton yw cita trethvor yn Sussex Ost, Pow Sows.
+locative-role;['sen pederburg'];Sen Pederburg yw sita vras yn Russi.
+locative-role;['leiden'];Leiden yw sita yn Iseldiryow.
+locative-role;['mekka', 'mecca'];Mekka yw cita yn Arabi Saoudek.
+locative-role;['konna gasa'];Konna Gasa yw tiredh yn Asi West orth arvor an Mor Kres.
+locative-role;['monako', 'monaco'];Prynseth Monako yw sita-stat yn deghow Europa.
+locative-role;['conteth evrek', 'yorkshire', 'konteth evrek'];Conteth Evrek yw conteth hengovek yn Pow Sows cledh.
+locative-role;['breten vian', 'ranvro breten vian', 'breten vyghan', 'breten vian ystorek', 'breten vyhan'];Rag styryow erel, gwelewgh Breten.
+locative-role;['breten vian', 'ranvro breten vian', 'breten vyghan', 'breten vian ystorek', 'breten vyhan'];Breten Vian yw onen a whegh ranvro war'n ugens in Pow Frynk.
+locative-role;['frankfurt'];Frankfurt am Main yw cita veur in Almayn gres.
+locative-role;['serbi', 'serby', 'serbya', 'србија'];An Repoblek Serbi yw gwlas yn deghow Europa.
+locative-role;['thüringen'];Rydhstat Turingi yw stat keffrysek yn Almayn.
+locative-role;['parc'];Parc yw tre yn Merthyr Tudful, Kembra..
+locative-role;['liverpool'];Lyverpoul yw sita yn Merseyside, Pow Sows.
+locative-role;['tianjin'];Tianjin yw cita yn China.
+locative-role;['veracruz'];Veracruz yw stat yn Meksiko.
+locative-role;['göteborg'];Göteborg yw sita yn Swedherwyk.
+locative-role;['andalousi'];Andalousi yw kemmynieth omrewl yn soth Spayn.
+locative-role;['alsass'];Ranvro Alsass yw onen a whegh ranvro war'n ugens in Pow Frynk.
+locative-role;['lithouani', 'lithywani'];Lithouani, Lietuva yw repoblek yn Europa reb an Mor Baltek, an Latvi, Poloni, Russi, Belarus.
+locative-role;['sheffield'];Sheffield yw cita ha burjestra trevek yn Konteth Evrek Soth, Pow Sows.
+locative-role;['glann west'];An Lann West yw tiredh yn Asi West.
+locative-role;['sachsen'];Sachsen yw stat yn Almayn.
+locative-role;['bristol'];Bristol yw sita boesek yn Breten Veur Soth-West.
+locative-role;['martinik'];Martinik yw bagas ynysek y'n Mor Karib neb yw rannvro ha département a Bow Frynk.
+locative-role;['são paulo'];São Paulo yw an vrassa cita yn Brasil.
+locative-role;['torino'];Torino yw sita vras yn Itali ha pennsita Piemonte.
+locative-role;['emperoureth breten veur'];An Emperoureth Vretenek o emperoureth, gwrys a'n dominions, koloniow, protectorates, mandates ha ranndiryow erel, rewlys po menystrys gans an Ruvaneth Unys.
+locative-role;['chicago, illinois', 'chicago'];Chicago yw an vrassa sita yn Illinois, Statys Unys.
+locative-role;['minneapolis, minnesota', 'minneapolis'];Minneapolis yw an vrassa sita yn Minnesota, Statys Unys.
+locative-role;['memphis, tennessi', 'memphis'];Memphis yw an vrassa sita yn Tennessi, Statys Unys.
+locative-role;['kembra'];Kembra yw unn a'n powyow Keltek.
+locative-role;['patagoni'];Bro yn Arghantina ha Chile yw Patagoni.
+locative-role;['tórshavn'];Tórshavn yw pennsita Ynysow Faroe.
+locative-role;['est kres'];An Est Kres yw bagas a wlasow yn Asi hag Afrika, yntra'n Keynvor Eyndek ha'n Mor Kres.
+locative-role;['milano'];Milano yw sita vras yn Itali gledh ha pennsita Lombardi.
+locative-role;['valparaiso'];Valparaiso yw sita yn Chile.
+locative-role;['rio de janeiro'];Rio de Janeiro yw an nessa brassa cita yn Brasil wosa São Paulo.
+locative-role;['istanbul'];Istanbul yw an vrassa cita yn Turki.
+locative-role;['detroit, michigan'];Detroit yw an vrassa sita yn Michigan, Statys Unys.
+locative-role;['st. louis, missouri', 'st. louis'];St.
+locative-role;['evrek nowydh', 'evrek nowyth', 'evrok noweth', 'evrok nowydh'];Evrek Nowydh yw an vrassa sita y'n Statys Unys, desedhys le mayth omjun Dowr Hudson an Mor Iwerydh yn rann soth-est a Stat Evrek Nowydh.
+locative-role;['karachi'];Karachi yw an vrassa cita yn Pakistan.
+locative-role;['philadelphia', 'philadelphia, pennsylvani'];Philadelphia yw an vrassa sita yn Pennsylvani, Statys Unys.
+locative-role;['amerika gres'];Amerika Gres yw rannvro yn Amerika.
+locative-role;['amerika latin'];Amerika Latin yw rannvro yn Amerika.
+locative-role;['venis', 'kaer wenez', 'venezia'];Kerwenes yw sita war ynysow yn morlogh aberow Brenta ha Piave.
+locative-role;['cape town'];Cape Town yw pennsita Afrika Dhyhow.
+locative-role;['sahara'];An Sahara yw difeyth yn Afrika Kledh.
+method;['turantieth'];Turantieth yw furv governans mayth hyll unn den po unn parti politek gul pypynag a vynnons.
+method;['gwerinieth', 'demokratieth'];Gwerinieth a styr rewl gans an werin.
+method;['myghternses'];Myghternses yw eghenn a wovernans mayth yw myghtern, rewlyer heryus, penn an genedhel.
+non-agentive-physical-object;['goeth panama'];An Woedh Panama yw dowrgleudh y’n Repoblek Panama yn Amerika Gres, may jun an Keynvor Atlantek hag an Keynvor Hebask.
+non-agentive-physical-object;['crows geltek'];Crows geltek yw arwodh eus ow kesunya crows gans kelgh ow mos a-dro dhe'n crowstrogh.
+non-agentive-physical-object;['gis'];Gis yw maner a omwiska, desedhys dhe dast a unn oos yn unn tiredh.
+non-agentive-physical-object;['dowrgleudh'];Dowrhyns gwrys gans tus yw dowrgleudhyow.
+non-physical-collection;['hindoueth', 'hindou'];Hindoueth yw kryjyans dharmek ow talleth yn Eynda.
+non-physical-collection;['kryjyans', 'cryjyans'];Yma dew vagas chyf a gryjyans y'n bys ma, h.y.
+non-physical-collection;['taklen-neyja anaswonys'];Taklen-neyja anaswonys yw tra a omdhiskwedh na yll bos aswonys po displegys a-dhesempis.
+non-physical-collection;['undhuwieth'];Undhuwieth yw kryjyans yn unn duw hepken.
+non-physical-collection;['liesdhuwieth'];Liesdhuwieth a styr krysi yn lies duw.
+non-physical-collection;['islam', 'islamek', 'moslem', 'muslim', 'muslimyon', 'sarsyn', 'sarsyns', 'yslam'];Islām yw fay unndywyel ha'n nessa moyha kryjyans y'n nor.
+non-physical-collection;['yedhoweth', 'yedhewon', 'yedhow', 'yedhowyon'];Yedhoweth yw kryjyans Abrahamek ow talleth yn Ysrael milvlydhen po moy kyns an Oes Kemmyn.
+non-physical-collection;['kristoneth', 'kristonyon', 'kristyon', 'kristonedh'];Kristoneth yw kryjyans poesek y'n bys ma, gans moy ages diw vil vilvil a gryjygyon.
+phenomenon;['tredan', 'tredanegow'];Tredan yw teythi nebes manylyon materyel le es atomow a gaws yntredha nerthow ow tenna ha herdhya.
+phenomenon;['dinythians'];Dinythians yw gwruthyl po daswruthyl neppyth, herwydh usadow neppyth byw nowydh, kepar ha baban.
+phenomenon;['kewer'];Kewer yw chanjyow dedhyek po euryek y'n ayrgylgh.
+phenomenon;['trethans'];Trethans, po goans, yw an argerdh rag terri boos bras dhe vegyans.
+phenomenon;['metaboledh'];Metaboledh yw an dasoberyansow kymyk a wra sysni agan bewnans.
+physical-body;['steren lostek'];Steren lostek yw pel a rew ha men a waya yn efanvos.
+physical-body;['loor', 'loer'];An Loor yw an loor unnik ow kul resegva a-dro an Nor.
+physical-body;['dor', 'norvys', 'norves', 'an nor', 'bys', 'bys ma', 'dorvys', 'nor'];An Nor yw an planet y'n system howlek yn le may fyw tus.
+physical-body;['meurth', '♂'];Rag styryow erel, gwelewgh Meurth .Meurth yw an peswera planet y'gan system howlek ha'n tressa lyha planet wosa Plouto ha Mergher.
+physical-body;['ceres'];Ceres yw planet còr yn system howlak ny.
+physical-body;['merher', 'mergher', 'vergher'];Rag styryow erel, gwelewgh Mergher.Merher yw an kynsa planet y'gan system howlek.
+physical-object;['delow an frankedh'];Delow an Frankedh yw delow yn Evrek Nowydh, Statys Unys.
+physical-object;['tren'];Tren yw kevres junya kertow kledhrenn a rakherdh war hyns dhe dreusperthi karg po pobel.
+physical-object;['jynn-ethenn hyns-horn'];Jynn hyns-horn yw lokomotyv-ethenn hyns-horn a dhineyth y nell gans jynn-ethenn.
+physical-object;['tabour'];Tabour yw daffar ilow yw gwariys gans diwla dre dhevnydhya gwelen dabour.
+physical-object;['diod'];Diod yw devis elekronieth a as fros tredan dhe frosa war-rag hepken. ny yll gorthtreylya.
+physical-object;['tour'];Tour yw eghen a gesweyth. hirra ages efan yw.
+physical-object;['pons golden gate'];Pons Golden Gate yw pons yntra San Francisco ha Konteth Marin, Kaliforni, Statys Unys.
+physical-object;['y fan'];Y Fan yw tre yn Caerffili, Kembra..
+physical-object;['pons'];Pons yw kesweyth rag tremena spas ygor po aswa.
+physical-object;['louvre'];An Louvre yw gwithi yn Paris, Pow Frynk.
+physical-object;['gwariell'];Gwariell yw tra rag gwari ganso.
+physical-object;['kamera lucida', 'camera lucida', 'kamera lusida'];Kamera lusida yw devis optykel hag yw devnydhys avel gweres delinyans gans lymnoryon.
+physical-object;['jynn-rolya ethen'];Jynn-rolya ethen yw egehn a jynn-rolya - eghen a jynnweyth drehevyans poos eus devnydhyes dhe levenhe arenebow avel fordhow po hensi-tira - eus powerys gans jynn-ethen.
+physical-object;['arge ughel aswan'];An Arge Ughel Aswan yw arge war an avon Nil, ogas dhe Aswan, Egyp.
+political-geographic-object;['roumani', 'romani', 'romanya'];Roumani yw gwlas yn Europa.
+political-geographic-object;['yougoslavi'];Yougoslavi o gwlas yn deghow Europa a-dhia 1918 bys yn 1992.
+political-geographic-object;['orlando, florida', 'orlando'];Orlando yw sita yn Konteth Orange, Florida, Statys Unys.
+political-geographic-object;['florens'];Florens yw cita en Italy, en radnvro Toscana.
+political-geographic-object;['kyoto'];Kyoto yw an vrassa sita yn Nihon.
+political-geographic-object;['kaunas'];Kaunas yw sita yn Lithouani.
+political-geographic-object;['lyon'];Lyon yw pennsita an rannvro Rhône-Alpes yn Pow Frynk yn le metyans an avenow Ros ha Saône.
+political-geographic-object;['nanjing'];Nanjing yw cita yn China.
+political-geographic-object;['delhi'];Delhi yw an vrassa sita yn Eynda.
+political-geographic-object;['sioux city, iowa', 'sioux city'];Sioux City yw sita yn Iowa, Statys Unys.
+political-geographic-object;['edirne'];Edirne yw cita yn Turki.
+political-geographic-object;['cincinnati, ohio', 'cincinnati'];Cincinnati yw sita yn Ohio, Statys Unys.
+political-geographic-object;['cita ho chi minh', 'sita an ho chi minh'];Cita Ho Chi Minh yw brassa cita Vietnam.
+political-geographic-object;['lund'];Lund yw sita yn Swedherwyk.
+political-geographic-object;['los angeles', 'los angeles, kaliforni'];Los Angeles yw an brassa sita yn Kaliforni, Statys Unys.
+political-geographic-object;['pittsburgh, pennsylvani', 'pittsburgh'];Pittsburgh yw sita yn Pennsylvani, Statys Unys.
+political-geographic-object;['brighton'];Brighton yw cita trethvor yn Sussex Ost, Pow Sows.
+political-geographic-object;['sen pederburg'];Sen Pederburg yw sita vras yn Russi.
+political-geographic-object;['leiden'];Leiden yw sita yn Iseldiryow.
+political-geographic-object;['mekka', 'mecca'];Mekka yw cita yn Arabi Saoudek.
+political-geographic-object;['korea gledh'];Korea Gledh yw gwlas yn Asi Est.
+political-geographic-object;['norgagh', 'kongeriket noreg', 'kongeriket norge', 'noreg', 'norge'];Norgagh yw ruwvaneth yn kledhbarth Europa yntra Swedherwyk ha'n Mor Norgaghek war an konna-tir skandinavek.
+political-geographic-object;['iseldiryow'];Iseldiryow yw rywvaneth werinel yn howlsedhes Europa, ynter Almayn, Pow Belg ha'n Mor Kledh.
+political-geographic-object;['lesotho'];Lesotho yw gwlas yn Afrika Soth.
+political-geographic-object;['nihon', 'japan', 'japon'];Nihon po Japan yw gwlaskor werinel hag ynysek yn Asi Est.
+political-geographic-object;['monako', 'monaco'];Prynseth Monako yw sita-stat yn deghow Europa.
+political-geographic-object;['samoa'];Samoa yw gwlas ynysek y'n Keynvor Hebask.
+political-geographic-object;['centrafrika', 'sentrafrika'];Centrafrika yw gwlas yn Africa Gres.
+political-geographic-object;['jibouti'];Jibouti yw gwlas yn Afrika Est.
+political-geographic-object;['malaysi'];Malaysi yw gwlas yn Asi Soth-Est.
+political-geographic-object;['namibi'];Namibi yw repoblek anserghek y'n howlsedhes a dheghowbarth Afrika war vorrep an Keynvor Iwerydh.
+political-geographic-object;['antiga ha barbuda', 'antigua ha barbuda'];Antiga ha Barbuda yw gwlas ynysek yn Mor Karib.
+political-geographic-object;['moritani'];Moritani yw gwlas yn Afrika Gledh.
+political-geographic-object;['belisa', 'belize'];Belisa yw gwlas yn Amerika Gres.
+political-geographic-object;['gyni ekwadoriel'];Rag styryow erel, gwelewgh Gyni.
+political-geographic-object;['sen kitts ha nevis'];Sen Kitts ha Nevis yw gwlas ynysek yn Mor Karib.
+political-geographic-object;['komorys', 'komoros'];Komorys yw gwlas ynysek yn Afrika Est.
+political-geographic-object;['dominika'];Yn sodhogel Kemeneth Dominika, Dominika yw gwlas ynysek yn Mor Karib.
+political-geographic-object;['sen lusia'];Sen Lusia yw gwlas ynysek yn Mor Karib.
+political-geographic-object;['berkshire'];Berkshire yw konteth yn Soth Est Pow Sows.
+political-geographic-object;['pow sows', 'sowson'];Pow Sows yw unn a vroyow an Ruwvaneth Unys, war enys Breten Veur.
+political-geographic-object;['wordhen gledh', 'iwerdhon gledh', 'gogledh iwerdhon', 'kledh-barth iwerdhon', 'kledhbarth iwerdhon', 'kledhbarth wordhen', 'kledhbarth wordhon', 'wordhon gledh'];Pow a'n Rywvaneth Unys yn Ynys Wordhen yw Wordhen Gledh po Iwerdhon Gledh.
+political-geographic-object;['swistir', 'ch'];Swistir yw pow yn howlsedhes Europa.
+political-geographic-object;['pennternasedh unys arabek'];An Pennternasedh Unys Arabek yw gwlas yn Asi West.
+political-geographic-object;['urss', 'ubss'];An Unyans a Repoblegow Socyalydh Sovyetek o a-dhia 1922 bys 1991.
+political-geographic-object;['polynesi frynkek', 'polynesi frenkek'];Polynesi Frynkek yw collectivité d'outre-mer y'n Keynvor Hebask.
+political-geographic-object;['frankfurt'];Frankfurt am Main yw cita veur in Almayn gres.
+political-geographic-object;['lushaborg', 'luksembourg'];Luksembourg yw dugeth anserghek byghan yn Howlsedhes Europa.
+political-geographic-object;['kernow', 'cornwall'];Kernow yw kenedhel, ranvro ha dugeth y'n soth west a Vreten Veur y'n Ruwvaneth Unys.
+political-geographic-object;['marokk'];Marokk yw gwlas yn Afrika.
+political-geographic-object;['ruwvaneth unys', 'rywvaneth unys', 'breten veur', 'ruwvaneth unys breten veur hag iwerdhon gledh', 'ruwvaneth unys breten veur ha wordhon gledh', 'an rywvaneth unys', 'gwlascor unyes', 'gwlaskor unys', 'rywvaneth unys a vreten veur hag iwerdhon gledh'];Stat yn Europa yw an Ruwvaneth Unys.
+political-geographic-object;['spayn'];Spayn yw rywvaneth werinel yn Howlsedhes Europa, yntra Pow Frynk ha Portyngal war gonna-tir Iberi.
+political-geographic-object;['arabi saoudek', 'arabi saouditek'];Arabi Saoudek yw gwlas yn Asi West.
+political-geographic-object;['chad'];Chad yw gwlas yn Afrika Gres.
+political-geographic-object;['pow tajik', 'tajikistan'];Pow Tajik yw gwlas yn Asi Gres.
+political-geographic-object;['ouganda', 'uganda'];Ouganda yw gwlas yn Afrika Est.
+political-geographic-object;['belarussi', 'belarous', 'belarus'];Belarussi yw stat yn Howldrehevel Europa, tir a-dro dhedhi orth pub tu.
+political-geographic-object;['malawi'];Malawi yw gwlas yn Afrika Soth.
+political-geographic-object;['zimbabwe', 'simbabwe'];Zimbabwe ew gwlas yn dehow-barth Africa.
+political-geographic-object;['azerbayjan', 'aserbayjan'];Azerbayjan yw gwlas yn Europa a-hys an Mor Kaspian.
+political-geographic-object;['pow kyrgys', 'kyrgysstan', 'kyrgyzstan'];Pow Kyrgys yw gwlas yn Asi Gres.
+political-geographic-object;['pow ousbek', 'ousbekistan', 'ouzbekistan', 'uzbekistan'];Pow Ousbek yw gwlas yn Asi Gres.
+political-geographic-object;['mali'];Mali yw gwlas yn Afrika West.
+political-geographic-object;['pow kazagh', 'pow kasagh', 'kasaghstan', 'kazakhstan'];Pow Kazagh yw gwlas yn Asi Gres hag Europa.
+political-geographic-object;['mongoli'];Mongoli yw gwlas yn Asi Est.
+political-geographic-object;['liverpool'];Lyverpoul yw sita yn Merseyside, Pow Sows.
+political-geographic-object;['leicestershire', 'konteth karlir'];Konteth Karlir yw konteth yn Pow Sows.
+political-geographic-object;['tianjin'];Tianjin yw cita yn China.
+political-geographic-object;['veracruz'];Veracruz yw stat yn Meksiko.
+political-geographic-object;['jersi nowydh', 'new jersey'];Jersi Nowydh yw stat yn Statys Unys Amerika ryb an Keynvor Iwerydh.
+political-geographic-object;['illinois'];Illinois yw stat yn Statys Unys Amerika.
+political-geographic-object;['minnesota'];Minnesota yw stat yn Statys Unys Amerika.
+political-geographic-object;['missouri'];Missouri yw stat y'n kres a Statys Unys Amerika.
+political-geographic-object;['michigan'];Michigan yw stat yn Statys Unys Amerika.
+political-geographic-object;['nebraska'];Nebraska yw stat yn Statys Unys Amerika.
+political-geographic-object;['pow belg'];An Ruwvaneth Belgek yw stat yn howlsedhes Europa, ynter an Iseldiryow, Almayn, Luksembourg ha Pow Frynk.
+political-geographic-object;['pow swati', 'swaziland'];Pow Swati yw rywvaneth yn Afrika Soth.
+political-geographic-object;['tonga'];Tonga yw gwlas ynysek y'n Keynvor Hebask.
+political-geographic-object;['pakistan'];Pakistan yw repoblek meur yn Asi Soth.
+political-geographic-object;['bangladesh'];Bangladesh yw repoblek yn Asi Soth.
+political-geographic-object;['afghanistan', 'afganistan'];Afghanistan yw gwlas yn Asi Kres yntra Pakistan, Iran, Turkmenistan, Uzbekistan, Tajikistan ha China.
+political-geographic-object;['umbri', 'umbria'];Umbri yw rannvro yn Itali.
+political-geographic-object;['abruzzo'];Abruzzo yw rannvro yn Itali.
+political-geographic-object;['estrych', 'awstri', 'awstria', 'estrich', 'ostri', 'owstri'];Estrych yw pow yn Cres Ewrop.
+political-geographic-object;['pow lao', 'laos'];Pow Lao yw gwlas yn Asi Soth-Est.
+political-geographic-object;['byrmani', 'myanmar'];Byrmani yw gwlas yn Asi Soth-Est.
+political-geographic-object;['kamboji', 'kambodi'];Kamboji yw gwlas yn Asi Soth-Est.
+political-geographic-object;['ostrali'];Ostrali yw gwlas veur yn Ostralasi ow kul brastir hy honan.
+political-geographic-object;['connecticut'];Connecticut yw stat yn Statys Unys Amerika.
+political-geographic-object;['tirol'];Tirol yw stat yn Estrych.
+political-geographic-object;['conakry'];Conakry yw pencyta Gyni.
+political-geographic-object;['göteborg'];Göteborg yw sita yn Swedherwyk.
+political-geographic-object;['bhoutan'];Bhoutan yw gwlas yn Asi Soth.
+political-geographic-object;['brunswick nowydh'];Brunswick Nowydh yw pow yn Kanada.
+political-geographic-object;['kolombi bredennek'];Kolombi Bredennek yw pow yn Kanada.
+political-geographic-object;['toscana'];Toscana yw rannvro yn Itali.
+political-geographic-object;['friuli-venezia giulia', 'frioul'];Friuli-Venezia Giulia yw rannvro yn Itali.
+political-geographic-object;['apuli'];Apuli yw rannvro yn Itali.
+political-geographic-object;['lombardi'];Lombardi yw rannvro yn Itali.
+political-geographic-object;['emilia-romagna'];Emilia-Romagna yw rannvro yn Itali.
+political-geographic-object;['trentino-alto adige'];Trentino-Alto Adige yw rannvro yn Itali.
+political-geographic-object;['veneto'];Veneto yw rannvro yn Itali.
+political-geographic-object;['kataloni', 'generalitat de catalunya'];Kataloni yw kemmynieth omrewlys Spayn gans studh avel kemmynieth istorek.
+political-geographic-object;['basilicata'];Basilicata yw rannvro yn Itali.
+political-geographic-object;['molise'];Molise yw rannvro yn Itali.
+political-geographic-object;['apartheid'];Apartheid o system diberthyans herwydh hil yn Afrika Soth, ordenys gans governansow Parti Kenedhlek, neb a rewlya an pow a 1948 bys dhe 1994.
+political-geographic-object;['pow turkmen', 'turkmenistan'];Pow Turkmen yw gwlas yn Asi Gres.
+political-geographic-object;['pow grouzi', 'pow grousi'];Pow Grouzi yw gwlas yn Europa hag Asi ryb an menydhyow Caucasus ha'n Mor Du.
+political-geographic-object;['rwanda'];Rwanda yw gwlas yn Afrika Est.
+political-geographic-object;['zambi', 'sambi', 'zamby'];Sambi yw gwlas yn Afrika Soth.
+political-geographic-object;['repoblek werinel kongo'];An Repoblek Werinel Kongo yw gwlas yn Afrika Gres.
+political-geographic-object;['hondouras', 'honduras'];An Repoblek Hondouras yw gwlas yn Amerika Gres.
+political-geographic-object;['gwatemala', 'guatemala'];An Repoblek Gwatemala yw gwlas yn Amerika Gres.
+political-geographic-object;['kosta rika', 'crc', 'costa rica'];An Repoblek Kosta Rika yw gwlas yn Amerika Gres.
+political-geographic-object;['hungari'];Hungari yw repoblek yn Kres Europa.
+political-geographic-object;['poloni'];Poloni yw stat yn Kres Europa.
+political-geographic-object;['burundi'];Burundi yw gwlas yn Afrika Est.
+political-geographic-object;['tanzania', 'tansania'];Tansania yw gwlas yn Afrika Est.
+political-geographic-object;['gyni'];Rag styryow erel, gwelewgh Gyni.
+political-geographic-object;['somali'];Somali yw gwlas yn Afrika Est.
+political-geographic-object;['vietnam'];Vietnam yw gwlas yn Asi Soth-Est.
+political-geographic-object;['libi', 'lybi'];Libi yw gwlas yn Kledhbarth Afrika.
+political-geographic-object;['almayn', 'jermany'];Almayn yw repoblek kesunys yn Howlsedhes Europa.
+political-geographic-object;['soudan', 'sudan'];Soudan yw gwlas yn Afrika Gledh.
+political-geographic-object;['ejyp', 'ejip'];Ejyp yw stat yn Kledhbarth Afrika, ynter Ysrael ha Konna Gasa y'n Est, Lybi y'n West, ha Soudan y'n Soth.
+political-geographic-object;['gwayana'];Gwayana yw gwlas yn Amerika Dhehow.
+political-geographic-object;['surinam'];An Repoblek Surinam yw gwlas yn Amerika Dheghow.
+political-geographic-object;['veneswela'];An Repoblek Bolivarek Veneswela yw gwlas yn Deghow Amerika.
+political-geographic-object;['aljeri'];Aljeri yw stat yn Kledhbarth Afrika.
+political-geographic-object;['eynda'];Eynda yw repoblek meur yn Asi Soth.
+political-geographic-object;['itali', 'italy'];An Repoblek Itali yw stat yn deghow Europa.
+political-geographic-object;['chile'];An Repoblek Chile yw gwlas yn Amerika Dheghow.
+political-geographic-object;['paragway', 'paraguay'];An Repoblek Paragway yw gwlas yn Deghow Amerika.
+political-geographic-object;['botswana'];Botswana yw gwlas yn Afrika Soth.
+political-geographic-object;['mosambik', 'mozambik'];Mosambik yw gwlas yn Afrika Soth.
+political-geographic-object;['indonesi'];An Repoblek Indonesi yw gwlas yn Asi Soth-Est.
+political-geographic-object;['pow grek', 'pow grew'];An Repoblek Grek yw stat yn deghow Europa.
+political-geographic-object;['ukrayn', 'ukren', 'україна'];Ukrayn yw gwlas vras yn Europa est.
+political-geographic-object;['meksiko', 'veksiko'];Meksiko yw repoblek yn Amerika Gledh, ynter an Statys Unys ha Belisa ha Gwatemala.
+political-geographic-object;['armeni'];Armeni yw gwlas yn Europa.
+political-geographic-object;['irak'];Repoblek Irak yw stat yn Mesopotami, yntra Koweyt, Arabi Saoudek, Jordan, Syri, Turki hag Iran.
+political-geographic-object;['korea dhyhow', 'korea deghow', 'korea dheghow'];Korea Dhyhow po Repoblek Korea yw gwlas yn Howldrehevel Asi orth an Konna-tir Koreek.
+political-geographic-object;['repoblek dhominikanek'];An Repoblek Dhominikanek yw repoblek yn Mor Karib.
+political-geographic-object;['gambi'];Gambi yw gwlas yn Afrika West.
+political-geographic-object;['ghana'];Ghana yw gwlas yn Afrika West.
+political-geographic-object;['nijeri'];An Repoblek Kesunys a Nijeri yw gwlas yn Afrika West ha huni an moyha poblys yn Afrika oll.
+political-geographic-object;["côte d'ivoire"];Côte d'Ivoire yw gwlas yn Afrika West.
+political-geographic-object;['pow nijer', 'níger'];Pow Nijer yw gwlas yn Afrika West.
+political-geographic-object;['gabon'];Gabon yw gwlas yn Afrika Gres.
+political-geographic-object;['repoblek kongo', 'repoblek congo'];An Repoblek Kongo yw gwlas yn Afrika Gres.
+political-geographic-object;['kameroun'];Kameroun yw gwlas yn Afrika Gres.
+political-geographic-object;['gyni-bissaw', 'gyni-bissau'];Rag styryow erel, gwelewgh Gyni.
+political-geographic-object;['senegal'];Senegal yw gwlas yn Afrika West.
+political-geographic-object;['pow frynk', 'pow frenk', 'frynk'];Pow Frynk yw repoblek yn howlsedhes Europa.
+political-geographic-object;['pow ekwadorel', 'ec', 'ecu'];An Repoblek Ekwadorel yw gwlas yn Deghow Amerika.
+political-geographic-object;['iwerdhon', 'repoblek iwerdhon', 'repoblek wordhen', 'wordhen', 'repoblek wordhon', 'republyk ywerdhon', 'enys iwerdhon', 'enys wordhen', 'enys wordhon', 'wordhon', 'ynys iwerdhon', 'ynys wordhen', 'ynys wordhon', 'ywerdhon'];Wordhen po Iwerdhon yw hanow ynys veur yn Europa.
+political-geographic-object;['iwerdhon', 'repoblek iwerdhon', 'repoblek wordhen', 'wordhen', 'repoblek wordhon', 'republyk ywerdhon', 'enys iwerdhon', 'enys wordhen', 'enys wordhon', 'wordhon', 'ynys iwerdhon', 'ynys wordhen', 'ynys wordhon', 'ywerdhon'];Repoblek Wordhen po Repoblek Iwerdhon yw stat yn deghow enys Wordhen yn kledhbarth Europa.
+political-geographic-object;['madagaskar'];Madagaskar yw gwlas ynysek y'n Keynvor Eyndek.
+political-geographic-object;['maldivys'];An Repoblek Maldivys yw gwlas ynysek yn Asi Soth.
+political-geographic-object;['el salvador'];An Repoblek El Salvador yw gwlas yn Amerika Gres.
+political-geographic-object;['filipinys'];An Filipinys yw gwlas yn Asi Soth-Est.
+political-geographic-object;['seychellys'];Seychellys yw gwlas ynsek yn Afrika Est.
+political-geographic-object;['swedherwyk', 'sweden'];Swedherwyk yw ruwvaneth yn kledhbarth Europa yntra Norgagh ha Pow Finn war an konna-tir skandinavek.
+political-geographic-object;['penncita'];Penncita yw cita neb gwlas, stat, po ranndir may ma selys herwydh usadow governans.
+political-geographic-object;['puerto rico'];Puerto Rico yw ynysek y'n Mor Karib.
+political-geographic-object;['liechtenstein'];Prynseth Liechtenstein yw stat yn kres Europa ynter Swistir hag Awstri.
+political-geographic-object;['andorra'];Prynseth Andorra yw stat pur vyghan yn deghow Europa.
+political-geographic-object;['tennessi', 'tennessee'];Tennessi yw stat yn Statys Unys Amerika.
+political-geographic-object;['kentucky'];Kentucky yw stat yn Statys Unys Amerika.
+political-geographic-object;['kansas'];Kansas yw stat yn Statys Unys Amerika.
+political-geographic-object;['vermont'];Vermont yw stat y'n vorlewen a Statys Unys Amerika ynter an Menydhyow Appalachian ha Lynn Champlain.
+political-geographic-object;['massachusetts'];Massachusetts yw stat yn Statys Unys Amerika.
+political-geographic-object;['ynys rhode', 'rhode island'];Ynys Rhode yw stat yn Statys Unys Amerika.
+political-geographic-object;['dakota dheghow'];Dakota Dheghow yw stat yn Statys Unys Amerika.
+political-geographic-object;['niedersachsen'];Niedersachsen yw stat yn Almayn.
+political-geographic-object;['alaska'];Alaska yw stat yn Statys Unys Amerika.
+political-geographic-object;['montana'];Montana yw stat yn Statys Unys Amerika.
+political-geographic-object;['oregon'];Oregon yw stat yn Statys Unys Amerika.
+political-geographic-object;['louisiana'];Louisiana yw stat yn Statys Unys Amerika.
+political-geographic-object;['soth ostrali'];Soth Ostrali yw pow Ostrali yn darn dheghow kres an wlaskor, war hys an Keynvor Deghow.
+political-geographic-object;['oklahoma'];Oklahoma yw stat yn Statys Unys Amerika.
+political-geographic-object;['arkansas'];Arkansas yw stat yn Statys Unys Amerika.
+political-geographic-object;['florida'];Florida yw stat yn Statys Unys Amerika.
+political-geographic-object;['jeorji', 'geórgia'];Jeorji yw stat yn deghow-barth Statys Unys Amerika.
+political-geographic-object;['karolina gledh'];Karolina Gledh yw stat yn Statys Unys Amerika.
+political-geographic-object;['meksiko nowydh'];Meksiko Nowydh yw stat yn Statys Unys Amerika.
+political-geographic-object;['arisona', 'arizona'];Arisona yw stat yn Statys Unys Amerika.
+political-geographic-object;['mississippi'];Mississippi yw stat yn Statys Unys Amerika.
+political-geographic-object;['karolina dheghow'];Karolina Dheghow yw stat yn Statys Unys Amerika.
+political-geographic-object;['virjynni', 'vyrjini', 'vyrjynia', 'vyrjynni'];Vyrjynia yw stat yn Statys Unys Amerika.
+political-geographic-object;['idaho'];Idaho yw stat yn Statys Unys Amerika.
+political-geographic-object;['alabama'];Alabama yw stat yn Statys Unys Amerika.
+political-geographic-object;['hawaii', 'hawaiʻi'];Hawaii yw stat yn Statys Unys Amerika.
+political-geographic-object;['nevada'];Nevada yw stat y'n howlsedhes a Statys Unys Amerika.
+political-geographic-object;['kaliforni'];Kaliforni yw stat yn Statys Unys Amerika.
+political-geographic-object;['wyoming'];Wyoming yw stat yn Statys Unys Amerika.
+political-geographic-object;['utah'];Utah yw stat yn Statys Unys Amerika.
+political-geographic-object;['kolorado', 'colorado'];Kolorado yw stat yn Statys Unys Amerika.
+political-geographic-object;['dakota gledh'];Dakota Gledh yw stat yn Statys Unys Amerika.
+political-geographic-object;['sheffield'];Sheffield yw cita ha burjestra trevek yn Konteth Evrek Soth, Pow Sows.
+political-geographic-object;['oman'];Oman yw gwlas yn Asi West.
+political-geographic-object;['yukon'];Yukon yw tiredh yn Kanada.
+political-geographic-object;['samoa amerikan'];Samoa Amerikan yw ynysek y'n Keynvor Hebask.
+political-geographic-object;['lincolnshire'];Lincolnshire yw konteth sowsnek.
+political-geographic-object;['damask', 'dimashq'];Damask yw an vrassa sita ha pennsita Syri.
+political-geographic-object;['lazio'];Lazio yw rannvro yn Itali.
+political-geographic-object;['koweyt'];Koweyt yw gwlas yn Asi West.
+political-geographic-object;['jordan'];Jordan yw gwlas yn Asi West.
+political-geographic-object;['lebnon', 'lebanon'];Lebnon yw repoblek yn Asi West, yntra Israel ha Surri.
+political-geographic-object;['cita vatikan', 'cita an vatikan', 'sita an vatikan'];Cita an Vatikan yw cita-stat yn Europa.
+political-geographic-object;['fiji'];Fiji yw gwlas ynysek y'n Keynvor Hebask.
+political-geographic-object;['amsterdam'];Amsterdam yw penncita Iseldiryow.
+political-geographic-object;['bristol'];Bristol yw sita boesek yn Breten Veur Soth-West.
+political-geographic-object;['pennrynn gwyrdh'];Pennrynn Gwyrdh yw gwlas yn Afrika West.
+political-geographic-object;["sen vinsent ha'n ynysow grenadinek"];Sen Vinsent ha'n Ynysow Grenadinek yw gwlas ynysek yn Mor Karib.
+political-geographic-object;['bahreyn'];Bahreyn yw gwlas ynysek yn Gammas Persek.
+political-geographic-object;['ynys an pryns edward', 'ynys an prins edward'];Ynys an Pryns Edward yw pow yn Kanada.
+political-geographic-object;['vanuatu'];Vanuatu yw gwlas ynysek y'n Keynvor Hebask.
+political-geographic-object;['kiribati'];Kiribati yw gwlas ynysek y'n Keynvor Hebask.
+political-geographic-object;['trynses ha tobago'];Repoblek Trynses ha Tobago yw gwlas ynysek yn Mor Karib.
+political-geographic-object;['island', 'rewenys', 'islond', 'repoblek island'];Island, henwys ynwedh Rewenys po Repoblek Island yw pow enysek europek y’n Keynvor Atlantek Kledh, hag yw prederys dhe vos onan a’n Powyow Nordek.
+political-geographic-object;['grenayd', 'grenada'];Grenayd yw gwlas ynysek yn Mor Karib.
+political-geographic-object;['são paulo'];São Paulo yw an vrassa cita yn Brasil.
+political-geographic-object;['lisboa', 'lisbon'];Lisboa yw penncita Portyngal.
+political-geographic-object;['dulyn', 'dublin', 'dulynn'];Dulyn yw an voyha sita yn Wordhon.
+political-geographic-object;['gaborone'];Gaborone yw pencyta Botswana.
+political-geographic-object;['sofia'];Sofia yw penncita Bulgari.
+political-geographic-object;['bogotá'];Bogotá yw an vrassa cita ha penncita Kolombi.
+political-geographic-object;['la habana', 'havana'];La Habana yw penncita Kuba ha'n brassa cita y'n wlas gans 2.1 milvil a drigoryon.
+political-geographic-object;['praha'];Praha yw penncita Pow Chek.
+political-geographic-object;['budapest'];Budapest yw pennsita Hungari.
+political-geographic-object;['jakarta'];Jakarta yw an vrassa cita ha penncita Indonesi.
+political-geographic-object;['baldak', 'bagdād'];Baldak yw an vrassa cita ha penncita Irak.
+political-geographic-object;['rom', 'romanyon'];Rom yw sita vras yn kres Itali.
+political-geographic-object;['oklahoma city, oklahoma', 'oklahoma city'];Oklahoma City yw an vrassa cita ha penncita Oklahoma, Statys Unys.
+political-geographic-object;['jerusalem'];Jerusalem yw an vrassa cita ha penncita Ysrael.
+political-geographic-object;['torino'];Torino yw sita vras yn Itali ha pennsita Piemonte.
+political-geographic-object;['berlin'];Berlin yw penncita Almayn.
+political-geographic-object;['nouakchott'];Nouakchott yw penncita Moritani yn Afrika.
+political-geographic-object;['beijing'];Beijing yw pennsita Repoblek an Werin China.
+political-geographic-object;['pow tay', 'pow thay'];Pow Tay yw gwlas yn Asi Soth-Est.
+political-geographic-object;['ethiopi'];Ethiopi yw gwlas yn Afrika Est.
+political-geographic-object;['moskva'];Moskva yw sita vras yn Russi.
+political-geographic-object;['benin'];Benin ew gwlas yn Africa West.
+political-geographic-object;['burkina faso'];Burkina Faso yw gwlas yn Afrika West.
+political-geographic-object;['ynysow bahama'];An Ynysow Bahama yw gwlas ynysek yn Keynvor Atlantek ogas dhe'n Statys Unys ha Kuba.
+political-geographic-object;['sen tommas ha pryns', 'são tomé ha príncipe'];Sen Tommas ha Pryns yw gwlas ynysek yn Afrika Gres.
+political-geographic-object;['ysrael', 'israel'];Ysrael yw stat yn Asi West orth arvor an Mor Kres.
+political-geographic-object;['chicago, illinois', 'chicago'];Chicago yw an vrassa sita yn Illinois, Statys Unys.
+political-geographic-object;['minneapolis, minnesota', 'minneapolis'];Minneapolis yw an vrassa sita yn Minnesota, Statys Unys.
+political-geographic-object;['memphis, tennessi', 'memphis'];Memphis yw an vrassa sita yn Tennessi, Statys Unys.
+political-geographic-object;['tripoli'];Tripoli yw pencyta Libi.
+political-geographic-object;['alban', 'scotlond'];Alban yw bro geltek yn Breten Veur ha synsys ynni an tir meur dhe gledh an or hag a ystynn ynter an avon Solway ha’n dre sowsnek Berwick, warbarth gans an ynysow Heledh, Orgh ha Shetlond.
+political-geographic-object;['manitoba'];Manitoba yw pow yn Kanada.
+political-geographic-object;['pow finn', 'fynndir'];Pow Finn yw stat yn Kledhbarth Europa, ryb an Mor Baltek ynter Skandinavi ha Russi.
+political-geographic-object;['atlanta, jeorji', 'atlanta'];Atlanta yw pennsita Jeorji, Statys Unys.
+political-geographic-object;['boston'];Boston yw an vrassa cita ha penncita Massachusetts, Statys Unys.
+political-geographic-object;['albany, evrek nowydh', 'albany'];Albany yw pennsita Evrek Nowydh, Statys Unys.
+political-geographic-object;['tórshavn'];Tórshavn yw pennsita Ynysow Faroe.
+political-geographic-object;['alban nowydh'];Alban Nowydh yw pow yn Kanada.
+political-geographic-object;['monrovia'];Monrovia yw pencyta Liberi.
+political-geographic-object;['luanda'];Luanda yw pencyta Angola.
+political-geographic-object;['wien'];Wien yw pennsita Estrych.
+political-geographic-object;['dhaka', 'dacka'];Dhaka yw an brassa cita ha penncita Bangladesh.
+political-geographic-object;['brusselas'];Brusselas yw pennsita Pow Belg, ha pennsita de facto Unyans Europek.
+political-geographic-object;['bujumbura'];Bujumbura yw pencyta Burundi.
+political-geographic-object;["n'djamena"];N'Djamena yw pencyta Chad.
+political-geographic-object;['santiago'];Santiago yw pennsita Chile yn kres-gogledh an wlas war Dhowr Seyn.
+political-geographic-object;['kopenhavn', 'kobenhavn', 'københavn'];Kopenhavn yw penncita køpenhavn
+political-geographic-object;['sita jibouti'];Sita Jibouti yw pencyta Jibouti.
+political-geographic-object;['loundres'];Loundres yw penncita Pow Sows ha'n Ruwvaneth Unys.
+political-geographic-object;['tallinn'];Tallinn yw penncita Estoni.
+political-geographic-object;['helsinki'];Helsinki yw penncita Pow Finn.
+political-geographic-object;['paris'];Paris yw pennsita Pow Frynk yn kres-gogledh an wlas war Dhowr Seyn.
+political-geographic-object;['accra'];Accra yw pencyta Gambi.
+political-geographic-object;['athína', 'athina'];Athína yw pencyta an Republyk Grek.
+political-geographic-object;['reykjavík'];Reykjavík yw penncita Island.
+political-geographic-object;['indianapolis, indiana', 'indianapolis'];Indianapolis yw an vrassa cita ha penncita Indiana, Statys Unys.
+political-geographic-object;['tehran', 'teherán'];Tehran yw an vrassa cita ha penncita Iran.
+political-geographic-object;['tokyo'];Tokyo yw an vrassa cita ha penncita Nihon.
+political-geographic-object;['nairobi'];Nairobi yw an vrassa cita ha penncita Kenya.
+political-geographic-object;['rīga', 'riga'];Rīga yw penncita Latvi.
+political-geographic-object;['vilnius'];Vilnius yw penncita Lithouani.
+political-geographic-object;['cita mexico', 'sita meksiko'];Cita Mexico yw an brassa cita ha penncita Mexico.
+political-geographic-object;['ulaanbaatar'];Penncita Mongoli yw Ulaanbaatar.
+political-geographic-object;['oslo'];Oslo yw pennsita Norgagh.
+political-geographic-object;['warszawa'];Warszawa yw pennsita Poloni.
+political-geographic-object;['seoul'];Seoul yw an vrassa cita ha penncita Korea Dhyhow.
+political-geographic-object;['madrid'];Madrid yw pencyta Spayn.
+political-geographic-object;['stockholm'];Stockholm yw penncita Swedherwyk.
+political-geographic-object;['bangkok'];Bangkok yw an vrassa cita ha penncita Pow Tay.
+political-geographic-object;['bangui'];Bangui yw pencyta Centrafrika.
+political-geographic-object;['santo domingo'];Santo Domingo de Guzmán yw penncita an Repoblek Dhominikanek.
+political-geographic-object;['antananarivo'];Antananarivo yw pencyta Madagaskar.
+political-geographic-object;['port of spain'];Port of Spain yw penncita Trynses ha Tobago.
+political-geographic-object;['salt lake city'];Salt Lake City yw an vrassa cita ha penncita Utah, Statys Unys.
+political-geographic-object;['kardydh', 'cardiff', 'caerdydd'];Kardydh yw pennsita Kembra, yn le 'ma Avon Tav owth omwaghe yn Mor Havren.
+political-geographic-object;['baku'];Baku yw penncita Azerbayjan.
+political-geographic-object;['minsk'];Minsk yw pennsita Belaroussi.
+political-geographic-object;['porto novo', 'porto-novo'];Porto Novo yw pencyta Benin.
+political-geographic-object;['brasília', 'brasilia'];Brasília yw pennsita Brasil.
+political-geographic-object;['yaoundé'];Yaoundé yw pencyta Kameroun.
+political-geographic-object;['ottawa'];Ottawa yw pennsita Ontario, Kanada.
+political-geographic-object;['zagreb'];Zagreb yw penncita Kroati.
+political-geographic-object;['cairo', 'el qâhira'];Cairo yw an brassa sita ha pennsita Ejyp.
+political-geographic-object;['libreville'];Libreville yw pencyta Gabon.
+political-geographic-object;['banjul'];Banjul yw pencyta Gambi.
+political-geographic-object;['bissau'];Bissau yw pencyta Gyni-Bissaw.
+political-geographic-object;['maseru'];Maseru yw pencyta Lesotho.
+political-geographic-object;['milano'];Milano yw sita vras yn Itali gledh ha pennsita Lombardi.
+political-geographic-object;['rabat'];Rabat yw pencyta Marokk.
+political-geographic-object;['wellington'];Wellington yw pennsita Mordir Nowydh war vorrep a-dheghowbarth an Ynys Gledh.
+political-geographic-object;['bern'];Bern yw penncita Swistir.
+political-geographic-object;['kinshasa'];Kinshasa yw an vrassa cita ha penncita Repoblek Werinel Kongo.
+political-geographic-object;['valparaiso'];Valparaiso yw sita yn Chile.
+political-geographic-object;['rio de janeiro'];Rio de Janeiro yw an nessa brassa cita yn Brasil wosa São Paulo.
+political-geographic-object;['sydney'];Sydney yw an vrassa cita y'n Ostrali.
+political-geographic-object;['istanbul'];Istanbul yw an vrassa cita yn Turki.
+political-geographic-object;['detroit, michigan'];Detroit yw an vrassa sita yn Michigan, Statys Unys.
+political-geographic-object;['st. louis, missouri', 'st. louis'];St.
+political-geographic-object;['evrek nowydh', 'evrek nowyth', 'evrok noweth', 'evrok nowydh'];Evrek Nowydh yw an vrassa sita y'n Statys Unys, desedhys le mayth omjun Dowr Hudson an Mor Iwerydh yn rann soth-est a Stat Evrek Nowydh.
+political-geographic-object;['karachi'];Karachi yw an vrassa cita yn Pakistan.
+political-geographic-object;['philadelphia', 'philadelphia, pennsylvani'];Philadelphia yw an vrassa sita yn Pennsylvani, Statys Unys.
+political-geographic-object;['tripoli'];Tripoli yw pencyta Libi.
+political-geographic-object;['brasil', 'brazil'];Brasil yw repoblek yn Amerika Dheghow.
+political-geographic-object;['kebek', 'pow kebek', 'quebec', 'québec'];Kebek yw pow yn Kanada gans poblans a-dro dhe 7.5 milyon triger.
+political-geographic-object;['toronto'];Toronto yw sita yn Ontario, Kanada.
+political-geographic-object;['venis', 'kaer wenez', 'venezia'];Kerwenes yw sita war ynysow yn morlogh aberow Brenta ha Piave.
+political-geographic-object;['piemonte'];Piemonte yw rannvro yn Itali.
+political-geographic-object;['pretoria'];Pretoria yw pennsita Afrika Dhyhow.
+political-geographic-object;['cape town'];Cape Town yw pennsita Afrika Dhyhow.
+political-geographic-object;['teksas', 'téxas'];Teksas yw stat yn Statys Unys Amerika.
+political-geographic-object;['phoenix'];Phoenix yw an brassa sita ha'n bennsita yn Arisona, Statys Unys.
+political-geographic-object;['denver, kolorado', 'denver'];Denver yw an vrassa cita ha penncita Kolorado, Statys Unys.
+quality;['hindoueth', 'hindou'];Hindoueth yw kryjyans dharmek ow talleth yn Eynda.
+quality;['kryjyans', 'cryjyans'];Yma dew vagas chyf a gryjyans y'n bys ma, h.y.
+quality;['undhuwieth'];Undhuwieth yw kryjyans yn unn duw hepken.
+quality;['liesdhuwieth'];Liesdhuwieth a styr krysi yn lies duw.
+quality;['islam', 'islamek', 'moslem', 'muslim', 'muslimyon', 'sarsyn', 'sarsyns', 'yslam'];Islām yw fay unndywyel ha'n nessa moyha kryjyans y'n nor.
+quality;['yedhoweth', 'yedhewon', 'yedhow', 'yedhowyon'];Yedhoweth yw kryjyans Abrahamek ow talleth yn Ysrael milvlydhen po moy kyns an Oes Kemmyn.
+quality;['kristoneth', 'kristonyon', 'kristyon', 'kristonedh'];Kristoneth yw kryjyans poesek y'n bys ma, gans moy ages diw vil vilvil a gryjygyon.
+region;['mona kemmyn', 'klass:mona kemmyn'];Mona kemmyn yw an unses a arghans usys gans tus pow po unyans rag prena ha gwertha gwara ha gonisyow..
+region;['niver kompleth'];Niver kompleth yw niver gans diw barth. parth wir ha parth dhismygel hag yw liesriv a i.
+region;['peuns sterling', 'peuns'];Pens Sterling yw an vona kemmyn bretennek.
+region;['bledhen wolow'];Bledhen wolow yw an pelder a viaj golow yn gwagva yn unn bledhen.
+region;['dydh', 'dedh', 'deth', 'dethyow'];Dydh yw unnsys prys ow turya 86,400 a eylennow, po 24 eur.
+relevant-part;['kneus'];Kneus yw kudhen tu a-ves a enevales.
+relevant-part;['bagas asteroydys'];An bagas asteroydys yw an hanow rag an bagas korfow karnek nevek byghan y'n system howlek ynter Meurth ha Yow.
+simple-collection;['ranneves', 'cytser'];Ranneves yw parth a'n pel nevek gans bagas ster a wra neb po skantlyn po linennans yn tybyans miroryon.
+simple-planned-collective;["chi kemmynyon a'n ruwvaneth unys"];Chi an Gemmynyon yw an isella chi reythyansva Ruwvaneth Unys, ha'n huni gallosekka.
+simple-planned-collective;['senedh an statys unys', 'senedh statys unys'];Senedh an Statys Unys yw chi ughella reythyansel an Statys Unys.
+situation;['plontyans', 'propagandă'];Plontyans yw furv a geskommunya dhe dharlesa kedhlow.
+situation;['korf lagha'];An korf lagha a genedhel yw eghenn arbennek a skrifenn laghel a wra derivas fatell dhegoedh dh'y governans oberi.
+situation;['doesedh', 'dosedh poblans', 'dosedh'];Dosedh poblans yw an niver a dus yn enep a vyns sertan.
+situation;['kewer'];Kewer yw chanjyow dedhyek po euryek y'n ayrgylgh.
+situation;['gwerhes', 'gwyrghes'];Gwyrghes yw person heb perthyans, hag yn arbennik benyn heb perthyans a'n gweythres reydhel.
+situation;['korf lagha an statys unys'];An Korf Lagha Statys Unys yw an lagha gorughel a'n SUA. Ev a dheskrif an maner dre an governans SUA a ober.
+social-relationship;['politegieth'];Politegieth yw an fordh may hwra dewisyow tus trigys war-barth.
+social-role;['mona kemmyn', 'klass:mona kemmyn'];Mona kemmyn yw an unses a arghans usys gans tus pow po unyans rag prena ha gwertha gwara ha gonisyow..
+socially-constructed-person;['henry ii a bow sows', 'henry ii'];Henry II a Bow Sows, henwys ynwedh Henry II Curtmantle a veu ynwedh Yurl Anjou, Yurl Maine, Duk Normandi, Duk Aquitaine, Duk Gaskoyn, Yurl Naoned, Arlodh Wordhen hag a'n jevo maystri war Gernow hag, orth termynyow dyffrans, war Gembra, Alban, Breten Vyghan ha Frynk howlsedhes.
+socially-constructed-person;['geoffrey chaucer'];Geoffrey Chaucer (c.
+socially-constructed-person;['henry vii a bow sows', 'henry vii'];Henry VII o Myghtern Pow Sows hag Arloedh Wordhon a-dhia 1485 bys termyn y vernans.
+socially-constructed-person;['hernán cortés'];Hernán Cortés o hwithrer ha Conquistador a-dhyworth Spayn.
+socially-constructed-person;['henry viii a bow sows', 'henry viii'];Henry VIII o myghtern Pow Sows, Wordhen, hag yn titel Pow Frynk.
+socially-constructed-person;['edward vi a bow sows', 'edward vi'];Edward VIves o Myghtern Pow Sows a-dhia 1547 bys termyn hy mernans yn 1553.
+socially-constructed-person;['jamys vi a alban', 'jamys i', 'jamys i a bow sows', 'jamys vi'];Charlys Jamys Stuart o myghtern Alban, Pow Sows hag Wordhon bys eur y vernans yn 1625.
+socially-constructed-person;['johann sebastian bach'];Johann Sebastian Bach o komposydh Almaynek hag ilewydh oos Baroque.
+socially-constructed-person;['george frideric handel'];George Frideric Handel o komposydh almaynek neb eth dhe driga yn Pow Sows avel den yowynk ha diwettha mos ha bos Bretennek yn sodhogel.
+socially-constructed-person;['johann wolfgang von goethe'];Johann Wolfgang von Goethe o skrifer ha politegiethor almaynek.
+socially-constructed-person;['ludwig van beethoven'];Ludwig van Beethoven veu komposydh, kevarwodher orkestra ha pianydh almaynek.
+socially-constructed-person;['victor hugo'];Victor Marie Hugo a veu prydydh, dramatydh, skrifer, politeger ha kaskergher rag gwiryow mabden a Frynk.
+socially-constructed-person;['frédéric chopin'];Skantlyn:Infobox WriterFryderyk Franciszek Chopin o komposydh Polonek ha pianydh virtuoso.
+socially-constructed-person;['richard wagner'];Wilhelm Richard Wagner o komposydh almaynek, lewydh gwariva, arethor, ha hembrenkyas orkestra Aswonnys yw ev dre vras rag y wariow kan.
+socially-constructed-person;['otto von bismarck'];Otto Eduard Leopold, Pennsevik a Bismarck, po Otto von Bismarck, o hembrenkyas Almayn a 1871 dhe 1890.
+socially-constructed-person;['johannes brahms', 'brahms'];Johannes Brahms o komposydh almaynek.
+socially-constructed-person;["edward vii a'n rywvaneth unys"];Edward VII o Myghtern a'n Rywvaneth Unys a-dhia 1901 bys termyn hy mernans yn 1910.
+socially-constructed-person;['jori v', 'george v', "jori v a'n rywvaneth unys"];Jori V o Myghtern a'n Rywvaneth Unys a-dhia 1910 bys termyn hy mernans yn 1936.
+socially-constructed-person;['mahatma gandhi', 'mohandas karamchand gandhi'];Mohandas Karamchand Gandhi a veu laghyas ha kenedhloger gorth-kolonegieth a Eynda, a wre devnydh a dhefens heb garowder rag ledya an kaskergh sowen rag anserghogeth Eynda dhyworth rewl gans an Ruvaneth Unys, a veu sewyes gans movyansow rag gwiryow civil ha frankedh dres an bys.
+socially-constructed-person;['marcel proust'];Valentin Louis Georges Eugène Marcel Proust o awtour, skrifer assayow ha arvreusyas Frynkek.
+socially-constructed-person;['winston churchill'];Syr Winston Leonard Spencer-Churchill, KG, OM, PC, FRS o pennvenyster Ruvaneth Unys a 1940 dhe 1945, hag arta a 1951 dhe 1955.
+socially-constructed-person;['adolf hitler'];Adolf Hitler o hembrenkyas Almayn Nazi, ha hembrenkyas an Parti Nazi.
+socially-constructed-person;['jawaharlal nehru'];Jawaharlal Nehru o ledyer a Eynda dre 17 bledhen a-dhesempis wosa 1947, pan wrug mos ha bos Eynda anserghek.
+socially-constructed-person;['edward viii', "edward viii a'n rywvaneth unys"];Edward VIII o Myghtern a'n Rywvaneth Unys a-dhia 20 Genver—11 Kevardhu 1936.
+socially-constructed-person;['jori vi', "jori vi a'n rywvaneth unys"];Jori VI o Myghtern a'n Rywvaneth Unys a-dhia 1936 bys termyn hy mernans yn 1952.
+socially-constructed-person;['humphrey bogart'];Humphrey DeForest Bogart o gwarier amerikan geryes da.
+socially-constructed-person;['mahomm', 'mohammed', 'muhammad'];Mahomm yw an diwettha ha moyha profoes a Islam.
+socially-constructed-person;['virgil'];Publius Virgilius Maro, aswonnys dhe redoryon Sowsnek avel Vergil, o bardh gerys-da y'n Emperoureth Romanek.
+socially-constructed-person;['fong', 'fungi'];Fongow yw bagas a organedhow y'n wlaskor Fungi.
+socially-constructed-person;['minerva'];Minerva yw dywes romanek, haval orth Athena yn-mysk an Rekys.
+socially-constructed-person;['merher', 'mergher'];Rag styryow erel, gwelewgh Mergher.Mergher yw dyw romanek a genwerth, hevelep ha Hermes yn-mysk an Rekys.
+socially-constructed-person;['james k. polk'];Name o Lewydh Statys Unys.
+socially-constructed-person;['zachary taylor'];Name o Lewydh Statys Unys.
+socially-constructed-person;['cristoforo colombo'];Cristoforo Colombo o gwikor Genoese hahwithrer.
+socially-constructed-person;['leonardo da vinci'];Vincent di Ser Piero da Vinci o godhonydh, kalkor, jynnweythor, dismygyor, lymner, gravyer, pennser, losonydh, korfonydh, ilewydh ha skrifer Italek.
+socially-constructed-person;['franklin pierce'];Name o Lewydh Statys Unys.
+socially-constructed-person;['william shakespeare', 'shakespeare'];William Shakespeare o bardh, dramatydh ha gwarier Sowsnek, aswonnys dre vras avel dramatydh meur y vri.
+socially-constructed-person;['james buchanan'];Name o Lewydh Statys Unys.
+socially-constructed-person;['rembrandt'];Rembrandt Harmenszoon van Rijn o lymner hag artydh iseldiryek a vri.
+socially-constructed-person;['abraham lincoln'];Abraham Lincoln o Lewydh Statys Unys.
+socially-constructed-person;['wolfgang amadeus mozart'];Joannes Chrysostomus Wolfgang Theopilus Mozart o komposydh a vri pur vras.
+socially-constructed-person;['andrew johnson'];Andrew Johnson o Lewydh Statys Unys.
+socially-constructed-person;['vincent van gogh'];Vincent Willem van Gogh o lymner Iseldiryek an movyans Post impressionism.
+socially-constructed-person;['pablo picasso', 'picasso'];Pablo Picasso, po Pablo Ruiz y Picasso, o lymner, gravyer, gwrier pryntys, priweythor, desiner gwariva, bardh ha dramatydh a spenas an rann vrassa a'y vewnans yn Pow Frynk.
+socially-constructed-person;['franz kafka'];Franz Kafka o romanser ha skrifor drollow kott Bohemek yeth almaynek, usi gwelys avel onan a benn-gnasow lien an 20ves kansvledhen.
+socially-constructed-person;['benito mussolini'];Benito Amilcare Andrea Mussolini o politeger, journalyas a hembrenkyas Parti Facistek Kenedhlek, ow rewlya Itali avel Pennmenyster a 1922 dhe 1943.
+socially-constructed-person;['ulysses s. grant', 'ulysses grant'];Ulysses S. Grant o Lewydh Statys Unys.
+socially-constructed-person;['elisabeth ii', "elisabeth ii a'n rywvaneth unys", 'elizabeth ii', "elizabeth ii a'n rywvaneth unys"];Elizabeth Alexandra Mary Windsor, genys 21 Ebryl 1926, a reyny avel an Vyghternes Elisabeth II a-ugh an Rywvaneth Unys a Vreten Veur ha Wordhon Gledh, Kanada, Ostrali, Mordir Nowydh, Jamayka, Barbados, an Ynysow Bahama, Grenayd, Papoua Gyni Nowydh, Ynysow Seleven, Touvalou, Sen Lusia, Sen Vinsent ha'n Ynysow Grenadinek, Antiga ha Barbuda, Belisa, ha Sen Kitts ha Nevis.
+socially-constructed-person;['rutherford b. hayes'];Rutherford Birchard Hayes o Lewydh Statys Unys.
+socially-constructed-person;['george washington'];George Washington o kensa Lywydh an Statys Unys.
+socially-constructed-person;['james garfield', 'garfield', 'james abram garfield'];James Abram Garfield o Lewydh Statys Unys.
+socially-constructed-person;['grover cleveland'];Stephen Grover Cleveland o Lewydh Statys Unys.
+socially-constructed-person;['benjamin harrison'];Benjamin Harrison o Lewydh Statys Unys.
+socially-constructed-person;['william mckinley'];William McKinley o Lewydh Statys Unys.
+socially-constructed-person;['theodore roosevelt'];Theodore "T.R." Roosevelt, Jr o Lewydh Statys Unys.
+socially-constructed-person;['william howard taft'];William Howard Taft o Lewydh Statys Unys.
+socially-constructed-person;['woodrow wilson'];Thomas Woodrow Wilson o Lewydh Statys Unys.
+socially-constructed-person;['warren g. harding'];Warren Gamaliel Harding o Lewydh Statys Unys.
+socially-constructed-person;['john adams'];John Adams o Lewydh Statys Unys.
+socially-constructed-person;['herbert hoover'];Herbert Clark Hoover o Lewydh Statys Unys.
+socially-constructed-person;['franklin d. roosevelt'];Franklin Delano Roosevelt o Lewydh Statys Unys.
+socially-constructed-person;['john f. kennedy'];John Fitzgerald Kennedy o Lewydh Statys Unys.
+socially-constructed-person;['lyndon b. johnson'];Lyndon Baines Johnson o Lewydh Statys Unys.
+socially-constructed-person;['gerald ford'];Gerald Rudolph "Jerry" Ford, Jr.
+socially-constructed-person;['jimmy carter'];James Earl "Jimmy" Carter Jr.
+socially-constructed-person;['thomas jefferson'];Thomas Jefferson o Lewydh Statys Unys.
+socially-constructed-person;['ronald reagan'];Ronald Wilson Reagan o 40ves Lywydh an Statys Unys.
+socially-constructed-person;['bill clinton'];William Jefferson Clinton o an 42a Lewydh Statys Unys.
+socially-constructed-person;['james madison'];Name o Lewydh Statys Unys.
+socially-constructed-person;['james monroe'];Name o Lewydh Statys Unys.
+socially-constructed-person;['john quincy adams'];Name o Lewydh Statys Unys.
+socially-constructed-person;['andrew jackson'];Name o Lewydh Statys Unys.
+socially-constructed-person;['martin van buren'];Name o Lewydh Statys Unys.
+socially-constructed-person;['william henry harrison'];Name o Lewydh Statys Unys.
+socially-constructed-person;['flogh'];Dhe vewioneth, flogh yw den yntra prys dinythyans ha kedhorieth.
+socially-constructed-person;['arthur gernow', 'myghtern arthur'];Arthur o hembrenkyas henhwedhlek an luyow brythonek erbynn an Sowson.
+socially-constructed-person;['bardh'];Bardh yw esel an Orsedh.
+socially-constructed-person;['kelt', 'keltyon'];An Geltyon o pobel trigys yn Europa gres, gogledh, ha west yn oesow koth.
+socially-constructed-person;['konteth delaware', 'konteth delaware, pennsylvani'];Konteth Delaware yw konteth yn Pennsylvani, Statys Unys Amerika.
+socially-constructed-person;['yehovah'];Yehovah yw hanow Dyw y'n kryjyans Yedhowek hag yn Kristoneth.
+socially-constructed-person;['pobel an statys unys', 'amerikan', 'amerikanes', 'pobel statys unys'];Pobel an Statys Unys yw tus dhyworth an Statys Unys.
+socially-constructed-person;['pobel alban'];Pobel Alban yw tus dhyworth Alban.
+socially-constructed-person;['sierra leon', 'sierra leone'];Sierra Leon yw gwlas yn Afrika West.
+socially-constructed-person;['pobel an statys unys', 'amerikan', 'amerikanes', 'pobel statys unys'];Pobel an Statys Unys yw tus dhyworth an Statys Unys.
+socially-constructed-person;['henrik ibsen'];Henrik Johan Ibsen o dramatydh norgaghek.
+socially-constructed-person;['yesu krist', 'yesu', 'yesu cryst'];Yesu, po Yesus, o pregowther yedhowek yn termyn an Emperoureth Romanek. ev yw person kres Kristoneth.
+socially-constructed-person;['leo tolstoy'];Skrifer a Russi a welir avel onan a'n gwella awtours y'n istori yw an yurl Lev Nikolayevich Tolstoy
+socially-constructed-person;['benyn', 'woman'];Benyn yw tevesiges venow.
+socially-constructed-person;['gour'];Gour yw tevesik gorow.
+socially-constructed-person;['dante alighieri'];Dante Alighieri, po Dante, o prydydh italek a Florens.
+socially-constructed-person;['dwight d. eisenhower', 'dwight david eisenhower'];Dwight David "Ike" Eisenhower o Lewydh Statys Unys.
+socially-constructed-person;['edward lear'];Edward Lear o artydh, lymner, awtour ha bardh sowsnek, hag yw aswonys lemmyn rag y flows liennek yn bardhonogow ha yeth plen ha'y limmerikow yn arbennik.
+socially-constructed-person;['mao zedong'];Mao Zedong, o domhweler kemynegorek Chinek, ha hembrenkyas Repoblek Werin China, a 1949 bys yn y vernans yn 1976.
+socially-constructed-person;['composydh', 'composyth', 'komposydh'];Composyth yu person a scryf ylow.
+socially-constructed-person;['chester a. arthur', 'arthur'];Chester Alan Arthur o Lewydh Statys Unys.
+socially-constructed-person;['john tyler'];Name o Lewydh Statys Unys.
+socially-constructed-person;['millard fillmore'];Name o Lewydh Statys Unys.
+socially-constructed-person;['calvin coolidge'];John Calvin Coolidge, Jr.
+socially-constructed-person;['harry s. truman'];Harry S. Truman o Lewydh Statys Unys.
+socially-constructed-person;['lewis caroll'];Charles Lutwidge Dodgson, 27 Genver 1832 – 14 Genver 1898, o aswonys yn hwella gans y hanow pluven, Lewis Carroll, o skifer, awgrymydh, lojygydh, decon Anglikan ha skeusennydh sowsnek.
+socially-constructed-person;['isaac newton'];Syr Isaac Newton o mathematgydh ha godhonydh sowsnek.
+socially-constructed-person;['charles darwin'];Charles Robert Darwin o bywonydh ha dororydh sowsnek, meurgerys rag y dybieth may hwra oll eghennow byw kevrenna hendasow gemmyn.
+socially-constructed-person;['gautama buddha', 'siddhartha gautama', 'siddhartha gawtama'];Gautama Buddha, o dyskador, a veu fondys orth y dhyski an kryjyans Bouddieth.
+socially-constructed-person;['karl marx'];Karl Heinrich Marx o filosofer, ekonomydh, socyologydh, istorior, jornalyas ha socyalydh domhwelus Almaynek.
+socially-constructed-person;['martin luther'];Martin Luther o pronter Almaynek, professor duwonieth ha den a vri y'n movyans Kristyon hwetegves kansvledhen, o aswonnys avel Dasfurvyans Protestant.
+socially-constructed-person;['mamm veur an dhuwow', 'mamm veur an dhywow'];An Vamm Veur, po Cybele, yw myghternes an dhywow yn mythologieth reka ha romanek diwedhes.
+socially-constructed-person;['homer'];Homer yw hanow hengovek skrifer an Iliad hag an Odyssey. dew vardhonek poesek dhe lyenn Greka koth.
+socially-constructed-person;['jamys vii ha ii', 'james vii', 'jamys ii', 'jamys ii a bow sows', 'jamys vii', 'jamys vii a alban', 'jamys vii hag ii'];Jamys Stuart a reynya avel an myghtern Jamys VII a Alban, I a Bow Sows hag yn titel a Wordhon ha Pow Frynk a-dhia 1685.
+socially-constructed-person;['genghis khan'];Genghis Khan,
+socially-constructed-person;['albert einstein'];Albert Einstein o fisegydh tybiethel genys yn Almayn.
+socially-constructed-person;['elisabeth i a bow sows', 'elisabeth i', 'elizabeth i', 'elizabeth i a bow sows'];Elisabeth Ia o Myghternes a Bow Sows a-dhia 1558 bys termyn hy mernans yn 1603.
+socially-constructed-person;['anton chekhov'];Anton Pavlovich Chekhov o skrifyas russek a hwedhlow ber ha gwariow.
+socially-constructed-person;['vladimir lenin'];Vladimir Ilyich Ulyanov o domhweler kemynegorek Russek, politeger ha tybiether.
+socially-constructed-person;['fyodor dostoevsky'];Fyodor Mikhailovich Dostoevsky o skrifyas russek.
+socially-constructed-person;['joseph stalin'];Joseph Vissaionovich Stalin, o hembrenkyas URSS a vernans Lenin yn 1922 bys yn mernans y honan yn 1952.
+socially-constructed-person;['miguel de cervantes'];Miguel de Cervantes Saavedra o skrifyas spaynek.
+socially-constructed-person;['appolyn', 'apollo'];Appolyn yw dyw greka ha romanek a ilow, a vedhygieth, ha menowgh a'n howl.
+socially-constructed-person;['michael faraday'];Michael Faraday o godhonydh sowsnek, poesek yn studhyans an dennvenieth-dredan ha kymygieth-dredan.
+socially-constructed-person;['neil armstrong'];Neil Armstrong o stervarner Amerikanek omdennys.
+socially-constructed-person;['æðelstán a bow sows', 'athelstan', 'æðelstan'];Æðelstán o myghtern Pow Sows oll a-dhia 924 bys termyn y vernans.
+socially-constructed-person;['pab'];Pab yw penn an Eglos Katholik Romanek hag Epskop Rom.
+socially-constructed-person;['moyses'];Moyses o profùs Yedhowak aswonnys dhyworth Leverow Exodus ha Nyveryow. war-lergh hengov kebmyn, awtour an Torah o va inwedh, in-dadn arhadow Duw.
+socially-constructed-person;['maria wynn', 'maria'];Maria yw mamm Yesu Krist war-lergh Kristoneth hag Islam.
+socially-constructed-person;['pennmenyster an rywvaneth unys'];Pennmenyster an Ruvaneth Unys yw lywydh governans Ruwvaneth Unys Breten Veur ha Wordhen Gledh.
+socially-constructed-person;['duw', 'dyw'];Duw yw an hanow a nerth dres natur yn lies kryjyans.
+socially-constructed-person;['marco polo'];Marco Polo o ergerdher ha marchont Italek.
+socially-constructed-person;['richard nixon'];Richard Milhous Nixon o Lewydh Statys Unys yntra 20 mis Genver 1969 bys yn y omdennans 9 mis Est 1977.
+socially-constructed-person;['george h. w. bush'];George H. W. Bush o 41a Lywydh Statys Unys.
+space-region;['pennaghel an north', 'pennahel an north'];Pennaghel an North aswonnys herwydh usadow avel Pennaghel an North Doroniethek yw poynt yn Hantergylgh Kledhbarth may tav aghel rosellans an Norvys y enep.
+space-region;['pennaghel an soth', 'pennahel an soth'];Pennaghel an Soth aswonnys herwydh usadow avel Pennaghel an Soth Doroniethek yw poynt yn hantergylgh Deghowbarth may tav aghel rosellans an Norvys y enep.
+spatial-feature;['nans shenandoah'];Nans Shenandoah yw nans ha rannvro yn Virjynni ha Virjynni West.
+spatial-feature;['jibraltar', 'gibraltar', 'jybraltar'];Jibraltar yw tiredh ynter Spayn yn Europa.
+spatial-feature;['y fali'];Y Fali yw tre yn Ynys Môn, Kembra..
+spatial-feature;['denali'];An ughella menydh yn Gogledh Amerika yw Denali.
+spatial-feature;['menydh everest'];Menydh Everest yw menydh y'n Himalayas, usi y varr war an or ynter Nepal ha Tybet.
+spatial-feature;['himalayas'];An Himalayas yw menydhyow yn Asi, yntra Pakistan, Eynda, Bhoutan, Nepal ha Tibet yn China.
+spatial-feature;['enesik midway'];Enesik Midway yw enesik y'n Keynvor Hebask.
+spatial-feature;['menydhyow karnek', 'menydh karrek', 'menydhyow carnak', 'menydhyow carnek'];An Menydhyow Karnek yw kadon a venydhyow y'n Statys Unys ha Kanada.
+spatial-feature;['kilimanjaro'];Kilimanjaro yw menydh yn Tanzania.
+subject;['godhonieth', 'scyens', 'skians'];Godhonieth yw an maner hwithrans godhoniethek, po an korf ordenys a skians gwaynys der an maner hwithrans ma.
+subject;['dororyeth', 'scyens norvýs'];Dororyeth yu scyens an bys ma: dor, tyreth, kerryk h.e.
+subject;['daylekteth'];Yn filosofieth, daylekteth yw argyans po dadhel yntra tus dyffrans.
+subject;['dorydhyeth'];Dorydhyeth yw an studhyans scyensek a dylleryow ha spas y'n Norvys.
+subject;['korfonieth'];Korfonieth, po Anatomy, yw skorren a vewonieth ha studhyans a'n strethur a enyvales ha'ga rannow yw.
+subject;['astronymyl', 'steronieth'];Steronieth yw skians an ster, planettys ha spas.
+subject;['gnasonieth'];Gnasonieth, po fysiologi yw skorren a vewonieth ha studhyans a nasweyth yn bewennow.
+subject;['kymystry'];Kymystry yw godhonieth a-dro dha deythy ha natur mater wàr an nyvel atomak, moleculerak, po macromoleculerak.
+subject;['phylologyl'];Phylologyl yu studhyans testennow ha yethow coth.
+subject;['bywonieth', 'bewonyeth', 'byologyl'];Bywonieth yw studhyans godhoniethek a greatoryon byw, yn arbennik enyvales.
+subject;['scyens yeth', 'sciens yeth', 'yethonieth', 'yethydhyeth'];Yethonieth, po scyens yeth, yw an studhyans a yethow denel – aga gramasegow ha sonyow, aga displegyans istorek, devedhyans geryow, aga klasyans genynnek.
+subject;['yethonieth gowethasek'];Yethonieth Gowethasek yw studhyans an junyans ynter yeth ha bagas kowethasek.
+taxonomic-collection;['kays gramasek'];Yn gramasek, kays an hanow po rakhanow yw furv janjadow a sin y weythres gramasek yn fres, klows po lavarenn.
+taxonomic-collective;['malus'];Malus yw genas a 30-55 ehen a wydhen vyhan yn teylu Rosaceae.
+taxonomic-collective;['baobab'];Baobab yw gwydh.
+taxonomic-collective;['kigdevoryer', 'kigdebrer', 'carnivora'];Kigdevoryoryon po Carnivora yw urdh divers gans moy ages 280 ehen a vronnviles bryghennel.
+taxonomic-collective;['fagaceae'];Fagaceae yw teylu a 8 dhe 10 genas a wydh.
+taxonomic-collective;['kolom', 'colom', 'colommen', 'columbidae', 'columbiformes', 'kolommen', 'kolommenn'];Kolom po kolommen yw edhen y'n teylu Columbidae.
+taxonomic-collective;['clupeidae', 'hern'];Clupeidae yw teylu a buskes mor henwys teylu hern.
+taxonomic-collective;['panthera'];Kinda y'n teylu Felidae yw Panthera a henwys gans Lorenz Oken yn 1816 dhe synsi oll an kathes breghys.
+taxonomic-collective;['ailuropoda', 'ailuropodinae'];Ailuropoda yw an genas gesys unnik y'n isteylu Ailuropodinae a'n teylu Ursidae.
+taxonomic-collective;['keynek', 'trachurus'];Keynogow, Trachurus, yw genas a byskes mor y'n teylu Carangidae.
+taxonomic-collective;['salicaceae'];Salicaceaealus yw teylu a 55 genas a blans bleujek.
+taxonomic-collective;['ursus'];Ursus yw genas a arth.
+temporal-region;['oos men'];An Oos Men o termyn kynsistorek pan wre tus toulys a ven.
+temporal-region;['oos horn'];An Oos Horn yw an termyn wosa an Oos Brons.
+temporal-region;['1 genver'];1a mis Genver yw an kensa dydh y'n kalander gregorek.
+temporal-region;['bledhen gemmyn', 'blydhen gemmyn'];Y'n dydhyans gregorek ha yuliek, blydhen gemmyn yw blydhen hag ynni 365 dydh.
+temporal-region;['seythen', 'seythun'];Seythun yw spys a amser berra es mis ha hirra es jorna.
+temporal-region;["dy' sul", 'de sul', "dy'sul", 'sul'];Dy' Sul yw dydh an seythun yntra dy' Sadorn ha dy' Lun.
+temporal-region;['bledhen lamm', 'bledhen lam', 'blydhen lamm'];Y'n dydhyans gregorek, blydhen lamm yw blydhen ynni 366 dydh.
+temporal-region;['mis genver', 'genver', 'mys genver', 'mys 01', 'mýs genver', 'vis genver'];Mys Genver yu an kensa mys y'n vledhen y'n calans gregorek, gans unnek deth war'n ugans.
+temporal-region;["dy' yow", 'de yow', "dy'yow", 'yow', 'de-yow'];Rag styryow erel, gwelewgh Yow.
+temporal-region;['mis genver', 'genver', 'mys genver', 'mys 01', 'mýs genver', 'vis genver'];Mys Genver yu an kensa mys y'n vledhen y'n calans gregorek, gans unnek deth war'n ugans.
+temporal-region;['mis genver', 'genver', 'mys genver', 'mys 01', 'mýs genver', 'vis genver'];Mys Genver yu an kensa mys y'n vledhen y'n calans gregorek, gans unnek deth war'n ugans.
+temporal-region;["dy' merher", 'de merher', "dy'mergher", "dy' mergher"];Dy' Merher yw dydh an seythun yntra dy' Meurth ha dy' Yow.
+temporal-region;['mis kevardhu', 'kevardhu', 'mys 12', 'mys kevardhu', 'mýs kevardhu'];Mys Kevardhu yu an deudhegves mys y'n vledhen y'n calans gregorek, gans unnek deth war'n ugans.
+temporal-region;['mis kevardhu', 'kevardhu', 'mys 12', 'mys kevardhu', 'mýs kevardhu'];Mys Kevardhu yu an deudhegves mys y'n vledhen y'n calans gregorek, gans unnek deth war'n ugans.
+temporal-region;['mis me', 'me', 'mys me', 'mýs mé', 'vis me'];Mys Me yu an pympes mys y'n vledhen y'n calans gregorek, gans unnek deth war'n ugans.
+temporal-region;['gwynngala', 'mis gwyngala', 'gwydngala', 'mis gwynngala', 'mys gwyngala', 'mýs gwyngala'];Mys Gwyngala yu an nawves mys y'n vledhen y'n calans gregorek, gans dek deth war'n ugans.
+temporal-region;['mis meurth', 'meurth', 'mys merth', 'mys 03', 'vis meurth'];Yma Meurth ow kevrenna bys omma.
+temporal-region;['mis whevrer', 'hwevrer', 'hwevrel', 'mis hwevrer', 'mis whevrel', 'mys 02', 'mys whevrel', 'mys whevrer', 'mýs merth', 'mýs whevrer', 'vis-hwevrer', 'vis hwevrer'];Mys Whevrer yu an nessa mys y'n vledhen y'n calans gregorek, gans eth deth war'n ugans yn bledhen gemmyn ha naw deth war'n ugans yn bledhen lam.
+temporal-region;['mis est', 'est', 'mys est', 'mýs est', 'vis est'];Mys Est yu an ethves mys y'n vledhen y'n calans gregorek, gans unnek deth war'n ugans.
+temporal-region;['mis gortheren', 'gortheren', 'mys gortheren', 'mýs gortheren'];Mys Gortheren yu an seythves mys y'n vledhen y'n calans gregorek, gans unnek deth war'n ugans.
+temporal-region;['mis ebrel', 'ebryl', 'ebrel', 'mis ebryl', 'mys ebrel', 'mýs ebrel', 'vis ebryl'];Mys Ebrel yu an peswera mys y'n vledhen y'n calans gregorek, gans dek deth war'n ugans.
+temporal-region;['mis metheven', 'metheven', 'mys metheven', 'mis efen', 'mys efan', 'mýs metheven', 'vis-metheven', 'vis metheven'];Mys Metheven yu an wheghes mys y'n vledhen y'n calans gregorek, gans dek deth war'n ugans.
+temporal-region;['mis du', 'du', 'mis-du', 'mys du', 'mýs du'];Mis Du yw an unnegves mis y'n vledhen y'n calans gregorek, gans dek dydh war'n ugans.
+temporal-region;['mis hedra', 'hedra', 'mys hedra', 'mýs hedra', 'vis hedra'];Mys Hedra yu an degves mys y'n vledhen y'n calans gregorek, gans unnek deth war'n ugans.
+temporal-region;['oesow kres', 'osow kres', 'kres-oesow'];Yma'n Osow Kres ow furvya an spys kres y'n kevrennans hengovek a istori Europa yn tri oos: Hwarheans klasek, an Osow Kres, ha Hwarheans arnowydh.
+temporal-region;['bledhen'];Bledhen yw spas a amser owth hevelebi amser dhe dro unn planet a-derdro y steren.
+temporal-region;["dy' lun", 'de lun', "dy'lun", 'lun', 'de-lun'];Dy' Lun yw dydh an seythun yntra dy' Sul ha dy' Meurth.
+temporal-region;["dy' sadorn", 'de sadorn', "dy'sadorn", 'sadorn', 'de-sadorn'];Dy' Sadorn yw dydh an seythun yntra dy' Gwener ha dy' Sul.
+temporal-region;["dy' gwener", 'de gwener', "dy'gwener", 'gwener', 'de-gwener'];Dy' Gwener yw dydh an seythun yntra dy' Yow ha dy' Sadorn.
+temporal-region;["dy' meurth", 'de merth', "dy'meurth", 'de-merth'];Rag styryow erel, gwelewgh Meurth.
+temporal-region;['kynsistori'];Kynsistori yw an termyn kyns tus dhe dhalleth skrifa, yntra 12,000KOK ha 3000KOK. Traow dhiworth kynsistori yw henwys kynsistorek.
+temporal-region;['6 genver'];6es mis Genver yw an wheghes dydh y'n kalander gregorek.

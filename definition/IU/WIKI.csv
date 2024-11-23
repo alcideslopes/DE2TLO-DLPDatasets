@@ -1,0 +1,322 @@
+activity;['ᑯᓂᑉᐳᖅ', 'kiss', 'ᑯᓂᑉᐳᖅ/kunippuq'];ᑯᓂᑉᐳᖅ ᑕᑦᓯᐹ ᒥᓪᓗᐊᖅᐹ.
+activity;['ᐊᔪᒃᑕᖅ', 'ajuktaq', 'football', 'ᐊᔪᒃᑕᖅ/ajuktaq'];ᐊᔪᒃᑕᖅ ᐄᒐᑕᐃᕕᑦᓴᖅ ᐱᑯᑦᓱᐳᖅ ᑐᑭᓕᐊᕇᒃ ᒪᕐᕈᐃᑦ ᐃᑭᐊᖅ ᐱᕈᖅᓯᕕᒃ.
+activity;['ᐊᓇᐅᓕᒐᖅ', 'anauligaq', 'baseball', 'ᐊᓇᐅᓕᒐᖅ/anauligaq'];ᐊᓇᐅᓕᒐᖅ ᐊᑦᑕᐃᓕᑕᖅ ᐊᒻᒪ ᐊᓇᐅᒋᐊᖅᐳᖅ ᐄᒐᑕᐃᕕᑦᓴᖅ.
+activity;['ᓴᓂᓕᐊᖅᑐᖅ', 'saniliaqtuq', 'ᓴᓂᓕᐊᖅᑐᖅ/saniliaqtuq', 'ᖁᐊᔪᖅ'];ᓴᓂᓕᐊᖅᑐᖅ—ᐃᓕᐅᕐᓂᖅ ᐊᓂᖅᐸᓈᖅᑑᔭᖅᑐᖅ ᐃᑦᔪᐊᐹ ᖁᐊᔪᖅ ᐃᓱᒪᐃᓐᓈᖅ.
+activity;['ᐆᒃᑐᕋᐃᓂᖅ', 'test', 'uukturainiq/ᐆᒃᑐᕋᐃᓂᖅ', 'ᐆᒃᑐᕋᐃᓂᖅ/uukturainiq', 'uukturainiq'];ᐆᒃᑐᕋᐃᓂᖅ—ᐆᑦᑐᕋᖅᐹ ᐃᓕᓴᖅᐳᖅ ᐃᓄᒃ ᖃᔅᓯᑦ ᐃᓕᓐᓂᐊᐹ ᐃᓗᐊᓂ ᐃᓕᓐᓂᐊᖅᑐᓕᕆᓂᖅ.
+activity;['ᑐᖁᖓᔪᒥᒃ ᖃᐅᔨᓴᕐᓂᖅ', 'tuqungajumik qaujisarniq'];ᑐᖁᖓᔪᒥᒃ ᖃᐅᔨᓴᕐᓂᖅ
+activity;['ᒥᖏᑎᑕᐅᑎᔪᖅ', 'ᒥᖏᑎᑕᐅᑎᔪᖅ/mingititautijuq'];ᒥᖏᑎᑕᐅᑎᔪᖅ
+activity;['ᐊᑭᖃᙱᑦᑐᒃᑯᑦ ᑕᐅᖅᓰᖃᑦᑕᕐᓂᖅ', 'free trade', 'ᐊᑭᖃᙱᑦᑐᒃᑯᑦ ᑕᐅᖅᓰᖃᑦᑕᕐᓂᖅ/ akiqanngittukkut tauqsiiqattarniq', 'ᐊᑭᖃᙱᑦᑐᒃᑯᑦ ᑕᐅᖅᓰᖃᑦᑕᕐᓂᖅ/akiqanngittukkut tauqsiiqattarniq', 'akiqanngittukkut tauqsiiqattarniq'];ᐊᑭᖃᙱᑦᑐᒃᑯᑦ ᑕᐅᖅᓰᖃᑦᑕᕐᓂᖅ—
+activity;['ᑕᕋᖅᑑᑦ', 'x-ray', 'ᑕᕋᖅᑑᑦ/taraqtuut', 'taraqtuut'];ᑕᕋᖅᑑᑦ—
+activity;['ᐊᐳᑦ', 'aput', 'snow'];ᐊᐳᑦ—
+activity;['ᓇᑕᖅᑯᕐᓇᐃᑦ/nataqqurnait', 'hail', 'nataqqurnait', 'ᓇᑕᖅᑯᕐᓇᐃᑦ'];== ᓇᑕᖅᑯᕐᓇᐃᑦ ==
+activity;['ᖃᐅᔨᓴᕐᓂᖅ', 'qaujisarniq', 'research'];ᖃᐅᔨᓴᕐᓂᖅ
+activity;['ᐋᔩᖃᑎᒋᖏᖅ', 'aajiiqatigangaq'];ᐋᔩᖃᑎᒋᖏᖅ ᓈᓚᐅᑎᑦ ᑕᓚᕖᓴᓇᓪᓗ ᖃᕆᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+activity;['ᓂᐅᖅᑲᖅ/ᑏᕐᓗ'];ᓂᐅᖅᑲᖅ/ᑏᕐᓗ-ᐃᒥᕐᒥᒃ ᐆᓇᖅᑐᒥᒃ ᐃᓱᖅᓯᑎᑦᑎᔪᓐᓇᖅᑐᖅ ᓯᖃᓕᐅᓪᓗᓂ ᐃᒃᐱᐊᕐᔪᑯᓗᖕᒧᓪᓗ ᐴᖅᓯᒪᔪᕐᓘᓐᓃᑦ
+activity;['ᐅᖃᖅᑐᖅ', 'uqaqtuq', 'ᐅᖃᖅᑐᖅ/uqaqtuq'];ᐅᖃᖅᑐᖅ—ᐃᓅᖃᑎᒥᓄᑦ ᖃᓄᑐᐃᓐᓇᖅ ᓂᓪᓕᖅᑐᖅ ᐅᖃᖅᐳᖅ.
+activity;['ᐊᑭᕋᖅᑑᑎᔪᑦ', 'akiraqtuutijut'];[war]
+activity;['ᒥᓂ', 'mini', 'rain', 'ᒥᓂ/mini'];ᒥᓂ ᑕᐃᑦᓱᒪᓂᐅᓕᖅᐸᑦ ᐃᒪᖅ ᑲᑕᒃᑐᖅ ᕿᓚᒻᒥᐅᖅ ᐊᒻᒪ ᓄᕗᔭᑦ.
+agentive-figure;['ᐃᒥᐊᓗᒃᑕᐃᓕᒪᓂᕐᒧᑦ ᐃᑲᔪᖃᑎᒌᒡᕕᒃ', 'alcoholics anonymous', 'imialuktailimanirmut ikajuqatigiigvik', 'ᐃᒥᐊᓗᒃᑕᐃᓕᒪᓂᕐᒧᑦ ᐃᑲᔪᖃᑎᒌᒡᕕᒃ/imialuktailimanirmut ikajuqatigiigvik'];ᐃᒥᐊᓗᒃᑕᐃᓕᒪᓂᕐᒧᑦ ᐃᑲᔪᖃᑎᒌᒡᕕᒃ
+agentive-figure;['ᐸᓖᓯᒃᑯᑦ'];ᐸᓖᓯᒃᑯᑦ [police] Paliisikkut ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+agentive-physical-object;['ᓂᕐᔪᑦ', 'nirjut', 'ᓂᕐᔪᑦ/nirjut'];ᓂᕐᔪᑦ
+agentive-physical-object;['ᐱᕈᖅᑐᖅ', 'piruqtuq', 'ᐱᕈᖅᑐᖅ/piruqtuq', 'ᓇᐹᖅᑐᖅ'];ᐱᕈᖅᑐᖅ (piruqtuq), ᓇᐹᖅᑐᖅ
+agentive-physical-object;['ᖃᕋᓴᐅᔭᖅ', 'qarasaujaq', 'ᖃᕋᓴᐅᔭᖅ/qarasaujaq'];ᖃᕋᓴᐅᔭᖅ
+agentive-physical-object;['ᕿᖕᒥᖅ', 'canis lupus familiaris', 'qimmiq', 'qingmiq', 'rkingmiq', 'ᕿᖕᒥᖅ/qingmiq', 'ᕿᖕᒥᖅ/rkingmiq'];ᕿᖕᒥᖅ ᐱᓱᒃᑎ ᑕᐱᕐᖁᐊᕇᑦᑐᑦ ᐊᖑᑦ ᐊᑯᓂ.
+agentive-physical-object;['ᐱᕈᖅᑐᓴᔭᖅ/piruqtusajaq', 'nunangoark', 'perusiatsiark', 'flower', 'piruqtusajaq', 'ᐱᕈᖅᑐᓴᔭᖅ'];== ᐱᕈᖅᑐᓴᔭᖅ ==
+agentive-physical-object;['ᖃᕆᑕᐅᔭᕋᓛᖅ ᐊᑕᐅᓯᖅᓯᐅᑦ/qaritaujaralaaq atrausiqsiuit', 'ᖃᕆᑕᐅᔭᕋᓛᖅ ᐊᑕᐅᓯᖅᓯᐅᑦ', 'pc', 'qaritaujaralaaq atrausiqsiuit'];ᖃᓪᓗᓈᑎᑐᑦ: Microcomputer
+agentive-physical-object;['ᐃᓄᒃ', 'ᐄᒃ', 'homo sapiens', 'ᐃᓄᒃ/inuk', 'ᐃᓄᖅ', 'ᐃᓅᑉ', 'ᐃᓅᒃ', 'ᐃᓅᖅ', 'human', 'iik', 'inuk', 'ᐄᒃ/iik'];ᐄᒃ ᐊᑭᓐᓇᑰᖅᑐᖅ ᐊᑐᐃᓐᓇᓯᕗᖅ ᒪᕐᕉᒃ ᐊᖁᓐᓂᖓᔪᖅ.
+agentive-physical-object;['ᐃᓄᒃ', 'ᐄᒃ', 'homo sapiens', 'ᐃᓄᒃ/inuk', 'ᐃᓄᖅ', 'ᐃᓅᑉ', 'ᐃᓅᒃ', 'ᐃᓅᖅ', 'human', 'iik', 'inuk', 'ᐄᒃ/iik'];ᐃᓄᒃ—
+agentive-physical-object;['ᐳᐃᔨᒃ', 'puijik'];ᐳᐃᔨᒃ
+agentive-physical-object;['ᐅᑲᓕᐊᑦᓯᐊᖅ', 'rabbit', 'ukaliatsiaq'];ᐅᑲᓕᐊᑦᓯᐊᖅ ᒥᑭᔪᒃ ᐱᓱᒃᑎ.
+agentive-physical-object;['ᕿᓚᖕᒥᐅᑕᖅ', 'ᐊᕕᙵᖅ'];ᕿᓚᖕᒥᐅᑕᖅ-ᐊᕕᙵᖅ.
+agentive-physical-object;['ᓈᕌᔩᖅ', 'frog', 'naaraajiiq', 'ᓈᕌᔩᖅ/naaraajiiq'];ᓈᕌᔩᖅ—ᒥᑭᑦᑐᖅ ᖃᐅᓯᑦᑐᒃ ᓂᐱᔪᒃ ᐃᒪᖅᓯᐅᑦ.
+agentive-physical-object;['ᐱᓱᒃᑎ', 'ᒪᒻᒪᓛᑎᒃ', 'land mammal', 'pisukti', 'ᐱᓱᒃᑎ/pisukti'];ᐱᓱᒃᑎ ᐳᐃᔨᐅᖏᑦᑐᑦ ᓂᕐᔪᑏᑦ ᓄᓇᑐᖅᑐᑦ ᓂᕿᑐᖅᑐᓪᓗ ᖃᓄᐃᑦᑐᑐᐃᓐᓇᐃᑦ ᐱᓱᒃᑎᐅᕗᑦ.
+agentive-physical-object;['ᑐᒃᑐ', 'rangifer tarandus', 'caribou', 'reindeer', 'ᑐᒃᑐ/tuktu', 'tuktu'];ᑐᒃᑐ ᐱᕈᖅᓯᐊᖅ ᑐᖑᖅᑐᖅ ᑲᑲᒍᑎᖃᖅᖢᓂ ᓯᓕᐅᔭᖅᖢᓂ ᑐᒃᑑᖕᒥᔪᖅ.
+agentive-physical-object;['ᑭᕝᒐᓗᒃ', 'musk rat', 'ᑭᕝᒐᓗᒃ/kivgaluk', 'kivgaluk'];ᑭᕝᒐᓗᒃ—
+agentive-physical-object;['ᑎᒻᒥᕗᖅ/timmivuq', 'fly', 'timmivuq', 'ᑎᒻᒥᕗᖅ'];== ᑎᒻᒥᕗᖅ ==
+agentive-physical-object;['ᖁᐸᓄᐊᕐᔪᐊᖅ', 'blue jay', 'ᖁᐸᓄᐊᕐᔪᐊᖅ/qupanuarjuaq', 'qupanuarjuaq'];== ᖁᐸᓄᐊᕐᔪᐊᖅ ==
+agentive-physical-object;['ᐊᖅᐱᒃ', 'rubus chamaemorus'];ᐊᖅᐱᒃ [Cloudberry]――― aqpik ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+agentive-physical-object;['ᑭᒡᒐᕕᒃ', 'hawk', 'kiggavik'];ᑭᒡᒐᕕᒃ—ᑎᖕᒥᐊᖅ ᑭᒡᒐᕕᐊᕐᔫᖅᑰᔨᓪᓗᓂ ᑲᔫᓪᓗᓂ ᑭᒡᒐᕕᐅᕗᖅ.
+agentive-physical-object;['ᐊᐃᕕᖅ', 'ᐁᕕᖃ', 'odobenus rosmarus', 'aiviq'];ᐊᐃᕕᖅ, ᐱᓱᒃᑎ
+agentive-physical-object;['ᐅᑲᓕᒃ', 'ukalik'];ᐅᑲᓕᒃ
+agentive-physical-object;['ᑐᒃᑐᕙᒃ', 'alces alces', 'moose'];ᑐᒃᑐᕙᒃ ᐆᒪᔪᖅ ᐃᓅᔪᖅ ᐃᓗᐊᓂ ᑐᓄᕕᐊᖅ ᓯᓚᓇᐹᖅᑐᖃᕐᓂᖅ.
+agentive-physical-object;['ᐅᒥᒻᒪᖅ', 'ᐅᒥᖕᒪᒃ', 'umimmaq'];ᐅᒥᒻᒪᖅ
+agentive-physical-object;['uqpik'];ᐊᕚᓚᕿᐊᑦ, ᓇᐹᖅᑐᕋᓛᑦ
+agentive-physical-object;['ᐊᑎᖅᐳᖅ', 'atiqpuq', 'bear', 'ᐊᑎᖅᐳᖅ/atiqpuq'];ᐊᑎᖅᐳᖅ ᐊᖏᔪᖅ ᑭᑉᐸᓕᕗᖅ ᑲᔪᖅ ᐆᒪᔪᖅ.
+agentive-physical-object;['ᖃᕆᑕᐅᔭᖅ ᐊᒥᓱᓯᐅᑦ', 'qaritaujaq amisusiut', 'ᖃᕆᑕᐅᔭᖅ ᐊᒥᓱᓯᐅᑦ/qaritaujaq amisusiut'];qaritaujaq amisusiutyolo swag alles Pcc is top
+agentive-physical-object;['ᐊᓇᐅᓪᓚᐅᑦ', 'chiroptera'];ᐊᓇᐅᓪᓚᐅᑦ （ᖃᓪᓗᓈᑎᑐᑦ：Bat）――― Anaullaut ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+agentive-physical-object;['ᐸᒥᐅᖅᑑᖅ', 'american otter', 'ᐸᒥᐅᖅᑑᖅ/pamiuqtuuq', 'pamiuqtuuq'];ᐸᒥᐅᖅᑑᖅ—ᖃᓪᓗᓈᑦ ᓄᓇᖓᓐᓃᑦᑐᑦ ᐸᒥᐅᖅᑯᖅᑐᔪᑯᓗᐃᑦ ᓇᐹᖅᑐᕐᒥᐅᑕᐃᑦ ᐸᒥᐅᖅᑑᖑᕗᑦ.
+agentive-physical-object;['ᕿᖅᑯᐊᖅ', 'ᕿᖅᑯᐊᖅ/qiqquaq', 'qiqquaq'];ᕿᖅᑯᐊᖅ—ᐊᖃᔭᐃᑦ ᐊᓚᒃᑲᐅᒪᕚ ᑕᐃᒪᓐᓇ ᐱᕈᖅᑐᖅ ᑕᓯᒋᕗᖅ ᐃᒫᒎᖅᐹ ᐃᑭᐊᖅ ᐃᒫᓗᒃ.
+agentive-physical-object;['ᐋᓯᕙᖅ', 'aasivaq', 'ᐋᓯᕙᖅ/aasivaq'];ᓴᔪᑉᐱᓛᕗᖅ ᓯᓚᕐᔪᐊᒥᐅᑦ ᐃᓄᐃᕈᑎᕚ ᕿᒥᕐᓗᒃ ᑎᒍᕚ ᐊᕐᕕᓂᓖᑦ ᐱᖓᓱᓂᒃ ᓂᐅ ᐊᕐᕕᓂᓖᑦ ᐱᖓᓱᓂᒃ ᐸᓪᓗᓯᖓᔪᖅ ᐃᓄᐃᕈᑎᕚ ᓴᐃᑎ.
+agentive-physical-object;['ᐋᕐᓗᒃ'];ᐋᕐᓗᒃ-ᑭᕙᓪᓕᖅ, ᕿᑭᖅᑖᓘᑉ ᐅᐊᖕᓇᖅᐸᓯᐊ, ᕿᑭᖅᑖᓘᑉ ᑲᓇᖕᓇᖅᐸᓯ, ᕿᑭᖅᑖᓘᑉ ᓂᒋᖓ, ᐊᑯᑭᑦᑐᑦ ᐅᐊᓕᓂᖓ.
+agentive-physical-object;['ᐃᓛᖁᑦᓯᖅ', 'ilaaqutsiq'];ᐃᓛᖁᑦᓯᖅ, ᐱᓱᒃᑎ
+agentive-physical-object;['ᑑᒑᓕᒃ', 'monodon monoceros'];ᑑᒑᓕᒃ （ᖃᓪᓗᓈᑎᑐᑦ：Narwhal）――― Tuugaalik ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+agentive-physical-object;['ᐃᖃᓗᑉᐱᒃ', 'iqaluppik'];ᐃᖃᓗᑉᐱᒃ
+agentive-physical-object;['ᐊᓴᐱ', 'asapi', 'hiv', 'ᐊᓴᐱ/asapi'];ᐊᓴᐱ ᐊᐅᒃᑯᑦ ᐊᓐᓇᐅᒪᔾᔪᑎᖃᕈᓐᓃᕐᓂᖅ.
+agentive-physical-object;['ᑭᒃᑐᕆᐊᖅ'];== ᑭᒃᑐᕆᐊᖅ ==
+agentive-physical-object;['ᑎᖕᒥᐊᖅ', 'aves'];ᑎᖕᒥᐊᖅ （ᖃᓪᓗᓈᑎᑐᑦ：Bird）――― Tingmiaq ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+agentive-physical-object;['ᓇᓄᖅ', 'nanuq', 'ursus maritimus', 'nanuk', 'polar bear', 'ᓇᓄᖅ/nanuq'];ᓇᓄᖅ ᖃᑯᖅᑕᖅ ᐆᒪᔪᖅ.
+amount-of-matter;['ᐃᒪᖅ', 'h₂o'];ᐃᒪᖅ ᑕᕆᐅᖅ ᑕᓯᕐᓘᓐᓃᑦ ᐊᖏᔫᑉ ᐃᒪᕐᒥᒃ ᑕᐃᔭᐅᕗᖅ.
+amount-of-matter;['ᐊᖓᔮᕐᓇᖅᑐᖅ', 'alcohol', 'angajaarnaqtuq', 'ᐊᖓᔮᕐᓇᖅᑐᖅ/angajaarnaqtuq'];ᐊᖓᔮᕐᓇᖅᑐᖅ ᐃᒥᐊᓗᒃ ᐱᑕᖃᕗᒃ ᐃᑦᓯᕕᒻᒥᐅᓯᖅᐹ-ᐃᐸᒃ ᐊᖓᔮᕐᓇᖅᑐᖅ.
+amount-of-matter;['ᐅᖅᓱᖅ'];ᐅᖅᓱᖅ （ᖃᓪᓗᓈᑎᑐᑦ：Oil）――― Uqsuq ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+amount-of-matter;['ᒎᓗ'];ᒎᓗ [Gold] guulu ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+amount-of-matter;['ᐃᒻᒧᒃ', 'immuk', 'milk', 'ᐃᒻᒧᒃ/immuk'];ᐃᒻᒧᒃ—
+amount-of-matter;['ᐃᒥᐊᓗᒃ', 'aivilik'];ᐃᒥᐊᓗᒃ—ᐃᒥᖅᑕᐅᕗᖅ ᓱᓕᐊᖅ ᑲᑐᑦᔭᖅ ᐃᒪᖅ ᐊᒻᒪ ᐆᑉᐹ—ᐊᒻᒪ ᑭᒻᒥᑐᖅᐹ ᒪᒪᖅᑐᖅ, ᓰᕐᓇᖅᑐᖅ ᐱᕈᖅᑐᖅ.
+amount-of-matter;['ᖂᖄ ᑰᓛ', 'coca-cola', 'coca cola', 'coke', 'ᖂᖄ ᑰᓛ/quuqaa kuulaa'];ᖂᖄ ᑰᓛ ᐃᒥᒐᖅ ᑕᐃᑲᓂ ᐊᒥᐊᓕᑲ ᐱᑕᖃᕗᒃ ᐊᕐᓕᐊᑐᖅ ᓱᑲᖅ.
+amount-of-matter;['ᐃᒻᒧᒃ', 'immuk', 'milk', 'ᐃᒻᒧᒃ/immuk'];ᐃᒻᒧᒃ—
+amount-of-matter;['ᐃᒥᒐᖅ', 'imijaq', 'imrujaq'];ᐃᒥᒐᖅ/ᐃᒥᒐᖅ—ᓂᐅᕕᐊᒃᓴᕋᔭᐃᑦ ᐃᒥᖅᑕᐅᕙᒃᑐᑦ ᐊᔾᔨᒌᖏᑦᑐᑦ ᖃᓯᓕᕈᕙᖕᓇᖅᑐᖅ ᐃᒥᒐᐅᕗᖅ.
+amount-of-matter;['ᐱᑉᓯ ᑰᓛ', 'pipsi kuulaa', 'pepsi'];ᐱᑉᓯ ᑰᓛ ᐃᒥᒐᖅ ᑕᐃᑲᓂ ᐊᒥᐊᓕᑲ ᐱᑕᖃᕗᒃ ᐊᕐᓕᐊᑐᖅ ᓱᑲᖅ.
+amount-of-matter;['ᐃᒥᖅ'];ᐃᒥᖅ （ᖃᓪᓗᓈᑎᑐᑦ：Drinking water）――― Imiq ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+biological-object;['ᐅᓕᐅᑏᒃ'];ᐅᓕᐅᑏᒃ [Tendon] Uliutiik ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+biological-object;['ᑑᒑᖅ'];ᑑᒑᖅ （ᖃᓪᓗᓈᑎᑐᑦIvory Tusk）――― Tuugaaq ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+biological-object;['ᐊᕿᐊᕈᖅ', 'stomach', 'ᐊᕿᐊᕈᖅ/aqiaruq', 'aqiaruq'];ᐊᕿᐊᕈᖅ—
+biological-object;['ᐸᒃᑭ/pakki', 'ᐸᒃᑭ', 'finger', 'pakki'];'ᐸᒃᑭ—ᑕᓪᓕᒪᑦ ᐃᓗᐊᓂ ᐊᓪᒐᒃ.
+biological-object;['ᐃᕕᐊᖏᖅ', 'breasts', 'iviangiq', 'ᐃᕕᐊᖏᖅ/iviangiq'];ᐃᕕᐊᖏᖅ
+biological-object;['ᐃᑎᖅ', 'anus', 'itiq', 'ᐃᑎᖅ/itiq'];ᐃᑎᖅ—ᐃᑎᖅ ᐊᐅᓂᖅ ᐊᖕᒪᓂᖅ.
+biological-object;['ᑭᒻᒥᓇᐅᔭᖅ', 'ᑭᒻᒥᓇᐅᔭᖅ/kimminaujaq'];[apple]
+biological-object;['ᐃᒡᔪᒃ', 'ᒪᓐᓂᒃ', 'ᒪᖕᓂᒃ', 'igjuk', 'testicles', 'ᐃᒡᔪᒃ/igjuk'];ᐃᒡᔪᒃ—ᓯᖓᐃᑦᔪᑎ ᐃᓄᐃᕈᑎᕚ ᐊᒪᒻ ᐊᖑᑎ ᑎᒥᐅᑉ ᓱᕙᓪᓕᐊᔾᔪᑖ.
+biological-object;['ᐱᕈᖅᑐᓴᔭᖅ/piruqtusajaq', 'nunangoark', 'perusiatsiark', 'flower', 'piruqtusajaq', 'ᐱᕈᖅᑐᓴᔭᖅ'];== ᐱᕈᖅᑐᓴᔭᖅ ==
+biological-object;['ᐊᒡᒐᒃ', 'hand', 'ᐊᒡᒐᒃ/aggak', 'aggak'];ᐊᒡᒐᒃ ᒪᑯᑦᓯᖅ ᐃᕆᓂᓱᑦᑐᖅ ᑎᒍᕚ ᓯᑕᒪᑦ ᐊᒻᒪ ᐊᑕᐅᓯᖅ ᑯᓪᓗᒃ.
+biological-object;['ᑭᐊᑎ'];ᑭᐊᑎ （ᖃᓪᓗᓈᑎᑐᑦ：Trunk）――― Kiati ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+biological-object;['ᑐᐱᙳᐊᖅ', "adam's apple", 'tupinnguaq'];ᑐᐱᙳᐊᖅ—ᐱᕐᖄᐹ ᐊᖑᑎᐅᕙᓪᓚᐳᖅ ᓂᐱ ᐅᖃᓗᑉᐱᕗᖅ.
+biological-object;['ᐊᑭᕈᐊᕈᖅ', 'leaf', 'akiruaruq'];ᐊᑭᕈᐊᕈᖅ
+biological-object;['ᐅᓱᒃ', 'penis', 'usuk', 'ᐅᓱᒃ/usuk'];ᐅᓱᒃ ᐊᖑᑦ ᐊᕐᓇᑐᖅᐳᖅ ᓇᕿᑦᑕᐅᑦ.
+biological-object;['ᓯᖓᐃᑦᔪᑎ', 'sperm', 'ᓯᖓᐃᑦᔪᑎ/singaitjuti', 'ᓯᖓᐃᑦᔪᑎ/singaitjututi', 'singaitjuti'];ᓯᖓᐃᑦᔪᑎ—ᓱᓕᐊᖅ ᐃᓗᐊᓂ ᐊᖑᑎᐅᕙᓪᓚᐳᖅ ᐃᓗᐊᓂ ᐃᒡᔪᒃ.
+biological-object;['ᕿᑎᖅ', 'the middle', 'ᕿᑎᖅ/qitiq'];ᕿᑎᖅ—ᐃᓗᓕᖁᓪᓗ ᐃᒪᓕᑦ ᑭᓱᑐᐃᓐᓇᕐᒥᒡᓘᓐᓃᑦ ᐃᓗᓕᓕᒃ ᓄᖑᑉᐸᓪᓕᐊᓪᓗᓂ ᕿᑎᖓᒎᓕᕈᓂ ᕿᑎᖅᐸᕐᒥᔪᖅ.
+biological-object;['ᐃᔨ', 'iji'];ᐃᔨ ᐊᑕᓐᓂᐅᐹ ᓯᓚᕐᔪᐊᒥᐅᑦ ᐃᓗᖅᐳᖅ ᓯᓚᕐᔪᐊᒥᐅᑦ ᐱᑦᓴᑎᑦᑐᖅ ᐅᕝᕙ.
+biological-object;['ᕿᖓᖅ', 'nose', 'qingaq', 'ᕿᖓᖅ/qingaq'];ᕿᖓᖅ ᒪᑯᑦᓯᖅ ᑎᒥ ᐊᑐᖅᑕᐅᓂᑯᐃᑦ ᑎᐱᓕᕗᖅ.
+biological-object;['ᐊᒡᒐᐅᑦ'];ᐊᒡᒐᐅᑦ [Forearm] aggaut ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+biological-object;['ᑕᓪᓗ'];ᑕᓪᓗ （ᖃᓪᓗᓈᑎᑐᑦ：Chin）――― aqpik ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+biological-object;['ᒪᒪᖅᑐᖅ, ᓰᕐᓇᖅᑐᖅ ᐱᕈᖅᑐᖅ', 'fruit', 'mamaqtuq, siirnaqtuq piruqtuq', 'ᒪᒪᖅᑐᖅ, ᓰᕐᓇᖅᑐᖅ ᐱᕈᖅᑐᖅ/mamaqtuq, siirnaqtuq piruqtuq'];== ᐊᓯᐊᙳᑐᖅ ᒪᒪᖅᑐᖅ, ᓰᕐᓇᖅᑐᖅ ᐱᕈᖅᑐᖅ ==
+biological-object;['ᐴᐹᖅ'];ᐴᐹᖅ （ᖃᓪᓗᓈᑎᑐᑦ：Amniotic sac）――― Puupaaq ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+course;['ᑕᑦᕿᖅᓯᖅᑐᖅ', 'lunar eclipse', 'ᑕᑦᕿᖅᓯᖅᑐᖅ/tatqiqsiqtuq', 'tatqiqsiqtuq'];ᑕᑦᕿᖅᓯᖅᑐᖅ
+course;['ᓯᕿᓃᖅᓯᖅᑐᖅ', 'siqiniiqsiqtuq', 'ᓯᕿᓃᖅᓯᖅᑐᖅ/siqiniiqsiqtuq'];siqiniiqsiqtuq
+dependent-place;['ᐃᓗ', 'ᐃᓗ/ilu'];ᐃᓗ ᐅᐱᓐᓇᐃᑐᖅ ᐊᑖᓂ ᓄᓇ ᐊᑐᙱᑦᑐᖅ ᐊᖏᔪᖅ ᐃᓂᒋᑦᑐᖅ ᐱᓱᐊᓪᓗᕆᑦᑐᖅ ᐃᓗᐊᓂ ᐃᓄᒃ.
+ecological-collective;['ᐱᕈᖅᑐᖅ', 'piruqtuq', 'ᐱᕈᖅᑐᖅ/piruqtuq', 'ᓇᐹᖅᑐᖅ'];ᐱᕈᖅᑐᖅ (piruqtuq), ᓇᐹᖅᑐᖅ
+event;['ᐊᓗᐃᖅᖃᓇᖅ', 'ᐊᓗᐃᖅᑲᓇᖅ'];ᐊᓗᐃᖅᖃᓇᖅ [avalanche]――― aluiqqanaq ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+functional-matter;['ᑲᐅ ᓂᕿ ᑭᒻᒥᐊᒐᖅ ᕿᖂᔭᖅ', 'hamburger', 'kau niqi kimmiagaq qiquujaq', 'ᑲᐅ ᓂᕿ ᑭᒻᒥᐊᒐᖅ ᕿᖂᔭᖅ/kau niqi kimmiagaq qiquujaq'];ᑲᐅ ᓂᕿ ᑭᒻᒥᐊᒐᖅ ᕿᖂᔭᖅ ᖃᓄᐃᑦᑑᓂᖅ ᓂᕿ ᐃᓚ ᐅᕐᕿᑐᖅ ᓂᕿ ᐸᒻᒥᐅᑐᑦ ᒥᓗᑦᓱᑳᒐᖅ ᐃᒻᒧᐊᓗᒃ ᑭᓪᓗᒧᑦ ᕿᕐᖁᐊᖅ ᑭᒻᒥᐊᒐᖅ ᕿᖂᔭᖅ.
+functional-matter;['ᐊᖓᔮᕐᓇᖅᑐᖅ', 'alcohol', 'angajaarnaqtuq', 'ᐊᖓᔮᕐᓇᖅᑐᖅ/angajaarnaqtuq'];ᐊᖓᔮᕐᓇᖅᑐᖅ ᐃᒥᐊᓗᒃ ᐱᑕᖃᕗᒃ ᐃᑦᓯᕕᒻᒥᐅᓯᖅᐹ-ᐃᐸᒃ ᐊᖓᔮᕐᓇᖅᑐᖅ.
+functional-matter;['ᓯᐅᕋᖅ', 'ᓯᐅᕋᖅ/siuraq', 'siuraq'];ᓯᐅᕋᖅ—
+functional-matter;['ᓂᐱᐅᑦ', 'ᓂᐱᐅᑦ/nipiut', 'nipiut'];ᓂᐱᐅᑦ—ᓂᐱᔪᒃ ᐃᔾᔪᔪᒡ ᖃᑯᖅᑕᖅ ᑮᓇᐅᔭᙳᖅᑎᑲᐅᑎᒋᔪᓐᓇᖅᑐᓂᒃ ᐱᖁᑎᖃᕐᓂᖅ ᐊᑐᖅᑕᐅᓂᑯᐃᑦ ᓈᑎᑉᐹ ᐸᒻᒥᐅᑐᑦ.
+functional-matter;['ᓱᑲᒃ', 'sukak', 'ᐱᑕᓕᑦᑐᐳᖅ', 'ᓱᑲᒃ/sukak', 'ᓱᑲᖅ', 'ᓱᑲᖅ/sukak'];ᓱᑲᒃ ᐅᖁᒻᒥᐊᖅ ᐆᑉᐹ ᐃᐸᒃ ᓱᓕᐊᖅ ᑎᒍᒻᒥᕕᒃ ᓱᑲᖅ.
+functional-matter;['ᐃᒻᒧᒃ', 'immuk', 'milk', 'ᐃᒻᒧᒃ/immuk'];ᐃᒻᒧᒃ—
+functional-matter;['ᐃᒥᐊᓗᒃ', 'aivilik'];ᐃᒥᐊᓗᒃ—ᐃᒥᖅᑕᐅᕗᖅ ᓱᓕᐊᖅ ᑲᑐᑦᔭᖅ ᐃᒪᖅ ᐊᒻᒪ ᐆᑉᐹ—ᐊᒻᒪ ᑭᒻᒥᑐᖅᐹ ᒪᒪᖅᑐᖅ, ᓰᕐᓇᖅᑐᖅ ᐱᕈᖅᑐᖅ.
+functional-matter;['ᖂᖄ ᑰᓛ', 'coca-cola', 'coca cola', 'coke', 'ᖂᖄ ᑰᓛ/quuqaa kuulaa'];ᖂᖄ ᑰᓛ ᐃᒥᒐᖅ ᑕᐃᑲᓂ ᐊᒥᐊᓕᑲ ᐱᑕᖃᕗᒃ ᐊᕐᓕᐊᑐᖅ ᓱᑲᖅ.
+functional-matter;['ᓇᓂᑦᓯᑰᔭᐃᑦ', 'cornflakes', 'nanitsikuujait'];ᓇᓂᑦᓯᑰᔭᐃᑦ, ᐅᓪᓛᕈᒻᒥᑕᑦᓴᐃᑦ ᓴᖅᑭᕝᕕᖓ ᐃᑦᓯᕕᒻᒥᐅᑕᕆᕚ.
+functional-matter;['ᕿᖂᔭᖅ', 'bread', 'qiquujaq', 'ᕿᖂᔭᖅ/qiquujaq'];[bread]
+functional-matter;['ᐊᒡᒍᐊᓚᕿᓵᖅ'];ᐊᒡᒍᐊᓚᕿᓵᖅ [Stew] aggualaqisaaq ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+functional-matter;['ᑭᒻᒥᓇᐅᔭᖅ', 'ᑭᒻᒥᓇᐅᔭᖅ/kimminaujaq'];[apple]
+functional-matter;['ᖂᖅ'];ᖂᖅ- ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+functional-matter;['ᐅᔭᕋᒃ'];ᐅᔭᕋᒃ [rock] Ujarak ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+functional-matter;['ᐃᒻᒧᒃ', 'immuk', 'milk', 'ᐃᒻᒧᒃ/immuk'];ᐃᒻᒧᒃ—
+functional-matter;['ᐃᒥᒐᖅ', 'imijaq', 'imrujaq'];ᐃᒥᒐᖅ/ᐃᒥᒐᖅ—ᓂᐅᕕᐊᒃᓴᕋᔭᐃᑦ ᐃᒥᖅᑕᐅᕙᒃᑐᑦ ᐊᔾᔨᒌᖏᑦᑐᑦ ᖃᓯᓕᕈᕙᖕᓇᖅᑐᖅ ᐃᒥᒐᐅᕗᖅ.
+functional-matter;['ᐱᑉᓯ ᑰᓛ', 'pipsi kuulaa', 'pepsi'];ᐱᑉᓯ ᑰᓛ ᐃᒥᒐᖅ ᑕᐃᑲᓂ ᐊᒥᐊᓕᑲ ᐱᑕᖃᕗᒃ ᐊᕐᓕᐊᑐᖅ ᓱᑲᖅ.
+functional-matter;['ᑐᐊᐸᑦ'];ᑐᐊᐸᑦ （ᖃᓪᓗᓈᑎᑐᑦ：Gravel）――― Tuapat ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+functional-matter;['ᑭᐊᒃᑎᓯᒪᔪᖅ'];ᑭᐊᒃᑎᓯᒪᔪᖅ （ᖃᓪᓗᓈᑎᑐᑦ：Sweat）――― Kiaktisimajuq ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+functional-matter;['ᐊᓐᓂᐊᒥ ᖃᐅᔨᓴᕐᓂᖅ'];ᐊᓐᓂᐊᒥ ᖃᐅᔨᓴᕐᓂᖅ
+functional-matter;['ᖃᐸᒃ', 'qapak', 'semen', 'ᖃᐸᒃ/qapak'];ᖃᐸᒃ ᐊᖑᑎᐅᑉ ᐃᒡᔪᐊᑕ ᐃᔅᓯᖓ ᓂᙳᔫᕿᔭᑦᑐᖅ ᖃᐅᓯᖅᖢᓂ
+geographical-object;['ᑕᓯᖅ'];ᑕᓯᖅ （ᖃᓪᓗᓈᑎᑐᑦ：Lake）――― Tasiq ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+geographical-object;['ᒫᑭᓐᓯ ᑰᒃ', 'mackenzie', 'maakinsi kuuk', 'mackenzie river', 'ᒫᑭᓐᓯ ᑰᒃ/maakinsi kuuk'];ᒫᑭᓐᓯ ᑰᒃ ᐱᒋᐊᕐᑐᖅ ᒋᕋᐃᑦ ᓯᓚᐃᕝ ᑕᓯᕐᒥ ᑰᒃᐸᑦᑐᕐᓗ ᐅᐊᓐᓇᖓᓄᑦ ᐃᒪᕕᐊᓄ ᐅᑭᐅᖅᑕᖅᑑᑉ.
+geographical-object;['ᐊᒥᐊᓕᑲ ᓂᒋᖅ', 'south america'];ᐊᒥᐊᓕᑲ ᓂᒋᖅ
+geographical-object;['ᑕᕆᐅᖅ'];ᑕᕆᐅᖅ （ᖃᓪᓗᓈᑎᑐᑦ：Sea）――― Tariuq ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+geographical-object;['ᐸᕉ ᕿᑭᖅᑕᑦ', 'paruu qikiqtat'];ᐸᕉ ᕿᑭᖅᑕᑦ （ᖃᓪᓗᓈᑎᑐᑦ：Faroe Islands）――― Paruu qikiqtat ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+geographical-object;['ᐃᒫᓗᒃ', 'imaaluk', 'ᐃᒫᓗᒃ/imaaluk'];ᐃᒫᓗᒃ ᐃᒪᖅ ᐊᑯᓐᓂᖓᓐᓂ ᐊᖏᓚᖅ ᓄᓇ ᑎᒥ.
+geographical-object;['ᖁᖅᓗᕐᓂᖅ', 'waterfall', 'ᖁᖅᓗᕐᓂᖅ/quqlurniq', 'quqlurniq'];ᖁᖅᓗᕐᓂᖅ
+geographical-object;['ᐊᑯᑭᑦᑐᑦ', 'akutittuk', 'greenland', 'kalaalliit nunaat', 'ᐊᑯᑭᑦᑐᑦ/akukittut'];ᐊᑯᑭᑦᑐᑦ (Greenland, ᖃᓛᓪᓕᑦ ᓄᓈᑦ - Kalaallit Nunaat)
+information-object;['ᐃᓕᓴᐅᑎᒃ'];ᐃᓕᓴᐅᑎᒃ—ᓴᖑᐃᐱᓗᒃᑐᖅ ᑕᐃᑲᓂ ᐃᓄᒃ ᓄᓇ.
+information-object;['ᑐᑐ'];ᑐᑐ （ᖃᓪᓗᓈᑎᑐᑦ：Surname）――― Tutu ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+information-realization;['ᐊᕿᑦᑐᖅ ᖃᕆᑕᐅᔭᐅᑉ ᑎᑎᕋᕐᕕᖓ', 'aqittuq qaritaujaup titirarvinga', 'ᐊᕿᑦᑐᖅ ᖃᕆᑕᐅᔭᐅᑉ ᑎᑎᕋᕐᕕᖓ/aqittuq qaritaujaup titirarvinga'];ᐊᕿᑦᑐᖅ ᖃᕆᑕᐅᔭᐅᑉ ᑎᑎᕋᕐᕕᖓ
+information-realization;['ᕿᒥᕐᕈᐊᑦ/qimirruat', 'qimirruat', 'ᕿᒥᕐᕈᐊᑦ'];== ᕿᒥᕐᕈᐊᑦ ==
+information-realization;['ᕿᒥᕐᕈᐊᑦ ᐅᓐᓂᖅᑐᖅ ᒥᑦᓯ ᑐᑭᐊ', 'dictionary', 'ᕿᒥᕐᕈᐊᑦ ᐅᓐᓂᖅᑐᖅ ᒥᑦᓯ ᑐᑭᐊ/qimirruat unniqtuq mitsi tukia', 'qimirruat unniqtuq mitsi tukia'];ᕿᒥᕐᕈᐊᑦ ᐅᓐᓂᖅᑐᖅ ᒥᑦᓯ ᑐᑭᐊ
+information-realization;['ᒧᒥᖅᑐᖅ', 'mumiqtuq', 'ᒧᒥᖅᑐᖅ/mumiqtuq'];mumiqtuq
+language;['ᔅᕗᓐᔅᑭᑐᑦ'];ᔅᕗᓐᔅᑭᑐᑦ —ᐅᖃᖅᑐᖅ ᔅᕗᕆᑭ.
+language;['ᐃᓯᐱᕋᓐᑐ', 'esperanto', 'ispirantu', 'ᐃᓯᐱᕋᓐᑐ/isipirantu'];ᐃᓯᐱᕋᓐᑐ
+language;['ᖃᓪᓗᓈᑎᑐᑦ', 'english', 'qallunaatitut', 'ᐅᖃᕐᕕᐅᑎᔪᑦ ᖃᑯᖅᑕᖅ ᐊᖑᑦ', 'ᖃᓪᓗᓈᑎᑐᑦ/qallunaatitut'];ᖃᓪᓗᓈᑎᑐᑦ: English ᐊᒻᒪᓗ English language.
+language;['ᐱᓚᒥᔅ', 'flemish', 'pilamis/ᐱᓚᒥᔅ', 'vlaams', 'ᐱᓚᒥᔅ/pilamis', 'ᕝᓛᒻᔅ', 'pilamis'];ᐱᓚᒥᔅ—6.100.000 ᐄᒃ, ᐅᖃᕐᕕᐅᑎᔪᑦ, ᐊᒻᒪ ᓄᓇ ᐃᓗᐊᓂ ᐆᕈᑉ.
+language;['ᑯᕆᐊᑎᑐᑦ', 'kuriatituq'];ᑯᕆᐊᑎᑐᑦ
+language;['ᑲᓇᑕᒥ ᐃᓄᐃᑦ ᐅᖃᐅᓯᖏᑦ', 'ᑲᓇᑕᒥ ᐃᓄᐃᑦ ᐅᖃᐅᓯᖏᑦ/kanatami inuit uqausingit', 'kanatami inuit uqausingit'];ᑲᓇᑕᒥ ᐃᓄᐃᑦ ᐅᖃᐅᓯᖏᑦ - ᐅᖃᐅᓯᓕᕆᓂᕐᒥ ᓇᓗᓇᐃᖅᑕᐅᓲᖑᕗᖅ ᑲᓇᑕᒥ ᐃᓄᐃᑦ ᐅᖃᐅᓯᖏᑦ Eskimo-Aleut ᐅᖃᕐᕕᐅᑎᔪᑦ ᐃᓚᒌᑦ «language family» ᐃᓗᐊᓃᑐᓂ.
+language;['ᑮᓱᐊ', 'kiisia', 'quechua'];ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+language;['ᔅᕙᐦᐃᓕᑐᑦ'];ᔅᕙᐦᐃᓕᑐᑦ
+language;['ᐦᐃᓐᑏ', 'hindi', 'hintii', 'ᐦᐃᓐᑏ/hintii'];ᐦᐃᓐᑏ ᐊᒻᒪᓗ हिंदी भाषा - Hindī bhāsā ᐦᐃᓐᑏ ᑉᐦᐋᓵ ᐦᐃᓐᑏ —ᐦᐃᓐᑏᐊ ᐅᖃᐅᓯᓕᕆᔨ.
+language;['ᓯᐸᐃᓂᑎᑐᑦ', 'sipainititut', 'ᓯᐸᐃᓂᑎᑐᑦ/sipainititut'];ᓯᐸᐃᓂᑎᑐᑦ ᐅᖃᕐᕕᐅᑎᔪᑦ ᐅᓐᓂᖅᑐᖅ ᐅᖃᒡᒎᑐᑦ 400.000.000 ᐊᖑᑦ ᑕᐱᕐᖁᐊᕇᑦᑐᑦ ᓯᓚ.
+language;['ᐊᕋᕕ', 'arabic', 'aravi', 'ᐊᕋᕕ/aravi'];ᐊᕋᕕ—
+legal-possession-entity;['ᐆᒃᑐᕋᐃᓂᖅ', 'test', 'uukturainiq/ᐆᒃᑐᕋᐃᓂᖅ', 'ᐆᒃᑐᕋᐃᓂᖅ/uukturainiq', 'uukturainiq'];ᐆᒃᑐᕋᐃᓂᖅ—ᐆᑦᑐᕋᖅᐹ ᐃᓕᓴᖅᐳᖅ ᐃᓄᒃ ᖃᔅᓯᑦ ᐃᓕᓐᓂᐊᐹ ᐃᓗᐊᓂ ᐃᓕᓐᓂᐊᖅᑐᓕᕆᓂᖅ.
+locative-role;['ᑭᐆᑐ'];ᑭᐆᑐ ᓄᓇᓖᑦ ᓃᑉᐊᓐ.
+locative-role;['ᑯᓇᔅ/kunas', 'kaunas'];== ᑯᓇᔅ ==
+locative-role;['ᐊᑏᕐᓇ'];ᐊᑏᕐᓇ, ᓄᓇᓖᑦ ᑑrᑭ.
+locative-role;['ᓴᑉᐳᕈ', 'sapporo'];ᓴᑉᐳᕈ ᓄᓇᓖᑦ ᓃᑉᐊᓐ.
+locative-role;['ᐃᐅᑕᐳᕆ', 'ᐃᐅᑕᐳᕆ/iutaburi', 'ᐃᐅᑕᐳᕆ/iutapuri'];ᐃᐅᑕᐳᕆ ᔅᕗᕆᑭ ᒐᕙᒪᖃᕐᕕᐅᔪᖅ.
+locative-role;['ᐆᓴᑲ', 'ôsaka'];ᐆᓴᑲ ᓄᓇᓖᑦ ᓃᑉᐊᓐ.
+locative-role;['ᓴᐆ ᐸᐆᓘ', 'sâo paulo'];ᓴᐆ ᐸᐆᓘ ᓄᓇᓖᑦ ᐳᕋᓯᓪ.
+locative-role;['ᓰᖄᑯ', 'chicago', 'ᓰᖄᑯ/siiqaaku'];ᓰᖄᑯ«ᖃᓪᓗᓈᑎᑐᑦ-Chicago»—ᓄᓇᓖᑦ ᐃᓗᐊᓂ ᐄᓚᓄᐃᔅ, ᐊᒥᐊᓕᑲ.
+locative-role;['ᕆᐆ ᑌ ᔭᓀᕉ', 'rio de janeiro'];ᕆᐆ ᑌ ᔭᓀᕉ ᓄᓇᓖᑦ ᐳᕋᓯᓪ.
+non-agentive-physical-object;['ᓈᕌᔩᖅ', 'frog', 'naaraajiiq', 'ᓈᕌᔩᖅ/naaraajiiq'];ᓈᕌᔩᖅ—ᒥᑭᑦᑐᖅ ᖃᐅᓯᑦᑐᒃ ᓂᐱᔪᒃ ᐃᒪᖅᓯᐅᑦ.
+non-agentive-physical-object;['ᐃᑭᐊᖅᖠᖅ/ikiaqłiq', 'ᐃᑭᐊᖅᖠᖅ', 'ikiaqliq', 'ikiaqłiq', 'shirt'];== ᐃᑭᐊᖅᖠᖅ ==
+non-agentive-physical-object;['ᐃᕐᒥᒡᕕᒃ', 'ᐃᕐᒥᒡᕕᒃ/irmigvik', 'irmigvik'];ᐃᕐᒥᒡᕕᒃ—
+non-agentive-physical-object;['ᐊᐅᑦᓯᓇᖅᑐᖅ', 'autsinaqtuq', 'clothing', 'ᐊᐅᑦᓯᓇᖅᑐᖅ/autsinaqtuq'];ᐊᐅᑦᓯᓇᖅᑐᖅ ᓱᓕᐊᖅ ᐊᓂᖅᐸᓈᖅᑑᔭᖅᑐᖅ ᐅᓚᐱᑉᐹ ᓴᐳᒻᒥᕚ ᑎᒥ.
+non-agentive-physical-object;['ᐊᓐᓄᕌᓄᑦ ᐸᓂᖅᓴᐅᑦ'];ᐊᓐᓄᕌᓄᑦ ᐸᓂᖅᓴᐅᑦ [Clothes dryer]――― annuraanut paniqsaut ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+non-agentive-physical-object;['ᐊᓗᕐᓘᔭᐅᑦ'];ᐊᓗᕐᓘᔭᐅᑦ [rug]――― alurluujaut ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+non-physical-collection;['ᐊᖓᒃᑯᖅ'];ᐊᖓᒃᑯᖅ-ᐃᓄᒃ ᐱᔪᓐᓇᐅᑎᓕᒃ ᖃᓄᑐᐃᓐᓇᖅ ᑕᑯᒃᓴᐅᖏᑦᑐᒥᒃ ᐊᖓᒃᑰᕗᖅ.
+parameter;['ᐊᖓᔮᕐᓇᖅᑐᖅ ᓯᓕᙴᑎᕚ ᐅᓪᓛᒃ', 'hangover', 'ᐊᖓᔮᕐᓇᖅᑐᖅ ᓯᓕᙴᑎᕚ ᐅᓪᓛᒃ/angajaarnaqtuq silinnguutivaa ullaak', 'angajaarnaqtuq silinnguutivaa ullaak'];ᐊᖓᔮᕐᓇᖅᑐᖅ ᓯᓕᙴᑎᕚ ᐅᓪᓛᒃ— ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+parameter;['ᐅᓪᓛᖅ/ullaaq'];== ᐅᓪᓛᖅ == ᐅᓐᓄᐊᓪᓗ ᐅᓪᓘᓪᓗ ᐊᑯᓐᓂᖓ ᐅᓪᓛᖑᕗᖅ.
+phenomenon;['ᓴᕕᒐᐅᔭᖅ/ikumautit', 'ᓴᕕᒐᐅᔭᖅ'];ikumautit
+phenomenon;['ᐅᓚᔪᔭᖅ', 'tornado', 'ulajujaq', 'ᐅᓚᔪᔭᖅ/ulajujaq'];ᐅᓚᔪᔭᖅ—ᐊᓄᕆ ᐅᐃᔾᔮᖅᖢᓂ ᕿᑎᖓ ᖁᒻᒧᐊᒃᖢᓂ ᐅᓚᔪᔭᐅᕗᖅ.
+phenomenon;['ᓄᕗᔭᖅ', 'nuvujaq', 'ᓄᕗᔭᖅ/nuvujaq'];ᓄᕗᔭᖅ
+phenomenon;['ᑕᒃᑐᒃ'];ᑕᒃᑐᒃ （ᖃᓪᓗᓈᑎᑐᑦ：Fog）――― Taktuk ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+phenomenon;['ᐃᒪᐅᑉ ᓱᑲᓐᓂᖓᓄᑦ ᐊᐅᓚᔪᓐᓇᐅᑦ', 'ᐃᒪᐅᑉ ᓱᑲᓐᓂᖓᓄᑦ ᐊᐅᓚᔪᓐᓇᐅᑦ/imaup sukanninganut aulajunnaut', 'imaup sukanninganut aulajunnaut'];ᐃᒪᐅᑉ ᓱᑲᓐᓂᖓᓄᑦ ᐊᐅᓚᔪᓐᓇᐅᑦ
+phenomenon;['ᑕᕋᖅᑑᑦ', 'x-ray', 'ᑕᕋᖅᑑᑦ/taraqtuut', 'taraqtuut'];ᑕᕋᖅᑑᑦ—
+phenomenon;['ᖃᓂᖅ ᖁᐊᔪᖅ', 'oral sex', 'qaniq quajuq', 'ᖁᐊᔪᖅ ᖃᓂᖅ', 'ᖃᓂᖅ ᖁᐊᔪᖅ/qaniq quajuq'];ᖁᐊᔪᖅ ᖃᓂᖅ [oral sex] ᐃᓗᓪᓕᐅᑎᕚ ᖃᓂᖅ ᐅᓗᕝᕕᒃ ᐃᓗᒻᒧᐊᐹ ᐅᓱᒃ ᐅᑦᓱᒃ ᐃᑎᖅ ᐃᓱᒪᐃᓐᓈᖅ.
+phenomenon;['ᐊᐳᑦ', 'aput', 'snow'];ᐊᐳᑦ—
+phenomenon;['ᓇᑕᖅᑯᕐᓇᐃᑦ/nataqqurnait', 'hail', 'nataqqurnait', 'ᓇᑕᖅᑯᕐᓇᐃᑦ'];== ᓇᑕᖅᑯᕐᓇᐃᑦ ==
+phenomenon;['ᓴᔪᑉᐱᓛᕗᖅ', 'sajuppilaavuq', 'ᓴᔪᑉᐱᓛᕗᖅ/sajuppilaavuq'];ᓴᔪᑉᐱᓛᕗᖅ ᐱᔪᑦᓴᐅᔪᖅ ᖃᑯᒍ ᓄᓇ ᑲᑦᑭᒍᑦ ᐅᓗᕝᕕᒃ ᐃᒥᒃᑳᓂᖅ.
+phenomenon;['ᓴᓂᓕᐊᖅᑐᖅ', 'saniliaqtuq', 'ᓴᓂᓕᐊᖅᑐᖅ/saniliaqtuq', 'ᖁᐊᔪᖅ'];ᓴᓂᓕᐊᖅᑐᖅ—ᐃᓕᐅᕐᓂᖅ ᐊᓂᖅᐸᓈᖅᑑᔭᖅᑐᖅ ᐃᑦᔪᐊᐹ ᖁᐊᔪᖅ ᐃᓱᒪᐃᓐᓈᖅ.
+phenomenon;['ᐃᑯᒪ'];ᐃᑯᒪ-ᐃᒋᕙᑦᑕᑦᑎᖅ.
+phenomenon;['ᑭᐊᒃᑎᓯᒪᔪᖅ'];ᑭᐊᒃᑎᓯᒪᔪᖅ （ᖃᓪᓗᓈᑎᑐᑦ：Sweat）――― Kiaktisimajuq ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+phenomenon;['ᑲᑉᐳᑎᒨᖅᑐᖅ', 'kapputimuuqtuq'];kapputimuuqtuq
+phenomenon;['ᒥᓂ', 'mini', 'rain', 'ᒥᓂ/mini'];ᒥᓂ ᑕᐃᑦᓱᒪᓂᐅᓕᖅᐸᑦ ᐃᒪᖅ ᑲᑕᒃᑐᖅ ᕿᓚᒻᒥᐅᖅ ᐊᒻᒪ ᓄᕗᔭᑦ.
+physical-body;['ᑕᖅᑭᖅ', 'moon', 'taqqiq', 'ᑕᖅᑭᖅ/taqqiq'];ᑕᖅᑭᖅ
+physical-body;['ᓄᓇ', 'nuna', 'ᓄᓇ/nuna', 'ᓯᓚ', 'ᓯᓚ/sila'];ᓄᓇ |nuna| [the Earth] ᓯᓚ ᐱᕕᑦᓴᖅ ᓯᓚᕐᔪᐊᒥᐅᑦ ᐃᓅᕗᖅ.
+physical-body;['ᐃᓄᕕᓂᖅ'];ᐃᓄᕕᓂᖅ（dead body）
+physical-body;['ᒥᕐᑰᕆ'];ᒥᕐᑰᕆ
+physical-object;['ᐃᕐᒥᐅᑦ'];ᐃᕐᒥᐅᑦ （ᖃᓪᓗᓈᑎᑐᑦ：Soap）――― Irmiut ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+physical-object;['ᐊᒥᐃᐅᓕᐅᕈ', 'amisuliurut', 'photocopier'];ᐊᒥᐃᐅᓕᐅᕈ
+physical-object;['ᐊᓪᓕᕈᔮᒃ'];ᐊᓪᓕᕈᔮᒃ [Scissors]――― allirujaak ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+physical-object;['ᑭᑦᑐᕇᓕᑕᖅ', 'kitturiilitaq'];ᑭᑦᑐᕇᓕᑕᖅ—
+physical-object;['ᐃᑭᐊᖅᖠᖅ/ikiaqłiq', 'ᐃᑭᐊᖅᖠᖅ', 'ikiaqliq', 'ikiaqłiq', 'shirt'];== ᐃᑭᐊᖅᖠᖅ ==
+physical-object;['ᐃᕐᒥᒡᕕᒃ', 'ᐃᕐᒥᒡᕕᒃ/irmigvik', 'irmigvik'];ᐃᕐᒥᒡᕕᒃ—
+physical-object;['ᓂᕿᓂᐅᕕᕐᕕᒃ', 'supermarket', 'ᓂᕿᓂᐅᕕᕐᕕᒃ/niqiniuvirik', 'ᓂᕿᓂᐅᕕᕐᕕᒃ/niqiniuvirvik', 'niqiniuvirvik'];ᓂᕿᓂᐅᕕᕐᕕᒃ— ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+physical-object;['ᕿᓚᐅᑦ', 'drum', 'qilaut'];ᕿᓚᐅᑦ ᐊᖕᒪᓗᖅᖢᓂ ᑎᒍᒥᐊᕐᕕᖃᖅᖢᓂ ᑐᒃᑑᑉ ᐊᒥᖓᓂᒃ ᒥᖅᑯᐃᔭᖅᓯᒪᔪᒥᒃ ᐃᑦᑕᓯᒪᓪᓗᓂ, ᐊᕙᓗᖃᖅᖢᓂ ᕿᔪᖕᒥᒃ, ᑕᒪᐅᓇ ᕿᔪᒃᑕᖓᒍᑦ ᑲᓱᒃᐸᒃᖢᒍ ᐃᒃᑐᒃᑕᖅᖢᓂ ᐃᒥᐊᖦᖢᓂᓗ ᑐᓴᕐᓂᖅᑐᖅ.
+physical-object;['ᐊᓗᕐᓘᔭᐅᑦ'];ᐊᓗᕐᓘᔭᐅᑦ [rug]――― alurluujaut ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+physical-object;['ᐊᓇᕐᕕᒃ'];ᐊᓇᕐᕕᒃ [washroom]――― anarvik ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+physical-object;['ᓯᑎᒐᖅ', 'doghouse', 'ᓯᑎᒐᖅ/sitigaq', 'sitigaq'];ᓯᑎᒐᖅ—
+physical-object;['ᑕᓕᐊᖅ', 'watch', 'ᑕᓕᐊᖅ/taliaq', 'taliaq'];ᑕᓕᐊᖅ—ᓴᐸᖓᐃᑦ ᓄᕕᓯᒪᔪᑦ, ᓴᕕᕋᔭᒃ ᓴᓇᓯᒪᔪᖅ ᐅᐊᔅᓯᓗ ᐊᒡᒐᐅᒻᒥᐅᑕᖅ ᑕᓕᐊᖑᕗᖅ.
+physical-object;['nuijaaqpait'];Nuijaaqpaittauq kakivaujut kapuuti.
+physical-object;['ᐃᓄᒃᑕᐅᑦ', 'inuktat'];ᐃᓄᒃᑕᐅᑦ ᐊᑦᓴᓗᐊᓕᒃ ᐊᑐᐃᓐᓇᓯᕗᖅ ᐅᐊᔪᖅ ᑐᓂᐅᕐᖃᐸᐃᑦ ᐊᖑᑦ ᖃᑯᒍ ᑲᑎᒪᔪᑦ ᐊᕐᓕᐊᑐᖅ ᐊᑦᓴᓗᐊᓕᒃ.
+physical-object;['ᐅᒥᐊᕐᔪᐊᖅ'];ᐅᒥᐊᕐᔪᐊᖅ [Ship] umiarjuaq ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+physical-object;['ᑭᒍᑎᙳᐊᑦ ᓂᐱᑎᓯᒪᔪᑦ', 'bridge', 'kigutinnguat nipitisimajut', 'ᑭᒍᑎᙳᐊᑦ ᓂᐱᑎᓯᒪᔪᑦ/kigutinnguat nipitisimajut'];ᑭᒍᑎᙳᐊᑦ ᓂᐱᑎᓯᒪᔪᑦ
+physical-object;['ᐃᒡᓗ', 'iglù', 'igloo', 'illuvigaq'];ᐃᒡᓗ n.i.
+physical-object;['ᐅᓪᓕᐸᑲ', 'ullipaka'];ᐅᓪᓕᐸᑲ
+physical-object;['ᐊᐅᑦᓯᓇᖅᑐᖅ', 'autsinaqtuq', 'clothing', 'ᐊᐅᑦᓯᓇᖅᑐᖅ/autsinaqtuq'];ᐊᐅᑦᓯᓇᖅᑐᖅ ᓱᓕᐊᖅ ᐊᓂᖅᐸᓈᖅᑑᔭᖅᑐᖅ ᐅᓚᐱᑉᐹ ᓴᐳᒻᒥᕚ ᑎᒥ.
+physical-object;['ᐊᓐᓄᕌᓄᑦ ᐸᓂᖅᓴᐅᑦ'];ᐊᓐᓄᕌᓄᑦ ᐸᓂᖅᓴᐅᑦ [Clothes dryer]――― annuraanut paniqsaut ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+physical-object;['ᓯᑮᑐ', 'sikiitu', 'ᓯᑮᑐ/sikiitu'];[snowmobile]
+physical-object;['ᐊᓗᕐᓘᔭᐅᑦ'];ᐊᓗᕐᓘᔭᐅᑦ [rug]――― alurluujaut ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+physical-object;['ᐳᑕᖅ', 'ᐳᑕᖅ/putaq'];ᐳᑕᖅ
+physical-object;['ᖃᕆᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ', 'internet', 'qarisaujakkut titiraqsimajut', 'ᖃᕆᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ/qarisaujakkut titiraqsimajut'];ᖃᕆᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ—ᖃᕆᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ ᖃᕋᓴᐅᔭᖅ ᒪᑉᐱᑕᖅ ᑮᑎᑕᖅ.
+physical-region;['ᑕᕐᕋᖅ'];ᑕᕐᕋᖅ-ᓯᕿᓂᐅᑉ ᖃᐅᒪᐅᓪᓘᓐᓃᑦ ᖃᐅᒪᑎᒃᑯᓂᐅᒃ ᐃᓅᑉ ᑭᓱᑐᐃᓐᓇᐅᓪᓘᓐᓃᑦ ᐅᖓᑖ ᑖᕐᓂᖅ ᑕᕐᕋᐅᕗᖅ.
+political-geographic-object;['ᑭᐆᑐ'];ᑭᐆᑐ ᓄᓇᓖᑦ ᓃᑉᐊᓐ.
+political-geographic-object;['ᑯᓇᔅ/kunas', 'kaunas'];== ᑯᓇᔅ ==
+political-geographic-object;['ᐊᑏᕐᓇ'];ᐊᑏᕐᓇ, ᓄᓇᓖᑦ ᑑrᑭ.
+political-geographic-object;['ᓃᑉᐊᓐ', 'niipan', 'japan', 'ᔭᐸᓐ', 'ᔭᐸᓐ/japan'];ᓃᑉᐊᓐ—«日本国» ᓄᓇ ᒥᒃᓵᓂ ᖃᓂᙱᑐᒃ ᑲᖏᐊᓂ.
+political-geographic-object;['ᓴᑉᐳᕈ', 'sapporo'];ᓴᑉᐳᕈ ᓄᓇᓖᑦ ᓃᑉᐊᓐ.
+political-geographic-object;['ᑐᓗᐃᑦ ᓄᓈᑦ'];ᑐᓗᐃᑦ ᓄᓈᑦ «United Kingdom»-ᖃᓪᓗᓈᐃᑦ ᓄᓈᑦ.
+political-geographic-object;['ᓯᐸᐃᓐ', 'sipain', 'spain'];ᓯᐸᐃᓐ «España» ᐃᓅᖃᑎᒌᑦ ᐃᓕᖅᑯᓯᖃᑎᒌᒃᑐᑦ ᐱᑕᖃᕗᒃ 47 007 367 ᐃᑎᐊᔪᑦ ᑭᑐᑦ ᓱᑦᖃᐃᐳᖅ
+political-geographic-object;['ᑲᓴᒃᖢᓇ ᓄᓇ'];ᑲᓴᒃᖢᓇ ᓄᓇ«Қазақстан ᖃᓴᖅᔅᑕᓐ» ᓄᓇ 17.498.145 ᖃᓪᓗᓈᖅ ᐊᒻᒪ ᐃᓄᐃᑦ ᐃᓄᒃ ᐃᓗᐊᓂ.
+political-geographic-object;['ᐄᓚᓄᐃᔅ', 'iilanuis', 'illinois', 'ᐄᓚᓄᐃᔅ/iilanuis'];ᐄᓚᓄᐃᔅ—[ᖃᓪᓗᓈᑎᑐᑦ—Illinois]— 12,859,995 ᐃᑎᐊᔪᑦ ᐃᓗᐊᓂ.
+political-geographic-object;['ᒦᓃᓲᑖ', 'minnesota', 'ᒦᓃᓲᑖ/miiniisuutaa'];ᒦᓃᓲᑖ—[ᖃᓪᓗᓈᑎᑐᑦ— Minnesota]— 5,489,594 (2015) ᐃᑎᐊᔪᑦ ᐃᓗᐊᓂ.
+political-geographic-object;['ᐸᑭᔅᑕᓐ', 'pakistan'];ᐸᑭᔅᑕᓐ—
+political-geographic-object;['ᐊᑉᒐᓂᔅᑕᓐ'];ᐊᑉᒐᓂᔅᑕᓐ [Afghanistan] ―― Apganistan ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+political-geographic-object;['ᐊᔅᑦᕌᓕᐊ', 'astraalia', 'australia', 'ᐊᔅᑦᕌᓕᐊ/astraalia'];ᐊᔅᑦᕌᓕᐊ
+political-geographic-object;['ᐃᐅᑕᐳᕆ', 'ᐃᐅᑕᐳᕆ/iutaburi', 'ᐃᐅᑕᐳᕆ/iutapuri'];ᐃᐅᑕᐳᕆ ᔅᕗᕆᑭ ᒐᕙᒪᖃᕐᕕᐅᔪᖅ.
+political-geographic-object;['ᔮᒪᓂ', 'germany', 'jaamani', 'ᔮᒪᓂ/jaamani'];ᔮᒪᓂ—ᓄᓇ ᒥᒃᓵᓂ ᐃᐆᕈᑉ ᑭᒃᑯᑦ 82.438.000 ᐱᑕᖃᕗᒃ.
+political-geographic-object;['ᐃᓐᑎᐊ', 'intia', 'ᐃᓐᑎᐊ/intia'];intia ᖃᓪᓗᓈᑎᑐᑦ: India.
+political-geographic-object;['italy'];ᐄᑕᓖ «Italia» ᐃᓅᖃᑎᒌᑦ ᐃᓕᖅᑯᓯᖃᑎᒌᒃᑐᑦ ᐱᑕᖃᕗᒃ 59.685.227 ᐃᑎᐊᔪᑦ ᑭᑐᑦ ᓱᑦᖃᐃᐳᖅ.
+political-geographic-object;['ᓯᓕ'];ᓯᓕ == ᑭᒻᒧᑦ ᐅᖅᓯᖅ == thisisChile.cl - Website about Chile ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+political-geographic-object;['ᐄᓅᓯᐊ', 'indonesia'];ᐄᓅᓯᐊ «Indonesia» ᖓᕋᕉ ᐋᑎᐊ ᐸᖑᒦ ᔾᐊᑭᑦᖤ.
+political-geographic-object;['ᑯᑯᓯ ᓄᓇ'];ᑯᑯᓯ ᓄᓇ«Україна-ᐅᒃᕋᐃᓇ» ᓄᓇ 48.240.902 ᖃᓪᓗᓈᖅ ᐊᒻᒪ ᐃᓄᐃᑦ ᐃᓄᒃ ᐃᓗᐊᓂ.
+political-geographic-object;['ᒦᒃᓰᖂ', 'miiksiiquu', 'ᒦᒃᓰᖂ/miiksiiquu'];== ᒥᐊᒃᓯᑯ ==
+political-geographic-object;['ᐃᕉᒃ', 'irak'];ᐃᕉᒃ ᐃᓅᖃᑎᒌᑦ ᐃᓕᖅᑯᓯᖃᑎᒌᒃᑐᑦ ᑎᒍᕚ 25.374.691 ᐆᒪᔪᑦ ᐊᒥᓲᓂᖏᑦ ᐃᑦᓯᕕᒻᒥᐅᓯᖅᐹ.
+political-geographic-object;['france'];France, pisortatigoortumik Kunngiitsuuffik Franskit Nunaat, nunaavoq Europap kippasissortaaniittoq.
+political-geographic-object;['ᒫᓵᓲᓰᑦᔅ', 'massachusetts', 'ᒫᓵᓲᓰᑦᔅ/maasaasuusiits'];ᒫᓵᓲᓰᑦᔅ—[ᖃᓪᓗᓈᑎᑐᑦ—Massachusetts]— 6,794,422 (2015) ᐃᑎᐊᔪᑦ ᐃᓗᐊᓂ.
+political-geographic-object;['ᑖᑰᑖ ᓂᒋᖅ', 'ᑖᑰᑖ ᓂᒋᖅ/taakuutaa nigiq'];ᑖᑰᑖ ᓂᒋᖅ—[ᖃᓪᓗᓈᑎᑐᑦ—South Dakota]— 858,469 (2015) ᐃᑎᐊᔪᑦ ᐃᓗᐊᓂ.
+political-geographic-object;['ᐊᓛᓯᑲ', 'alaska', 'alaasika', 'ᐊᓛᓯᑲ/alaasika'];ᐊᓛᓯᑲ, part of ᐊᒥᐊᓕᑲ with an indigenous Inuit population.
+political-geographic-object;['ᐆᕇᕇᓐ', 'orégon'];ᐆᕇᕇᓐ—[ᖃᓪᓗᓈᑎᑐᑦ—Oregon]— 4,028,977 (2015) ᐃᑎᐊᔪᑦ ᐃᓗᐊᓂ.
+political-geographic-object;['ᓗᐄᓰᐋᓈ', 'louisiana', 'ᓗᐄᓰᐋᓈ/luiisiiaanaa'];ᓗᐄᓰᐋᓈ—[ᖃᓪᓗᓈᑎᑐᑦ—Louisiana]— 4,681,666 ᐃᑎᐊᔪᑦ ᐃᓗᐊᓂ.
+political-geographic-object;['ᐆᑳᓛᓲᒫ', 'oklahoma', 'ᐆᑳᓛᓲᒫ/uukaalaahuumaa'];ᐆᑳᓛᓲᒫ—[ᖃᓪᓗᓈᑎᑐᑦ—Oklahoma]— 3,911,338 (2015) ᐃᑎᐊᔪᑦ ᐃᓗᐊᓂ.
+political-geographic-object;['ᑉᓘᕇᑖ', 'flórida', 'ᑉᓘᕇᑖ/pluuriitaa'];ᑉᓘᕇᑖ—[ᖃᓪᓗᓈᑎᑐᑦ—Florida]— 20,271,272 (2015) ᐃᑎᐊᔪᑦ ᐃᓗᐊᓂ.
+political-geographic-object;['ᑳᕉᓖᓈ ᑐᓄᕕᐊᖅ', 'ᑳᕉᓖᓈ ᑐᓄᕕᐊᖅ/kaaruuliinaa tunuviaq'];ᑳᕉᓖᓈ ᑐᓄᕕᐊᖅ—[ᖃᓪᓗᓈᑎᑐᑦ—North Carolina]— 10,042,802 ᐃᑎᐊᔪᑦ ᐃᓗᐊᓂ.
+political-geographic-object;['ᐋᕇᓲᓈ', 'arizona', 'ᐋᕇᓲᓈ/aariisuunaa'];ᐋᕇᓲᓈ—[ᖃᓪᓗᓈᑎᑐᑦ—Arizona]— 6,828,065 (2015) ᐃᑎᐊᔪᑦ ᐃᓗᐊᓂ.
+political-geographic-object;['ᒦᓰᓰᐲ', 'mississíppi'];ᒦᓰᓰᐲ—[ᖃᓪᓗᓈᑎᑐᑦ—Mississippi]— 2,992,333 (2015) ᐃᑎᐊᔪᑦ ᐃᓗᐊᓂ.
+political-geographic-object;['ᑳᕉᓖᓈ ᓂᒋᖅ', 'kaaruuliinaa nigiq', 'ᑖᑰᑖ ᓂᒋᖅ/taakuutaa nigiq.', 'ᑳᕉᓖᓈ ᓂᒋᖅ/kaaruuliinaa nigiq', 'ᑳᕉᓖᓈ ᓂᒋᖅ/kaaruuliinaa nigiq.'];ᑳᕉᓖᓈ ᓂᒋᖅ—[ᖃᓪᓗᓈᑎᑐᑦ—South Carolina]— 4,561,242 ᐃᑎᐊᔪᑦ ᐃᓗᐊᓂ.
+political-geographic-object;['ᐄᑖᓲ', 'idaho', 'ᐊᐃᑕᓱ'];ᐄᑖᓲ—[ᖃᓪᓗᓈᑎᑐᑦ—Idaho]— 5,024,748 (2015) ᐃᑎᐊᔪᑦ ᐃᓗᐊᓂ.
+political-geographic-object;['ᐋᓛᐹᒫ', 'alabama', 'ᐋᓛᐹᒫ/aalaapaamaa'];ᐋᓛᐹᒫ—[ᖃᓪᓗᓈᑎᑐᑦ—Alabama]— 4,858,979 (2015) ᐃᑎᐊᔪᑦ ᐃᓗᐊᓂ.
+political-geographic-object;['ᓂᕚᑖ', 'névada', 'ᓂᕚᑖ/nivaataa'];ᓂᕚᑖ—[ᖃᓪᓗᓈᑎᑐᑦ—Nevada]— 2,940,058 ᐃᑎᐊᔪᑦ ᐃᓗᐊᓂ.
+political-geographic-object;['ᑳᓖᐴᕐᓃᐊ', 'california', 'kaaliipuurniia', 'ᑳᓖᐴᕐᓃᐊ/kaaliipuurniia'];ᑳᓖᐴᕐᓃᐊ— ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+political-geographic-object;['ᑰᓘᕌᑑ', 'colorado', 'ᑰᓘᕌᑑ/kuuluuraatuu'];ᑰᓘᕌᑑ—(ᖃᓪᓗᓈᑎᑐᑦ—Colorado)— 5,456,574 (2015) ᐃᑎᐊᔪᑦ ᐃᓗᐊᓂ.
+political-geographic-object;['ᑖᑰᑖ ᑐᓄᕕᐊᖅ', 'ᑖᑑᑳ ᑐᓄᕕᐊᖅ/taatuukaa tunuviaq', 'ᑖᑰᑖ ᓂᒋᖅ/taakuutaa tunuviaq'];ᑖᑰᑖ ᑐᓄᕕᐊᖅ—[ᖃᓪᓗᓈᑎᑐᑦ—North Dakota]— 756,927 (2015) ᐃᑎᐊᔪᑦ ᐃᓗᐊᓂ.
+political-geographic-object;['ᐆᓴᑲ', 'ôsaka'];ᐆᓴᑲ ᓄᓇᓖᑦ ᓃᑉᐊᓐ.
+political-geographic-object;['ᓴᐆ ᐸᐆᓘ', 'sâo paulo'];ᓴᐆ ᐸᐆᓘ ᓄᓇᓖᑦ ᐳᕋᓯᓪ.
+political-geographic-object;['ᒨᔅᑯ', 'moscow'];ᒨᔅᑯ (ᐅᓛᓴᑐᑦ: Москва), ᐅᓛᓴ.
+political-geographic-object;['ᓰᖄᑯ', 'chicago', 'ᓰᖄᑯ/siiqaaku'];ᓰᖄᑯ«ᖃᓪᓗᓈᑎᑐᑦ-Chicago»—ᓄᓇᓖᑦ ᐃᓗᐊᓂ ᐄᓚᓄᐃᔅ, ᐊᒥᐊᓕᑲ.
+political-geographic-object;['ᐃᓐᓚᓐᑦ', 'finland'];== ᑭᒻᒧᑦ ᐅᖅᓯᖅ == ᐃᓐᓚᓐᑦ ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+political-geographic-object;['ᑑᑭᐅ', 'tokyo', 'ᑦᐅᑭᐆ', 'ᑦᐅᑭᐆ/tukiuu'];ᑑᑭᐅ ᓄᓇᓖᑦ ᓃᑉᐊᓐ.
+political-geographic-object;['ᕕᓪᓂᐅᔅ/vilnius'];== ᕕᓪᓂᐅᔅ ==
+political-geographic-object;['ᔅᑑᒃᓱᓪᒻ', 'ᔅᑑᒃᓱᓪᒻ/stuukhulm'];== ᔅᑑᒃᓱᓪᒻ ==
+political-geographic-object;['ᐊᑐᕚ/atavaa', 'ᐊᑦᑖᕙ', 'atavaa', 'ottawa', 'ᐊᑐᕚ'];== ᐊᑐᕚ == ᐊᑐᕚ—— == atavaa == atavaa— ᖃᓪᓗᓈᑎᑐᑦ: Ottawa ᑲᓇᑕᐅᑉ ᒐᕙᒪᖃᕐᕕᐅᔪᖅ.
+political-geographic-object;['ᕆᐆ ᑌ ᔭᓀᕉ', 'rio de janeiro'];ᕆᐆ ᑌ ᔭᓀᕉ ᓄᓇᓖᑦ ᐳᕋᓯᓪ.
+political-geographic-object;['ᑯᐸᐃᒃ', 'ᑯᐱᐊᒃ', 'kupaik', 'quebec'];ᑯᐸᐃᒃ Philippe Couillard ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+political-geographic-object;['ᑖᒃᓵᔅ', 'téxas', 'ᑕᒃᓴᔅ/taksas', 'ᑖᒃᓵᔅ/taaksaas', 'ᑖᒃᓵᔅ/taksas', 'ᑖᒃᓵᔅᔅ/taksas'];ᑖᒃᓵᔅ—(ᖃᓪᓗᓈᑎᑐᑦ—Texas)— 27,469,114 (2015) ᐃᑎᐊᔪᑦ ᐃᓗᐊᓂ.
+qualitative-role;['ᐊᑭ'];ᐊᑭ [Price]――― aki ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+quality;['ᐊᒥᐊᑦ'];ᐊᒥᐊᑦ [Color]――― amiat ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+quality;['ᐊᖓᒃᑯᖅ'];ᐊᖓᒃᑯᖅ-ᐃᓄᒃ ᐱᔪᓐᓇᐅᑎᓕᒃ ᖃᓄᑐᐃᓐᓇᖅ ᑕᑯᒃᓴᐅᖏᑦᑐᒥᒃ ᐊᖓᒃᑰᕗᖅ.
+region;['ᖃᐅ', 'ᖃᐅ/qau'];ᖃᐅ' ᐊᑕᐅᓯᖅ ᐱᑕᖃᕗᒃ 24 ᐃᑲᕐᕋᖅ.
+relevant-part;['ᐊᓗᕐᓘᔭᐅᑦ'];ᐊᓗᕐᓘᔭᐅᑦ [rug]――― alurluujaut ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+relevant-part;['ᖃᓪᓗ', 'eyebrow', 'ᖃᓪᓗ/qallu', 'qallu'];ᕐᑲᓪᓗ
+relevant-part;['ᐅᒥᒃ'];ᐅᒥᒃ （ᖃᓪᓗᓈᑎᑐᑦ：Beard）――― Umik ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+simple-collective;['ᐃᓅᖃᑎᒌᑦ ᐃᓕᖅᑯᓯᖃᑎᒌᒃᑐᑦ', 'inuuqatigiit iliqqusiqatigiiktut'];ᑐᑭᐊ ᐃᓅᖃᑎᒌᑦ ᐃᓕᖅᑯᓯᖃᑎᒌᒃᑐᑦ ᐃᓚᖏᐅᑎᑎᑦᓯᒍᑎ ᓄᓇ ᐊᒡᒋᔾᔨᔪᖅ ᐊᑕᐅᓯᖅ ᐹᓂᖅᓯᐹᖅ ᑲᓇᑕᒥ ᐊᖓᔪᖅᑳᕐᔪᐊᖅ ᑭᒃᑯᑦ ᐅᓇᒻᒥᓇᐃᑦᑐᖅ ᑭᓇᑐᐃᓐᓇᖅ ᐃᓗᓪᓕᑑᑎᕚ ᓄᓇ.
+situation;['ᐋᒪᐃᔪᖅ', 'ᐋᒪᐃᔪᖅ/aamaijuq'];ᐋᒪᐃᔪᖅ ᖃᑯᒍ ᐄᒃ ᐱᐋᖅᑐᖅ ᐋᖓᔮᑦᑐᖅ ᓯᓕᙴᑎᕚ ᐊᖓᔮᕐᓇᖅᑐᖅ.
+situation;['ᐃᓄᐃᑎᑦᑐᖅ', 'abortion', 'inuitittuq', 'ᐃᓄᐃᑎᑦᑐᖅ/inuitittuq'];[abortion] ᐃᓄᐃᑎᑦᑐᖅ ᓄᑦᖃᖅᑐᖅ ᓄᑕᕋᒃᓴᖅ ᑎᕝᕕᐊᓂ ᐃᓄᖑᕐᕕᒃ.
+socially-constructed-person;['ᐦᐄᑦᓖᕐ'];ᐦᐄᑦᓖᕐ n.i.
+socially-constructed-person;['ᔫᕐᒋ ᕚᓯᖕᑐᓐ', 'george washington'];ᔫᕐᒋ ᕚᓯᖕᑐᓐ
+socially-constructed-person;['ronald reagan'];Ronald Reagan.
+socially-constructed-person;['ᐃᔅᓱᒪᑕᕕᒃ-ᐊᕐᓇᕐᒃ'];ᐃᔅᓱᒪᑕᕕᒃ-ᐊᕐᓇᕐᒃ [queen]
+socially-constructed-person;['ᐊᑖᑕ'];ᐊᑖᑕ （ᖃᓪᓗᓈᑎᑐᑦ：Father）――― Ataata ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+socially-constructed-person;['ᐃᓄᐃᑦ', 'ᐃᓄᐃᑦ (ᓄᓇᖃᖅᑳᖅᓯᒪᔪᑦ)/inuit', 'inuit'];ᐃᓄᐃᑦ— ᐃᓄᐃᑦ ᓄᓇᖃᖅᑐᑦ ᑲᓇᑕᒻᒥ, ᐊᑯᑭᑦᑐᒻᒥ, ᐊᓯᐊᒥ ᐊᒻᒪᓗ ᐊᓛᓯᑲᒥ.
+socially-constructed-person;['ᑭᓗᐊᐅᓂ'];ᑭᓗᐊᐅᓂ
+socially-constructed-person;['ᑕᑯᒥᓇᖅᓕᐅᖅᑎᑦ', 'takuminaqliuqtut'];ᑕᑯᒥᓇᖅᓕᐅᖅᑎᑦ
+socially-constructed-person;['ᐱᐅᓕᑦᓯᔨ', 'jesus', 'piulitsiji', 'ᐱᐅᓕᑦᓯᔨ/piulitsiji'];ᐱᐅᓕᑦᓯᔨ—
+socially-constructed-person;['ᓄᑕᒐᒃ', 'baby', 'nutagak', 'ᓄᑕᒐᒃ/nutagak'];ᓄᑕᒐᒃ ᑮᑕ ᐃᓄᒃ ᐊᑖᓂ ᐊᕐᕌᒍᓕᒃ 1 ᐊᒻᒪ ᐃᓗᐃᙵᐹ ᐊᔪᖅᓴᑎᑉᐹ ᐊᑦᑕᕆᔪᖅ ᐃᓄᓐᓂᑕᖅ ᐊᖓᔪᒃᖄᒃ
+socially-constructed-person;['ᐊᓈᓇ'];ᐊᓈᓇ [mother]――― anaana ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+socially-constructed-person;['ᐃᕐᓂᖅ'];ᐃᕐᓂᖅ （ᖃᓪᓗᓈᑎᑐᑦ：Son）――― Irniq ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+socially-constructed-person;['ᐊᕐᓇᖅ'];ᐊᕐᓇᖅ （ᖃᓪᓗᓈᑎᑐᑦ：Woman）――― Arnaq ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+socially-constructed-person;['ᐊᖑᑎ', 'ᐊᖑᑎ/anguti', 'ᐊᖑᑦ'];ᐊᖑᑎ
+socially-constructed-person;['ᐆᓛᑏᒫ ᓖᓃᓐ'];ᐆᓛᑏᒫ ᓖᓃᓐ(ᐅᓛᓴᑐᑦ.
+socially-constructed-person;['ᑕᑯᑦᓱᒍᓱᑉᐳᖅ ᐊᑯᓐᓂᖓᓐᓂ ᒪᒡᒎᒃ ᐊᖑᑦ', 'akunninganni takutsugusuppuq magguuk angut', 'gaaiu', 'ᒡᐋᐃᐅ'];ᑕᑯᑦᓱᒍᓱᑉᐳᖅ ᐊᑯᓐᓂᖓᓐᓂ ᒪᒡᒎᒃ ᐊᖑᑦ—ᐃᑎᐊᔪᑦ ᑕᑯᑦᓱᒍᓱᑉᐳᖅ ᑭᓪᓗᒧᑦ ᐊᔪᖅᑐᖅ ᑕᑯᑦᓱᒍᓱᑉᐳᖅ.
+socially-constructed-person;['ᐊᒃᑲᒃ'];ᐊᒃᑲᒃ [uncle]――― akkak ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+socially-constructed-person;['ᑲᓇᑕᒥ ᐊᖓᔪᖅᑳᕐᔪᐊᖅ'];ᑲᓇᑕᒥ ᐊᖓᔪᖅᑳᕐᔪᐊᖅ
+socially-constructed-person;['ᐊᔭᒃ'];ᐊᔭᒃ [Aunt]――― ajak ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+spatial-feature;['ᑭᖓᖅ'];ᑭᖓᖅ （ᖃᓪᓗᓈᑎᑐᑦ：Hill）――― Kingaq ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+spatial-feature;['ᕿᓚᒃ', 'qilak', 'sky', 'ᕿᓚᒃ/qilak'];ᕿᓚᒃ—
+subject;['ᑭᓯᑦᓯᓯᖕᖑᕐᓗᒋᑦ ᐹᓯᔅᓱᑎᔅᓴᑦ', 'kisitsisillgurlugitpasissitissat'];ᑭᓯᑦᓯᓯᖕᖑᕐᓗᒋᑦ ᐹᓯᔅᓱᑎᔅᓴᑦ
+subject;['ᓄᓇᓕᕆᓂᖅ', 'geology', 'nunaliriniq', 'ᓄᓇᓕᕆᓂᖅ/nunaliriniq'];ᓄᓇᓕᕆᓂᖅ
+subject;['ᓄᓇᐅᔪᖅ', 'ᓄᓇᐅᔪᖅ/nunaujuq', 'nunaujuq'];ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+subject;['ᑐᓴᐅᒪᖃᑦᑕᐅᑎᔾᔪᑎᓂᒃ ᐊᐅᓚᑦᑎᔩᑦ/tusaumaqattautijjutinik aulattijiit', 'tusaumaqattautijjutinik aulattijiit', 'ᑐᓴᐅᒪᖃᑦᑕᐅᑎᔾᔪᑎᓂᒃ ᐊᐅᓚᑦᑎᔩᑦ'];tusaumaqattautijjutinik aulattijiit
+subject;['ᑭᒍᑎᓕᕆᔨ', 'kigutiliriji'];ᑭᒍᑎᓕᕆᔨ—ᐋᓐᓂᐊᓯᐅᖅᑎᒪᕆᖏᑦ
+subject;['ᓯᓚᓯᐅᕐᓂᖅ', 'sulasuurniq'];ᓯᓚᓯᐅᕐᓂᖅ
+subject;['ᑎᑎᕋᐅᔭᖅ'];titiraujaq
+subject;['ᐃᒡᓗᕐᔪᐊᑦ ᐋᖅᑭᒃᓯᒪᓂᖏᑦ', 'iglurjuat aaqqiksimaningit', 'ᐃᒡᓗᕐᔪᐊᑦ ᐋᖅᑭᒃᓯᒪᓂᖏᑦ/iglurjuat aaqqiksimaningit'];ᐃᒡᓗᕐᔪᐊᑦ ᐋᖅᑭᒃᓯᒪᓂᖏᑦ
+subject;['ᐃᓱᒪᓕᐅᕐᓂᖅ', 'isumaliurniq', 'philosophy', 'ᐃᓱᒪᓕᐅᕐᓂᖅ/isumaliurniq'];ᐃᓱᒪᓕᐅᕐᓂᖅ—ᐊᐱᖅᓱᐹ ᐱᑦᖁᓯᖅ ᐱᐅᓂᕐᓂᐊᑐᖅ ᐃᓅᕗᖅ ᐊᒻᒪ ᒪᓕᒐᓕᐊᖑᓯᒪᔪᖅ ᐊᑕᓕᖅᑲᔪᖅ.
+subject;['ᐆᒫᑦᓱᓕᕆᓂᖅ/umatsuliriniq', 'umatsuliriniq', 'ᐆᒫᑦᓱᓕᕆᓂᖅ'];umatsuliriniq
+subject;['ᐆᒪᔅᓱᓯᖃᕐᑐᓕᕆᓂᖅ', 'umasusirkartuliriniq'];ᐆᒪᔅᓱᓯᖃᕐᑐᓕᕆᓂᖅ
+subject;['ᐅᖄᓯᓕᕆᓂᖅ', 'urkaasiliriniq'];ᐅᖄᓯᓕᕆᓂᖅ ᐃᓕᓐᓂᐊᕈᑎᒋᕚ ᐅᖃᕐᕕᐅᑎᔪᑦ.
+taxonomic-collective;['ᒥᑎᖅ', 'anatidae', 'mitiq', 'ᒥᑎᖅ/mitiq'];ᑎᖕᒥᐊᖅ ᐊᕐᓇ ᕕᐊᖏᑦ ᑲᔪᕈᔪᐃᑦ ᐊᖑᑎᕕᐊᑦ ᕿᖓᓕᐅᓪᓗᑎᒃ ᐊᒪᐅᓕᒡᔪᐊᖑᓪᓗᑎᒡᓘᓐᓃᑦ ᐃᖅᑲᕐᒥᐅᑕᓂᒃ ᑯᑭᐅᔭᓂᒃ ᐅᕕᓗᕐᓂᒡᓗ ᓂᕿᓖᒃ ᒥᑎᐅᕗᑦ.
+temporal-region;['ᔭᓐᓄᐊᓕ'];ᔭᓐᓄᐊᓕ ᓯᕗᓪᓕᖅ ᐅᑭᐅᖅ ᐃᑭᐊᖅ ᐊᕙᑎᓪᓗ ᖁᓕᓪᓗ ᐊᑕᐅᓯᖅ ᐅᓪᓗᓴᖅ.
+temporal-region;['ᔭᓐᓄᐊᓕ'];ᔭᓐᓄᐊᓕ ᓯᕗᓪᓕᖅ ᐅᑭᐅᖅ ᐃᑭᐊᖅ ᐊᕙᑎᓪᓗ ᖁᓕᓪᓗ ᐊᑕᐅᓯᖅ ᐅᓪᓗᓴᖅ.
+temporal-region;['ᔭᓐᓄᐊᓕ'];ᔭᓐᓄᐊᓕ ᓯᕗᓪᓕᖅ ᐅᑭᐅᖅ ᐃᑭᐊᖅ ᐊᕙᑎᓪᓗ ᖁᓕᓪᓗ ᐊᑕᐅᓯᖅ ᐅᓪᓗᓴᖅ.
+temporal-region;['ᑎᓯᒻᐳᕆ', 'december', 'tisimpuri', 'ᑎᓯᒻᐳᕆ/tisimpuri'];ᑎᓯᒻᐳᕆ [December]
+temporal-region;['ᑎᓯᒻᐳᕆ', 'december', 'tisimpuri', 'ᑎᓯᒻᐳᕆ/tisimpuri'];ᑎᓯᒻᐳᕆ [December]
+temporal-region;['ᒪᐃ', 'mai'];ᒪᐃ ᑕᖅᑭᖅ ᓯᕗᓕᐅᖅᐹ ᐊᐃᐳᕆᓪ ᐊᒻᒪ ᑭᖑᓪᓕᖅ ᔪᓂ.
+temporal-region;['ᓯᑎᒻᐳᕆ', 'sitimpuri', 'ᓯᑎᒻᐳᕆ/sitimpuri'];ᓯᑎᒻᐳᕆ [September]
+temporal-region;['ᓇᑦᓯᐊᓕᐅᑦ', 'natsialiut', 'ᓇᑦᓯᐊᓕᐅᑦ/natsialiut'];ᓇᑦᓯᐊᓕᐅᑦ [March].
+temporal-region;['ᕕᐳᐊᕆ', 'vipuari'];ᕕᐳᐊᕆ ᐊᐃᑉᐸᖅ ᑕᒃᕿᒃ ᐅᑭᐅᖅ.
+temporal-region;['ᐊᐅᒍᔅ', 'augus'];ᐊᐅᒍᔅ
+temporal-region;['ᔪᓚᐃ', 'julai', 'ᔪᓚᐃ/julai'];ᔪᓚᐃ [July]
+temporal-region;['ᐊᐃᐳᕆᓪ', 'aipuril', 'april', 'ᐊᐃᐳᕆᓪ/aipuril'];ᐊᐃᐳᕆᓪ ᑕᖅᑭᖅ ᓯᕗᓕᐅᖅᐹ ᓇᑦᓯᐊᓕᐅᑦ ᐊᒻᒪ ᑭᖑᓪᓕᖅ ᒪᐃ.
+temporal-region;['ᔪᓂ', 'juni', 'ᔪᓂ/juni'];ᔪᓂ [June]
+temporal-region;['ᓄᕕᒻᐳᕆ', 'november', 'nuvimpuri'];ᓄᕕᒻᐳᕆ
+temporal-region;['ᐅᒃᑐᐳᕆ', 'uktupuri', 'ᐅᒃᑐᐳᕆ/uktupuri'];ᐅᒃᑐᐳᕆ [october].
+temporal-region;['ᐅᑭᐅᖅ'];ᐊᑕᐅᓯᖅ ᐅᑭᐅᖅ ᓇᓕ 365.25 ᖃᐅ.
+temporal-region;['ᐅᐱᕐᓐᖄᖅ'];ᐅᐱᕐᓐᖄᖅ （ᖃᓪᓗᓈᑎᑐᑦ：Spring）――― Upirnqaaq ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+temporal-region;['ᒧᓇᑖᒃ', 'ᒧᓇᑖᒃ/munataaq'];ᒧᓇᑖᒃ ᓯᕗᓪᓕᖅᐹᖅ ᖃᐅ ᐃᓗᐊᓂ ᐱᓇᓱᐊᕈᓯᖅ.
+temporal-region;['ᐁᑉᐱᖅ'];ᐁᑉᐱᖅ [Tuesday] ――― aippiq ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+temporal-region;['ᐅᓐᓄᖅ'];ᐅᓐᓄᖅ （ᖃᓪᓗᓈᑎᑐᑦ：Night）――― Unnuq ᑖᓐᓇ ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ ᐃᑲᔪᖅᑕᐅᔭᕆᐊᖃᖅᑐᑦ.
+temporal-region;['ᓯᕗᓕᐅᖅᐹ ᐊᓪᓚᒍᑎ ᖃᐅᔨᓴᕐᓂᖅ ᑎᑎᖅᑲᑎᒍᑦ ᖃᓄᐃᓕᐅᖅᑕᐅᖃᑦᑕᕐᓂᑯᓂᒃ/sivuliuqpaa allaguti qaujisarniq titiqqatigut qanuiliuqtauqattarnikunik', 'prehistory', 'ᓯᕗᓕᐅᖅᐹ ᐊᓪᓚᒍᑎ ᖃᐅᔨᓴᕐᓂᖅ ᑎᑎᖅᑲᑎᒍᑦ ᖃᓄᐃᓕᐅᖅᑕᐅᖃᑦᑕᕐᓂᑯᓂᒃ'];== ᓯᕗᓕᐅᖅᐹ ᐊᓪᓚᒍᑎ ᖃᐅᔨᓴᕐᓂᖅ ᑎᑎᖅᑲᑎᒍᑦ ᖃᓄᐃᓕᐅᖅᑕᐅᖃᑦᑕᕐᓂᑯᓂᒃ ==
+temporal-region;['ᐊᐅᔭᖅ'];‘வமைலபம

@@ -1,0 +1,925 @@
+activity;['rugby', 'rugby football'];Binglayan nga ay-ayam
+activity;['putbol', 'association football', 'pútbol', 'soccer'];Timpuyogan nga ay-ayam
+activity;['pelikula', 'cine', 'pelicula', 'sine', 'film'];Panagsasaruno dagiti natalinaay a ladawan nga agpartuat kadagiti alliaw dagiti aggungunay a ladawan
+activity;['ahedres', 'ahedrés', 'chess'];Dua ti agay-ayam a maay-ayam iti maysa a tablero
+activity;['golf'];Binglayan nga ay-ayam ti bola
+activity;['kriket', 'cricket'];Timpuyog nga ay-ayam nga ay-ayamen nga agusar kadagiti pang-or ken bola
+activity;['tenis', 'tennis'];Ay-ayam ti bola
+activity;['sibil a gubat', 'civil war'];Gubat a baetan dagiti naurnos a grupo iti kaunegan iti agpadpada a pagilian nga estado wenno republika
+activity;['maikadua a sangalubongan a gubat', 'sangalubongan a gubat ii', 'world war ii', 'wwii'];Gubat a napasamak idi baetan ti 1939 ken 1945
+activity;['gubat ti espaniol–amerikano'];Suppiat idi 1898 a nagbaetan ti Espania ken Estados Unidos
+activity;['edukasion', 'education'];Porma ti panagadal iti pannakaammo
+activity;['dagiti krusada', 'crusades'];Relihioso nga ekspedisionario a gubat a binendisionan babaen ti Papa ken ti Katoliko a Simbaan
+activity;['rasismo', 'racism'];Ti panirigan a ti nagtagitaoan ket nabingbingay kadagiti nadumaduma a klase ti puli
+activity;['dusa iti patay', 'capital punishment'];Legado a pamay-an a panagpatay ti maysa a tao babaen ti estado a kas dusa para iti krima
+activity;['panagsibog', 'irrigation'];Artipisial a panagipakat ti danum iti daga
+activity;['komunikasion', 'pannakisinnarita', 'communication', 'pannakisarita'];Panangitutol ti pakaammo babaen ti panakisinnukat kadagiti panunot, dagiti mensahe, wenno pakaammo
+activity;['ruso a rebolusion', 'rebolusion ti rusia', 'russian revolution'];Rebolusion ti maika-20 a siglo a dimtengan ti pannakarebba ti Sarista a gobierno
+activity;['arte', 'art'];Sakup dagiti aramid ti tattao ken dagiti nagbanagan dagiti inar-aramid
+activity;['animasion', 'animation'];Panangiparang ti panagsasaruno dagiti saan nga agkutkuti a ladawan tapno makapartuat ti maysa nga ilusion ti panaggunay
+activity;['tiempo', 'panawen', 'weather'];Kasasaad ti atmospera
+activity;['presidente iti estados unidos', 'presidente ti estados unidos'];Daulo ti estado ken gobierno ti Estados Unidos
+activity;['edukasion', 'education'];Porma ti panagadal iti pannakaammo
+activity;['pranses a rebolusion', 'french revolution', 'rebolusion ti pranses'];Rebolusion idiay Pransia idi 1789-1799
+activity;['gubat', 'war'];Naurnos ken napaut a suppiat a baetan dagiti estado
+activity;['tudo', 'uran', 'presipitasion', 'rain'];Danum iti porma dagiti tedted ken nakondensado manipud ti atmosperiko a sengngaw ti danum ken intokuan ket maitudo
+agentive-figure;['estado', 'naturay nga estado', 'sovereign state', 'state'];Naurnos a komunidad nga agbibiag babaen ti maysa a sistema ti gobierno
+agentive-figure;['estado', 'naturay nga estado', 'sovereign state', 'state'];Politikal a gunglo nga adda ti naitengngaan a gobierno nga adda ti kangatuan a nawaya a katurayan iti maysa a heograpiko a lugar
+agentive-figure;['banko ti lubong', 'sanglubongan a banko', 'world bank'];Sanglubongan a patakder ti pinansia
+agentive-figure;['unesco', 'gunglo ti nagkaykaysa a pagpagilian para iti edukasion, siensia ken kultura', 'united nations educational, scientific and cultural organization'];Sangalubongan a gunglo ti Nagkaykaysa a Pagpagilian para iti edukasion, siensia ken kultura
+agentive-figure;['mankomunidad dagiti nawaya nga estado', 'commonwealth of independent states'];Rehional a gunglo dagiti dati a Repubilka ti Sobiet
+agentive-figure;['mankomunidad ti pagpagilian', 'commonwealth of nations', 'mankomunidad dagiti pagilian'];Intergobernamental a gunglo
+agentive-figure;['kappon ti europa', '🇪🇺', 'european union', 'kappon a europa', 'union a europa', 'union ti europa'];Kappon dagiti 27 nga estado a kaaduan a mabirukan idiay Europa
+agentive-figure;['liga ti arabo', 'arab league'];Gunglo dagiti Arabo nga estado
+agentive-figure;['sangalubongan a tignay ti nalabbasit a krus ken nalabbasit nga immindayon', 'international red cross and red crescent movement', 'nalabbasit a krus', 'nalabbasit nga immindayon', 'red crescent', 'red cross'];Sangalubongan a tignay ti humanitariano
+agentive-figure;['dagiti nagkaykaysa a pagilian', 'dagiti nagkakaysa a pagilian', 'nagkaykaysa a pagpagilian', 'united nations'];Sangalubongan a gunglo ti politika
+agentive-figure;['partido politiko', 'political party'];Gunglo nga agsuksukisok a makaimpluensia kadagiti annuroten ken tignay ti gobierno
+agentive-figure;['simbaan a katoliko', 'catholic church', 'katoliko a simabaan', 'katoliko a simbaan', 'romano katoliko', 'romano katoliko a simbaan', 'simbaan a katoliko romano', 'simbaan a romano katoliko'];Kadakkelan a simbaan ti Kristiano
+agentive-figure;['shia nga islam', "shi'ismo", 'shiismo'];Maikadua a kadakkelan a denominasion ti Islam
+agentive-figure;['hinduismo', 'hinduism'];Maysa kadagiti kangrunaan a relihion iti lubong, a kaaduan a naisansanay idiay Asia
+agentive-figure;['kappon ti sobiet', 'soviet union'];Dati a sosialista nga estado
+agentive-figure;['nasantuan nga imperio a romano', 'holy roman empire', 'nasantuan a romano nga imperio', 'nasantuan nga imperio ti romano'];Nagdaliasatan nga imperio a rimsua idi 962 aginggana idi 1806 idiay Tengnga nga Europa
+agentive-figure;['militar', 'milisia', 'military'];Gunglo a pinalubosan babaen ti nalatlatak a kagimongan tapno agusar ti makadangran a puersa
+agentive-figure;['partido republikano', 'partido republikano ti estados unidos'];Politikal a partido idiay Estados Unidos
+agentive-figure;['alma mater'];Eskuela wenno unibersidad a nagadalan ti maysa a tao
+agentive-physical-object;['medinilla magnifica'];Sebbangan ti mula
+agentive-physical-object;['ayup', 'animalia', 'animal', 'ayúp', 'metazoa'];Dagiti organismo iti pagarian ti animalia
+agentive-physical-object;['flora', 'mula', 'múla', 'plant', 'plantae'];imbentorio dagiti sebbangan ti mula iti maysa a naited a rehion
+agentive-physical-object;['flora', 'mula', 'múla', 'plant', 'plantae'];Sibibiag nga organismo ti pagarian a Plantae
+agentive-physical-object;['kompiuter', 'computer'];Ramit wenno makina a maaramat a pangproseso iti inpormasion manipud iti datos nga iwayat ken ibagnos ti programa
+agentive-physical-object;['robot'];Mekanikal wenno pudno a parbo nga ahente
+agentive-physical-object;['aso', 'canis lupus familiaris', 'dog', 'áso'];Apo ti sebbangan ti kolor dapo a lobo
+agentive-physical-object;['monocotyledon', 'monocot', 'monocots'];nangruna a klado ti mulmula
+agentive-physical-object;['sabong', 'flower'];Reproduktibo nga estruktura a mabirukan kadagiti agsabsabong a mula
+agentive-physical-object;['limon', 'lemon'];Duyaw a prutas ti citrus
+agentive-physical-object;['soya', 'glycine max', 'bukel ti soya', 'soybean'];Sebbangan ti legume a patneng iti Daya nga Asia
+agentive-physical-object;['kayo', 'tree'];Mula nga adda dagiti immatiddog a sanga, wenno bunged, a mangsupsuporta kadagiti bulong wenno sangsanga
+agentive-physical-object;['bertebrata', 'vertebrata', 'vertebrate'];Subpilo dagiti kordata
+agentive-physical-object;['trigo', 'triticum', 'triticum spp.', 'wheat'];Bukbukel ti sereal
+agentive-physical-object;['helianthus annuus', 'mirasol'];Tinawen a mula a patneng iti Kaamerikaan
+agentive-physical-object;['kordata', 'chordata', 'chordate'];Dagiti kameng ti pilo ti Chordata
+agentive-physical-object;['organismo', 'organism'];Agkakasigkay a sibibiag a sistema
+agentive-physical-object;['tao', 'homo sapiens', 'human', 'humans', 'parsua a tao'];Sibibiag a kamkameng dagiti henero a Homo
+agentive-physical-object;['dinosauro', 'dinosaur'];Naawanen a grupo nga ayup ti klade Dinosauria
+agentive-physical-object;['hamelia'];henero ti mulmula
+agentive-physical-object;['pavonia'];henero ti mulmula
+agentive-physical-object;['genipa'];henero ti mulmula
+agentive-physical-object;['mamalia', 'mammalia', 'mammal'];Kameng ti klase a mamalia
+agentive-physical-object;['abelmoschus moschatus', 'hibiscus abelmoschus', 'abelmosk'];Sebbangan ti mula
+agentive-physical-object;['ampibia', 'amphibia', 'amphibian', 'ampibian'];Dagiti ektotermiko, tetrapoda a bertebrata iti klase ti Amphibia
+agentive-physical-object;['sarguelas', 'spondias purpurea'];Mula nga agsabsabong iti pamilia ti kasoy ti Anacardiaceae
+agentive-physical-object;['archaea', 'arkeon', 'archaeon', 'arkea'];Dominio dagiti organismo nga addaan iti agmaymaysa a selula
+agentive-physical-object;['asperula tinctoria'];sebbangan ti mula
+agentive-physical-object;['kamelio', 'camel', 'camelus'];Paris ti ramay ti saka nga ungulata iti kaunegan ti henero ti Camelus
+agentive-physical-object;['baka', 'bos primigenius taurus', 'bos taurus', 'bos taurus domesticus', 'cattle', 'cow', 'napaamo a baka'];Kaaduan a kita dagiti dakkel a napaamo nga ungulata
+agentive-physical-object;['balatong', 'vigna radiata', 'mung bean', 'phaseolus radiatus'];Bukel ti mula a Vigna radiata
+agentive-physical-object;['soya', 'glycine max', 'bukel ti soya', 'soybean'];Sebbangan ti legume a patneng iti Daya nga Asia
+agentive-physical-object;['rabanos', 'raphanus sativus', 'radish'];Masida a ramut a nateng iti pamilia ti Brassicaceae
+agentive-physical-object;['chiococca alba'];sebbangan ti mula
+agentive-physical-object;['pusa', 'felis silvestris catus', 'cat', 'felis catus', 'napaamo a pusa'];Napaamo a sebbangan ti pusa
+agentive-physical-object;['baka', 'bos primigenius taurus', 'bos taurus', 'bos taurus domesticus', 'cattle', 'cow', 'napaamo a baka'];Kaaduan a kita dagiti dakkel a napaamo nga ungulata
+agentive-physical-object;['elepante', 'gadia', 'elephant'];Dakkel a mamalia iti pamilia ti Elephantidae ken ti urnos ti Proboscidea
+agentive-physical-object;['sereal', 'cereal'];Dagiti ruot a kamkameng ti monocot a pamilia ti Poaceae
+agentive-physical-object;['baskular a mula', 'tracheophyta', 'baskular a mulmula', 'nangatngato a mula', 'nangatngato a mulmula', 'tracheobionta', 'tracheophyte', 'tracheophytes'];subpagarian ti mulmula
+agentive-physical-object;['hamelia patens'];sebbangan ti mula
+agentive-physical-object;['aba', 'colocasia esculenta'];Tropikal a mula a mapatpatubo a kangrunaan kas nateng gapu iti masida a bagas, lip-ak, bulong ken daludalna
+agentive-physical-object;['arthropoda', 'arthropod', 'artropoda'];Pilo dagiti inbertebrata nga adda dagiti akin-ruar a tultulang, napas-pasetan a bagi, ken nagsilpo -silpo nga ekstrimidad
+agentive-physical-object;['nauclea diderrichii'];sebbangan ti mula
+agentive-physical-object;['mangifera indica', 'indian-mango', 'indian mango'];Sebbangan ti mula
+agentive-physical-object;['uleg', 'serpentes', 'snake'];Immatiddog, awan saka ken herbiboro a reptilia
+agentive-physical-object;['salamagi', 'tamarindus indica'];Kayo ti pamilia ti Fabaceae a patneng ti tropikal nga Aprika
+agentive-physical-object;['rambutan', 'nephelium lappaceum'];Kalalaingan ti kadakkelna a tropikal a kayo iti pamilia ti Sapindaceae
+agentive-physical-object;['titan arum', 'amorphophallus titanum'];Mula nga addaan iti kadadakkelan a di agsanga a sabong iti sangalubongan
+agentive-physical-object;['syzygium aromaticum'];Sebbangan ti mula
+agentive-physical-object;['coffea canephora'];sebbangan ti mula
+agentive-physical-object;['spermatophyte', 'spermatophytina', 'agbukel a mula', 'agbukel a mulmula', 'phanerogam', 'phanerogamae', 'phanerogams', 'siphonogamae', 'spermatophyta', 'spermatophytes', 'spermatopsida'];Dibision ti mulmula
+agentive-physical-object;['mula nga agsabsabong', 'magnoliopsida', 'angiospermae', 'magnoliophyta', 'agsabsabong a mula', 'angiosperm', 'angiosperma', 'angiosperms'];Nangruna a grupo ti mulmula
+agentive-physical-object;['laguncularia racemosa'];Sebbangan ti mula
+agentive-physical-object;['coffea arabica'];sebbangan ti mula
+agentive-physical-object;['insekto', 'insecta', 'insect', 'insecto', 'insekta'];Klase dagiti inbertebrata iti kaunegan ti pilo ti antropoda
+agentive-physical-object;['almendras', 'prunus dulcis', 'almond', 'alméndras'];Sebbangan ti mula
+agentive-physical-object;['coffea liberica'];sebbangan ti mula
+agentive-physical-object;['psidium cattleyanum', 'psidium cattleianum'];Sebbangan ti mula
+agentive-physical-object;['kuton', 'formicidae', 'ant', 'kutón'];Sosial nga insekto ti pamilia ti formicidae
+agentive-physical-object;['katuday', 'sesbania grandiflora'];Bassit a kayo iti henero ti Sesbania
+agentive-physical-object;['psychotria capensis'];sebbangan ti mula
+agentive-physical-object;['acca'];Henero ti mulmula
+agentive-physical-object;['psidium guineense'];Sebbangan ti mula
+agentive-physical-object;['mais', 'corn', 'maize', 'zea mays'];Agbukbukel a mula a minuyongan babaen dagiti patneng a tattao idiay Mesoamerika
+agentive-physical-object;['hiv'];Birus a taudan ti sakit a panakakurang ti inmuno ti tao
+agentive-physical-object;['paskuas', 'euphorbia pulcherrima', 'poinsettia'];Sebbangan ti mula ti pamilia ti Euphorbiaceae
+agentive-physical-object;['chrysophyllum oliviforme'];Sebbangan ti mula
+agentive-physical-object;['annona squamosa'];sebbangan ti mula
+agentive-physical-object;['syzygium jambos'];Sebbangan ti mula
+agentive-physical-object;['kardis', 'cajanus cajan', 'pigeon pea'];Perenial a kaming ti pamilia ti Fabaceae
+agentive-physical-object;['nuang', 'bubalus bubalis carabanensis', 'bubalus bubalis carabanesis', 'naamo a nuang', 'napaamo a nuang'];Napaamo a nuang
+agentive-physical-object;['karnero', 'ovis aries', 'sheep'];Uppat ti sakana a managngalngal a mamalia
+amount-of-matter;['kape', 'kapi', 'coffee', 'kapé'];Naipaburek a mainum nga adda ti naisangsangayan nga ayamuom ken raman manipud kadagiti tinuno a bukbukel ti coffea a mula
+amount-of-matter;['danum', 'h₂o', 'danúm', 'water'];Kimiko a sustansia nga addaan ti kimiko a pagannurotan a H2O
+amount-of-matter;['nitroheno', 'n', 'nitrogen', 'nitróheno'];Kimiko nga elemento nga addaan iti atomiko a numero iti 7
+amount-of-matter;['gambang', 'cu', 'copper'];Kimiko nga elemento nga addaan iti atomiko a numero iti 29
+amount-of-matter;['oksiheno', 'o', 'oksíheno', 'oxygen'];Kimiko nga elemento nga addaan iti atomiko a numero iti 8
+amount-of-matter;['hidroheno', 'h', 'hidrohenio', 'hidróheno', 'hydrogen'];Kimiko nga elemento nga addaan iti atomiko a numero iti 1
+amount-of-matter;['deoksiribonukleiko nga asido', 'asido deoksiribonukleiko', 'deoksiribonukleiko asido', 'deoxyribonucleic acid', 'dna'];Nukleiko nga asido nga aglaon ti henetiko
+amount-of-matter;['aluminio', 'al', 'aluminium', 'aluminum'];Kimiko nga elemento nga addaan iti atomiko a numero iti 13
+amount-of-matter;['balitok', 'au', 'gold'];Kimiko nga elemento nga addaan iti atomiko a numero iti 79
+amount-of-matter;['helio', 'he', 'helium'];Kimiko nga elemento nga addaan iti atomiko a numero iti 2
+amount-of-matter;['gatas', 'milk'];Puraw a likido a napataud babaen ti mamaria a glandula dagiti mamalia
+amount-of-matter;['karbon', 'c', 'carbon', 'karbón'];Kimiko nga elemento nga addaan ti atomiko a numero iti 6
+amount-of-matter;['karbohidrato', 'carbohydrate'];Organiko a kompuesto a buklen laeng ti karbon, hidroheno, ken oksiheno, ken kadawyan iti hidroheno
+amount-of-matter;['protina', 'protein'];Biolohiko a molekula
+amount-of-matter;['alkohol', 'alcohol'];Organiko a kompuesto a ti hidroksilo a makaannong a grupo
+amount-of-matter;['kimiko nga elemento', 'chemical element'];Puro a kimiko a sustansia a buklen ti maysa a kita ti atomo
+amount-of-matter;['gatas', 'milk'];Puraw a likido a napataud babaen ti mamaria a glandula dagiti mamalia
+biological-object;['kudil', 'skin'];Naalumaymay a pannakabungon dagiti bertebrata
+biological-object;['salsalamagi', 'glandula', 'gland'];Organo iti uneg ti bagi ti ayup
+biological-object;['dakkel a bagbagis', 'dakkel a bagis', 'large intestine'];Kinaudi a parte ti sistema ti pannakalpa iti bertebrata nga ay-auyup
+biological-object;['bara', 'lung'];Kammasapulan nga organo ti pananganges kadagiti adu nga angang-anges ti angin nga ayup
+biological-object;['suso', 'breast'];Organo ti mamalia
+biological-object;['mansanas', 'apple', 'malus communis', 'malus domestica', 'malus pumila', 'pyrus malus'];Pomo a bunga ti kayo ti mansanas
+biological-object;['dalem', 'liver'];Nangruna nga organo nga adda kadagiti bertebrata ken dagiti dadduma pay nga ayup
+biological-object;['sistema ti reproduktibo', 'sistema ti panagpaadu', 'panaganak a sistema', 'panagpaadu a sistema', 'reproductive system', 'reproduktibo a sistema', 'sistema a panaganak', 'sistema a panagpaadu', 'sistema a reproduktibo', 'sistema ti panaganak'];Sistema dagiti organo iti kaunegan dagiti organismo a pakitinnignayan para iti panngep ti reproduksion
+biological-object;['sabong', 'flower'];Reproduktibo nga estruktura a mabirukan kadagiti agsabsabong a mula
+biological-object;['atis'];Bunga ti Annona squamosa
+biological-object;['utek', 'brain'];Sistema ti nerbios kadagiti amin nga ayup a bertebrata ken kaaduan kadagiti inbertebrata
+biological-object;['rurog', 'skeleton'];Parte ti bagi a mangporma ti mangsupsuporta nga estruktura iti maysa nga organismo
+biological-object;['puso', 'heart'];Organo para iti panagbalikuskos iti dara kadagiti sistema ti panagbalikuskos ti ayup
+biological-object;['silet', 'bassit a bagbagis', 'small intestine'];Parte ti pangalpaan nga alimunumon kalpasan ti bituka ken sarunuen babaen ti dakkel a bagbagis
+biological-object;['buto', 'burat'];Reproduktibo nga organo ti lalaki
+biological-object;['mata', 'eye'];Organo a makaduktal ti lawag ken pagbalinenna dagiti elektro-kimiko a duron dagiti neurona
+biological-object;['agong', 'nose'];Rumrumtong kadagiti bertebrata a mangibalay kadagiti papangesan, wenno papangresan a mangala ken mamngiparuar ti angin para iti respirasion a kakuyogna ti ngiwat
+biological-object;['sistema ti panagbalikuskos', 'sistema ti sirkulatorio', 'circulatory system', 'panagbalikuskos a sistema', 'sirkulatorio a sistema'];Sistema ti organo dagit iayup
+biological-object;['bunga', 'prutas', 'fruit'];Parte ti agsabsabong a mula
+biological-object;['lapayag', 'ear'];Organo a mangduktal ti uni
+biological-object;['sistema ti nerbios', 'nerbios a sistema', 'nervous system'];Kammasapulan a sistema ti bagi kadagiti narikut nga ayup
+biological-object;['sistema ti panaganges', 'sistema ti respiratorio', 'panaganges a sistema', 'respiratorio a sistema', 'respiratory system'];Biolohiko a sistema a mangipan kadagiti angsen nga alingasaw iti kaunegan ken aramidenna ti panangisinnukat ti alingasaw.
+biological-object;['sistema ti endokrina', 'endocrine system', 'endokrina a sistema'];Sistema dagiti glandula
+chemical-object;['molekula', 'molecule'];Elektoniko nga agmangngamangnga a grupo ti dua weno adadu nga atomo a tinengtengngel babaen dagiti kobalente a piansa ti kimika
+chemical-object;['protina', 'protein'];Biolohiko a molekula
+classification-system;['kalendario a huliano'];Kalendario
+cognitive-event;['imperialismo', 'imperialism'];Pannakapartuat ti di agpapada a pannakibiang a baetan dagiti estado babaen ti panangituray
+cognitive-event;['moda', 'uso', 'fashion'];Sapasap a panangibaga para iti nadayeg nga estilo wenno panagsanay
+cognitive-event;['panunot', 'thought'];Tignay tii sip a maipanggep ti suhetibo nga addan rikna ti maysa a tao
+cognitive-modal-description;['pasismo', 'fascism'];Radikal nga autoritariano a nationalista a politikal nga ideoloha
+cognitive-modal-description;['sosialismo', 'socialism', 'socialismo'];Sistema ti gobierno a dagiti pamay-an ti panagpataud ket sosial a tagikua
+cognitive-modal-description;['komunismo', 'communism', 'komunista'];Politikal a tignay nga agparpartuat ti awan klase, awan kuarta ken awan estado a sosial nga urnos
+cognitive-modal-description;['ideolohia', 'ideology'];Agsmang dagiti kapanunotan a mangbukel ti gandat ti maysa a tao, dagiti manamnama, ken dagiti tignay
+cognitive-modal-description;['ateismo', 'ateísmo', 'atheism'];Panaglikud ti pammati ti kaadda dagiti dios
+course;['pandemia', 'pandemic'];Epidemia iti makaalis a sakit
+course;['patay', 'death'];Permanente a panagsardeng iti biag
+dependent-place;['kawaw', 'kalawakaw', 'vacuum'];Espasio nga awan iti banag
+dependent-place;['anggulo', 'angle'];Pigura a pinorma dagiti dua a raya
+ecological-collective;['flora', 'mula', 'múla', 'plant', 'plantae'];imbentorio dagiti sebbangan ti mula iti maysa a naited a rehion
+ecological-collective;['flora', 'mula', 'múla', 'plant', 'plantae'];Sibibiag nga organismo ti pagarian a Plantae
+ecological-collective;['bakir', 'kabakiran', 'forest'];Lugar nga adda iti nasamek a kaykayo
+event;['tsunami'];Serie ti dalluyon ti danum a gapuanan babaen ti pannakaiyallatiw iti dakkel a tomo ti maysa a bagi ti danum
+event;['olimpiada', 'dagiti olimpiada nga ay-ayam', 'olimpiáda', 'olympic games', 'olympics'];Nangruna a sangalubongan a salisal dagiti ay-ayam
+functional-matter;['hangul', 'iso 15924:hang'];Patneng nga abesedario ti pagsasao a Koreano
+functional-matter;['kape', 'kapi', 'coffee', 'kapé'];Naipaburek a mainum nga adda ti naisangsangayan nga ayamuom ken raman manipud kadagiti tinuno a bukbukel ti coffea a mula
+functional-matter;['sarming', 'glass'];Amorpo a natangken a materiales
+functional-matter;['gambang', 'cu', 'copper'];Kimiko nga elemento nga addaan iti atomiko a numero iti 29
+functional-matter;['polbora', 'gunpowder'];Kimiko nga eksplosibo
+functional-matter;['keso', 'cheese'];Sapasap a panangibaga kadagiti nadumaduma a grupo ti makan a produkto a naibatay iti gatas
+functional-matter;['eksplosibo'];Reaktibo a sustansia nga aglaon ti adu a mabalin nga enerhia a makapataud ti maysa a panagbettak
+functional-matter;['diro', 'honey'];Nasam-it a makan babaen dagiti uyokan a nagus-usar ti nektar manipud ti sabsabong
+functional-matter;['asukar', 'sugar'];Sapasap a nagan para iti klase ti kimiko a mainaig ti nananaman ti nasam-it a sustansia
+functional-matter;['gatas', 'milk'];Puraw a likido a napataud babaen ti mamaria a glandula dagiti mamalia
+functional-matter;['patatas', 'solanum tuberosum', 'patátas', 'potato'];Sebbangan ti mula
+functional-matter;['hormona', 'hormone'];Kimiko nga ibbatan babaen ti selula, glandula, wenno ti maysa nga organo
+functional-matter;['nateng', 'vegetable'];Masida a mula wenno ti pasetna
+functional-matter;['rabong', 'bamboo shoot'];Masida a tubo kadagiti adu a sebbangan ti kawayan
+functional-matter;['mansanas', 'apple', 'malus communis', 'malus domestica', 'malus pumila', 'pyrus malus'];Pomo a bunga ti kayo ti mansanas
+functional-matter;['plastik', 'plastic'];Material iti nawatiwat iti sakop a sintetiko wenno dagiti semi-sintetiko nga organiko a solido
+functional-matter;['tsokolate', 'chocolate'];Makan a napataud manipud ti bukel ti tropikal a kayo ti Theobroma cacao
+functional-matter;['gatas', 'milk'];Puraw a likido a napataud babaen ti mamaria a glandula dagiti mamalia
+functional-matter;['kapas', 'cotton'];Nalamuyot, nasariwagwag a napateg a sagut manipud ti kapas a mula ti henero ti Gossypium
+functional-matter;['takki', 'taki'];Rugit a produkto ti manipud ti pangalpaan nga alimunumon ti ayup
+functional-matter;['mineral', 'mineralia'];Masna a rumrumsua a sustansia a natangken ken natalinaay iti temperatura ti kuarto
+functional-matter;['atis'];Bunga ti Annona squamosa
+functional-matter;['karne', 'meat'];Lasag ti ayup a makmakan a kas taraon
+genetic-collective;['pamilia', 'familia', 'kaman', 'kapoonan', 'katatao', 'family'];Grupo ti tattao a mainaig babaen ti konsanguinidad, apinidad, wenno panakikadua a panagtaeng
+geographical-object;['luek ti fundy', 'bay of fundy'];Luek idiay daya nga aplaya ti Amianan nga Amerika
+geographical-object;['danaw', 'dan-aw'];Bagi ti natalna a danum
+geographical-object;['anguilla'];Ballasiw taaw a teritorio ti Britaniko idiay Karibe
+geographical-object;['baybay', 'sea', 'taaw ti lubong'];Dakkel a bagi iti naapgad a danum
+geographical-object;['nalatak a dandanaw', 'great lakes'];Kadakkelan a grupo dagiti danaw ti nasadiwa a danum iti Lubong a mabirukan idiay Amianan nga Amerika
+geographical-object;['is-isla ti marshall', 'is-isla iti marshall', 'marshall islands', 'republic of the marshall islands'];Pagilian idiay Oceania
+geographical-object;['purpuro', 'arkipelago', 'purpúro'];Termino pra iti grupo ti is-isla
+geographical-object;['isla', 'puro', 'is-isla', 'island'];Sub-kontinental a daga a napalikmutan babaen ti danum
+geographical-object;['oceania'];Kontinente wenno heograpiko a rehion idiay ken asideg ti Taaw Pasipiko
+geographical-object;['rin', 'rhine'];Karayan idiay laud nga Europa
+geographical-object;['karayan mississippi', 'mississippi river'];Kadakkeln a sistema ti karayan idiay Amianan nga Amerika
+geographical-object;['karayan duyaw', 'karayan amarilio', 'karayan kiaw', 'yellow river'];Maikadua a kaatiddogan a karayan idiay Tsina
+geographical-object;['sulawesi'];Isla ti Indonesia
+geographical-object;['sumatra'];Isla idiay akinlaud nga Indonesia
+geographical-object;['baybay arabiano', 'arabian sea'];Rehion ti akin-amianan a Taaw Indiano
+geographical-object;['svalbard'];Ballasiw taaw ken agkamkammatalek a paset ti Norwega
+geographical-object;['baro a guinea', 'new guinea'];Isla idiay Taaw Pasipiko
+geographical-object;['peninsula malayo'];Peninsula iti Abagatan a daya nga Asia
+geographical-object;['karayan volga', 'volga', 'volga river'];Karayan idiay Rusia ken kaatiddogan idiay Europa
+geographical-object;['baybay nangisit', 'black sea'];Baybay a mangisina ti Daya nga Europa ken Laud nga Asia
+geographical-object;['karayan niger', 'niger', 'niger river'];Kangrunaan a karayan idiay laud nga Aprika
+geographical-object;['baybay karibe', 'caribbean sea'];Baybay ti Taaw Atlantiko a mabirukan idiay Lumaud a hemisperio
+geographical-object;['baybay egeo'];parte ti Baybay Mediteraneo
+geographical-object;['baybay liguria', 'ligurian sea'];Baybay
+geographical-object;['baybay amianan', 'north sea'];Baybay idiay Europa
+geographical-object;['ganges'];Pagbeddengan a kayaran ti India ken Banglades
+geographical-object;['karayan indus', 'indus river'];Nangruna a karayan nga agayus idiay uneg ti Pakistan
+geographical-object;['taaw artiko', 'arctic ocean', 'latitude 84 degrees n', 'latitude 85 degrees n', 'latitude 86 degrees n', 'latitude 87 degrees n', 'latitude 88 degrees n', 'latitude 89 degrees n', 'maika-84 a paralelo amianan', 'maika-85 a paralelo amianan', 'maika-86 a paralelo amianan', 'maika-87 a paralelo amianan', 'maika-88 a paralelo amianan', 'maika-89 a paralelo amianan', 'taaw arctico'];Taaw idiay amianan a hemisperio ken idiay Artiko nga amianan a polar a rehion
+geographical-object;['kaamerikaan', 'americas'];Masa ti daga a buklen dagiti kontinente ti Amianan ken Abagatan nga Amerika
+geographical-object;['baybay duyaw', 'yellow sea'];Baybay idiay Amianan a daya nga Asia
+geographical-object;['taaw atlantiko', 'amianan a taaw atlantiko', 'atlantic ocean', 'taaw atlantico'];Maikadua a kadkkelan a taaw kadagiti pannakabingbingay ti taaw iti lubong
+geographical-object;['polinesia', 'polynesia'];Subrehion ti Oceania
+geographical-object;['melanesia'];Subrehion ti Oceania
+geographical-object;['danaw victoria', 'lake victoria'];Danaw idiay Aprika
+geographical-object;['taaw pacifico', 'taaw pasipiko', 'pasipiko', 'amianan a taaw pasipiko', 'pacific ocean', 'taaw ti pacifico'];Kadakkelan a taaw iti lubong
+geographical-object;['honshu', 'honshū'];Kadakkelan nga isla iti Hapón
+geographical-object;['karayan yangtze', 'yangtze', 'chang jiang', 'yangtze river'];Karayan idiay Asia
+geographical-object;['luzon', 'amianan a luzon', 'luzón'];kadakkelan nga isla ti Filipinas
+geographical-object;['baybay norwego', 'norwegian sea'];Pingir a baybay ti Amianan a Taaw Atlantiko
+geographical-object;['hokkaido', 'ezo', 'yeso', 'yesso', 'yezo', 'hokkaido prefecture', 'hokkaidō', 'prefectura ti hokkaido', 'prepektura ti hokkaido', 'prepektura ti hokkaidō', 'rehion ti hokkaidō'];Prepektura ti Hapon
+geographical-object;['akin-abagatan a taaw', 'taaw antartika', 'southern ocean'];Taaw ti lawlaw ti Antartika
+geographical-object;['kyushu', 'kyūshū', 'rehion ti kyūshū'];Rehion ti Hapon
+geographical-object;['nilo', 'karayan nilo', 'nile'];Kaatiddogan a karayan idiay Aprika
+gestalt;['eskultura', 'panagkitikit', 'sculpture'];Sanga dagiti makitkita ngaarte nga agtignay kadagiti tallo a dimension
+information-encoding-system;['dandaniw', 'daniw', 'poetry'];Porma iti literario nga arte
+information-encoding-system;['prosa', 'prose'];Pagsasao a kadawyan a naipakat ti gramatiko nga estruktura ken masna a panagayus ti bitla
+information-object;['ponema', 'phoneme'];Batayan a paset iti maysa a ponolohia ti pagsasao
+information-object;['marka ti pabrika'];Mabigbigan a senial, desinio wenno panangiyebkas a mangisalumina kadagiti produkto weeno dagiti serbisio
+information-object;['sinuratan a latin', 'latin a sinuratan'];Alpabeto nga inus-usar kadagiti kaaduan a pagsasao ti Akinlaud ken Tengnga nga Europa
+information-object;['panagipatarus', 'panagiyulog', 'patarus', 'translation'];Komunikasion iti kaibuksilan ti testo iti pagsasao a taudan ti pagsasao babaen ti maysa a kapada ti testo ti pagsasao a puntaan
+information-object;['biograpia'];Panangilagip ti maysa a biag ti tao
+information-object;['h'];Maika-8 a letra ti Latin nga abesedario
+information-object;['kurtasurat'];Ramit ti tipograpiko a kas makatulong iti pannakaawat ken ti umno a panagbasa
+information-object;['wagayway ti estados unidos', 'wagayway ii estados unidos', 'wagayway iti estados unidos', 'wagayway ti amerika'];Nailian a wagayway ti Estados Unidos
+information-realization;['sistema ti panangpaandar', 'operating system', 'sistema a panangpaandar'];Programa a mangimaton kadagiti alikamen ken sopwer ti kompiuter
+information-realization;['sopwer', 'software'];Urnong dagiti programa ti kompiuter ken mainaig a datos a mangted kadagiti bagbagaen para iti panangibaga no ania ken kasno ti aramiden ti kumpiuter
+information-realization;['mahabharata'];Maysa kadagiti dua a kangrunaan a Sanskrito nga epiko ti taga-ugma nga India
+information-realization;['libro', 'book'];Agasmang ti naisurat, naimaldit, nailustrado dagiti blanko a sabanas
+information-realization;['iliada', 'iliad'];Epiko a daniw a tinawtawid a naipammadayaw kenni Homero
+information-realization;['sistema ti panagsurat', 'panagsurat a sistema', 'writing system'];Sistema dagiti makitkita a simbolo a nairehistro iti papel wenno dagiti dadduma pay a banag, nga inus-usar a panangirepresenta kadagiti elemento a maiyebkas iti pagsasao
+information-realization;['pagbasabasa ti web', 'web browser'];Pangipakat a sopwer para iti panagala, panagipresenta ken panagdaliasat kadagiti pakaammo a rekurso iti World Wide Web
+information-realization;['ensiklopedia', 'encyclopedia'];Nakatiponan dagiti ammo wenno pannakaammo ti tattao
+information-realization;['kanta', 'song'];Komposision para iti timek wenno dagiti timek
+information-realization;['nailian a kanta ti pagilian', 'nailian a kanta'];Patriotiko a komposision ti musika
+information-realization;['eskultura', 'panagkitikit', 'sculpture'];Sanga dagiti makitkita ngaarte nga agtignay kadagiti tallo a dimension
+information-realization;['musika', 'samiweng', 'music', 'musica'];Porma ti arte nga agus-usar ti uni
+information-realization;['literatura', 'kurditan', 'literature'];Arte iti naisurat nga obra ken mabalin a mangitudo kadagiti naipablaak a taudan
+information-realization;['batay-linteg', 'konstitusion', 'batáy-lintég', 'constitusion', 'constitution'];Agasmang dagiti kammasapulan a pamunganayan a batayan ti pannakaituray ti estado wenno gunglo
+information-realization;['samba'];Kita ti musika iti Brasil
+information-realization;['diplomasia', 'diplomacy'];Arte ken panagsanay kadagiti panagaramid ti negosasion
+information-realization;['igor stravinsky'];Ruso a pianista ken konduktor
+intentional-collective;['panawen ti pannakapalpalawag', 'panawen ti rason', 'age of enlightenment'];Kultural a tignay ti nasaririt a tattao idi maika-18 a siglo
+language;['lengguahe ti panangprograma', 'programming language'];Pagsasao a naidesineo a makisinnarita kadagiti pangiyammo iti makina
+language;['sasao nga austroasiatiko', 'sasao nga austro-asiatiko', 'dagiti pagsasao nga austro-asiatika', 'pagsasao nga austro-asiatica', 'sasao nga austro-asiatika', 'sasao nga austroasiatika'];Dakkel a pamilia ti pagsasao iti Abagatan a daya nga Asia
+language;['pagsasao a yidis', 'yidis', 'iso 639:ydd', 'iso 639:yi', 'iso 639:yid', 'iso 639:yih'];Pagsasao nga inus-usar babaen dagiti Ashkenazi a Hudio
+language;['pagsasao a kanares', 'kanares'];Drabida a pagsasao ti India
+language;['sasao a kam–tai'];Pamilia ti pagsasao
+language;['hindi-urdu', 'hindustānī', 'iso 639:hns', 'pagsasao a hindustani', 'pagsasao a hindustaniko', 'pagsasao nga indostaniko'];Indo-Aryan a pagsasao ken ti lingua franca ti Amianan nga India ken Pakistan
+language;['sasao a sinitiko'];Pamilia ti pagsasao
+language;['sasao nga atayaliko'];Pamilia ti pagsasao
+language;['sasao nga apro-asiatiko', 'sasao nga aproasiatiko', 'dagiti pagsasao nga apro-asiatiko', 'dagiti pagsasao nga aproasiatika', 'iso 639:afa', 'pagsasao nga afro-asiatica'];Pamilia ti pagsasao
+language;['pagsasao a bengali', 'bengali', 'bengali language', 'iso 639:ben', 'iso 639:bn'];Patneng a pagsasao idiay rehion ti akin-daya nga Abagatan nga Asia a naamamoan a kas ti Bengal
+language;['pagsasao a georgiano', 'georgiano', 'georgian language', 'iso 639:ka', 'iso 639:kat'];Patneng pagsasao dagiti Georgiano ken ti opisial a pagsasao iti Georgia, a pagilian idiay Kaukaso
+language;['pagsasao a norwego', 'norwego', 'iso 639:no', 'iso 639:nor', 'norsk'];Pagsasao nga insasao idiay Norwega
+language;['pagsasao a danes', 'danes', 'da', 'dan', 'danish language', 'iso 639:da', 'iso 639:dan', 'pagsasao a danés'];Pagsasao nga Amianan a Hermaniko a kangrunaan a maisasao idiay pagilian iti Dinamarka
+language;['pagsasao nga islandes', 'islandes', 'iso 639:is', 'iso 639:isl', 'pagsasao nga islandés'];Pagsasao nga Amianan a Hermaniko nga insasao idiay Islandes
+language;['pagsasao a sueko', 'sueko', 'iso 639:sv', 'iso 639:swe', 'pagsasao a suéko', 'pagsasao a swedish language', 'swedish language'];Amianan nga Alemania a pagsasao a kaaduan ti agsasao idiay Suesia ken dagiti paset ti Pinlandia
+language;['pagsasao a bulgaro', 'bulgaro', 'iso 639:bg', 'iso 639:bul', 'pagsasao a búlgaro'];Pagsasao nga Abagatan nga Eslabo
+language;['pagsasao', 'language', 'lengguahe', 'sao'];Pannakabael ti tao a gumun-od ken agusar kadagiti narikut a sistema ti pannakisinnarita
+language;['turko', 'pagsasao a turko', 'iso 639:tr', 'turkish language'];Turko (mabalin nga Altaiko)
+language;['sanskrito', 'iso 639:sa', 'iso 639:san', 'pagsasao a sanskrito', 'sanskrit'];Naipakasaritaan nga Indo-Aryan a pagsasao, liturhiko a pagsasao ti Hinduismo ken eskolar a pagsasao iti Hainismo ken Budismo
+language;['interlingua', 'pagsasao nga interlingua', 'iso 639:ia', 'iso 639:ina'];Internasional a katakunaynay a pagsasao
+language;['ido', 'ido language', 'iso 639:io', 'pagsasao nga ido'];Pagsasao a napartuat nga adda ti pagtungpalan nga agbalin a maysa a sangalubongan a maikadua a pagsasao
+language;['sasao a tengnga–akindaya a malayo-polinesio'];Pamilia ti pagsasao
+language;['pagsasao nga ingles', 'ingles', 'english language', 'idioma ingles', 'iso 639:en', 'iso 639:eng', 'pagsasao nga english', 'pagsasao nga englishe', 'pagsasao nga inggles', 'pagsasao nga ingglés'];Laud a Hermaniko a pagsasao nga immuna a naisasao idiay Inglatera ken ti kaaduan itan a naus-usar a pagsasao iti lubong
+language;['aprikaans', 'iso 639:af', 'iso 639:afr', 'pagsasao nga afrikaans', 'pagsasao nga aprikaans'];Lumaud ang Alemania a Pagsasao, patneng a pagsasao iti Abagatan nga Áprika ken Namibia
+language;['latin', 'pagsasao a latin', 'iso 639:la', 'iso 639:lat', 'latin language', 'pagsasao a latino'];Pagsasao nga Indo-Europeano nga immuna a naisasao ti rehion ti nagliklikmut iti Siudad ti Roma a tinawtawagan a kas ti Latium
+language;['pagsasao nga insik', 'insik', 'pagsasao a china', 'chinese language', 'intsik', 'iso 639:zh', 'iso 639:zho', 'pagsasao nga insík', 'pagsasao nga intsik', '中文'];Maysa a pagsasao wenno pagsasao a pamilia a buklen dagiti sabsabali a kita a maisinnaranay a maawatan kadagiti nadumaduma nga agpang
+language;['daan nga ingles', 'daan nga inggles', 'iso 639:ang', 'pagsasao a daan nga inggles', 'pagsasao a daan nga ingles'];Nasapa a porma ti pagsasao nga Ingles
+language;['pagsasao a filipino', 'filipino', 'filipino language', 'iso 639:fil'];Nailian a pagsasao ken maysa kadagiti opisial a pagsasao ti Pilipinas
+language;['nynorsk', 'iso 639:nn', 'iso 639:nno', 'norwego', 'pagsasao a norwego a nynorsk', 'pagsasao a nynorsk'];Maysa kadagiti dua nga opisial a naisurat nga alagaden para iti pagsasao a Norwego
+language;['nakayanakan a pagsasao', 'nakayanakan a dila', 'patneng a pagsasao', 'umuna a pagsasao', 'nakayanakan a lengguahe'];Pagsasao a dimmakkelan nga insasao iti maysa a tao
+language;['koreano', 'pagsasao a koreano', 'iso 639:ko', 'iso 639:kor', 'korean language', '한국어'];Opisial a pagsasao ti Abagatan ken Amianan a Korea
+language;['pagsasao a hebreo', 'hebreo', 'hebrew language', 'iso 639:he', 'pagsasao a hebréo', 'pagsasao nga hebreo'];Laud a Semitiko a pagsasao iti pamilia ti pagsasao nga Aproasiatika
+language;['sasao a malayo-polinesio', 'iso 639:poz'];Pamilia ti pagsasao
+language;['pagsasao nga irlandes', 'irlandes', 'iso 639:ga', 'pagsasao nga irlandés'];Pagsasao a Goidelic iti Indo-Europeano a pamilia ti pagsasao
+language;['insik a mandarin', 'mandarin', 'iso 639:cmn', 'mandarin nga insik', 'pagsasao a mandarin'];Grupo dagiti agkakabagian a karuay ti dialekto a naisasao iti kaaduan iti Akin-amianan ken Abagatan akinlaud a Tsina
+language;['pagsasao nga indones', 'indones', 'bahasa indonesia', 'indonesian language', 'iso 639:id', 'iso 639:ind', 'pagsasao nga indonesian', 'pagsasao nga indonés'];Opisial a pagsasao ti Indonesia
+language;['pagsasao nga amariko', 'amariko', 'iso 639:am', 'iso 639:amh'];Semitiko a pagsasao a naisasao idiay Etiopia
+language;['sasao nga austronesio', 'dagiti pagsasao nga austronesio', 'iso 639:map', 'pagsasao nga austronesiano', 'pamilia dagiti pagsasao nga awstronesiano', 'pamilia dagiti pagsasao nga awstronesio'];Pamilia ti pagsasao ti Abagatan a daya nga Asia ken Pasipiko
+language;['taga-ugma a griego', 'pagsasao a taga-ugma a griego', 'antigo a griego', 'duog a griego', 'ancient greek', 'iso 639:grc'];Duog a porma ti pagsasao a Griego
+language;['pagsasao a griego', 'griego', 'greek language', 'pagsasao a griégo'];Maysa a nawaya a sanga iti Indo Europa a pamilia a pagsasao a kaduan nga insasao idiay Gresia
+language;['pagsasao a punjabi', 'punjabi', 'iso 639:pa', 'iso 639:pan', 'iso 639:pnb'];Pagsasao nga Indo-Aryano
+language;['pagsasao nga albanes', 'albanes', 'iso 639:alb', 'iso 639:sq', 'iso 639:sqi', 'iso 639:sqj', 'pagsasao nga albanés', 'sasao nga albanes'];Pagsasao nga Indo-Europeano
+language;['pagsasao nga armenio', 'armenio', 'armenian language', 'iso 639:hy', 'iso 639:hye', 'pagsasao nga arménio'];Indo-Europeano a pagsasao a maisasao babaen dagiti tattao nga Armenio
+language;['pagsasao a habanes', 'habanes', 'iso 639:jv', 'javanese language', 'pagsasao a javanes', 'pagsasao a javanese', 'iso 639:jav', 'pagsasao a habanés', 'sasao a habaniko'];Pagsasao dagiti tattao a Habanes iti tengnga ken daya a paset ti puro ti Java, Indonesia
+language;['pagsasao a persiano', 'persiano', 'iso 639:fa', 'iso 639:fas', 'persian language'];Irani a pagsasao iti uneg ti Indo-Irani a sanga ti pagsasao nga Indo-Europeano
+language;['pagsasao nga asames', 'asames', 'asamiya', 'iso 639:as', 'iso 639:asm'];Pagsasao nga Akin-daya nga Indo-Aryan idiay Amianan-Daya nga India
+language;['pagsasao nga oksitano', 'oksitano'];Pagsasao a Romanse
+language;['pagsasao a khmer', 'khmer', 'iso 639:khm', 'iso 639:km', 'iso 639:kxm', 'khmer language'];Pagsasao ti Tattao a Khmer ken ti opisial a pagsasao ti Cambodia
+language;['pagsasao a bietnamis', 'bietnamis', 'iso 639:vi', 'iso 639:vie', 'vietnamese language'];Nailian ken opisial a pagsasao ti Bietnam
+language;['pagsasao a swahili', 'swahili'];Bantu a pagsasao nga insasao dagiti nadumaduma nga etniko a grupo nga agtataeng kadagiti nadumaduma a luglugar iti aplaya ti Kanal Mozambique manipud ti akin-amianan a Kenya aginggana ti akin-amianan a Mosambike, a mairaman ti Is-isla ti Komoros
+language;['hindi', 'alagaden a hindi', 'iso 639:hi', 'iso 639:hin', 'pagsasao a hindi'];Maysa kadagiti opisial a pagsasao ti India
+language;['pagsasao a māori', 'māori', 'pagsasao a maori', 'iso 639:mi', 'iso 639:mri'];Pagsasao a Polinesio nga insasao babaen dagiti tattao a Māori ti Baro a Selanda
+language;['pagsasao a fijiano', 'fijiano', 'iso 639:fij', 'iso 639:fj'];Pagsasao nga Austronesio iti pamilia ti Malayo-Polinesio a naisasao idiay Fiji
+language;['pagsasao a hawayano', 'hawayano', 'iso 639:haw'];Pagsasao a Polinesio ken opisial a pagsasao ti estado ti Hawaii
+language;['pagsasao a birmano', 'birmano', 'iso 639:my', 'iso 639:mya'];Pagsasao nga insasao idiay Myanmar
+language;['pagsasao nga estonio', 'estonio', 'iso 639:ekk', 'iso 639:est', 'iso 639:et'];Pagsasao nga insasao idiay Estonia
+language;['pagsasao a pinlandes', 'pinlandes', 'finnish language', 'iso 639:fi', 'iso 639:fin', 'pagsasao a finlandes', 'pagsasao a pines', 'pagsasao a pinlandés'];Pagsasao a maisasao babaen dagiti kaaduan a populasion idiay Pinlandia
+language;['pagsasao a hungaro', 'hungaro', 'hungarian language', 'iso 639:hu', 'pagsasao a húngaro'];Urales a pagsasao, a paset iti Ugric a grupo, nga insasao dagiti Hungaro
+language;['pagsasao a leton', 'leton', 'iso 639:lav', 'iso 639:lv', 'iso 639:lvs', 'latvian language', 'pagsasao a letón'];Opisial a pagsasao ti Latvia
+language;['pagsasao nga espaniol', 'espaniol', 'kastila', 'iso 639:es', 'iso 639:spa', 'pagsasao a castila', 'pagsasao a kastila', 'pagsasao nga castellano', 'pagsasao nga español', 'spanish language'];Pagsasao nga Iberiko Romanse
+language;['pagsasao a masedonio', 'masedonio', 'iso 639:mac', 'iso 639:mk', 'iso 639:mkd'];Pagsasao a naisasao idiay Macedonia
+language;['pagsasao a polako', 'polako', 'iso 639:pl', 'iso 639:pol', 'polish language'];Pagsasao a naisasao idiay Polonia
+language;['pagsasao a tseko', 'tseko', 'czech language', 'iso 639:cs'];Laud nga Eslabo a pagsasao a kaaduan a pagsasao idiay Republika a Tseka
+language;['serbo-kroata', 'pagsasao a serbo-kroata', 'iso 639:hbs', 'iso 639:sh'];Pagsasao nga Abagatan nga Eslabo
+language;['pagsasao a bieloruso', 'bieloruso', 'iso 639:be', 'iso 639:bel'];Pagsasao a Daya nga Eslabo
+language;['pagsasao nga eslobako', 'eslobako', 'iso 639:sk', 'iso 639:slk'];Pagsasao nga insasao idiay Eslobakia
+language;['pagsasao nga ukraniano', 'ukraniano', 'iso 639:uk', 'iso 639:ukr', 'ukrainian language'];Daya nga Eslabo a baba a paset ti grupo kadagiti Eslabo a pagsasao
+language;['pagsasao a ruso', 'ruso', 'iso 639:ru', 'iso 639:rus', 'pagsasao a rúso', 'russian language', 'rúso', 'русский'];Pagsasao nga Eslabo a kangrunaan a maisasao idiay Rusia
+language;['aleman', 'pagsasao nga aleman', 'deutsch', 'german language', 'iso 639:de', 'iso 639:deu', 'llengua alemanya'];Pagsasao a kameng ti lumaud a grupo dagiti pagsasao a Hermaniko ken maysa kadagiti kangrunaan a pagsasao iti sangalubongan
+language;['olandes', 'pagsasao nga olandes', 'dutch', 'dutch language', 'iso 639:nl', 'pagsasao nga olandés'];Pagsasao a Laud nga Aleman ken patneng a pagsasao iti kaaduan a population iti Olánda, Belhika, Surinam, dagiti tallo a kameng iti Kappon ti pagsasao nga Olandés
+legal-possession-entity;['buis', 'tax'];Panagsingir a naipang-al kadagiti agbaybayad ti buis babaen ti maysa a estado
+locative-role;['kyoto', 'kyoto, kyoto'];siudad ti Hapon
+locative-role;['delhi'];Nailian a teritorio a kapitolio ti India
+locative-role;['ciudad juárez', 'el paso del norte'];Siudad ken tugar ti Iliti Juárez, Chihuahua
+locative-role;['punta arenas'];Komuna ken siudad ti Chile
+locative-role;['los angeles', 'ciudad ti los angeles', 'los angeles, california'];Siudad idiay California, Estados Unidos
+locative-role;['meka', 'mecca'];Kapitolio ti probinsia ti Makkah idiay Saudi Arabia
+locative-role;['siudad ti oaxaca', 'oaxaca de juárez'];Kapitolio a siudad ti Oaxaca, Mehiko
+locative-role;['monaco'];Pagilian idiay Europa
+locative-role;['imperio a bisantino', 'bisantino', 'bisantino nga imperio', 'byzantine empire'];Romano nga Imperio idi las-ud ti Naladaw a Kinaugma ken Tengnga a Panpanawen
+locative-role;['abagatan a daya nga asia', 'akin-abagatan a daya nga asia', 'abagatan-a-daya nga asia', 'southeast asia'];Subrehion ti Asia
+locative-role;['serbia', 'србија'];Pagilian idiay Europa
+locative-role;['sapporo', 'sapporo, hokkaidō'];Siudad ti Hokkaido, Hapon
+locative-role;['kalawa', 'area'];Pisikal a kantidad a mangipaduyakyak iti kadakkel wenno kabassit ti maysa a paset ti maysa a rabaw
+locative-role;['cancún', 'cancun'];Siudad idiay Mehiko
+locative-role;['antofagasta'];Siudad ti Chile
+locative-role;['purok'];Bassit a rimpuok a pagtaengan ti tao a basbassit ngem iti maysa nga ili
+locative-role;['nailian a parke'];Parke nga inus-usar para kadagiti panggep ti konserbasion
+locative-role;['desierto', 'kadaratan', 'desert', 'disierto'];Ladawan ti daga wenno rehion a makaawat ti napatinggaan nga ababa a dagup ti tudo
+locative-role;['siudad ti cebu', 'ciudad ti cebu', 'cebu city', 'city of cebu', 'dakbayan sa sugbo', 'lungsod ng cebu'];Siudad idiay probinsia ti Cebu, Pilipinas
+locative-role;['sona ti oras', 'time zone'];Rehion iti Lubong nga addaan ti agpapada a pagalagadan ti oras para iti kalintegan, komersial ken sosial a pakaipanggepan
+locative-role;['imperio a britaniko', 'britaniko nga imperio', 'british empire'];Dagiti pagturayan ti Nagkaykaysa a Pagarian
+locative-role;['dagiti hemisperio ti daga'];Dua a paset a pannakabingbingay iti Daga
+locative-role;['chicago', 'chicago, illinois'];Siudad idiay Illinois, Estados Unidos
+locative-role;['labrador'];rehion ti Kanada
+locative-role;['tengnga a daya', 'asideg a daya', 'middle east'];Heograpiko a rehion nga agarup a buklen ti Akinlaud nga Asia
+locative-role;['tengnga a daya', 'asideg a daya', 'middle east'];Heograpiko a rehion
+locative-role;['valparaíso'];Siudad ti Chile
+locative-role;['tel aviv'];Maikadua a kadakkelan a siudad idiay Israel
+locative-role;['istanbul'];Kadakkelan a siudad idiay Turkia
+locative-role;['siudad ti new york', 'ciudad iti new york', 'ciudad ti new york', 'ciudad ti nueva york', 'lungsod ng new york', 'new york city'];Siudad idiay estado ti New York, Estados Unidos
+locative-role;['karachi'];Siudad idiay Pakistan ken kapitolio ti probinsia ti Sindh
+locative-role;['akin-amianan nga europa'];Akin-amianan a rehion ti kontinente ti Europa
+locative-role;['tengnga nga amerika', 'sentral nga amerika'];Sentral a heograpiko a rehion ti Kaamerikaan
+locative-role;['latin nga amerika'];Subrehion ti Kaamerikaan
+locative-role;['antartiko', 'antarctic', 'antártiko'];Rehion ti lawlaw ti Abagatan nga Ungto ti Daga
+locative-role;['sub-sahara nga aprika'];Lugar ti kontinente ti Aprika a mabirukan iti abagatan ti Desierto ti Sahara
+locative-role;['sahara'];Desierto a mabirukan idiay Amianan nga Aprika, maikatlo a kadakkelan kalpasan ti Antartika ken Artika
+mental-object;['pannakaammo', 'knowledge'];Pamiliaridad ti maysa a tao wenno banag
+method;['diktadura', 'dictatorship'];Porma ti aristokratiko a gobierno nga indauloan babaen ti agmaymaysa a tao
+method;['batay-linteg a monarkia'];Porma ti gobierno
+method;['demokrasia', 'democracia', 'democracy', 'demokrásia'];Porma ti gobierno a ti amin a makabael nga umili ket adda ti agpapada a karbengan ti panagikeddeng a makaaringan ti panagbiagda
+method;['monarkia', 'monarchy'];Porma ti gobierno nga iti kinaturay ket pudno wenno bassit a naipatagikua iti agmaymaysa a tao
+non-agentive-physical-object;['moda', 'uso', 'fashion'];Sapasap a panangibaga para iti nadayeg nga estilo wenno panagsanay
+non-agentive-physical-object;['kawes', 'bado', 'clothing'];Sagut ken tela a material nga inus-usar a panangibado iti bagi
+non-physical-collection;['hinduismo', 'hinduism'];Maysa kadagiti kangrunaan a relihion iti lubong, a kaaduan a naisansanay idiay Asia
+non-physical-collection;['monoteismo', 'monoteistiko', 'monotheism'];Pammati iti maymaysa a dios
+non-physical-collection;['politeismo', 'polytheism'];Pammati iti ad-adu ngem maysa a dios
+non-physical-collection;['hainismo', 'jainism'];Relihion idiay India
+non-physical-collection;['taoismo', 'taoism'];Pilosopiko ken relihioso a tawidan
+non-physical-collection;['linteg militar'];Emerhensia a linteg a tenglen ti maysa nga autoridad ti militar
+non-physical-collection;['materialismo', 'materialism', 'materialista'];Teoria iti pilosopia
+non-physical-collection;['hudaismo', 'judaismo', 'judaism'];Relihion ti Hudio a tattao
+non-physical-collection;['kristianidad', 'christianity', 'cristianidad'];Pammati ti maymaysa a dios ken Abraham a relihion a naibatay kadagiti sursuro ni Hesus
+organized-collection;['ariwanas', 'aríwánas', 'galaxy'];Dakkel a panagguyod a sistema a buklen ti bitbituen, estelar a tidda, dagiti nainlangitan a banag ti alingasaw ken tapok, ken ti nangisit a banag
+organized-collection;['linteg militar'];Emerhensia a linteg a tenglen ti maysa nga autoridad ti militar
+organized-collective;['grupo ti etniko', 'etnisidad'];Naipalawag iti sosial a kategoria ti tattao a mangilasin iti tunggal amaysa kaniada
+phenomenon;['plasma'];Kasasaad ti banag a kapadpada ti alingasaw nga addaan dagiti paset ti partikula ket naionisado
+phenomenon;['lawag', 'makita a lawag', 'makitkita a lawag', 'light'];Elektomagnetiko a radiasion a makita iti mata ti tao
+phenomenon;['hangul', 'iso 15924:hang'];Patneng nga abesedario ti pagsasao a Koreano
+phenomenon;['ulep', 'cloud'];Makitkita a a masa dagiti tedted ti likido wenno nayelo a kristal a naibitin iti atmospera
+phenomenon;['panagpaamo', 'domestikasion', 'domestication'];Proseso a babaen iti populasion dagiti ayup wenno dagiti mula ket nabaliwan iti henetiko nga agpang babaen ti proseso iti panagpili
+phenomenon;['ultrabioleta', 'ultraviolet'];Elektromagnetiko a radiasion nga addaan ti ab-ababa a kaatiddog ti allon ngem ti makitkita a lawag, ngem at-atiddog ngem dagiti rayo-ekis
+phenomenon;['gingined', 'earthquake', 'ginggined', 'ginginéd'];Kellaat a panagibbatan iti enerhia idiay ukis ti Daga
+phenomenon;['potosintesis', 'photosynthesis'];Proseso nga us-usaren dagiti mula ken dagiti dadduma pay nga organismo tapno pagbaliwenda ti enerhia ti lawag
+phenomenon;['tiempo', 'panawen', 'weather'];Kasasaad ti atmospera
+phenomenon;['biag', 'life'];Pannakailasinan a mangisalumina dagiti banag nga adda kadagiti panangisenial ken bukod a panagsaranay a pamay-an ken dagiti saan
+phenomenon;['pannakalpa', 'digestion'];Mekanikal ken kimiko a panagburak ti kanen
+phenomenon;['panaganges', 'breathing'];Proseso a mangiyuneg ken mangiruar ti angin kadagiti bara
+phenomenon;['layus', 'layos', 'lapunos', 'flood'];Panaglippias ti danum a mangirenneb ti daga
+phenomenon;['ebolusion', 'evolution'];Aniaman a panagbalbaliw iti ballasiw dagiti agsasaruno a kaputotan iti tinawtawid a panakaisdasig dagiti biolohiko a populasion
+phenomenon;['tudo', 'uran', 'presipitasion', 'rain'];Danum iti porma dagiti tedted ken nakondensado manipud ti atmosperiko a sengngaw ti danum ken intokuan ket maitudo
+physical-body;['bandus', 'kometa', 'bandús', 'comet'];Bassit a nayelo a bagi ti Sistema a Solar
+physical-body;['bulan', 'moon'];Is-isu a masna a satelite ti Daga
+physical-body;['asteroid'];Dagiti bassit a planeta a saan a bandus
+physical-body;['law-ang', 'uniberso', 'universo', 'universe'];Totalidad iti pannakaparsua a mairaman dagiti planeta, dagiti bituen, dagiti ariwanas, dagiti linaon ti intergalaktiko a limbang, ken amin a banag ken enerhia
+physical-body;['daga', 'earth', 'lubong'];Maikatlo a planeta manipud ti Init iti Sistema a Solar
+physical-body;['marte', '♂', 'mars', 'márte'];Maikapat a planeta manipud ti Init iti Sistema a Solar
+physical-body;['merkurio', 'mercurio', 'mercury', 'merkúrio'];Kaasitgan a planeta iti Init ken isu ti maikadua a kabassitan a planeta iti Sistema a Solar.
+physical-object;['arko', 'arch'];Estruktura a mangadpa ti maysa a lugar ken mangsuporta ti dagsen ti ngatona
+physical-object;['bisikleta', 'bicycle'];Pinidpidal ti tao a lugan nga adda kadagiti dua a pilid a naikapet iti maysa a kuadro
+physical-object;['arado', 'plough', 'plow'];Ramit nga inus-usar iti panagtalon ti daga para iti panangisagana ti panagmula
+physical-object;['tambor', 'bombo', 'drum'];Kita ti instrumento ti musika iti pamilia ti perkusion
+physical-object;['sarming', 'mirror', 'paganninawan'];Banag a manganninaw ti lawag
+physical-object;['piano'];Instrumento ti musika
+physical-object;['gitara', 'guitar'];Kita ti kuerdas nga intrumento
+physical-object;['torre', 'tower'];Natayag nga estruktura
+physical-object;['submarino', 'submarine', 'submaríno'];Pagluganan iti danum a makapabael ti nawaya a panaglangoy ti kaadaleman
+physical-object;['pagorasan', 'reloj', 'clock'];Instrumento a mangibaga ti oras
+physical-object;['rangtay', 'bridge'];Estruktura a nabangon tapno maisangdapa dagiti pisikal a tiped
+physical-object;['abalbalay', 'toy'];Banag a mausar nga ay-ayamen
+physical-object;['pagidulinan ti datos ti kompiuter', 'kangrunaan a pagidulinan'];Teknolohia a buklen dagiti komponente ti kompiuter ken ti mausar a panagrekord a midia tapno matalinaay ti dihital a datos
+physical-object;['tangke', 'tank', 'tángke'];Natugutan a nakalsagan a pannakigubatan a lugan
+physical-object;['lawag', 'makita a lawag', 'makitkita a lawag', 'light'];Elektomagnetiko a radiasion a makita iti mata ti tao
+physical-object;['telebision', 'television', 'tv'];Telekomunikasion a pamay-an para iti panagiwaragawag ken panangawat kadagiti agkutkuti a ladawan
+physical-object;['kawes', 'bado', 'clothing'];Sagut ken tela a material nga inus-usar a panangibado iti bagi
+physical-object;['bisikleta', 'bicycle'];Pinidpidal ti tao a lugan nga adda kadagiti dua a pilid a naikapet iti maysa a kuadro
+physical-object;['armas', 'igam', 'weapon'];Aniaman nga instrumento nga inus-usar tapno mangulpit ti dadael wenno makadangran kadagiti sibibiag a parsua, dagiti estruktura, wenno dagiti sistema
+physical-object;['internet'];Sapasap nga awag kadagiti agsisilpo a network ti kompiuter
+political-geographic-object;['romania'];Pagilian idiay Europa
+political-geographic-object;['kyoto', 'kyoto, kyoto'];siudad ti Hapon
+political-geographic-object;['delhi'];Nailian a teritorio a kapitolio ti India
+political-geographic-object;['ciudad juárez', 'el paso del norte'];Siudad ken tugar ti Iliti Juárez, Chihuahua
+political-geographic-object;['punta arenas'];Komuna ken siudad ti Chile
+political-geographic-object;['los angeles', 'ciudad ti los angeles', 'los angeles, california'];Siudad idiay California, Estados Unidos
+political-geographic-object;['meka', 'mecca'];Kapitolio ti probinsia ti Makkah idiay Saudi Arabia
+political-geographic-object;['siudad ti oaxaca', 'oaxaca de juárez'];Kapitolio a siudad ti Oaxaca, Mehiko
+political-geographic-object;['amianan a korea', 'north korea', '朝鮮民主主義人民共和國'];Pagilian idiay Asia
+political-geographic-object;['norwega', 'kongeriket noreg', 'kongeriket norge', 'noreg', 'norge', 'norway', 'norwéga'];Pagilian idiay Amianan nga Europa
+political-geographic-object;['olanda', 'nederland', 'nederlandia', 'nederlands', 'netherlands', 'olánda'];Pagilian idiay Amianan nga Europa
+political-geographic-object;['lesoto', 'lesotho'];Pagilian idiay Aprika
+political-geographic-object;['monaco'];Pagilian idiay Europa
+political-geographic-object;['samoa'];Pagilian idiay Oceania
+political-geographic-object;['republika ti tengnga nga aprika', 'tengnga nga aprika', 'central african republic', 'republica iti tengnga ti africa', 'republika iti tengnga nga aprika', 'sentral nga aprika'];Pagilian idiay Aprika
+political-geographic-object;['djibouti'];Pagilian idiay Aprika
+political-geographic-object;['malaysia'];Pagilian idiay Abagatan a Daya nga Asia
+political-geographic-object;['namibia'];Pagilian idiay Aprika
+political-geographic-object;['mauritania'];Pagilian idiay Aprika
+political-geographic-object;['guinea ekuatorial', 'equatorial guinea', 'guinea ecuatorial'];Pagilian idiay Aprika
+political-geographic-object;['san kristobal ken niebes', 'federation of saint kitts and nevis', 'saint kitts and nevis', 'santo kristo ken nevis'];Pagilian idiay Amianan nga Amerika
+political-geographic-object;['komoros', 'comoros', 'komoras'];Pagilian idiay Aprika
+political-geographic-object;['santa lucia', 'saint lucia'];Pagilian idiay Amianan nga Amerika
+political-geographic-object;['inglatera', 'england', 'inglaterra'];Pagilian idiay Amianan nga Europa, paset ti Nagkaykaysa a Pagarian
+political-geographic-object;['akin-amianan nga irlanda', 'akin-amianan nga irlánda', 'irlanda del norte', 'irlánda del norte', 'northern ireland'];Pagilian idiay Amianan nga Europa, paset ti Nagkaykaysa a Pagarian
+political-geographic-object;['dagiti nagkaykaysa nga emirato nga arabo', 'nagkaykaysa nga emirate dagiti arabo', 'united arab emirates'];Pagilian idiay Asia
+political-geographic-object;['kappon ti sobiet', 'soviet union'];Dati a sosialista nga estado
+political-geographic-object;['luxembourg'];Pagilian idiay Akinlaud nga Europa
+political-geographic-object;['sapporo', 'sapporo, hokkaidō'];Siudad ti Hokkaido, Hapon
+political-geographic-object;['morocco', 'pagarian ti morocco'];Pagilian idiay Amianan nga Aprika
+political-geographic-object;['nagkaykaysa a pagarian', 'pagarian ti britania ken umamianan nga irlandia', 'reino unido', 'reino unido ti gran bretaña ken ti irlanda del norte', 'reino unido ti gran bretaña quen ti irlanda del norte', 'united kingdom'];Isla a pagilian idiay Amianan a Laud nga Europa
+political-geographic-object;['espania', 'españa', 'espana', 'espanya', 'spain'];Pagilian idiay Abagatan nga Europa
+political-geographic-object;['saudi arabia'];Pagilian idiay Asia
+political-geographic-object;['chad', 'tsad'];Pagilian idiay Tengnga nga Aprika
+political-geographic-object;['uganda'];Pagilian idiay Aprika
+political-geographic-object;['bielorusia', 'belarus', 'республика беларусь'];Pagilian idiay Dumaya nga Europa
+political-geographic-object;['malawi'];Pagilian idiay Aprika
+political-geographic-object;['zimbabwe'];Pagilian idiay Aprika
+political-geographic-object;['kirgistan', 'kirgistán', 'kyrgyzstan'];Pagilian idiay Asia
+political-geographic-object;['mali'];Pagilian idiay Aprika
+political-geographic-object;['new jersey'];Estado ti Estados Unidos iti Amerika
+political-geographic-object;['minnesota'];Estado ti Estados Unidos iti Amerika
+political-geographic-object;['nebraska'];Estado ti Estados Unidos iti Amerika
+political-geographic-object;['belgium', 'belhika', 'belga', 'bélga'];Pederal nga estado idiay Lumaud nga Europa
+political-geographic-object;['eswatini', 'swaziland', 'suasilandia'];Pagilian idiay Aprika
+political-geographic-object;['tonga'];Pagilian idiay Oceania
+political-geographic-object;['pakistan', 'pakistán', 'پاکستان'];Pagilian idiay Asia
+political-geographic-object;['banglades', 'bangladesh'];Pagilian idiay Abagatan nga Asia
+political-geographic-object;['apganistan', 'afganistan', 'afghanistan', 'apganistán'];Pagilian idiay Asia
+political-geographic-object;['abruzzo'];Rehion idiay Italia
+political-geographic-object;['austria'];Pagilian idiay Tengnga nga Europa
+political-geographic-object;['laos'];Pagilian idiay Abagatan a daya nga Asia
+political-geographic-object;['myanmar', 'burma'];Pagilian idiay Abagatan a Daya nga Asia
+political-geographic-object;['connecticut'];Estado ti Estados Unidos iti Amerika
+political-geographic-object;['cancún', 'cancun'];Siudad idiay Mehiko
+political-geographic-object;['antofagasta'];Siudad ti Chile
+political-geographic-object;['butan', 'bhutan'];Pagilian idiay Asia
+political-geographic-object;['apulia'];Rehion idiay Italia
+political-geographic-object;['sarawak'];Estado ti Malaysia iti isla ti Borneo
+political-geographic-object;['lombardia'];Rehion idiay Italia
+political-geographic-object;['basilicata'];Rehion idiay Italia
+political-geographic-object;['apartheid', 'apartheid idiay abagatan nga aprika', 'apartheid in south africa'];Sistema ti segragasion ti puli
+political-geographic-object;['turkmenistan'];Pagilian idiay Asia
+political-geographic-object;['zambia'];Pagilian idiay Aprika
+political-geographic-object;['demokratiko a republika iti kongo', 'congo-kinshasa', 'democratic republic of the congo', 'republica nga democratico iti congo'];Pagilian idiay Aprika
+political-geographic-object;['honduras'];Pagilian idiay Tengnga nga Amerika
+political-geographic-object;['costa rica', 'crc'];Pagilian idiay Tengnga nga Amerika
+political-geographic-object;['hungaria', 'hungary', 'ungari'];Pagilian idiay Tengnga nga Europa
+political-geographic-object;['burundi'];Pagilian idiay Aprika
+political-geographic-object;['tanzania'];Pagilian idiay Aprika
+political-geographic-object;['guinea', 'guinée'];Pagilian idiay Aprika
+political-geographic-object;['bietnam', 'vietnam', 'việtnam'];Pagilian idiay Abagatan a Daya nga Asia
+political-geographic-object;['libya'];Pagilian idiay Aprika
+political-geographic-object;['alemania', 'deutschland', 'germany'];Pagilian idiay Europa
+political-geographic-object;['sudan', 'republika ti sudan'];Pagilian idiay Aprika
+political-geographic-object;['ehipto', 'ehípto', 'egypt'];Pagilian idiay Amianan nga Aprika
+political-geographic-object;['guyana'];Pagilian idiay Abagatan nga Amerika
+political-geographic-object;['surinam', 'suriname'];Pagilian idiay Abagatan nga Amerika
+political-geographic-object;['venezuela'];Pagilian idiay Abagatan nga Amerika
+political-geographic-object;['arhelia', 'algeria'];Pagilian idiay Aprika
+political-geographic-object;['botswana'];Pagilian idiay Akin abagatan nga Aprika
+political-geographic-object;['mosambike', 'mozambique'];Pagilian idiay Aprika
+political-geographic-object;['indonesia'];Pagilian idiay Abagatan a Daya nga Asia
+political-geographic-object;['gresia', 'grecia', 'greece', 'ελληνική δημοκρατία'];Pagilian idiay Abagatan nga Europa
+political-geographic-object;['ukrania', 'ukraine', 'ukrainia', 'ukrayina'];Pagilian idiay Europa
+political-geographic-object;['armenia', 'հայաստան'];Pagilian idiay nagsasabtan iti Lumaud nga Asia ken Dumaya nga Europa
+political-geographic-object;['irak', 'iraq'];Pagilian idiay Tengnga nga Asia
+political-geographic-object;['abagatan a korea', 'south korea', '大韓民國'];Pagilian idiay Asia
+political-geographic-object;['republika a dominikano', 'dominican republic', 'republica dominicana'];Pagilian idiay Amianan nga Amerika
+political-geographic-object;['gambia', 'ti gambia'];Pagilian idiay Aprika
+political-geographic-object;['ghana'];Pagilian idiay Aprika
+political-geographic-object;['nigeria', 'pederal republika ti nigeria'];Pagilian idiay Aprika
+political-geographic-object;['pantar ti marpil', 'costa ivoria', "cote d'ivoire", "côte d'ivoire", "republic of côte d'ivoire", "république de côte d'ivoire"];Pagilian idiay Aprika
+political-geographic-object;['niger'];Pagilian idiay Aprika
+political-geographic-object;['gabon'];Pagilian idiay Aprika
+political-geographic-object;['republika iti kongo', 'republic of the congo', 'republica iti congo', 'république du congo'];Pagilian idiay Aprika
+political-geographic-object;['kamerun', 'camerun', 'cameroon'];Pagilian idiay Aprika
+political-geographic-object;['guinea-bissau', 'guiné-bissau', 'repubika iti guinea-bissau', 'republic of guinea-bissau'];Pagilian idiay Aprika
+political-geographic-object;['senegal'];Pagilian idiay Aprika
+political-geographic-object;['pransia', 'francia', 'france', 'fransia'];Pagilian idiay Lumaud nga Europa
+political-geographic-object;['ecuador', 'ec', 'ecu'];Pagilian idiay Abagatan nga Amerika
+political-geographic-object;['madagascar'];Pagilian idiay Aprika
+political-geographic-object;['maldibas', 'maldiv', 'maldives'];Pagilian idiay Asia
+political-geographic-object;['seychelles', 'seysheles'];Isla a pagilian idiay Daya nga Aprika
+political-geographic-object;['puerto rico'];Di nainkorporado a teritorio ti Estados Unidos iti Amerika
+political-geographic-object;['andorra'];Pagilian idiay Europa
+political-geographic-object;['akinlaud nga australia', 'western australia'];estado ti Australia
+political-geographic-object;['tennessee'];Estado ti Estados Unidos iti Amerika
+political-geographic-object;['kentucky'];Estado ti Estados Unidos iti Amerika
+political-geographic-object;['massachusetts'];Estado ti Estados Unidos iti Amerika
+political-geographic-object;['rhode island'];Estado ti Estados Unidos iti Amerika
+political-geographic-object;['south dakota'];Estado ti Estados Unidos iti Amerika
+political-geographic-object;['alaska'];Estado ti Estados Unidos iti Amerika
+political-geographic-object;['montana'];Estado ti Estados Unidos iti Amerika
+political-geographic-object;['oregon'];Estado ti Estados Unidos iti Amerika
+political-geographic-object;['louisiana'];Estado ti Estados Unidos iti Amerika
+political-geographic-object;['arkansas'];Estado ti Estados Unidos iti Amerika
+political-geographic-object;['mississippi'];Estado ti Estados Unidos iti Amerika
+political-geographic-object;['virginia'];Estado ti Estados Unidos iti Amerika
+political-geographic-object;['nevada'];Estado ti Estados Unidos iti Amerika
+political-geographic-object;['california'];Estado ti Estados Unidos iti Amerika
+political-geographic-object;['colorado'];Estado ti Estados Unidos iti Amerika
+political-geographic-object;['oman'];Pagilian idiay Abagatan a laud nga Asia
+political-geographic-object;['damascus'];Kapitolio ti Siria
+political-geographic-object;['arhel', 'algiers'];Kapitolio a siudad ti Arhelia
+political-geographic-object;['kuwait'];Pagilian idiay Asia
+political-geographic-object;['hordania', 'jordan'];Pagilian idiay Asia
+political-geographic-object;['tibet'];Banak a rehion idiay Asia
+political-geographic-object;['lebanon'];Pagilian idiay Asia
+political-geographic-object;['siudad ti cebu', 'ciudad ti cebu', 'cebu city', 'city of cebu', 'dakbayan sa sugbo', 'lungsod ng cebu'];Siudad idiay probinsia ti Cebu, Pilipinas
+political-geographic-object;['fiji'];Pagilian idiay Oceania
+political-geographic-object;['san vicente ken dagiti grenadito', 'saint vincent and the grenadines'];Pagilian idiay Amianan nga Amerika
+political-geographic-object;['bahrain', 'bahrayn'];Pagilian idiay Asia
+political-geographic-object;['kiribati'];Pagilian idiay Oceania
+political-geographic-object;['trinidad ken tobago'];Isla a pagilian idiay Baybay Karibe
+political-geographic-object;['islandia', 'icelandia', 'iceland'];Pagilian idiay Europa
+political-geographic-object;['grenada'];Pagilian idiay Amianan nga Amerika
+political-geographic-object;['prague', 'praha'];Kapitolio a siudad ti Republika a Tseka
+political-geographic-object;['roma', 'rome'];Kapitolio ti Italia
+political-geographic-object;['beirut'];Kapitolio ti Lebanon
+political-geographic-object;['oklahoma city', 'oklahoma city, oklahoma', 'siudad ti oklahoma'];Kapitolio ti Oklahoma
+political-geographic-object;['herusalem', 'jerusalem'];Kapitolio ti Israel
+political-geographic-object;['kiev', 'київ'];Kapitolio a siudad ti Ukrania
+political-geographic-object;['tailandia', 'thailand'];Pagilian idiay Abagatan a daya nga Asia
+political-geographic-object;['benin'];Pagilian idiay Laud nga Aprika
+political-geographic-object;['burkina faso'];Pagilian idiay Laud nga Aprika
+political-geographic-object;['bahamas'];Pagilian idiay Amianan nga Amerika
+political-geographic-object;['santo tomas ken prinsipe', 'santo tomas ken principe', 'são tomé and príncipe'];Pagilian idiay Aprika
+political-geographic-object;['chicago', 'chicago, illinois'];Siudad idiay Illinois, Estados Unidos
+political-geographic-object;['eskosia', 'escocia', 'eskósia', 'scotland'];Pagilian idiay Amianan nga Europa, paset ti Nagkaykaysa a Pagarian
+political-geographic-object;['alberta magna', 'alberta'];sebbangan ti mula
+political-geographic-object;['pinlandia', 'finland', 'finlandia'];Pagilian idiay Amianan nga Europa
+political-geographic-object;['atlanta', 'atlanta, georgia'];Kapitolio ti Georgia, Estados Unidos ken tugaw ti kondado ti Kondado ti Fulton
+political-geographic-object;['albany, new york', 'albany'];Kapitolio ti New York
+political-geographic-object;['kabul'];Kapitolio ti Apganistan
+political-geographic-object;['tirana'];Kapitolio ti Albania
+political-geographic-object;['luanda'];Kapitolio ti Angola
+political-geographic-object;['dhaka'];Kapitolio ti Banglades
+political-geographic-object;['bujumbura'];Kapitolio ti Burundi
+political-geographic-object;['nicosia'];Kapitolio ti Cyprus
+political-geographic-object;['tbilisi', 'tiflis'];Kapitolio a siudad ti Georgia
+political-geographic-object;['atenas', 'athens'];Kapitolio ken kadakkelan a siudad ti Gresia
+political-geographic-object;['reykjavík', 'reykjavik'];Kapitolio ken kadakkelan a siudad ti Islandia
+political-geographic-object;['amman'];Kapitolio ti Hordania
+political-geographic-object;['ulaanbaatar', 'ulan bator'];Kapitolio ti Mongolia
+political-geographic-object;['kigali'];Kapitolio ken kadakkelan a siudad idiay Rwanda
+political-geographic-object;['seoul'];Kapitolio a siudad ti Abagatan a Korea
+political-geographic-object;['estokolmo'];Kapitolio ken kadakkelan a siudad ti Suesia
+political-geographic-object;['bangkok'];Kapitolio a siudad ti Tailandia
+political-geographic-object;["sana'a"];Kapitolio ti Yemen
+political-geographic-object;['ashgabat'];Kapitolio a siudad ti Turkmenistan
+political-geographic-object;['salt lake city', 'siudad ti salt lake'];Kapitolio ti Utah
+political-geographic-object;['caracas'];Kapitolio ti Venezuela
+political-geographic-object;['hanoi'];Kapitolio ti Bietnam
+political-geographic-object;['manama'];Kapitolio ti Bahrain
+political-geographic-object;['zagreb'];Kapitolio ken kadakkelan a siudad ti Kroasia
+political-geographic-object;['quito'];Kapitolio ti Ecuador
+political-geographic-object;['cairo'];Kapitolio ti Ehipto
+political-geographic-object;['taipei', 'taipei city'];Kapitolio ti Taiwan
+political-geographic-object;['valparaíso'];Siudad ti Chile
+political-geographic-object;['sydney'];Siudad idiay Australia
+political-geographic-object;['tel aviv'];Maikadua a kadakkelan a siudad idiay Israel
+political-geographic-object;['istanbul'];Kadakkelan a siudad idiay Turkia
+political-geographic-object;['siudad ti new york', 'ciudad iti new york', 'ciudad ti new york', 'ciudad ti nueva york', 'lungsod ng new york', 'new york city'];Siudad idiay estado ti New York, Estados Unidos
+political-geographic-object;['karachi'];Siudad idiay Pakistan ken kapitolio ti probinsia ti Sindh
+political-geographic-object;['brasil', 'brazil'];Pagilian idiay Abagatan nga Amerika
+political-geographic-object;['phoenix, arizona', 'phoenix'];Kapitolio ti Arizona ken tugaw ti kondado ti Kondado ti Maricopa
+political-geographic-object;['pagilian', 'estado ti mehiko'];Rehion a legado a nainaganan a kas maysa a naisangsangayan nga entidad iti politikal a heograpia
+political-geographic-object;['probinsia', 'lalawigan', 'provincia'];Teritorio a paset ti kaunegan ti maysa a pagilian wenno estado
+practice;['kappia', 'peace'];Kasasaad ti urnos babaen ti kaawan iti ranggas
+quality;['hinduismo', 'hinduism'];Maysa kadagiti kangrunaan a relihion iti lubong, a kaaduan a naisansanay idiay Asia
+quality;['probabilidad', 'pannakangata', 'pannakaseguro', 'probability'];Rukod ti panagnamnama a mapagteng ti maysa a pasamak wenno ti maysa nga insasao ket agpayso
+quality;['maris', 'color', 'kolor'];Maipapan iti panagkita a panangipagarup dagiti atiddog nga allon ti lawag
+quality;['sakup'];Sakup a maipanggep ti instrumento ti musika
+quality;['monoteismo', 'monoteistiko', 'monotheism'];Pammati iti maymaysa a dios
+quality;['politeismo', 'polytheism'];Pammati iti ad-adu ngem maysa a dios
+quality;['hainismo', 'jainism'];Relihion idiay India
+quality;['temperatura', 'temperature'];Numeriko a panagrukod ti pudot wenno lamiis
+quality;['hudaismo', 'judaismo', 'judaism'];Relihion ti Hudio a tattao
+quality;['nawaya a nakem', 'free will'];Ti abilidad nga agaramid kadagiti panagpili a nawaya manipud kadagiti lapped
+quality;['masa', 'mass'];Tagikua ti pisikal a sistema wenno bagi
+quality;['awan inggana', 'awan lansadna', 'awan patinggana', 'di kalansadan', 'infinity'];Konsepto ti matematika iti aniaman nga awan patinggana
+quality;['kristianidad', 'christianity', 'cristianidad'];Pammati ti maymaysa a dios ken Abraham a relihion a naibatay kadagiti sursuro ni Hesus
+region;['kanito', 'segundo', 'second'];Pagbilangan ti oras ti SI
+region;['internasional a sistema dagiti yunit', 'internasional a sistema dagiti pagbilangan', 'internasional a sistema dagiti unit', 'international system of units', "le système international d'unités", 'si'];Moderno a porma ti sistema ti metriko
+region;['grado'];Yunit ti anggulo
+region;['litro', 'l', 'liter', 'litre'];Saan a SI a yunit ti tomo
+region;['kuarta', 'currency', 'sapasap a pangawatan'];Sapasap a pangawatan a banag ti panakisinnukat
+region;['kilogramo', 'hg', 'mg', 'tg', 'kg', 'kilogram'];yunit ti masa ti SI
+region;['metro', 'm', 'meter', 'metre'];SI nga unit ti kaatiddog
+region;['yen ti hapon', 'japanese yen'];Opisial a kuarta ti Hapon
+region;['pisos ti filipinas', 'piso', 'peso ti filipino', 'philippine peso', 'piso ti pilipinas', 'pisos ti pilipinas'];Kuarta pangawatan ti Filipinas
+region;['riwriw', '1000000'];Bilang
+region;['aldaw', 'day'];Paset ti oras (24 nga oras)
+regulation;['dagiti karbengan ti tao', 'dagiti kalintegan ti tao', 'dagiti karbengan ti nagtagitaoan', 'human rights'];Di maipaidam a kammasapulan a karbengan ti tao
+relation;['pantar ti baybay', 'lessaad ti baybay', 'natimbeng a lesaad ti baybay', 'ngato ti katimbengan a lessaad ti baybay', 'ngato ti lessaad ti baybay', 'ngato ti pantar ti baybay'];Datum a mangirepresenta ti natimbeng a katayag ti rabaw ti taaw
+relation;['abagatan', 'south'];Maysa kadagiti uppat a kardinal a direksion
+relevant-part;['kudil', 'skin'];Naalumaymay a pannakabungon dagiti bertebrata
+simple-collection;['mitolohia', 'mythology'];Panagadal kadagiti mito
+simple-collection;['law-ang', 'uniberso', 'universo', 'universe'];Totalidad iti pannakaparsua a mairaman dagiti planeta, dagiti bituen, dagiti ariwanas, dagiti linaon ti intergalaktiko a limbang, ken amin a banag ken enerhia
+situation;['burtong', 'smallpox'];Makaalis a sakit
+situation;['panateng', 'common cold'];Makaalis a sakit ti birus
+situation;['panagluas iti limbang', 'panagbanniaga iti limbang', 'spaceflight'];Panagluas idiay wenno iti kaunegan ti akin-ruar a limbang
+situation;['trangkaso', 'influenza'];Makaalis a sakit a makaaring kadagiti billit ken dagiti mamalia
+situation;['kolera', 'cholera'];Pannaka-akar iti uneg ti bassit a bagis
+situation;['sinuratan a siriliko', 'cyrillic script', 'siriliko a sinuratan'];Alpabetiko a sistema ti panagsurat
+situation;['sakit', 'disease'];Saan a normal a kondision nga umapay ti bagi iti maysa nga organismo
+situation;['pannakairuam', 'adiksion', 'addiction'];Agtultuloy a panagusar kadagiti mangbaliw ti panagwa a sustansia wenno panagkukua
+situation;['daig', 'sarut', 'tuberkulosis', 'tb', 'tuberculosis', 'tuberkolosis'];Maka-alis a sakit
+situation;['propaganda'];Porma ti pannakisarita a maigandat iti panag-impluensia ti wagas ti maysa a komunidad para iti kaso wenno puesto babaen ti panagpresenta laeng ti maysa a bangir ti argumento
+situation;['batay-linteg', 'konstitusion', 'batáy-lintég', 'constitusion', 'constitution'];Agasmang dagiti kammasapulan a pamunganayan a batayan ti pannakaituray ti estado wenno gunglo
+situation;['sakit ti ulo', 'headache'];Ut-ot iti ulo wenno tengnged
+situation;['alis', 'abortion', 'panagparegreg ti sikog', 'panagregreg ti sikog'];Panaregreg ti sikog
+situation;['alpabeto a latin', 'abesedario a latin', 'abesedário a latin', 'abesedário a latino', 'abesedário a romano', 'alfabeto a latino', 'alfabeto a romano', 'alpabeto a romano', 'latin alphabet', 'latin nga abesedario', 'latin nga abesedário'];Inusar idi nga alpabeto a panagsurat iti Latin
+situation;['alpabeto nga arabiko', 'arabic alphabet', 'arabiko nga abesedario', 'arabiko nga alpabeto'];Sinuratan nga Arabiko a kas naikodigo para iti panagsurat ti pagsasao nga Arabiko
+situation;['alpabeto a griego', 'abesedario a griego', 'greek alphabet', 'griego nga abesedario', 'griego nga abesedário', 'griego nga alpabeto', 'iso 15924:grek'];Sinuratan nga inus-usar iti panagsurat ti pagsasao a Griego
+situation;['tiempo', 'panawen', 'weather'];Kasasaad ti atmospera
+situation;['kinapudno', 'reality'];Kasasaad dagiti banag iti pudno nga irurumsuada
+situation;['kinapudno', 'reality'];Kasasaad dagiti banag iti pudno nga irurumsuada
+situation;['klima', 'climate'];Wadan ti pagigiddiatan iti temperatura, dam-eg, atmosperiko a presion, angin, tudo, bilang dagiti atmosperiko a partikula ken dadduma pay a meteorolohiko a paggigiddiatan
+social-relationship;['politika', 'politica', 'politics'];Pamay-an a panagpataray ti gobierno
+social-role;['puonan', 'kapital', 'capital'];Dagiti napatauden a naamnot a tagilako nga inus-usar iti produksion kadagiti tagilako wenno dagiti serbisio
+social-role;['kuarta', 'currency', 'sapasap a pangawatan'];Sapasap a pangawatan a banag ti panakisinnukat
+socially-constructed-person;['hernán cortés'];Espaniol a konkistador
+socially-constructed-person;['luis xiv ti pransia', 'ari ti init', 'luis ti natan-ok', 'louis xiv of france'];Ari ti Pransia
+socially-constructed-person;['johann sebastian bach'];Akleman a komposer, organista, harpsikordista, biolista, ken biolinista
+socially-constructed-person;['voltaire', 'françois-marie arouet'];Pranses a mannurat, historiador, ken pilosopo
+socially-constructed-person;['victor hugo'];Pranses a mannaniw, nobelista, ken dramatista
+socially-constructed-person;['richard wagner'];Aleman a komposer ken konduktor
+socially-constructed-person;['otto von bismarck'];Nangbangon ti Aleman nga Imperio
+socially-constructed-person;['louis pasteur'];Pranses a kimiko ken mikrobiologo
+socially-constructed-person;['dante gabriel rossetti'];Wikimedia:Panangilawlawag
+socially-constructed-person;['johannes brahms', 'brahms'];Aleman a komposer ken pianista
+socially-constructed-person;['alexander graham bell'];Sientista ken inbentor a kaaduan nga ammo para iti obrana iti telepono
+socially-constructed-person;['mahatma gandhi', 'gandhi', 'mohandas karamchand gandhi'];Preeminente a daulo ti Indiano a nationalismo idi las-ud ti Britaniko a panagturay ti India
+socially-constructed-person;['winston churchill'];Kangrunaan a Ministro idi las-ud ti Sangalubongan a Gubat II
+socially-constructed-person;['jawaharlal nehru'];Immuna a Kangrunaan a Ministro ti India
+socially-constructed-person;['william faulkner', 'william cuthbert faulkner'];Amerikano a mannurat
+socially-constructed-person;['humphrey bogart', 'humphrey deforest bogart'];Amerikano nga aktor
+socially-constructed-person;['mahoma', 'muhammad'];Daulo manipud idiay Meka a nangipagkaykaysa ti Arabia iti maysa a relihioso a gobierno ti Islam
+socially-constructed-person;['karlomagno', 'carlomagno', 'carlos ti natan-ok', 'charlemagne', 'charles the great', 'karlos ti natan-ok'];Ari dagiti Pranko ken Lombardo ken Emperador ti Nasantuan a Romano nga Imperio
+socially-constructed-person;['papa gregorio i', 'gregorio i'];Papa ti Katoliko a Simbaan
+socially-constructed-person;['james k. polk'];Maika-11 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['leonardo da vinci'];Italiano a Renasimiento, erudito, eskultor, musikero, sientista, matematiko, inheniero, inbentor, anatomista, heologo, kartograpo, botanista, ken mannurat
+socially-constructed-person;['franklin pierce'];Maika-14 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['rené descartes'];Pranses a pilosopo
+socially-constructed-person;['james buchanan'];Maika-15 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['gottfried wilhelm leibniz', 'gottfried leibniz'];Aleman a matematiko ken pilosopo
+socially-constructed-person;['abraham lincoln'];Maika-16 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['carolus linnaeus', 'carl linnaeus', 'carl von linné', 'l.', 'linnaeus'];Sueko a botaniko, mangngagas, ken soologo
+socially-constructed-person;['joseph haydn'];Austriano a kompositor
+socially-constructed-person;['wolfgang amadeus mozart'];Austriano nga ubing a prodihio, komposer
+socially-constructed-person;['napoleon bonaparte', 'napoleon', 'napoleon i', 'napoleon i iti pransia'];Pranses a milisia ken daulo ti politika
+socially-constructed-person;['carl friedrich gauss'];Aleman a matematiko ken maipapan ti bagi a sientista
+socially-constructed-person;['andrew johnson'];Maika-17 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['george bernard shaw'];Irlandes a dramaturgo
+socially-constructed-person;['henry ford'];Amerikano nga industrialista
+socially-constructed-person;['bertrand russell'];Britaniko a pilosopo, lohiko, matematiko, historiador, ken sosial a kritiko
+socially-constructed-person;['pablo picasso'];Espaniol a pintor, eskultor, agprenprenta, seramista, ken dumidibuho ti entablada
+socially-constructed-person;['franz kafka'];Austriano a mannurat
+socially-constructed-person;['ludwig wittgenstein'];Austriano-Britaniko a pilosopo
+socially-constructed-person;['isabel ii', 'elizabeth ii', 'isabel ii ti reino unido'];Reina ti Nagkaykaysa a Pagarian
+socially-constructed-person;['george washington'];Immuna a Presidente ti Estados Unidos ken agbilbilin ti Kontinental a Buyot
+socially-constructed-person;['james a. garfield', 'james garfield'];Maika-20 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['grover cleveland'];Maika-22 ken maika-24 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['benjamin harrison'];Maika-23 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['warren g. harding'];Maika-29 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['john adams'];Maika-2 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['herbert hoover'];Maika-31 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['franklin d. roosevelt', 'fdr'];Maika-32 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['gerald ford', 'gerald r. ford'];Maika-38 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['jimmy carter'];Maika-39 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['thomas jefferson'];Maika-3 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['bill clinton'];Maika-42 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['james madison'];Maika-4 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['james monroe'];Maika-5 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['andrew jackson'];Maika-7 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['martin van buren'];Maika-8 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['pablo ti apostol', 'paul the apostle'];Apostol a nangiwarwaras ti Kristianidad
+socially-constructed-person;['hans christian andersen'];Danes a mannurat, mannurat ti banbanig a sarita, ken mannaniw
+socially-constructed-person;['raha'];Monarkia wenno prinsipe nga agturturay
+socially-constructed-person;['tao', 'tattao', 'táo'];Parsua a tao
+socially-constructed-person;['anak', 'child', 'ubing'];Tao a nagbaetan dagiti agpang iti pannakaipasngay ken panagbalasang wenno panagbaro
+socially-constructed-person;['prayle'];Kameng ti relihioso nga urnos ti Kristiano a mendikante
+socially-constructed-person;['aztec'];Etniko a grupo ti Tengnga a Mehiko
+socially-constructed-person;['sierra leone', 'sierra leon'];Pagilian idiay Aprika
+socially-constructed-person;['lalaki', 'male'];Naikeddeng a sekso ti maysa a sebbangan
+socially-constructed-person;['hesús', 'kristo', 'christ', 'cristo', 'hesukristo', 'hesus', 'jesu-kristo', 'jesus', 'ישו'];Nakaipatengngaan a pigura ti Kristianidad
+socially-constructed-person;['leo tolstoy'];Ruso a mannurat
+socially-constructed-person;['thomas edison', 'thomas alva edison'];Amerikano nga inbentor ken negosiante
+socially-constructed-person;['lalaki', 'lallaki', 'man', 'tao a lalaki'];Manakman a lalaki wenno tao a lalaki
+socially-constructed-person;['ernest hemingway'];Amerikano a nobelista ken mannurat
+socially-constructed-person;['samuel beckett'];Irlandes a nobelista
+socially-constructed-person;['bise gobernador', 'teniente gobernador', 'lieutenant governor', 'vice governor'];Nangato nga opisial ti estado
+socially-constructed-person;['dante alighieri'];Italiano a mannaniw ti Tengnga a Panpanawen
+socially-constructed-person;['socrates'];Klasiko a Taga-ugma a Griego a pilosopo
+socially-constructed-person;['viking'];Dagidi managbanniaga nga amianan a Hermaniko a tattao a nagraraut, nagtagilako, nagsukimat, ken nagtaeng kadagiti adu a luglugar idiay Europa, Asia, ken dagiti isla ti Amianan nga Atlantiko
+socially-constructed-person;['dwight d. eisenhower', 'dwight eisenhower'];Maika-34 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['lao zi', 'laozi'];Pilosopo ti Taga-ugma a Tsina
+socially-constructed-person;['chester a. arthur'];Maika-21 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['john maynard keynes'];Britaniko nga ekonomista
+socially-constructed-person;['gregor mendel', 'gregor johann mendel'];Austro-Hungaro a sientista
+socially-constructed-person;['johannes kepler'];Aleman a matematiko, astrologo ken astronomo
+socially-constructed-person;['immanuel kant'];Aleman a pilosopo
+socially-constructed-person;['aprodita', 'aphrodite'];Diosa ti ayat ken kinapintas iti mitolohia a Griego
+socially-constructed-person;['tomas aquino', 'thomas aquinas', 'tomas ti aquino'];Italiano Dominikano a padi ti Romano Katoliko a Simbaan
+socially-constructed-person;['galileo galilei', 'galileo'];Italiano nga astronomo
+socially-constructed-person;['genghis khan'];Nangbangon ken emperador ti Mongol nga Imperio
+socially-constructed-person;['timur', 'tamerlane', 'timur ti pilay'];Muslim a heneral
+socially-constructed-person;['agustin ti hipona', 'augustine of hippo'];Kristiano a teologo, obispo , pilosopo ken santo
+socially-constructed-person;['aristoteles', 'aristotle'];Klasiko a Griego a pilosopo
+socially-constructed-person;['albert einstein', 'einstein'];Aleman ken Amerikano a pisiko, nangbangon ti teoria ti relatibidad
+socially-constructed-person;['nicolaus copernicus'];Polako nga astronomo
+socially-constructed-person;['isabel i iti inglatera', 'elizabeth i of england'];Nagturturay a Reina ti Inglatera ken Irlanda manipud idi 17 Nobiembre 1558 aginggana idi pimmusay
+socially-constructed-person;['dmitri mendeleev'];Ruso a kimiko ken inbentor
+socially-constructed-person;['vladimir lenin', 'lenin', 'vladimir ilyich lenin'];Ruso a politiko, a nangidaulo ti Oktubre a Rebolusion
+socially-constructed-person;['joseph stalin', 'stalin'];Premier ti Kappon ti Sobiet
+socially-constructed-person;['miguel de cervantes', 'cervantes'];Espaniol a nobelista, mannaniw, ken dramaturgo
+socially-constructed-person;['michael faraday'];Inggles a sientista
+socially-constructed-person;['neil armstrong'];Amerikano nga astronauta. immuna a tao a nagdappat idiay bulan
+socially-constructed-person;['moses', 'moises'];Relihioso a daulo
+socially-constructed-person;['maria'];Ina ni Hesus
+socially-constructed-person;['presidente iti estados unidos', 'presidente ti estados unidos'];Daulo ti estado ken gobierno ti Estados Unidos
+socially-constructed-person;['sultan'];Titulo ti natakneng nga addaan iti nadumaduma a kaibuksilan
+socially-constructed-person;['dios', 'diosen', 'god'];Nainlangitan nga entidad
+socially-constructed-person;['richard nixon'];Maika-37 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['george h. w. bush'];Maika-41 a Presidente ti Estados Unidos iti Amerika
+socially-constructed-person;['mannurat', 'autor'];Nagpartuat iti maysa a kasisigud nga obra
+space-region;['nalatak a sirkulo'];Pagsasabtan iti espera ken ti plano a lumabas babaen ti tengnga a puntos ti espera
+space-region;['sirkulo ti antartiko'];Maysa kadagiti lima a nangruna a sirkulo ti latitud a mangmarka kadagiti mapa iti Daga
+space-region;['meridiano', 'linia ti longitud'];Linia a nagbaetan dagiti ungto nga addaan iti agpapada a longitud
+space-region;['ekuador', 'equator', 'latitude 0 degrees n', 'latitude 0 degrees s'];Pagkurosan iti rabaw ti timbukel a ti plano ket perpendikular iti pagtayyekan a pagpusipusan ken tengnga a nagabetan dagiti dua nga ungto
+space-region;['sirkulo ti latitud'];naipagpagarup a sirkulo ti daya-laud a mangisilpo kadagiti amin a lokasion a naikkan iti latitud
+space-region;['amianan nga ungto', 'latitude 90 degrees n', 'maika-90 a paralelo amianan', 'north pole'];Puntos idiay Akin-amianan a Hemisperio a ti aksis a pagtayyekan ti Daga ket mangsabat ti rabawna
+space-region;['abagatan nga ungto', 'latitude 90 degrees s', 'maika-90 a paralelo abagatan', 'south pole'];Puntos ti aksis a pagtayyekan ti Daga ket pagsabtan a rabaw
+spatial-feature;['bantay', 'mountain'];Dakkel a porma ti daga a gumay-at iti ngato
+spatial-feature;['alpes', 'alps'];Maysa kadagiti nalatak a sistema ti kabambantayan idiay Europa
+spatial-feature;['himalaya', 'himalayas'];Kabambantayan idiay Asia
+spatial-feature;['kabambantayan', 'kordiliera'];Heograpiko a lugar nga aglaon kadagiti adu a bilang dagiti heolohiko a mainaig a banbantay
+spatial-feature;['tangkig'];Rehion dagiti bantay wenno nangato a kabambantayan a banak
+spatial-feature;['nabato a banbantay', 'rocky mountains'];Kabambantayan idiay lumaud a paset ti Amianan nga Amerika
+spatial-feature;['mont blanc', 'monte bianco'];Kangatuan a bantay idiay Alpes
+spatial-feature;['bantay kilimanjaro', 'kilimanjaro', 'mount kilimanjaro'];Malmalmeng a bulkan idiay Nailian a Parke ti Kilimanjaro, Tanzania ken ti kangatuan a bantay idiay Aprika
+spatial-feature;['pantok'];Puntos iti maysa a rabaw a nangatngato iti kangato ngem iti amin a puntos a dagus a kadenna
+spatial-feature;['pantok'];Puntos iti maysa a rabaw a nangatngato iti kangato ngem iti amin a puntos a dagus a kadenna
+state;['dam-eg', 'humidity', 'kadam-eg', 'relatibo a dam-eg'];Ti kaadu ti alibungubong ti danum iti angin
+subject;['siensia', 'science', 'sciensia'];Panagadal ken pannakaammo ti law-ang
+subject;['heolohia', 'geology'];Sientipiko a disiplina
+subject;['dialektiko', 'dialectic'];Pamay-an ti panagirinnason para iti paganamungan ti di pannakitunos
+subject;['heograpia', 'geography', 'heografia'];Panagadal ti dagdaga, langlanga, agtataeng ken penomena ti Daga
+subject;['ekolohia', 'ecology'];Sientipiko a panagadal kadagiti pannakaikabagian dagiti sibibiag nga organismo
+subject;['parbo a saririt', 'artipisial a sirib', 'artipisial nga intelihensia', 'parbo a sirib', 'arpisial a sirib', 'artificial intelligence', 'artipisial a kasirib'];Saririt dagiti makina
+subject;['anatomia', 'anatomy'];Sanga ti biolohia ken medisina a mangikedkeddeng ti estruktura dagiti sibibiag a banag
+subject;['termodinamika', 'thermodynamics'];Sanga ti masna a siensia a maipanggep ti pudot ken ti pannakaikabagianna kadagiti porma ti enerhia ket obra
+subject;['ekonomika', 'economics'];Siensia sosial a mangusig ti produksion, panangiwarwaras, ken panagibus kadagiti tagilako ken dagiti serbisio
+subject;['kímika', 'chemistry', 'kemika', 'kimika'];Sanga ti pisikal a siensia ti banag, a naisangsangayan kadagiti kabukbukodanna a kimiko a panagtigtignay, ken dagiti pay bukodna a pakabuklan, estruktura ken tagtagikua
+subject;['alhebra', 'algebra'];Topiko iti matematika
+subject;['trigonometria', 'trigonometry'];Sanga ti matematika a mangadal kadagiti trianggulo
+subject;['biokimika', 'biochemistry'];Panagadal iti kimiko a proseso iti kaunegan ti, ken mainaig kadagiti, sibibiag nga organismo
+subject;['etika', 'ethics'];Moral a pilosopia
+subject;['heometria', 'geometry'];Sanga ti matematika a maipanggep kadagiti salusod ti sukog, size, relatibo a puesto dagiti pigura, ken dagiti tagikua ti limbang
+subject;['pilosopia', 'filosofia', 'philosophy'];Panagadal kadagiti sapasap ken kammasapulan a parikut
+subject;['metalurhia', 'metallurgy'];Dominio ti siensia ti materiales nga agadal ti pisikal ken kimiko a panagkukua dagiti metal
+subject;['pisika', 'fisica', 'physics', 'pisica'];Masna a siensia a maipanggep ti panagadal iti banag
+subject;['sikolohia', 'psychology', 'sikolohía'];Panagadal kadagiti pamay-an ti isip ken panagkukua
+subject;['biolohia', 'biology'];Masna a siensia a maipapan iti panagadal iti biag ken dagiti sibibiag nga organismo
+subject;['lingguistika', 'lingguista', 'linguistics', 'linguistika'];Sientipiko a panagadal ti pagsasao ti tao
+system-as-description;['kapitalismo', 'capitalism'];Ekonomiko a sistema
+task;['panagkukua'];Sakup dagiti tignay kenkadawyan nga ugali nga inar-aramid babaen ti maysa nga entidad
+taxonomic-collective;['tribu', 'subtribu', 'supertribu', 'tribe'];Taksonomiko a ranggo a nagbaetan ti pamilia ken henero
+taxonomic-collective;['pamilia', 'family'];Taksonomiko a ranggo iti baba ti urnos ken ngato ti henero
+taxonomic-collective;['klase', 'class', 'superklase'];Taksonomiko a ranggo
+taxonomic-collective;['subsebbangan'];Taksonomiko a ranggo a nababbaba ngem dagiti sebbangan
+taxonomic-collective;['urnos', 'order'];Taksonomiko a ranggo
+taxonomic-collective;['henero', 'genera', 'genus', 'henera'];Ababa nga agpang a taksonomiko a ranggo nga inus-usar iti biolohiko a pannakaidasig kadagiti sibibiag ken posil dagiti organismo
+taxonomic-collective;['sebbangan', 'kita', 'species'];Maysa kadagiti batayan a yunit iti biolohiko a pannakaidasig ken maysa a taksonomiko a ranggo
+taxonomic-collective;['pilo'];Taksonomiko a ranggo
+taxonomic-collective;['casuarinaceae'];Pamilia ti mulmula
+taxonomic-collective;['rutaceae'];Pamilia ti mulmula
+taxonomic-collective;['melastomataceae', 'melastomaceae'];Pamilia ti mulmula
+taxonomic-collective;['combretaceae', 'quisqualis'];Pamilia ti mulmula
+taxonomic-collective;['myrcia', 'myrciaria', 'gomidesia', 'myrcia salicifolia'];Henero ti mulmula
+taxonomic-collective;['myrcia', 'myrciaria', 'gomidesia', 'myrcia salicifolia'];henero ti mulmula
+taxonomic-collective;['klado'];Tinaudan ti sebbangan ken amin dagiti kaputotanna
+taxonomic-collective;['sapindales'];Urnos ti mulmula
+taxonomic-collective;['arundo'];henero ti mulmula
+taxonomic-collective;['cystopteris', 'cystoathyrium'];Henero ti mulmula
+taxonomic-collective;['deparia'];henero ti mulmula
+taxonomic-collective;['coffea'];henero ti mulmula
+taxonomic-collective;['magnoliopsida'];Klase ti mulmula
+taxonomic-collective;['mitchella'];henero ti mulmula
+taxonomic-collective;['rhexia'];Henero ti mulmula
+taxonomic-collective;['columbidae', 'kalapati', 'pagaw', 'dove', 'kalapati ken pagaw', 'pigeon'];Pagaw ken kalapati ket a mangbukel ti klade ti billit a Columbidae
+taxonomic-collective;['thelypteridaceae'];Pamilia ti mulmula
+taxonomic-collective;['manilkara'];henero ti mulmula
+taxonomic-collective;['sarcocephalus'];henero ti mulmula
+taxonomic-collective;['poales'];urnos ti mulmula
+taxonomic-collective;['psidium'];Henero ti mulmula
+taxonomic-collective;['myrtales'];Urnos ti mulmula
+taxonomic-collective;['gymnocarpium'];Henero ti mulmula
+taxonomic-collective;['blechnaceae'];pamilia ti mulmula
+taxonomic-collective;['nauclea'];henero ti mulmula
+taxonomic-collective;['charales'];kategoria ti Wikimedia
+taxonomic-collective;['haemodoraceae'];Pamilia ti mulmula
+taxonomic-collective;['athyrium'];henero ti mulmula
+taxonomic-collective;['anacardiaceae'];Pamilia ti mulmula
+taxonomic-collective;['poaceae', 'gramineae', 'ruot'];pamilia ti mulmula
+taxonomic-collective;['pouteria', 'aningeria'];Henero ti mulmula
+taxonomic-collective;['psychotria'];henero ti mulmula
+taxonomic-collective;['medinilla'];Henero ti mulmula
+taxonomic-collective;['eugenia'];Henero ti mulmula
+taxonomic-collective;['spondias'];Henero ti mulmula
+taxonomic-collective;['melastoma'];Henero ti mulmula
+taxonomic-collective;['saluyot', 'corchorus', 'corchorus siliquosus'];Mula a nairaman iti henero ti Corchorus ti pamilia ti Malvaceae
+technique;['literasia', 'kaammo ti agbasa ken agsurat', 'literacy'];Kaammo ti agbasa ken agsurat
+temporal-region;['panawen ti bato', 'bato a panawen', 'stone age'];Dakkel a prehistoriko a paset ti panawen
+temporal-region;['panawen ti landok', 'iron age', 'landok a panawen'];Paset ti panawen a minarkaan ti sapasap a panag-usar ti landok
+temporal-region;['hulio 1', '1 hulio', 'julio 1'];Petsa
+temporal-region;['enero 1', '1 enero'];Petsa
+temporal-region;['pebrero 2', '2 pebrero', 'febrero 2'];Petsa
+temporal-region;['siglo'];Paset ti panawen nga agpaut kadagiti 100 a tawen
+temporal-region;['nobiembre 1', '1 nobiembre', 'noviembre 1'];Petsa
+temporal-region;['paskua', 'disiembre 25', 'pasko', '25 disiembre', 'deciembre 25', 'disyembre 25'];Tinawen a piesta a pammalagip ti pannakaipasngay ken pammadayaw kenni Hesukristo
+temporal-region;['paskua', 'disiembre 25', 'pasko', '25 disiembre', 'deciembre 25', 'disyembre 25'];Petsa
+temporal-region;['marso 19', '19 marso'];Petsa
+temporal-region;['abril 14', '14 abril'];Petsa
+temporal-region;['oktubre 24', '24 oktubre', 'octobre 24'];Petsa
+temporal-region;['oktubre 12', '12 oktubre', 'octobre 12'];Petsa
+temporal-region;['hulio 4', 'aldaw ti wayawaya', '4 hulio', '4 julio', 'julio 4', 'july 4'];Pederal a piesta idiay Estados Unidos
+temporal-region;['hulio 4', 'aldaw ti wayawaya', '4 hulio', '4 julio', 'julio 4', 'july 4'];Petsa
+temporal-region;['lawas', 'dominggo'];Paset ti panawen
+temporal-region;['mayo 24', '24 mayo'];Petsa
+temporal-region;['septiembre 17', '17 septiembre'];Petsa
+temporal-region;['agosto 1', '1 agosto', 'august 1'];Petsa
+temporal-region;['hunio 14', '14 hunio', 'junio 14'];Petsa
+temporal-region;['hunio 29', '29 hunio', 'junio 29'];Petsa
+temporal-region;['domingo', 'dominggo', 'sunday'];Aldaw ti lawas
+temporal-region;['septiembre 29', '29 septiembre', 'setiembre 29'];Petsa
+temporal-region;['hunio 21', 'solstisio ti kalgaw', '21 hunio', 'junio 21'];Petsa
+temporal-region;['mayo 1', '1 mayo'];Petsa
+temporal-region;['marso 2', '2 marso'];Petsa
+temporal-region;['huebes', 'hueves', 'jueves'];Aldaw ti lawas
+temporal-region;['mierkoles', 'miercoles', 'miercoules', 'miyerkules', 'wednesday'];Aldaw ti lawas
+temporal-region;['disiembre', 'december', 'deciembre'];Maikasangapulo ket dua a bulan iti Huliano ken Gregoriano a kalendario
+temporal-region;['disiembre', 'december', 'deciembre'];Maikasangapulo ket dua a bulan iti Huliano ken Gregoriano a kalendario
+temporal-region;['marso', 'march'];Maikatlo a bulan iti Huliano ken Gregoriano a kalendario
+temporal-region;['agosto', 'august'];Maikawalo a bulan iti Huliano ken Gregoriano a kalendario
+temporal-region;['hulio', 'julio', 'july'];Maikapito a bulan iti Huliano ken Gregoriano a kalendario
+temporal-region;['nobiembre', 'november', 'noviembre'];Maikasangapulo ket maysa a bulan iti Huliano ken Gregoriano a kalendario
+temporal-region;['oktubre', 'october', 'octobre'];Maikasangapulo a bulan iti Huliano ken Gregoriano a kalendario
+temporal-region;['pebrero 29', '29 pebrero', 'febrero 29'];Petsa
+temporal-region;['hunio 23', '23 hunio', 'junio 23'];Petsa
+temporal-region;['tengnga a panpanawen', 'middle ages', 'tengnga a panawen'];Paset dagidi panawen iti Europeano a pakasaritaan a sumakop ti maika-5 aginggana ti maika-15 a sigsiglo
+temporal-region;['primabera', 'panagsusulbod'];Tiempo a nagbaetan ti kalamiisan ken kalgaw
+temporal-region;['lunes', 'monday'];Aldaw ti lawas
+temporal-region;['sabado', 'saturday'];Aldaw ti lawas
+temporal-region;['biernes', 'friday', 'viernes'];Aldaw ti lawas
+temporal-region;['martes', 'tuesday'];Aldaw ti lawas
+temporal-region;['sakbay ti pakasaritaan', 'prehistoria', 'kasakbayan a pakasaritaan', 'prehistory'];Sangapda iti panawen sakbay ti nairehistro a pakasaritaan
+temporal-region;['kalgaw', 'daradar'];Maysa kadagiti uppat a tiempo, ken nagbaetan ti primabera ken otonio
+temporal-region;['oras a panagin-inut ti lawag', 'daylight saving time', 'dst', 'panagininut ti lawag nga oras'];Panagsanay iti panangiyuna kadagiti pagurasan iti las-ud dagiti nalawag a bulan tapno ti rabii ket addaan ti ad-adu a lawag ken addaan ti basbassit kadagiti bigat
+temporal-region;['enero 6', '6 enero'];Petsa
+theory;['sapasap a relatibidad', 'general relativity', 'sapasap a teoria ti relatibidad'];Heometriko a teoria ti grabitasion nga inpablaak babaen ni Albert Einstein idi 1916
+theory;['pakaammo', 'inpormasion', 'information'];Panagsasaruno dagiti simbolo a mabalin a maipatarus a kas maysa a mensahe

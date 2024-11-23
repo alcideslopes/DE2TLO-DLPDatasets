@@ -1,0 +1,197 @@
+activity;['filimi', 'film'];== Filimi ==
+activity;['tamintlangu'];Tamintlangu ti hlanganisa minxaka hikwayo ya mintlangu ya ku phikizana ka vanhu laha, hi kutirhisa kululamisa, kutirhisa, na ku lota vuswikoti bya miri naswona va tsakisa vahlaleri.
+activity;['vuqambhi'];Vuqambhi i mpaluxo wa vuswikoti kumbe nyiko ya miehleketo yo tumbuluxa vu xongi.
+activity;['maxelo', 'maxele'];Maxelo i matshamele ya tilo/xibhakabhaka, kuhlamusela leswaku ra hisa. ka titimeta. ku omile kumbe kuna mpfula. ripfurile kumbe kuna mapapa.
+activity;['swikwembu'];Kuphahla Swikwembu (Kumbe kuphahla Vafi), swi tshegiwe eka rirhandzu na ku xixima vafi.
+agentive-figure;['tiko'];Hikuya hi nhlamuselo ya politiki, Tiko i ntlawa wa va aka tiko lowu hanyaka ehansi ka xiyimiso xa hulumendhe wun'we.
+agentive-figure;['nhlangono wa matiko ya yuropa', '🇪🇺'];Ntwanono wa Yuropa i ntwanano lowu ngana swirho swa matiko ya 28 lama kumekaka e tikweni-nkulu ra Yuropa, lama tirhisanaka eka swa tipolitiki na ikhonomi.
+agentive-figure;['matiko la ma hlanganeke'];Matiko la ma hlanganeke i nhlangano ya tihulumendhe ta misava leti byarhisiweke pfumba ro kondletela ntwanano naswona tithlela ti kodletela nawu na vululami.
+agentive-figure;['vukhongeri'];Vukhongeri i nxaxamela wa mindzhavuko ya matikhomele, swi endlo, mavonele, matsalwa yo kwetsima, tindzhawu to kwetsima na mafambisele ya vutomi ya vanhu.
+agentive-figure;['vusocha'];Vusocha, i ntlawa wa tinyimpi wa tiko ro karhi, naswona wu thlela wu rina mpfumelelo wo tirhisa matimba yo dlaya na mathlarhi ya nyimpi ku seketela swilaveko swa hulumendhe ya tiko ro karhi na va akatiko va rona.
+agentive-physical-object;['khompuyuta'];Khompuyuta i muchini lowu leteriwaka to endla tinhlayo na swileriso hixinkarhana.
+agentive-physical-object;['vanhu', 'homo sapiens'];Vanhu vamanguva lawa (Homo sapiens) hikuya hi Sayensi imuxaka wa rhavi ra swiharhi ra Hominina (Vanhu), leri riyelanaka na ntlawa wa timfenhe.
+agentive-physical-object;['pfilu'];Pfillu (Vangueria infausta Kumbe Africanmedlar), i muhlovo wa nsinya lowu tswalaka muhandzu wo fana na mu-Apula, naswona wu kumeka e Dzongeni wa tiko-nkulu ra Afrika.
+cognitive-event;['norho'];Norho i nxaxamelo wa swifaniso, makungu na minthlaveko leswi ti endlekelaka e mi'hleketweni exikarhi ka swiphemu swokarhi swa vurhongo.
+cognitive-event;['mi anakanyo'];Mi'hleketo yi angarha "nkhuluko wa makungu lama nga na xikongomelo xo karhi, la ma voyamelaka eka swiboho swa xiviri".
+geographical-object;['lwandle'];Lwandle i mati ya munyu lawa ma hlanganisaka xiyenge lexi kulu xa pulaneti ya misava.
+geographical-object;['lwandle ra ntima'];Lwandle ra Ntima i lwandle ra Yuropa.
+geographical-object;['lwandle ra baltic', 'baltic sea'];Lwandle ra Baltic i lwandle ra Yuropa.
+geographical-object;['balearic islands'];Balearic Island a tiko ra Yuropa.
+geographical-object;['antakthika'];Antakthika i tiko-nkulu leri nge dzongeni wa misava.
+information-realization;['encyclopediya'];Encyclopediya i nghula leyi heleleke ya matsalwa kumbe vuxoko-xoko bya marhavi hinkwawo ya vutivi kumbe vutivi byo krhi lebyi kongomeke.
+information-realization;['vunanga'];Vunanga ivutshila bya ndzhavuko lebyi hlanganisaka ku chaya naku yimbelela.
+information-realization;['vutsari'];Vutsari, hiku angarhela, mpahla ya matsalwa.
+information-realization;['bibele'];Bibele i nxaxamelo wa matsalwa yo kwetsima ya xiyuda na vukreste.
+language;['ririmi'];Ririmi ivuswikoti byo tirhisa tindlela to vulavula, ngopfungopfu vuswikoti byo vulavula exikarhi ka vanhu.
+language;['xinghezi'];Xinghezi iririmi leri sunguleke ku vulavuriwa eNghilandhi naswona hirona ririmi leri vulavuriwaka ngopfu ematikweni ya misava.
+locative-role;['kyoto'];Kyoto i khale doroba-nkulu ra Japan.
+locative-role;['edirne'];Edirne, a dorobha ra Turkey.
+locative-role;['ho chi minh city'];Ho Chi Minh City i muganga lowu kumekaka e Dong Nam Bo, e Vietnam.
+locative-role;['lithuania'];Lithuania (lt.
+locative-role;['rio de janeiro'];Rio de Janeiro, Brazil, Amerikha-Dzonga.
+mental-object;['mihleketo'];Mihleketo inxaxamelo wa vuswikoti byo twisisa bya mabyongo, kuhlanganisa na kutitiva, ku anakanya, ku avanyisa na kutsundzuka.
+mental-object;['vutivi'];Vutivi i ku twisisa munhu kumbe xilo xo karhi, kufana na timhaka, vuxokoxoko, nhlamuselo, kumbe vutshila, lebyi kumekaka hi kutokota kubye kudyondza hi ku vona, kutsumbula kumbe kulerha.
+method;['demokhrasi'];Demokhrasi, i xiyimiso xa hulumendhe laha va akatiko va hlawulaka vayimeri vavona leswaku va aka mfumo na Phalamendhe.
+non-physical-collection;['vukhongeri'];Vukhongeri i nxaxamela wa mindzhavuko ya matikhomele, swi endlo, mavonele, matsalwa yo kwetsima, tindzhawu to kwetsima na mafambisele ya vutomi ya vanhu.
+non-physical-collection;['vukreste'];Vukreste i vukhongeri lebyi tshegiweke eka vutomi na tidyondzo ta Yesu Kreste kuya hi Testamente leyintshwa.
+parameter;['onchosesiyasisi', 'vubofu bya le nambyeni'];Onchosesiyasisi , lebyi tivekaka kambe tanihi vuvabyi bya vubofu bya le nambyeni na vuvabyi bya Vubofu , I vuvabyi lebyi vangiwaka hi ntluleto na xivungwana xo hanya eka swin'wana Onchocerca volvulus.
+phenomenon;['maxelo', 'maxele'];Maxelo i matshamele ya tilo/xibhakabhaka, kuhlamusela leswaku ra hisa. ka titimeta. ku omile kumbe kuna mpfula. ripfurile kumbe kuna mapapa.
+phenomenon;['vutomi'];Vutomi ixihlawurisi exikarhi ka swivumbiwa leswi hanyaka na leswi feke.
+physical-body;['matilo'];Matilo i vundzawu hikwabyo na nkarhi kuhlanganisa na hinkwaswo leswi nga e handle ka misava, leswi hlanganisaka ti pulaneti. tin'weti. na tinyeleti.
+physical-body;['misava'];Misava (Hixigriki: Γαῖα Gaia,[n 6] kumbe hixilatini: Terra) i planeti ya vunharhu kusuka edyambyini, naswona hiyona leyi kulu eka tiplaneti ta mune letingana sava na maribye naswona hiyona ntsena planeti leyi tiveka yikota kuhlayisa vutomi.
+physical-object;['inthaneti'];Inthaneti i xiyimiso xa nxaxamelo wa tikhompuyuta leti khwekelaneke emisaveni hinkwayo naswona tikarhi titirhisa ririmi ra tikhomuyuta leri fanaka ra TCP/IP ku hlangana no phakela marungula.
+physical-region;['kwangalatilo'];Kwangalatilo i xiendlakala xa le mpfhukeni xa maxele, lexi endlekaka loko mathonsi yamati ma kavanyeta miseve ya dyambu, na swona ma hambanisa mivala ya miseve leyi.
+political-geographic-object;['kyoto'];Kyoto i khale doroba-nkulu ra Japan.
+political-geographic-object;['edirne'];Edirne, a dorobha ra Turkey.
+political-geographic-object;['ho chi minh city'];Ho Chi Minh City i muganga lowu kumekaka e Dong Nam Bo, e Vietnam.
+political-geographic-object;['norge', 'noreg'];Norge, Oslo.
+political-geographic-object;['lesotho'];Lesotho i tiko ra Afrika.
+political-geographic-object;['japani', 'japan'];Japani i tiko ra swiihlala leswi kumekeke e vuxeni bya Axiya.
+political-geographic-object;['afrika wale xikarhi', 'central african republic'];Afrika Wale Xikarhi i tiko ra Afrika.
+political-geographic-object;['djibouti'];Djibouti i tiko ra Afrika.
+political-geographic-object;['malexiya'];Malexiya i tiko ra Asia.
+political-geographic-object;['namibia', 'namibiya'];Namibiya i tiko ra Afrika.
+political-geographic-object;['maritana', 'mauritania'];Maritana i tiko ra Afrika.
+political-geographic-object;['gineya ya le nkaveni', 'equatorial guinea'];Gineya ya le Nkaveni i tiko ra Afrika.
+political-geographic-object;['comoros'];Comoros i tiko ra Afrika.
+political-geographic-object;['england'];A tiko ra Yuropa.
+political-geographic-object;['switzerland', 'ch'];Switzerland a tiko ra Yuropa.
+political-geographic-object;['luxembourg'];Luxembourg a tiko ra Yuropa.
+political-geographic-object;['morocco', 'morokho'];Morocco i tiko ra Afrika.
+political-geographic-object;['spaniya', 'spain'];Spaniya (Xipaniya: España, IPA: [es'paɲa]) i tiko ra le dzongeni ka yuropa, laha ku vulavuriwaka Xipaniya.
+political-geographic-object;['chad'];Chad i tiko ra Afrika.
+political-geographic-object;['uganda'];Uganda i tiko ra Afrika.
+political-geographic-object;['belarus'];Belarus i tiko ra Yuropa (Minsk).
+political-geographic-object;['malawi'];Malawi i tiko ra Afrika.
+political-geographic-object;['zimbabwe'];Zimbabwe i tiko ra Afrika.
+political-geographic-object;['azerbaijan'];Azerbaijan a tiko ra Yuropa.
+political-geographic-object;['mali'];Mali i tiko ra Afrika.
+political-geographic-object;['kazakhstan'];Kazakhstan a tiko ra Yuropa.
+political-geographic-object;['belgium'];Belgium a tiko ra Yuropa.
+political-geographic-object;['swaziland', 'eswatini'];Swaziland i tiko ra Afrika.
+political-geographic-object;['tonga'];Tonga i tiko ra Oceania.
+political-geographic-object;['bangladesh'];BANGLADESH i tiko ra Axiya.
+political-geographic-object;['austria'];Austria a tiko ra Yuropa.
+political-geographic-object;['cambodia'];Cambodia a tiko ra Asia.
+political-geographic-object;['bhutan'];Bhutan i tiko ra Axiya.
+political-geographic-object;['georgia'];Georgia a tiko ra Yuropa.
+political-geographic-object;['rwanda'];Rwanda i tiko ra Afrika.
+political-geographic-object;['zambia', 'zambiya'];Zambiya i tiko ra Afrika.
+political-geographic-object;['democratic republic of the congo'];Democratic Republic of the Congo i tiko ra Afrika.
+political-geographic-object;['hungary'];Hungary a tiko ra Yuropa.
+political-geographic-object;['poland', 'polendi'];Poland a tiko ra Yuropa.
+political-geographic-object;['burundi'];Burundi i tiko ra Afrika.
+political-geographic-object;['tanzania'];Tanzania i tiko ra Afrika.
+political-geographic-object;['gineya', 'guinea'];Gineya i tiko ra Afrika.
+political-geographic-object;['somalia'];Somalia i tiko ra Afrika.
+political-geographic-object;['libiya', 'libya'];Libiya i tiko ra Afrika.
+political-geographic-object;['jarimani', 'germany'];Jarimani a tiko ra Yuropa.
+political-geographic-object;['sudan'];Sudan i tiko ra Afrika.
+political-geographic-object;['egypt', 'gibita'];Gibita i tiko ra Afrika.
+political-geographic-object;['algeriya', 'algeria'];Algeriya i tiko ra Afrika.
+political-geographic-object;['india', 'indiya'];India i tiko ra Asia.
+political-geographic-object;['chile'];A tiko ra Amerika wa Xilatini.
+political-geographic-object;['botswana'];Botswana i tiko ra Afrika.
+political-geographic-object;['mozambique', 'muzambhiki', 'mocambique'];Muzambhiki i tiko leri kumeka e dzonga-vuxa bya Afrika.
+political-geographic-object;['greece'];Greece a tiko ra Yuropa.
+political-geographic-object;['ukraine'];Ukraine (lang-uk - Україна, transliterated: Ukrayina, IPA-uk - ukrɑˈjinɑ) i tiko ra Yuropa (Kiev).
+political-geographic-object;['armenia'];Armenia i tiko ra Axiya.
+political-geographic-object;['korea dzonga'];Korea Dzonga i tiko ra Asia.
+political-geographic-object;['gambiya', 'gambia'];Gambiya i tiko ra Afrika.
+political-geographic-object;['ghana'];Ghana i tiko ra Afrika.
+political-geographic-object;['nigeria', 'nayojeriya'];Nayojeriya i tiko ra Afrika.
+political-geographic-object;["côte d'ivoire", 'ivory coast'];Côte d'Ivoire i tiko ra Afrika.
+political-geographic-object;['niger'];Niger i tiko ra Afrika.
+political-geographic-object;['gaboni', 'gabon'];Gaboni i tiko ra Afrika.
+political-geographic-object;['riphabliki ya congo', 'repabliki ya congo', 'republic of the congo'];Riphabliki ya Congo i tiko ra Afrika.
+political-geographic-object;['cameroon'];Cameroon i tiko ra Afrika.
+political-geographic-object;['guinea-bissau'];Guinea-Bissau i tiko ra Afrika.
+political-geographic-object;['senegal'];Senegal i tiko ra Afrika.
+political-geographic-object;['furhwa', 'france'];Furhwa (France) a tiko ra Yuropa.
+political-geographic-object;['ireland', 'republic of ireland'];A tiko ra Yuropa.
+political-geographic-object;['madagascar'];Madagascar i tiko ra Afrika.
+political-geographic-object;['seychelles'];Seychelles i tiko ra Afrika.
+political-geographic-object;['andorra'];Andorra a tiko ra Yuropa.
+political-geographic-object;['cape verde'];Cape Verde i tiko ra Afrika.
+political-geographic-object;['iceland'];Iceland a tiko ra Yuropa.
+political-geographic-object;['beyijingi'];Beijing,Ntsindza-doroba Chayina
+political-geographic-object;['topiya', 'ethiopia'];Topiya i tiko ra Afrika.
+political-geographic-object;['benin'];Benin i tiko ra Afrika.
+political-geographic-object;['burkina faso'];Burkina Faso i tiko ra Afrika.
+political-geographic-object;['oslo'];Oslo i ririmi leri vulavulavuriwaka e dzongeni wa tiko ra Norge, e n´walungwini na vuxeni bya tiko ra Europa, e Swazin xikan´we na le ka xiphemu xin´wani xa tiko ra Sverige.
+political-geographic-object;['rio de janeiro'];Rio de Janeiro, Brazil, Amerikha-Dzonga.
+political-geographic-object;['pitori', 'pretória'];Pitori, i rin'wana ra madoroba - nkulu manharhu ya Afrika Dzonga, leri tirhaka tanihi ntsindza wa rhavi leri rhangelaka ra hulumendhe, naswona tanihi muamukeri wa vayimeri hinkwavo va matiko mambe eAfrika Dzonga.
+quality;['mangwa'];Mangwa iviti leri tirhisiwaka ku hlamusela vukule exikarhi ka swilo swimbirhi.
+quality;['vukhongeri'];Vukhongeri i nxaxamela wa mindzhavuko ya matikhomele, swi endlo, mavonele, matsalwa yo kwetsima, tindzhawu to kwetsima na mafambisele ya vutomi ya vanhu.
+quality;['vhangazi'];Muvala wa Vhangazi i muvala lowu nge makumu ka nxaxamelo wa magandlati ya rivoningo.
+quality;['muvala', 'mihlovo'];Muvala i xihlawulekisi xa ku vona ka matihlo ya munhu lexi hambanisaka leswivoniwaka, hi ku hambanisa mavala hi maviti yo fana na muvala wo tshwuka, wa wasi, wa xitshopani, wa rihlaza, wa tshopi, wa vhangazi kumbe wa ntima.
+quality;['wasi'];Muvala wa Wasi i wun'wana wa mivala yi nharhu ya masungulo leyi tirhisiwaka eka nongonoko wa mavala ya vu pfapfarhuti, ku hlanganisa na nongonoko wa mavala wa RGB. Wu kumeka e xikarhi ka muvala wa vhangazi na wa rihlaza eka nxaxamelo wa magandlati ya rivoningo.
+quality;['rimbewu'];Rimbewu i nxaxamelo wa swi hlawulekisi leswi hambanisaka e xikarhi ka vusati na vununa.
+quality;['ntima', 'muvala wa ntima'];Muvala wa Ntima i muvala wa xinyami, lowu vangiwaka hi kupfumaleka kumbe ku koka rivoningo hinkwaro.
+quality;['tshwuka'];Muvala wo Tshwuka i muvala lowunge makumu ka nxaxamelo wa magandlati ya rivoningo naswona wule kusuhi na gandlati ra rivoningo ra muvala wa Tshopi.
+quality;['xitshopana', 'halandi'];Muvala wa Xitshopana i muvala lowunge xikarhi ka muvala wa tshopi na wa rihlaza eka nxaxamelo wa magandlati ya rivoningo.
+quality;['vukreste'];Vukreste i vukhongeri lebyi tshegiweke eka vutomi na tidyondzo ta Yesu Kreste kuya hi Testamente leyintshwa.
+region;['tandza', '0', 'noto', 'ziro'];Tandza / Noto / Ziro, vito ra tinomboro 0.
+region;['khilogiramu', 'hg', 'kg', 'mg', 'tg'];khilogiram i ntsengo wo pima vunyingi-swilo nswona mfungo wa rona i kg.
+region;['kaye', '0', '9'];Kaye, vito ra tinomboro 9.
+region;['tsevu', '6'];Tsevu, vito ra tinomboro 6.
+region;['ntlhanu', '5'];Ntlhanu, vito ra tinomboro 5.
+region;['khume', '10'];Khume, vito ra tinomboro 10.
+region;['nharhu', '3'];Nharhu, vito ra tinomboro 3.
+region;['mbirhi', '2'];Mbirhi, vito ra tinomboro 2.
+region;['nhungu', '8'];Nhungu, vito ra tinomboro 8.
+region;['nkombo', '7'];Nkombo, vito ra tinomboro
+region;['mune', '4'];Mune, vito ra tinomboro 4.
+region;["n'we", '1'];N'we, vito ra tinomboro 1.
+simple-collection;['matilo'];Matilo i vundzawu hikwabyo na nkarhi kuhlanganisa na hinkwaswo leswi nga e handle ka misava, leswi hlanganisaka ti pulaneti. tin'weti. na tinyeleti.
+simple-collective;['mafurhwa'];French people
+situation;['rihanyo'];Rihanyo i xikombiso xa leswaku swi yenge swa miri wa xivumbiwa switirha hi ndlela leyi faneleke.
+situation;['vurhongo'];Vurhongo i xiyimo xa ntumbuluko xa mihleketo na miri, lexi hlawulekisiwaka hi ku hundzuluxiwa ka mahanyanyele, ku hunguteka ka switwi, kuhunguteka ka matirhele ya mipfimbiti loku sivelaka ku chukunya ka miri lowu etleleke vurhongo.
+situation;['leyiximeniyasisi'];Leyiximeniyasisi, leyi tsariwaka kambe leyiximaniyosi ivuvabyi lebyi vangiwaka hiphurotozowenii xitsongwatsongwanaxa muxaka waLeyiximaniyana ku hangalasiwa hi ku lumiwa hi tinxaka tin'wana taSendifulayi.
+situation;['vuvabyi bya rihuhu'];Vuvabyi bya Rihuhu i xitsongwatsongwana xa vuvabyi lebyi vangaka ku pfimba ka byongo eka vanhu na swin'wana swiharhi swa ngati yo kufumela.
+situation;['mavabyi'];Vuvabyi i xiyimo xo kavanyeta rihanyo lerinene eka swivumbiwa leswi hanyaka.
+situation;['schistosomiyasisi'];Schistosomiyasisi, lebyi tivekaka kambe tanihi mukhuhlwana wa tihumba , i vuvabyi lebyi vangiwaka hixitsongwatsongwana swa fuletiwemeleswi vuriwaka tischistosome.
+situation;['nhlokonho'];Nhokonho, kambe lowu tiviwaka tanihi vuvabyi bya Hansen (HD), i bya nkarhi wo leha ntluleto wa byona wu vangiwa hi bakitheriya ya mayikhobakitheriyamu lepiraye na mayikhobakitheriyamu Lepiramathosisi.' Emasungulweni, ntluleto a wu na swikombiso na ku va kona kusuka eka 5 ku ya eka malembe ya 20.
+situation;['vusweki'];Vusweki i vutshila byo lumamisa swakudya hi kutirhisa ndzilo kumbe handle ka wona.
+situation;['maxelo', 'maxele'];Maxelo i matshamele ya tilo/xibhakabhaka, kuhlamusela leswaku ra hisa. ka titimeta. ku omile kumbe kuna mpfula. ripfurile kumbe kuna mapapa.
+situation;['tinguva'];Nguva i ndzandzelelano wa matimu ya maxele, eka nkarhi wa malembe ya 30.
+social-relationship;['politiki'];Politiki i Sayensi ya mafumele ya vanhu.
+socially-constructed-person;['ronald reagan'];Ronald Wilson Reagan 40th Presiden de United States.
+socially-constructed-person;['siyera liyona', 'sierra leone'];Siyera Liyona i tiko ra Afrika.
+socially-constructed-person;['mabunu'];Boers, the largest part of the White South Africans.
+socially-constructed-person;['wanuna'];Wanuna i munhu loyi a kuleke naswona a ri wa rimbewu ra xinuna.
+socially-constructed-person;['mutsari wa tinovhele'];Mutsari wa tinovhele i mutsari loyi a tsalaka ngopfungopfu matsalwa ya tinovhele, hambileswi vathlelaka va tsala matsalwa-nene kumbe minthseketo.
+socially-constructed-person;['xikwembu'];Xikwembu xitekiwa kuri xivumbiwa xale henhla-henhla naswona vanhu va veka ripfumelo ra vona eka xona.
+socially-constructed-person;['mutsari'];Mutsari i munhu loyi a tirhisaka marito lama tsariweke hi vutshila byo hambana-hambana ku hundzisa makungu yakwe.
+subject;['sciences', 'sayensi'];Sayensi indlela yotumbuluxa, kuaka no hlela vutivi byi andlaleka hindlela yo hlamusela no vhumba hi ta mbangu.
+subject;['tinhlayo'];Tinhlayo - Mathematics.
+subject;['sayensi ya maxele'];Sayensi ya maxele i rhavi ra Sayensi leri lavisisaka timhaka ta maxele na kuvhumba maxele.
+subject;['ntivo-mbangu', 'geography'];Ntivo-mbangu i dyondzo ya mbangu, ku anama, kumanyana, kuhambeta na ku akelana loku nga kona exikarhi ka vanhu na ndhzawu la ha Misaveni, ngopfu-ngopfu swi hlawulekisi ku hlanganisa na ku hangalaka ka swivumbiwa leswi hanyaka laha misaveni, kuhlanganisa vanhu na mbuyelo wa migingiriko ya vona e ka ndhzawu leyi va akeke eka yona.
+subject;['ntivo-mirhi'];Ntivo-Mirhi irhavi ra Sayensi leri lavisisaka ma akele na kuhambana ka swi-aki swa swilo hinkwaswo.
+subject;['tinhlayo-vuringanisi', 'tinhlayo-swiyenge', 'algebra'];Tinhlayo-vuringanisi i rhavi ra tidyondzo ta Tinhlayo.
+subject;['filosofi', 'ntivo-vuhleketi'];Ntivo-vuhleketi i tidyondzo ta mintlimbo leyi yelanaka na vutomi, vutivi, miehleketo na tindzimi.
+subject;['ntivo-ntumbuluko'];Ntivo-Ntumbuluko i sayensi leyi lavisisaka hita swiaka-swilo na mafambele yaswilo eka mbangu na nkarhi, kuhlanganisan na vuxaka bya swona na matimba.
+subject;['ntivo-vutomi'];Ntivo-Vutomi i tidyondzo ta vutomi bya swivumbiwa leswi hanyaka, kuhlanganisa na vuvumbeki, ntirho na makulele ya swona.
+subject;['folklore'];Nxaxamelo wa migaringani ya Xitsonga
+system-as-description;['economy'];Economy i timhaka ta swa timali laha tikweni ra hina na ku tiva leswaku mali leyi yi tlakuka loko switeyini na loko ku humelele yini.
+technique;['mihleketo'];Mihleketo inxaxamelo wa vuswikoti byo twisisa bya mabyongo, kuhlanganisa na kutitiva, ku anakanya, ku avanyisa na kutsundzuka.
+temporal-region;['khisimusi'];Khisimusi i nkhuvo wo tlangela ku tswariwa ka Yesu Kreste, ka lembe na lembe, naswona nkhuvo lowu wu khomiwa hi siku ra vu 25 eka N'wendzamhala naswona wu tlangeriwa hi kwalomu ka tibiliyoni ta vanhu emisaveni hinkwayo.
+temporal-region;['mawuwani 4'];== Leswi endlekeke hi siku leri == ...
+temporal-region;['nyenyankulu 25'];== Leswi endlekeke hi siku leri == ...
+temporal-region;['sunguti'];Sunguti i nwheti yo sungula e lembeni.
+temporal-region;['sunguti'];Sunguti i nwheti yo sungula e lembeni.
+temporal-region;['sunguti'];Sunguti i nwheti yo sungula e lembeni.
+temporal-region;["n'wendzamhala"];N'wendzamhala i nwheti yavu khume-mbirhi, naswon i yo hetelela e lembeni.
+temporal-region;["n'wendzamhala"];N'wendzamhala i nwheti yavu khume-mbirhi, naswon i yo hetelela e lembeni.
+temporal-region;['mudyaxihi'];Mudyaxihi i nwheti yavu nthlanu e lembeni.
+temporal-region;['ndzhati'];Ndzhati i nwheti yavu nkaye e lembeni.
+temporal-region;['nyenyankulu'];Nyenyankulu i nwheti yavu nharhu e lembeni.
+temporal-region;['nyenyenyani'];Nyenyenyani i nwheti yavu mbirhi e lembeni.
+temporal-region;['mhawuri'];Mhawuri i nwheti yavu nhungu e lembeni.
+temporal-region;['mawuwani'];Mawuwani i nwheti yavu nhungu e lembeni.
+temporal-region;['dzivamusoko'];Dzivamusoko i nwheti yavu mune e lembeni.
+temporal-region;['khotavuxika'];ð±️enis i nwheti yavu ntsevu e lembe
+temporal-region;['hukuri'];Hukuri i nwheti yavu khume-n'we e lembeni.
+temporal-region;['nhlangula'];Nhlangula i nwheti yavu khume e lembeni.
+temporal-region;['lembe'];Lembe i mpimo wa nkarhi lowu tekiwaka hi misava ku hetisa ndzhendzeleko wa wona emahlweni ka dyambu.
+temporal-region;['matimu yo sungula'];Matimu yo sungula mahlanganisa nkarhi wa migingiriko ya vanhu exikarhi ka loko vasungule kutirhisa switirhisiwa swa maribye ~ kwalomu ka 3.3 wa timiliyoni ta malembe laya hundzeke, kufikela loko vanhu va tsumbula ndlela yo tsala marito, leswi endlekeke kwalomu ka ~5300 wa malembe lama hundzeke.

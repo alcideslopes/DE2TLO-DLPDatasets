@@ -1,0 +1,135 @@
+activity;['festival', 'bayram'];qator tadbirlar va spektakllar uyushtiriladigan bayram
+activity;['karantin', 'karantinlash'];Karina viris
+activity;['teatr', 'dramaturgiya', '"teatr"'];Drama echki qo'shig'i
+activity;['ob-havo', 'havo', 'ob havo'];Shahrisabz
+agentive-figure;['davlat', 'suveren davlat', 'millat', 'ulus', 'estat', 'negara', 'state', '國', 'civitas', 'devlet', 'dowlad', 'država', 'dövlət', 'estado', 'estato', 'estatu', 'firenena', 'gwladwriaeth', 'kaontri', 'kintra', 'kok-ka', 'land', 'letá', 'leydi', 'mama llaqta', 'moku‘āina', 'nagara', 'nhà nước', 'país', 'państwo', 'państwò', 'riik', 'réew', 'ríki', 'rārangi whenua', 'schdaad', 'shteti', 'staat', 'stad', 'stado', 'staot', 'stat', 'stato', 'statu', 'steat', 'stát', 'stât', 'stååd', 'tetã', 'tír', 'valsts', 'valstybė', 'valstībė', 'valtio', 'állam', 'état', 'ŝtato', 'štát', 'κράτος', 'государство', 'держава', 'дзяржава', 'држава', 'държава', 'дәүләт', 'ил', 'канму', 'кишвар', 'кугыжаныш', 'кърал', 'мамлекет', 'мемлекет', 'патшалăх', 'улс', 'штат', 'պետություն', 'מדינה', 'ازاد دیس', 'دولة', 'دولت', 'دوله', 'دەوڵەت', 'ملک', 'ܐܬܪܐ', 'सार्वभौमिक राष्ट्र', 'রাষ্ট্র', 'அரசு', 'ದೇಶ', 'രാഷ്ട്രം', 'ස්වෛරීය රාජ්\u200dයය', 'รัฐ', 'სახელმწიფო', 'სახენწჷფო', 'ប្រទេស', '国家', '국가'];Markaziy hokimiyatga ega siyosiy tashkilot
+agentive-figure;['don quixote sarguzashtlari', 'don quixote, don kixot', 'don kixot', 'don kixot sarguzashtlari'];Ispan yozuvchisi Miguel de Cervantes Saavedra qalamiga mansub roman
+agentive-physical-object;['tuya'];Bu oʻsimlik hozirda landshaft dizayn sifatida qoʻllaniladi
+agentive-physical-object;['kashalot', 'physeter macrocephalus', 'physeter catodon'];Kitlar turi
+agentive-physical-object;['koʻk kit', 'balaenoptera musculus', "ko'k kit", 'ko`k kit', 'ko‘k kit'];Yoʻl-yoʻl kitlar oilasiga mansub sut emizuvchi hayvon
+agentive-physical-object;['yelka oyoqlilar'];Umurtqasiz hayvonlar tipi
+agentive-physical-object;['kosatka'];Tishli kit
+agentive-physical-object;['kaltakesaklar', 'kaltakesak'];Sudralib yuruvchilar sinfining kenja turkumi
+amount-of-matter;['talliy', 'таллий', 'tl'];Kimyoviy unsur
+amount-of-matter;['geliy', 'he'];lanardo davinchi
+amount-of-matter;['buten', 'butenlar', 'butilen', 'butilenlar'];Organik birikma
+amount-of-matter;['ishqorlar', 'asos', 'ishqor', 'base', 'основа', 'basa', 'basis', 'baz', 'baza', 'ишқор', 'alus', 'bas', 'base química', 'basen', 'basi', 'bazat', 'bazenn', 'bazo', 'bază', 'bazė', 'bazơ', 'bázis', 'bāze', 'emäs', 'iâm-ki', 'lipõ', "llipt'a", 'zasady', 'zásada', 'zásaditost', 'βάση', 'аснова', 'асновы', 'база', 'негіздер', 'основание', 'בסיס', 'اساس', 'باز', 'قاعدة', 'क्षार', 'ক্ষারক', 'காரம்', 'ക്ഷാരം', 'เบส', 'ფუძეები', '塩基', '鹽基', '염기'];ishqorlar nimaligini bilsizmi
+biological-object;['yogʻ bezlari', "yog' bezlari", 'yog` bezlari', 'yog‘ bezlari'];Terisining yogʻ chiqaradigan bezlari
+biological-object;['orqa miya'];Nerv to'qimasidan tuzilgan uzun, nozik, naysimon struktura
+biological-object;['immun tizimi'];Umurtqali mavjudotlardagi organ va to'qimalarni birlashtiruvchi, kasalliklardan himoya qiluvchi tizim
+biological-object;['umurtqa', 'umurtqalar'];umurtqa pog'onasini tashkil qiluvchi suyaklar
+functional-matter;['neyroleptik moddalar'];Dorivorlar turkumi
+functional-matter;['qazi'];qazi(ot goʻshti)
+information-realization;['natyurmort'];NATURMORT
+information-realization;['qurʼon', "qur'on", 'qurʻon', 'qurʼoni karim', 'qur’on', 'qur’oni karim'];Musulmonlarning muqaddas kitobi.
+locative-role;['florensiya'];Italiya kommunalari
+locative-role;['paduya', 'padova'];Italiya kommunalari
+locative-role;['pago pago'];Amerika Samoasi poytaxti
+locative-role;['light'];familiya
+locative-role;['milan'];Italiya kommunalari
+locative-role;['new york', 'nyu-york shahri', 'nyu-york', 'new york shahri', 'nyc', 'nyu york', 'nyu york shahri'];AQSh'dagi shahar
+parameter;['karantin', 'karantinlash'];Karina viris
+phenomenon;['69'];Natural son
+phenomenon;['ob-havo', 'havo', 'ob havo'];Shahrisabz
+physical-body;['proksima', 'próxima centauri'];Sentavr yulduz turkumidagi eng yorugʻ yulduz
+physical-object;['45'];Natural son
+physical-object;['traktor'];Og'ir yuklarini tashish uchun loyihalangan maxsus transport vositasi
+physical-object;['bengal olovi'];perotexnika turi
+political-geographic-object;['florensiya'];Italiya kommunalari
+political-geographic-object;['paduya', 'padova'];Italiya kommunalari
+political-geographic-object;['abu-dabi', 'abu dabi', 'abú dhabí'];BAA poytaxti
+political-geographic-object;['olmoniya', 'germaniya', 'олмония', 'gfr', 'alamagn', 'alemagne', 'alemaina', 'alemanha', 'alemania', 'alemanne', 'alemanya', 'alemanyi', 'alemaña', 'alemaña - deutschland', 'alimanya', 'alimaña', 'allemagne', 'allemangne', 'almaanya', 'almaañ', 'almagne', 'almanha', 'almania', 'almaniya', 'almanya', 'almay', 'almayn', 'alémani', 'an ghearmáin', 'béésh bichʼahii bikéyah', 'daitschlond', 'deitschland', 'deutschland', 'deutän', 'djermani', 'doichland', "dotygu'e", 'doysrikondre', 'duiska', 'duitsland', 'duutsjlandj', 'duutslaand', 'duutsland', 'dwzgoz', 'dáik-guók', 'däitschland', 'dútslân', 'dütschland', 'düütschland', 'düütsklound', 'federativ olmoniya respublikasi', 'frg', 'germania', 'germanie', 'germanio', 'germaniya federativ respublikasi', 'germaniýa', 'germany', 'germània', 'germâgna', 'ghermãnia', 'girimane', 'girmania', 'gjermania', 'gjermanie', 'gërmania', 'heremani', 'ijalimane', 'ijalimani', 'ijamani', 'jamus', 'jarimani', 'jarmalka', 'jerman', 'jermani', 'jermaniya', 'jeureuman', 'jémanị', 'jérman', 'jẹ́mánì', 'kelemānia', 'lalman', "ma'evé'ho'éno", 'miemieckô', 'mjymcy', 'nemačka', 'nemecko', 'nemčija', 'niemcy', 'nimska', 'njemačka', 'németország', 'německo', 'němska', "s'aksamaa", 'saksa', 'saksamaa', 'saksanma', 'siamani', 'tek-kok', 'tet-koet', 'teutontlālpan', 'tiamana', 'tjüschlönj', 'tyskland', 'týskland', 'ubudage', 'ubudagi', 'ujerumani', 'vokietija', 'vuoceja', 'vuokītėjė', 'vācija', 'yn ghermaan', 'yr almaen', 'þýskaland', 'þēodscland', 'đức', 'ġermanja', 'γερμανία', 'алмания', 'алмантәыла', 'герман', 'германи', 'германие мастор', 'германия', 'германия мастор', 'германия федеративтік республикасы', 'германија', 'германія', 'джэрмэн', 'немачка', 'немечму', 'немыч эл', 'ниицәтә немшин орн', 'нямеччына', 'німеччина', 'нїмецько', 'нѣмьци', 'олмон', 'գերմանիա', 'גרמניה', 'דייטשלאנד', 'آلمان', 'ألمانيا', 'ئاڵمانیا', 'المانيا', 'جرمنی', 'گېرمانىيە', 'ܓܪܡܢ', 'ޖަރުމަނުވިލާތް', 'जर्मनी', 'জার্মানি', 'ਜਰਮਨੀ', 'જર્મની', 'ଜର୍ମାନୀ', 'செருமனி', 'జర్మనీ', 'ಜರ್ಮನಿ', 'ജർമ്മനി', 'ජර්මනිය', 'ประเทศเยอรมนี', 'ປະເທດເຢັຽລະມັນ', 'ཇཱར་མ་ནི་', 'འཇར་མན།', 'ဂျာမနီနိုင်ငံ', 'გერმანია', 'ጀርመን', 'ᔮᒪᓂ', 'អាល្លឺម៉ង់', 'ドイツ', '德国', '德國', 'ꭰꮫꮵ', '독일', '𐌸𐌹𐌿𐌳𐌹𐍃𐌺𐌰𐌻𐌰𐌽𐌳'];Mamlakat
+political-geographic-object;['ekvador', 'ec', 'ecu', 'ekvador respublikasi', 'aequatoria', 'eacuador', 'eacuadór', 'ecuador', 'ecuadòr', 'eiquador', 'ekuador', 'ekuadori', 'ekuadór', 'ekuatoa', 'ekuator', 'ekvadora', 'ekvadoras', 'ekvadoro', 'ekvadors', 'ekvaduors', 'ekvádor', 'ekwadoor', 'ekwador', 'ekwadoro', 'ekwadůr', 'ekwatè', 'equadol', 'equador', 'eqüator', 'ikwadoor', 'ikwadur', 'kéyah nahasdzáán ałníiʼgi siʼánígíí', 'lekvadorän', 'pow ekwadorel', 'republíki ya ekwatéli', 'èkuador', 'èquator', 'ékuador', 'équateur', 'ισημερινός', 'еквадор', 'эквадор', 'эквадормудин орн', 'экуадор', 'էկվադոր', 'אקוודור', 'עקוואדאר', 'ئێکوادۆر', 'ئېكۋادور', 'ئەکوادور', 'اكوادور', 'الإكوادور', 'اکوادور', 'ایکواڈور', 'ایکویڈار', 'اېکوادور', 'އިކުއެޑޯރު', 'इक्वेडर', 'इक्वेडोर', 'ईक्वाडोर', 'एक्वाडोर', 'ইকুয়াডর', 'ইকুয়েডর', 'ਏਕੁਆਡੋਰ', 'ઈક્વેડોર', 'ଏକ୍ଵାଡୋର', 'எக்குவடோர்', 'ఈక్వడార్', 'ಎಕ್ವಡಾರ್', 'ഇക്വഡോർ', 'ประเทศเอกวาดอร์', 'ཨེ་ཁོའོ་ཌོར།', 'အီကွေဒေါနိုင်ငံ', 'ეკვადორი', 'ኤኳዶር', 'ẹ̀kùàdọ̀r', 'エクアドル', '厄瓜多尔', '厄瓜多爾', '에콰도르'];Janubiy Amerikaning shim. gʻarbiy qismidagi davlat
+political-geographic-object;['iordaniya'];Osiyodagi davlat
+political-geographic-object;['rim', 'rome', 'an ròimh', 'an róimh', 'erroma', 'lô-má', 'rhufain', 'roeme', 'roma', 'romas', 'romma', 'romo', 'room', 'rooma', 'roum', 'ruma', 'ruoma', 'rzim', 'rzym', 'råmma', 'rím', 'ròm', 'róm', 'róma', 'rómù', 'rōm', 'rōma', 'yn raue', 'řím', 'ρώμη', 'горад рым', 'рим', 'римъ', 'ром', 'рым', 'հռոմ', 'רוים', 'רומא', 'رم', 'روم', 'روما', 'ڕۆما', 'ܪܗܘܡܐ', 'रोम', 'रोमा', 'রোম', 'ਰੋਮ', 'ରୋମ', 'உரோமை நகரம்', 'రోమ్', 'ರೋಮ್', 'റോം', 'රෝමය', 'โรม', 'རོ་མ།', 'ရောမမြို့', 'რომი', 'ሮማ', 'ᖌᒪ', 'ローマ', '罗马', '羅馬', '로마', '𐍂𐌿𐌼𐌰/ruma'];Italiya kommunalari
+political-geographic-object;['belfast'];Shimoliy Irlandiya poytaxti
+political-geographic-object;['jibuti'];Jibuti davlati poytaxti
+political-geographic-object;['tbilisi', 'tiflis'];Gruziya poytaxti
+political-geographic-object;['tegusigalpa', 'tegucigalpa'];Gonduras poytaxti
+political-geographic-object;['amman', 'ammon'];Iordaniya poytaxti
+political-geographic-object;['tunis'];Tunis poytaxti
+political-geographic-object;['dorussalom', 'dar es salam'];Tanzaniyadagi shahar
+political-geographic-object;['nyu deli', 'yangi dehli', 'new delhi', 'dehli', 'bagong delhi', 'delhi newydd', 'delhi noa', 'delhiya nû', 'delhiyo newe', 'dellium novum', 'musuq dilhi', 'naujasis delis', 'naujasės delės', 'naí dillí', 'nei-delhi', 'neu-delhi', 'neuva delhi', 'nieu-delhi', 'nij delly', 'niou deli', 'nov-delhio', 'nova-delhi', 'nova delhi', 'nova deli', 'nova deli - नई दिल्ली', 'nove delhi', 'novi deli', 'nové dillí', 'nowe delhi', 'nua-deilí', 'nueva delhi', 'nuova delhi', 'nyu dehli', 'nòva delhi', 'nýja delí', 'nīƿe delhi', 'sin delhi', 'yancuīc deli', 'yeni delhi', 'yéngi déhli', 'ņūdeli', 'νέο δελχί', 'горад нью-дэлі', 'нью-дели', 'нью-делі', 'нью-дэлі', 'ню-дели', 'ню делхи', 'саҥа дели', 'шинэ дели', 'њу делхи', 'նյու դելի', 'ניו דלהי', 'ניי דעלי', 'دهلی نو', 'نئی دلی', 'نئی دہلی', 'نو دهلی', 'نيودلهي', 'نٔو دلھی', 'نیودلھی', 'ނިއުދިއްލީ', 'नई दिल्ली', 'नयाँ दिल्ली', 'नवदेहली', 'नवी दिल्ली', 'নতুন দিল্লি', 'নুৱা দিল্লী', 'ਨਵੀਂ ਦਿੱਲੀ', 'புது தில்லி', 'క్రొత్త ఢిల్లీ', 'ನವ ದೆಹಲಿ', 'ന്യൂ ഡെൽഹി', 'නව දිල්ලිය', 'นิวเดลี', 'ནེའུ་དིལ་ལི།', 'နယူးဒေလီမြို့', 'ნიუ-დელი', 'ኒው ዴሊ', 'ニューデリー', '新德里', '뉴델리'];Hindiston poytaxti
+political-geographic-object;['milan'];Italiya kommunalari
+political-geographic-object;['rabot', 'rabat'];Marokashdagi shahar
+political-geographic-object;['new york', 'nyu-york shahri', 'nyu-york', 'new york shahri', 'nyc', 'nyu york', 'nyu york shahri'];AQSh'dagi shahar
+political-geographic-object;['toronto'];Kanadadagi shahar
+region;['1728'];Natural son
+region;['genri', 'h'];SI oʻlchov birligi
+region;['paskal', 'pa'];Bosim va mexanik kuchlanish birligi
+region;['100'];Natural son
+region;['100000'];Natural son
+region;['1000', '1100', '1200', 'ming'];Natural son
+region;['1000', '1100', '1200', 'ming'];Natural son
+region;['1000', '1100', '1200', 'ming'];Natural son
+region;['500'];Natural son
+region;['50', 'ellik'];Natural son
+region;['40', 'qirq'];Natural son
+region;['10000'];Natural son
+region;['70', 'yetmish'];Natural son
+region;['60', 'oltmish'];Natural son
+region;['30', 'o‘ttiz'];Natural son
+region;['120'];Natural son
+region;['9', '0'];Natural son
+region;['19', 'oʻn toʻqqiz'];Natural son
+region;['12', 'oʻn ikki'];Natural son
+region;['16'];Natural son
+region;['6'];Natural son
+region;['15', 'oʻn besh'];Natural son
+region;['10', 'oʻn'];Natural son
+region;['20', 'yigirma'];Natural son
+region;['3'];Natural son
+region;['2', 'ikki'];Natural son
+region;['8'];Natural son
+region;['7'];Natural son
+region;['17', 'oʻn yetti'];Natural son
+region;['11', 'oʻn bir'];Natural son
+region;['14', 'o‘n dört'];Natural son
+region;['4'];Natural son
+region;['21'];Natural son
+region;['29'];Natural son
+region;['26'];Natural son
+region;['25'];Natural son
+region;['22'];Natural son
+region;['28'];Natural son
+region;['27'];Natural son
+region;['24'];Natural son
+region;['23'];Natural son
+simple-collection;['kichik it'];Yulduz turkumi
+simple-collection;['kichik ayiq', 'kichik yetti ogʻayni', 'kichik yetti qaroqchi', 'ursa minor', "kichik yetti og'ayni", 'kichik yetti og`ayni', 'kichik yetti og‘ayni'];Yulduz turkumi
+simple-collection;['kosa'];Yulduz turkumi
+simple-collection;['jadiy', 'tog taka'];Yulduz turkumi
+simple-collection;['aqrab', '♏', 'chayon', 'sco'];Zodiak yulduz turkumi
+simple-collection;['shimoliy toj'];Yulduz turkumi
+simple-collection;['asad', '♌'];Yulduz turkumi
+simple-collection;['dalv'];Yulduz turkumi
+simple-planned-collective;['diplomatik korpus'];muayyan mamlakat yoki birlikda ro'yxatdan o'tgan xorijiy diplomatlarning jamoaviy birligi
+situation;['atsidoz'];qonda va boshqa tana to'qimalarida kislotalikning oshishiga olib keladigan jarayon
+situation;["ma'lumotlar bazasi", 'maʼlumotlar bazasi', 'database'];Yig`ilgan ma`lumotlar to`plami
+situation;['talmih'];Talmeh san'ati
+situation;['ob-havo', 'havo', 'ob havo'];Shahrisabz
+socially-constructed-person;['genri jozef', 'joseph henry'];Amerikalik fizik
+socially-constructed-person;['louis pasteur', 'lui paster', 'paster lui'];Fransuz mikrobiologi va kimyogari
+socially-constructed-person;['gandi moxandas karamchand', 'moxandas karamchand gandi', 'mahatma gandi'];Hindistonning siyosiy va diniy rahbari
+socially-constructed-person;['muhammad', 'mohammed', 'muhammad alayhis-salom', 'muhammad ibn abdulloh', 'muhammad paygʻambar', 'muhammadning hayoti'];Arab siyosiy rahbari va Islom asoschisi
+socially-constructed-person;['sadhu'];Hinduizm diniga e'tiqod qiluvchi zohid
+socially-constructed-person;['george washington', 'jorj vashington', 'vashington jorj'];AQSHning birinchi prezidenti
+socially-constructed-person;['veteran'];harbiy xizmatni boshqa o'tamaydigan shaxs
+socially-constructed-person;['frilanser'];va u hos odam manosiniham anglatkan
+socially-constructed-person;['amir', 'emir'];Unvon
+socially-constructed-person;['amir temur', 'temur', 'temur lang', 'temurbek', 'timur', 'тимур'];turkiy sarkarda, markazlashgan davlat arbobi
+socially-constructed-person;['devi', 'деви'];hinduizmdagi ma'buda, eng nazokatli ayol timsoli
+socially-constructed-person;['albert einstein', 'albert. ainctain', 'albert eynshteyn', 'albert eynştein', 'albert eynşteyn', 'alberts einšteins', 'albertus einstein', 'einstein', 'einsteini albert', "einštein al'bert", 'eynshteyn albert', 'hastiin albert einstein', 'άλμπερτ αϊνστάιν', 'алберт айнштайн', 'алберт айнщайн', 'алберт ајнштајн', 'альберт ейнштейн', 'альберт эйнштейн', 'альберт эйнштэйн', 'альбэрт айнштайн', 'эйнштейн, алберт', 'эйнштейн, альберт', 'эйнштейн альберт', 'ալբերտ այնշտայն', 'אלבערט איינשטיין', 'אלברט איינשטיין', 'آلبرت اینشتین', 'آلبرټ آينشټاين', 'ألبرت أينشتاين', 'ئالبېرىت ئېينىشتېين', 'ئەلبەرت ئاینشتاین', 'البرت اينشتاين', 'البرٹ آئنسٹائن', 'ایلبرٹ آئینسٹائن', 'अल्बर्ट आइनस्टाइन', 'अल्बर्ट आइन्स्टाइन', 'ऐल्बर्ट आइनस्टाइन', 'আলবার্ট আইনস্টাইন', 'এলবাৰ্ট আইনষ্টাইন', 'ਐਲਬਰਟ ਆਈਨਸਟਾਈਨ', 'આલ્બર્ટ આઇન્સ્ટાઇન', 'ଆଲବର୍ଟ ଆଇନଷ୍ଟାଇନ', 'ஆல்பர்ட் ஐன்ஸ்டைன்', 'ఆల్బర్ట్ ఐన్\u200cస్టీన్', 'ಅಲ್ಬರ್ಟ್ ಐನ್\u200dಸ್ಟೈನ್', 'ആൽബർട്ട് ഐൻസ്റ്റൈൻ', 'ඇල්බට්\u200d අයින්ස්ටයින්', 'อัลเบิร์ต ไอน์สไตน์', 'အဲလ်ဘတ် အိုင်းစတိုင်း', 'ალბერტ აინშტაინი', 'አልበርት አይንስታይን', 'អាល់បឺត អែងស្តែង', 'アルベルト・アインシュタイン', '愛因斯坦', '阿尔伯特·爱因斯坦', '알베르트 아인슈타인'];Fizik, nisbiylik nazariyasining muallifi
+socially-constructed-person;['bibi maryam'];Isoning onasi
+state;['shizofreniya'];Ruhiy kassallikning bir turi
+subject;['morfologiya'];Biologiya
+subject;['tektonika', 'yangi global tektonika', '"yangi global tektonika"', 'litosfera plitalari tektonikasi'];geologiyaning boʻlimi
+subject;['stomatologiya'];my
+subject;['kimyo', 'ximiya'];kimyo
+subject;['tabiiy geografiya'];Geografiya
+taxonomic-collective;['drok', 'genista'];Burchoqdoshlar (Fabaceae) oilasiga mansub buta va chala butalar turkumi
+taxonomic-collective;['kariota', 'caryota'];o'simlik turi
+taxonomic-collective;['jut', 'corchorus', 'kalkutta kanopi'];Oʻsimliklar turkumi
+temporal-region;['ordovik sistemasi', 'ordovik'];Paleozoy erasining pastdan 2 sistemasi
+temporal-region;['kembriy sistemasi', 'kembriy'];Paleozoy eratemasining birinchi davri
+temporal-region;['qish'];QISH - fasl

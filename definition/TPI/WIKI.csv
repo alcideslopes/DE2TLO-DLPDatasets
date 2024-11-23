@@ -1,0 +1,284 @@
+activity;['imel'];Imel em i samting we yu ken raitim leta wantaim kompyuta.
+activity;['soka'];Soka em i wanpela pilai.
+activity;['saikoanalisis'];Saikoanalisis(Tok Siamani: Psychoanalyse) i wanpela lain bilong Saikolosi.
+activity;['edukesen', 'edukeson'];Edukesen i skulim pikinini o samatin.
+activity;['komunikesen'];Komunikesen i samting i mekim mining long wanpela lain manmeri long narapela lain manmeri.
+activity;['at'];At em i nem bilong ol piksa na kaving ol manmeri i mekim.
+activity;['ti'];Ti i samting ol i drink.
+activity;['edukesen', 'edukeson'];Edukesen i skulim pikinini o samatin.
+agentive-figure;['kantri'];Kantri i minim wanpela hap long wol we igat nesenel gavman, igat ol manmeri istap, na igat hap giraun.
+agentive-figure;['kristen otodos', 'otodos', 'otodos kristen'];Ol Otodos, o Kristen Otodos, o Otodos Kristen ol i manmeri bilong wanpela lain bilong Kristen.
+agentive-figure;['lotu'];I gat kainkain lotu long Graun, olsem: Bahai, o lotu bilong ol Baha'is Lotu Kristen, o lotu bilong ol Kristen.
+agentive-figure;['islam'];Islam i lotu bilong ol Mahomet.
+agentive-figure;['hinduisim'];Hinduisim em i lotu.
+agentive-physical-object;['abus', 'animalia', 'animal'];Abus o animal em i wanpela kain tingting i gat laip.
+agentive-physical-object;['sayor', 'ol sayor'];Sayor em i tingting i gat laip na i stap long (kingdom) Plantae.
+agentive-physical-object;['diwai'];Diwai em i sayor na i stap long (kingdom) Plantae.
+agentive-physical-object;['kumul', 'paradisaeidae'];Famili bilong Kumul (Paradisaeidae) em i wanpela pisin famili husait i stap long Niugini na Ostrelia.
+agentive-physical-object;['bikpela magani', 'kangaroo'];Bikpela magani em i wanpela famili bilong marsupial long Macropus genus.
+agentive-physical-object;['magani'];Magani em i wanpela famili bilong marsupial long Macropus genus.
+agentive-physical-object;['daka', 'piper betle'];Daka i sayor bilong lain Piperales.
+agentive-physical-object;['kokomo'];Kokomo em i wanpela pisin long Niugini.
+agentive-physical-object;['kamel'];Kamel em i wanpela kain animal wantaim bikbel long bek bilong em.
+agentive-physical-object;['buai'];Buai em i wanpela kain pam.
+amount-of-matter;['kopi'];Kopi i samting ol i drink.
+amount-of-matter;['saksak'];Saksak em i wanpela kaikai ol i save kaikaim planti long Papua Niugini.
+cognitive-event;['stet'];Stet i olsem provins i gat gavman bilongen yet.
+ecological-collective;['wol'];Dispela pes i toktok long Jiograpi bilong Graun.
+ecological-collective;['sayor', 'ol sayor'];Sayor em i tingting i gat laip na i stap long (kingdom) Plantae.
+functional-matter;['hangul'];Hangul (Tok Koria:한글 Hangeul (long Saut Koria) o Chosongul (Tok Koria: 조선글 Joseongeul (long Not Koria) em i nem bilong ol leta o alfabet bilong Tok Koria.
+functional-matter;['kopi'];Kopi i samting ol i drink.
+genetic-collective;['famili'];Kainkain lain i gat kainkain famili.
+geographical-object;['borneo'];Borneo em i ailan stap namel long maritim Sout-Es Esia, Displa ailan i stap klostu Philippines.
+geographical-object;['saut amerika'];Saut Amerika em i wanpela hap bilong kontinen Amerika.
+geographical-object;['ripablik bilong saina', 'republik bilong china', 'republik bilong saina'];Republik bilong Saina (Templet:Lang-zh) emi wanpela kantri long Esia istap long Taiwan ailan.
+geographical-object;['ol masol ailan', 'marshalls', 'masel ailan'];Masel Ailan (Tok Inglis: Marshall Islands) emi wanpela kantri long Pasifik.
+geographical-object;['ailan'];Ailan em i wanpela hap graun we wara i raunim, tasol i no bikpela olsem kontinen.
+geographical-object;['niugini', 'niugini ailan'];Niugini em i wanpela ailan i stap namel long Pasifik.
+geographical-object;['koria', 'saut korea', 'korea'];Koria o Korea i kantri bilong Esia.
+geographical-object;['bikpela briten'];Bikpela Briten i ailan long Yurop.
+geographical-object;['niu kaledonia'];Niu Kaledonia em i wanpela ailan long Franis.
+geographical-object;['niu ailan ailan', 'nu ailan', 'new ireland ailan', 'niu aialan', 'niu aialan ailan'];Niu Ailan ailan i wanpela ailan long Niu Ailan Provins insait long Papua Niugini.
+geographical-object;['amerika'];Amerika i kontinen i ailan i bikpela tumas (na narapela liklik ailan i stap klostu long dispela ailan i bikpela tumas).
+geographical-object;['solwara atlantik'];Solwara Atlantik i bikpela solwara.
+geographical-object;['melanesia'];Melanesia emi subrijen long Osenia long westen Pasifik solwara long Afarura solwara, na long Fiji.
+geographical-object;['niu briten', 'new britain', 'nu briten'];Niu Briten em i wanpela ailan long Papua Niugini.
+geographical-object;['greenland'];Greenland em i ailan bikpela tumas long dispela graun.
+geographical-object;['pasifik', 'solwara pasifik', 'pacific', 'pasifik solwara'];Solwara Pasifik em i bikpela solwara we Papua Niugini, Solomon Ailan, Nauru, Vanuatu, Tuvalu, Niu Silan, Tahiti, Hawai, na narapela ailan bilong Osenia i stap.
+geographical-object;['honshu'];Honshu em i bikpela ailan long Siapan.
+geographical-object;['hokkaido'];Hokkaido em i bikpela ailan long Siapan.
+geographical-object;['kyushu'];Kyushu em i bikpela ailan long Siapan.
+information-realization;['buk'];Buk i sampela samting em i gat planti pepa, vellum, o arapela samting wantaim samting text.
+information-realization;['ensaiklopedia', 'ensiklopedia'];Ensiklopedia i buk long painim kainkain save long planti samting.
+information-realization;['buk bilong momon', 'buk momon'];== Buk bilong Momon == Buk bilong Momon emi bikpela buk long sekred ritim bilong "Momons" o The Church of Jesus Christ of Latter-day Saints.
+information-realization;['baibel'];Stori long Jisas i kam long Baibel.
+language;['ol tokples siamanik'];Templet:Indo-European topics The Germanic languages are a group of related languages constituting a branch of the Indo-European (IE) language family.
+language;['tok nowe'];Tok Nowe emi wanpela tokples bilong kantri Nowe.
+language;['tok denmak', 'da', 'dan'];Tok Denmak i tokples bilong kantri Denmak.
+language;['tok aislan'];Tok Aislan i ofisel tokples bilong Aislan.
+language;['tok balgeria'];Tok Balgeria i tokples bilong kantri Balgeria.
+language;['tokples'];Tokples i tok bilong has ples bilong manmeri em i tokples bilong ol.
+language;['esperanto'];Esperanto em i wanpela tokples.
+language;['ido'];Ido em i wanpela tokples.
+language;['tokples inglis', 'english language', 'tok inglis'];Tok Inglis em i wanpela tokples.
+language;['tok latin'];Templet:Infobokis Tokples/IPA
+language;['tok aialan'];Tok Aialan i tokples bilong kantri Ripablik bilong Aialan.
+language;['indo-yuropien famili bilong tokples', 'famili long tokples indo-yurop', 'ol tokples indo-yuropien', 'ol tokples indo-yuropin'];Indo-Yuropien famili bilong tokples emi wanpela bikpela famili bilong tokples long Graun.
+language;['tok gris', 'tok grik'];Tok Gris (ελληνική γλώσσα Hellenike glossa) long olpela tok Gris, Elleniki Glossa long niupela tok Gris) emi wanpela tokples long kantri Gris.
+language;['tokples long albenia', 'tokples long albania'];Tok Albenia emi wanpela tokples long kantri Albenia.
+language;['tokples pesia', 'tok pesia'];Tok Pesia (Templet:Tok-fa, Tok Inglis: Persian), em i wanpela tokples.
+language;['tok vietnam'];Templet:Infobokis Tokples/IPA
+language;['tok hawai'];Tok Hawai (Tok Hawai: ʻōlelo Hawaiʻi, Tok Inglis: Hawaiian) em i wanpela tokples bilong stet Hawai long Ol Yunaitet Stet.
+language;['tok hangari'];Tok Hangari (Tok Hangari: magyar) em i tokples bilong kantri Hangari.
+language;['tok spen'];Tok Spen emi wanpela tokples bilong kantri Spen.
+language;['tok polan', 'język polski'];Tok Polan (polszczyzna, język polski) em i nambawan tokples bilong kantri Polan.
+language;['tok belaras', 'tok belarus'];Tok Belaras emi tokples bilong kantri Belaras.
+language;['tok slovakia'];Templet:Infobokis Tokples/IPA
+language;['tok rasia'];Tok Rasia (Русский язык, russkiy yazyk) em i wanpela tokples we asples bilong em i kantri Rasia.
+language;['tok jeman', 'tok siaman', 'tok siamani'];Tok Jeman (o Tok Siaman, Tok Siamani) (Tok Siaman: Deutsch, Tok Inglis: German) em i wanpela tokples.
+locative-role;['lyon'];Lyon emi wanpela siti long Pranis.
+locative-role;['edirne'];Edirne, em i stap long siti bilong kantri, Teki.
+locative-role;['ho chi minh city'];Ho Chi Minh City, Saigon em i lajes citi bilong Vietnam.
+locative-role;['gdansk'];Gdansk emi big citi bilong kantri Polan long Yurop.
+locative-role;['sebia', 'србија'];Sebia (Tok Inglis: Serbia, Tok Sebia: Србија) em i wanpela kantri long Yurop.
+locative-role;['lodz'];Lodz emi big citi bilong kantri Polan.
+locative-role;['lituwenia', 'litva'];Lituwenia em i wanpela kantri long Yurop.
+locative-role;['cracow'];Cracow emi big citi bilong kantri Polan.
+locative-role;['san paulu', 'sâo paulo'];San Paulu (Tok portuguis: São Paulo) stap long nambawan siti long ol Bresil.
+locative-role;['chicago'];Chicago (Tok Inglis: Chicago) stap long nambawan siti long ol Unaitet Stet.
+locative-role;['wels'];Wels emi wanpela kantri bilong Yurop.
+locative-role;['niu yok siti'];Niu Yok Siti stap long nambawan siti long ol Unaitet Stet.
+locative-role;['sentrel amerika', 'sentrol amerika'];Sentrel Amerika em i wanpela hap long kontinen Amerika.
+locative-role;['sahara'];Sahara em i bikpela ples drai bilong Afrika.
+non-physical-collection;['hinduisim'];Hinduisim em i lotu.
+non-physical-collection;['lotu'];I gat kainkain lotu long Graun, olsem: Bahai, o lotu bilong ol Baha'is Lotu Kristen, o lotu bilong ol Kristen.
+non-physical-collection;['islam'];Islam i lotu bilong ol Mahomet.
+non-physical-collection;['judaisim'];Judaisim i lotu bilong ol Juda.
+non-physical-collection;['lotu kristen'];Lotu Kristen em i bikpela bilip bilong wol.
+non-physical-collection;['protestan', 'talatala'];Ol Protestan, o Talatala, ol i man o meri bilong wanpela lain bilong Kristen.
+phenomenon;['hangul'];Hangul (Tok Koria:한글 Hangeul (long Saut Koria) o Chosongul (Tok Koria: 조선글 Joseongeul (long Not Koria) em i nem bilong ol leta o alfabet bilong Tok Koria.
+phenomenon;['ivolusan'];Ivolusan emi senis i kamap long milian yia, na pradusim planti kain enimol na planis.
+physical-body;['mun'];(Dispela pes Mun (i stap long heven) em i liklik tumas.
+physical-body;['giraun', 'graun'];Giraun o It emi namba tri planet bilong san.
+physical-object;['kamikaze'];Kamikaze（神風 neim bilong em long tok siapan) minim kami -anutu god kaze -win.
+physical-object;['piano'];Piano em i bokis bilong musik, i gat 36 blakpela ki na 52 waitpela ki o i gat 88 ki olgeta.
+physical-object;['gan'];Gan o gun o gewer em i wanpela samting pipol i yusim long kilim na mekim dai pinis samting i gat laip.
+physical-object;['ples balus'];Ples balus em i wanpela ples long balus.
+physical-object;['intanet'];Intanet (Internet long Tok Inglis) em i planti rot ol i bungim planti komputa long olgeta graun, olsem haus bilon spaida.
+political-geographic-object;['romenia', 'rumenia'];Romenia i kantri long Yurop.
+political-geographic-object;['lyon'];Lyon emi wanpela siti long Pranis.
+political-geographic-object;['edirne'];Edirne, em i stap long siti bilong kantri, Teki.
+political-geographic-object;['ho chi minh city'];Ho Chi Minh City, Saigon em i lajes citi bilong Vietnam.
+political-geographic-object;['gdansk'];Gdansk emi big citi bilong kantri Polan long Yurop.
+political-geographic-object;['not koria', 'not korea'];Not Korea, o Demokratik Ripablik bilong ol Manmeri bilong Korea (Tok Korea: 조선민주주의인민공화국) emi wanpela kantri long Esia.
+political-geographic-object;['nowe', 'kongeriket noreg', 'kongeriket norge', 'noreg', 'norge', 'norgga', 'norgga gonagasriika'];Nowe (Tok Inglis: Norway) em i wanpela kantri long Yurop.
+political-geographic-object;['ol nitelan', 'netherlands'];Templet:FixHTML
+political-geographic-object;['ol nitelan', 'netherlands'];Netherlands (Tok Netherlands: Nederland) em i stap wanpela kantri long Yurop.
+political-geographic-object;['lesoto'];Lesoto emi wanpela kantri long Aprika.
+political-geographic-object;['siapan', 'japan'];Siapan o Japan (Tokples Siapan: 日本 nihon o nippon) em i wanpela kantri long Esia.
+political-geographic-object;['samoa'];Tonga emi wanpela kantri long Osenia.
+political-geographic-object;['malaysia', 'malesia'];Malesia, (tu nem bilong Malaysia) em i wanpela kantri stap long Southeast Esia.
+political-geographic-object;['malaysia', 'malesia'];Malesia, emi wanpela kantri stap long Southeast Esia.
+political-geographic-object;['inglan'];Inglan em i wanpela kantri bilong Yurop.
+political-geographic-object;['noten aialan', 'not aialan', 'noten ailan'];Noten Aialan emi wanpela kantri bilong Yurop.
+political-geographic-object;['suwisalan', 'ch', 'swisalan'];Suwisalan i wanpela kantri long Yurop.
+political-geographic-object;['yunaitet kingdom', 'yunaitet kingdem'];Yunaitet Kingdom long Bikpela Briten na Noten Aialan (Tok Inglis: The United Kingdom of Great Britain and Northern Ireland) em i kantri igat tupela ailan, Bikpela Briten na Aialan, long Yurop.
+political-geographic-object;['spen'];Spen em i wanpela kantri i stap insait long kontinen Yurop.
+political-geographic-object;['belaras', 'belarus'];Belarus em i wanpela kantri bilong isten Yurop.
+political-geographic-object;['azerbaijan', 'asebaisan'];Azerbaijan (az.: Azərbaycan Respublikası) em i kantri long Yurop.
+political-geographic-object;['lodz'];Lodz emi big citi bilong kantri Polan.
+political-geographic-object;['beljiam', 'belsum'];Beljiam i wanpela kantri bilong Yurop.
+political-geographic-object;['tonga'];Tonga emi wanpela kantri long Pasifik.
+political-geographic-object;['ostria'];Ostria i wanpela kantri long Yurop.
+political-geographic-object;['ostrelia', 'australia', 'austrelia'];Ostrelia (Australia) oa bikpela nem, Commonwealth of Australia i wanpla kantri long bikpela ailan blong Pasifik.
+political-geographic-object;['hobat', 'hobart'];Hobat i wanpela siti bilong Ostrelia.
+political-geographic-object;['bhutan'];Bhutan em i wanpela kantri long Esia.
+political-geographic-object;['hangari', 'hungari'];Hangari em i kantri bilong sentrel Yurop.
+political-geographic-object;['polan', 'polska'];Polan (Tok Inglis: Poland. Tok Polan: Polska) em i wanpela kantri long Yurop.
+political-geographic-object;['vietnam'];Vietnam (vi:Việt Nam) em i kantri bilong Esia.
+political-geographic-object;['siamani', 'siaman', 'jemani', 'jermani'];Siaman oa Jeman emi wanpela kantri long Yurop.
+political-geographic-object;['ijip', 'esip'];Ijip em i kantri bilong kontinen Aprika.
+political-geographic-object;['india'];Republik bilong India i wanpela kantri bilong Saut Esia.
+political-geographic-object;['itali', 'italia'];Itali emi wanpela kantri bilong Yurop.
+political-geographic-object;['indonisia', 'indonesia'];Indonesia em i wanpela kantri i stap long Esia.
+political-geographic-object;['gris', 'greece'];Gris (Tok Inglis: Greece), Templet:Tok-el (Ellada) emi wanpela kantri bilong Yurop.
+political-geographic-object;['yukren'];Yukren i wanpela kantri long Yurop.
+political-geographic-object;['meksiko'];Meksiko i wanpela kantri bilong Not Amerika.
+political-geographic-object;['armenia'];Armenia (ar.
+political-geographic-object;['irak'];Republik bilong Irak i wanpela kantri bilong Esia.
+political-geographic-object;['saut koria', 'saut korea'];Saut Koria o Republik bilong Koria (Tok Koria: 대한민국) em i wanpela kantri long Esia.
+political-geographic-object;['naijiria'];Naijiria, opisioli nemd dispela Pederol Ripablik bilong Naijiria, emi repablik bilong Aprika
+political-geographic-object;['gabon'];Gabon em i wanpela kantri bilong Aprika.
+political-geographic-object;['senegal'];Senegal em i kantri bilong kontinen Aprika.
+political-geographic-object;['pranis', 'frens', 'franis', 'prans'];Pranis em i kantri bilong Yurop.
+political-geographic-object;['ripablik bilong aialan', 'aialan', 'republik bilong aialan', 'republik long aialan'];Aialan i ailan bilong Yurop.
+political-geographic-object;['ripablik bilong aialan', 'aialan', 'republik bilong aialan', 'republik long aialan'];Republik long Aialan (Tok Aialan: Poblacht na hÉireann, Tok Inglis: Republic of Ireland) em i wanpela kantri long ailan Aialan.
+political-geographic-object;['suwidan', 'ol provinis bilong swidan', 'ol provins bilong swidan', 'swidan'];Suwidan em i wanpela kantri long Not Yurop.
+political-geographic-object;['kapitol'];Kapitol em i asples bilong ol gavman.
+political-geographic-object;['andora'];Andorra (Tok Inglis: Andorra) em i wanpela kantri long Yurop.
+political-geographic-object;['vemont', 'vermont'];Vemont em i wanpela stet bilong Ol Yunaitet Stet insait long not is long kantri.
+political-geographic-object;['kolorado', 'colorado'];Kolorado emi wan pela stet long Yunaitet Stet i stap long namel bilong kantri.
+political-geographic-object;['fiji'];Fiji emi wanpela kantri long Osenia.
+political-geographic-object;['cracow'];Cracow emi big citi bilong kantri Polan.
+political-geographic-object;['vanuatu'];Vanuatu em i wanpela kantri long Pasifik.
+political-geographic-object;['kiribas', 'kiribati'];Kiribas emi wanpela kantri long Pasifik.
+political-geographic-object;['aislan'];Aislan (Tok Aislan: Ísland, Tok Inglis: Iceland o Republik bilong Aislan), em i wanpela kantri insait long Yurop.
+political-geographic-object;['san paulu', 'sâo paulo'];San Paulu (Tok portuguis: São Paulo) stap long nambawan siti long ol Bresil.
+political-geographic-object;['dublin'];Dublin em i kapitol na taun bikpela tumas bilong Ripablik bilong Aialan.
+political-geographic-object;['sofia'];Sofia em i kapitol long kantri Balgeria.
+political-geographic-object;['budapest'];Budapest em i kapitol bilong Hangari.
+political-geographic-object;['bagdad', 'baghdad'];Bagdad em i kapitol bilong Irak.
+political-geographic-object;['rom', 'roma'];Rom em i kapitol bilong kantri Itali.
+political-geographic-object;['busares', 'bucharest'];Busares i kapitol bilong Romenia.
+political-geographic-object;['yerusalem'];Yerusalem em i kapitol long kantri Isrel.
+political-geographic-object;['berlin'];Berlin em i kapitol na taun bikpela tumas bilong kantri Siamani long Yurop.
+political-geographic-object;['pyongyang'];Pyongyang i kapitol bilong Not Korea.
+political-geographic-object;['beijing'];Beijing (Tok Saina:北京) em i kapitol long kantri Republik bilong Manmeri bilong China.
+political-geographic-object;['pot vila', 'port vila'];Port Vila i kapitol bilong Vanuatu.
+political-geographic-object;['tailan', 'thailand'];Tailan (Tok Tai: ประเทศไทย Prathet Thai) emi wanpela kantri long Esia.
+political-geographic-object;['mosko', 'moscow', 'moskva'];Mosko o Moskva em i kapitol bilong Rasia.
+political-geographic-object;['israel', 'isral', 'isrel'];Israel em i wanpela kantri bilong Esia.
+political-geographic-object;['chicago'];Chicago (Tok Inglis: Chicago) stap long nambawan siti long ol Unaitet Stet.
+political-geographic-object;['skotlan'];Skotlan emi wanpela kantri bilong Yurop.
+political-geographic-object;['pinlan', 'finlan'];Ripablik bilong Pinlan (Tok Pinlan: Suomen tasavalta), o Pinlan (Tok Pinlan: Suomi) emi wanpela kantri bilong noten sait bilong Yurop.
+political-geographic-object;['brussels'];Brussels emi kapitol bilong kantri Beljiam.
+political-geographic-object;['landen', 'london'];Landen em i wanpela taun long Yunaitet Kingdom.
+political-geographic-object;['talin', 'tallinn'];Talin i kapitol bilong Estonia.
+political-geographic-object;['paris', 'pari'];Paris em i kapitol na taun bikpela tumas bilong kantri Pranis long Yurop.
+political-geographic-object;['reykjavik'];Reykjavik i kapitol na bikpela taun tumas bilong Aislan.
+political-geographic-object;['tokyo'];Tokyo em i kapitol na taun bikpela tumas bilong kantri Siapan long Esia.
+political-geographic-object;['riga'];Riga i kapitol bilong Latvia.
+political-geographic-object;['vilnius'];Vilnius i kapitol bilong Lituwenia.
+political-geographic-object;['kuala lumpur'];Kuala Lumpur, em i narapela nem KL, em i kapitol bilong Malesia na em i ples long moa tru manmeri long Malesia.
+political-geographic-object;['oslo'];Oslo em i kapitol bilong Nowe.
+political-geographic-object;['pot mosbi', 'mosbi', 'port moresby'];Pot Mosbi o Mosbi (Port Moresby long Tok Inglis) em i wanpela taun long Papua Niugini.
+political-geographic-object;['woso', 'warsaw'];Woso emi kapitol na big taun bilong kantri Polan.
+political-geographic-object;['dakar'];Dakar em i kapitol na taun bikpela tumas bilong kantri Senegal long Aprika.
+political-geographic-object;['freetown'];Freetown em i kapitol na taun bikpela tumas bilong kantri Sierra Leone long Aprika.
+political-geographic-object;['sol', 'seoul'];Sol emi kapitol na nambawan siti bilong Saut Korea.
+political-geographic-object;['madrid'];Madrid i kapitol bilong Spen.
+political-geographic-object;['stockholm'];Stockholm i kapitol bilong Suwidan.
+political-geographic-object;['kambra', 'canberra'];Kambra em i wanpela biktaun long Ostrelia.
+political-geographic-object;['ottawa'];Ottawa em i kapitol bilong Kanada, na ol opis bilong nesenal gavman i stap long Ottawa.
+political-geographic-object;['kairo'];Kairo em i kapitol na taun bikpela tumas bilong kantri Ijip long Aprika.
+political-geographic-object;['taipei'];Taipei (Tok Saina:臺北市. Tok Taiwan:Tâi-pak-chhī) em i kapitol long kantri Taiwan.
+political-geographic-object;['berne'];Berne em i wanpela taun long Suwisalan.
+political-geographic-object;['apia'];Apia em i kapitol bilong Samoa, na ol opis bilong nesenal gavman i stap long Apia.
+political-geographic-object;['niu yok siti'];Niu Yok Siti stap long nambawan siti long ol Unaitet Stet.
+political-geographic-object;['toronto'];Toronto em i stap long nambawan siti long Kanada.
+quality;['hinduisim'];Hinduisim em i lotu.
+quality;['lotu'];I gat kainkain lotu long Graun, olsem: Bahai, o lotu bilong ol Baha'is Lotu Kristen, o lotu bilong ol Kristen.
+quality;['kala'];Kala em i samting manmeri lukim.
+quality;['blu'];Blu em i wanpela kala.
+quality;['islam'];Islam i lotu bilong ol Mahomet.
+quality;['judaisim'];Judaisim i lotu bilong ol Juda.
+quality;['ret', 'redpela'];Ret em i wanpela kala.
+quality;['yelo', 'yelopela'];Yelo em i wanpela kala.
+quality;['lotu kristen'];Lotu Kristen em i bikpela bilip bilong wol.
+quality;['protestan', 'talatala'];Ol Protestan, o Talatala, ol i man o meri bilong wanpela lain bilong Kristen.
+region;['yen bilong siapan'];Yen bilong Siapan emi mani bilong kantri Siapan.
+region;['kina'];Kina em i mani bilong kantri Papua Niugini.
+region;['de'];De i taim igat 24 awa.
+simple-collective;['maket', 'bungples'];Maket em i sampela ples we ol dilim long narapela manmeri long kago na moni.
+situation;['kensa'];Kensa em i wanpela kain sik.
+situation;['kuk'];Kuk i at na saiens long kukim kaikai long hat.
+situation;['maket', 'bungples'];Maket em i sampela ples we ol dilim long narapela manmeri long kago na moni.
+social-relationship;['politikis', 'politiks'];Politikis em i we long manmeri wantim i ken tingting na mekim disison long gavman na narapela kaim samting tu.
+socially-constructed-person;['gandi'];Gandi, i man bilong kantri India.
+socially-constructed-person;['alexander makedon'];Alexander Makedon, o Ogastas i kamap bikpela king bilong ol Makedonia.
+socially-constructed-person;['georg wilhelm friedrich hegel', 'hegel'];Georg Wilhelm Friedrich Hegel (Ogas 27, 1770–Novemba 14, 1831) i man bilong pilosopi bilong kantri Siamani.
+socially-constructed-person;['elisabet ii', 'elisabet 2', 'elisabet 2 bilong papua niugini', 'elisabet 2 bilong yunaitet kingdem'];Elisabet II i kwin bilong 16 kantri: Papua Niugini, Yunaitet Kingdem, Solomon Ailan, Ostrelia, Niu Silan, Tuvalu, Kanada...
+socially-constructed-person;['ronald reagan'];Ronald Wilson Reagan i presiden namba 40 bilong Amerika.
+socially-constructed-person;['bill clinton'];William Jefferson (Bill) Clinton i presiden namba 42 bilong Amerika.
+socially-constructed-person;['augustus caesar'];Augustus Octavian, o Ogastas i bin stap bikpela king bilong ol Rom.
+socially-constructed-person;['sierra leone'];Sierra Leone emi wanpela kantri long Aprika.
+socially-constructed-person;['jisas', 'jisas kraist', 'krais', 'kraist'];Jisas i man i stap long kantri Juda 2000 yia bipo.
+socially-constructed-person;['socrates'];Socrates i man bilong pilosopi long Gris.
+socially-constructed-person;['julius caesar'];Gaius Julius Caesar, o Julius Caesar i bin stap bikpela king bilong ol Rom.
+socially-constructed-person;['sidarta'];Sidarta (Siddharta Gautama, o Buddha Gautama) i man bilong India.
+socially-constructed-person;['immanuel kant', 'kant'];Immanuel Kant i bin man bilong pilosopi bilong Königsberg.
+socially-constructed-person;['martin luther'];Martin Luther em i wanpela man Siamani husait i bin foundim lotu bilong ol Lutheran.
+socially-constructed-person;['aristoteles'];Aristoteles (Tok Gris: Αριστοτέλης) i man bilong pilosopi long Gris.
+socially-constructed-person;['albert einstein'];Albert Einstein, em i saveman bilong fisik.
+socially-constructed-person;['pop'];Pop i bikpela bos bilong ol Katolik.
+socially-constructed-person;['god', 'got'];Got i minim wanpela samting o spirit husat ol manmeri bilong sampela ol lotu, olsem ol kristen, ol islam, na planti moa lotu, i save bihainim.
+subject;['ol matematik', 'masematikis', 'matematiks'];Matematiks em i pasin bilong lainim na save long ol samting bilong ol namba.
+subject;['behaviourisim'];Behaviourisim i wanpela lain bilong Saikolosi.
+subject;['save long giraun', 'jiograpi', 'siograpi', 'save long graun'];Jiograpi em i nem bilong save bilong graun na olples bilong we sampla manmari emi stap.
+subject;['akiolosi'];Akiolosi i stadi long manmeri, ol sosaiti, na ol biktaun long taim bipo.
+subject;['lajik', 'losik'];Nem Lajik ikam long Tok Gris λόγος, imin tok.
+subject;['elektroniks', 'ilektronikis', 'ol ilektronik'];Ilektronikis i wanpela save long ilektrisiti.
+subject;['estronomi'];Estronomi i save i lukluk ston long heven.
+subject;['ikonimikis', 'ekonomi', 'ekonomikis', 'ekonomiks'];Ikonimikis i save i lukluk long olgeta kago long manmeri.
+subject;['kemistri'];Kemistri emi saiens i stadi mata.
+subject;['saikolosi'];Saikolosi i save ol i lukluk long tingting bilong manmeri.
+subject;['save long laip'];Save long laip (Tok Inglis: Biology) i save i lukluk laip na olgeta samting i gat laip, olsem ol diwai, ol sayor, ol prut, ol papai, ol abus, na ol jem.
+subject;['stadi bilong pasin bilong ol tokples', 'save long tokples', 'lingwistikis', 'lingwistiks', 'ol linguwistik'];Lingwistikis i save i lukluk long tokples long manmeri.
+subject;['antropolosi', 'antropoloji'];Antropolosi i save i lukluk long manmeri.
+subject;['sosiolosi'];Sosiolosi (Tok Inglis:Sociology) em i stadi long laip bilong ol manmeri i bung wantaim.
+taxonomic-collection;['ajetiv bilong nambawan kain'];Grama>Sintakis>Ajetiv
+taxonomic-collective;['pukpuk', 'crocodilia'];Pukpuk em i wanpela kain animal i stap long wara na raunwara long Amerika, Esia, Aprika na Ostrelia.
+temporal-region;['wik'];Wik em i taim i gat seven de.
+temporal-region;['sande'];Sande i nambaseven de bilong wik, o de bihain tru bilong wik.
+temporal-region;['janueri'];Mun Janueri i namba wan mun bilong yia bilong Kalendar Pop Gregori, o kalendar bikpela hap bilong ol manmeri i yusim long wol nau.
+temporal-region;['fonde'];Fonde i nambafo de bilong wik.
+temporal-region;['janueri'];Mun Janueri i namba wan mun bilong yia bilong Kalendar Pop Gregori, o kalendar bikpela hap bilong ol manmeri i yusim long wol nau.
+temporal-region;['janueri'];Mun Janueri i namba wan mun bilong yia bilong Kalendar Pop Gregori, o kalendar bikpela hap bilong ol manmeri i yusim long wol nau.
+temporal-region;['trinde', 'tride'];Trinde i nambatri de bilong wik.
+temporal-region;['disemba'];Disemba i mun namba wanpela ten tu bilong yia long Kalenda Pop Gregori.
+temporal-region;['disemba'];Disemba i mun namba wanpela ten tu bilong yia long Kalenda Pop Gregori.
+temporal-region;['me', 'may'];Me i mun namba faiv bilong yia long Kalendar Pop Gregori.
+temporal-region;['septemba'];Septemba i mun namba nain bilong yia long Kalenda Pop Gregori.
+temporal-region;['mas', 'mac'];Mas i mun numba tri bilong yia long Kalenda Pop Gregori.
+temporal-region;['februeri'];Februeri i mun namba tu bilong yia long Kalendar Pop Gregori.
+temporal-region;['ogas'];Ogas, o August, i mun namba et bilong yia long Kalenda Pop Gregori.
+temporal-region;['julai'];Julai i mun namba seven bilong yia long Kalenda Pop Gregori.
+temporal-region;['epril'];Epril i mun namba fo bilong yia (insait) long Kalendar Pop Gregori.
+temporal-region;['jun', 'june'];Jun i mun namba faiv bilong yia long Kalenda Pop Gregori.
+temporal-region;['novemba'];Novemba i mun namba wanpela ten wan bilong yia long Kalenda Pop Gregori.
+temporal-region;['oktoba'];Oktoba i mun namba ten bilong yia long Kalenda Pop Gregori.
+temporal-region;['yia'];Yia em i 365 o 366 de.
+temporal-region;['mande'];Mande i nambawan de bilong wik.
+temporal-region;['sarere'];Sarere i nambasikis de bilong wik.
+temporal-region;['fraide'];Fraide i nambafaiv de bilong wik.
+temporal-region;['tunde'];Tunde i nambatu de bilong wik.

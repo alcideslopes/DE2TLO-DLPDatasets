@@ -1,0 +1,356 @@
+abstract-region;['súčet', 'množstvo', 'celkom', 'výška'];Celkovo dva alebo viac v počte.
+activity;['bojovať', 'hádať sa', 'pochytiť sa', 'prieť sa', 'ruvať sa', 'zápasiť', 'škriepiť sa', 'bitka', 'boj'];Týkajúci sa fyzickej konfrontácie.
+activity;['basketbal', 'basket', 'basketballer', 'basketbalový klub', 'krinolína'];Šport, pri ktorom sa dva päťčlenné súperiace týmy snažia vhodiť loptu do koša.
+activity;['opakovanie', 'repríza', 'opakuje', 'znovu spustiť', 'zopakovať'];Televízny program vysielaný znova po prvom vysielaní.
+activity;['dobrodružstvo', 'eskapáda', 'dobrodruhovia', 'nebezpečné podnik', 'riskantné podnik'];Vzrušujúca neobvyklá udalosť často spojená s prvkom odvahy a nebezpečenstva.
+activity;['vzdelávanie', 'vzdelanie', 'didaktika', 'vzdelávací systém', 'vyučovanie', 'výučba', 'vychovávanie', 'výchova', 'pedagóg', 'didaktiky', 'pedagógov', 'vzdelávacie', 'vzdelávaciu činnosť', 'vzdelávania', 'vzdelávať'];Činnosť alebo proces odovzdávania alebo nadobúdania vedomostí alebo schopností.
+activity;['očkovanie', 'vakcinácia', 'štepenie', 'očkované', 'očkovať'];Štepenie vakcínou za účelom ochrany pred konkrétnou chorobou alebo epidémiou choroby.
+activity;['nákup', 'získanie', 'akvizícia', 'kúpa'];Zakúpenie alebo činnosť kúpenia niečoho zaplatením protihodnoty napr. v peniazoch.
+activity;['počet', 'zoznam', 'počítacie', 'číselná sústava', 'číslovanie'];Výsledok spočítania, ktorý znamená počet prvkov v množine.
+activity;['česanie', 'hrebeň', 'vyčesávanie'];Nástroj so zubami na česanie vlasov.
+activity;['vzdelávanie', 'vzdelanie', 'didaktika', 'vzdelávací systém', 'vyučovanie', 'výučba', 'vychovávanie', 'výchova', 'pedagóg', 'didaktiky', 'pedagógov', 'vzdelávacie', 'vzdelávaciu činnosť', 'vzdelávania', 'vzdelávať'];Činnosť alebo proces odovzdávania alebo nadobúdania vedomostí alebo schopností.
+agentive-figure;['banka', 'banková spoločnosť', 'depozitárna finančná inštitúcia', 'bankovníctva sa týkajú', 'bankového systému', 'banky', 'bankári', 'depozitár finančné inštitúcie', 'medzinárodného bankovníctva'];Finančná inštitúcia, kde je možné si požičať peniaze (za ktoré sa vyberá úrok) a vložiť peniaze (za ktoré banka vyplatí urok).
+agentive-figure;['nadácia', 'filantropické nadácie'];Druh filantropickej organizácie tvorenej buď jednotlivcami alebo inštitúciami ako právna entita za účelom podpory cieľov v súlade so stanovami nadácie.
+agentive-physical-object;['počítač', 'počítacie zariadenie', 'procesor', 'systém spracovania informácií', 'systém spracovávania informácií', 'zariadenie na spracovanie dát', 'digitálnych počítačov', 'elektronický počítač', 'informačný systém spracovania', 'počítači', 'spracovateľ', 'výpočtovej stroj', 'výpočtovej techniky', 'výpočtové zariadenia,'];Programovateľné zariadenie, ktoré vykonáva matematické výpočty a logické operácie. obzvlášť také, ktoré je schopné spracúvť, ukladať a získavať veľké množstvá údajov veľmi rýchlo.
+agentive-physical-object;['pes domáci', 'pes', 'canis lupus familiaris', 'psa', 'canis familiaris', 'domáci pes', 'familiaris', 'psa domáceho', 'psov'];Všeobecné štvornohé zviera. Zvyčajne je pri ľuďoch ako domáce zviera alebo sa požíva pri poľovačke alebo na stráženie objektov.
+agentive-physical-object;['kvet', 'kvetina', 'kvety', 'kvetinové'];Reproduktívna štruktúra pri krytosemenných rastlinách (angiospermae), tvorená z tyčiniek a piestikov obklopená okvetnými a kališnými lístkami, ktoré sa všetky nachádzajú v ?okvetí.
+agentive-physical-object;['zdochlina'];Telo mŕtveho zvieraťa, na ktorom si začali pochutnávať iné zvieratá.
+agentive-physical-object;['samica', 'žena', 'ženy'];Dospelý človek pohlavia, ktoré tvorí vajíčka a rodí deti.
+agentive-physical-object;['tulipán', 'tulipa', 'tulipány'];Ktorákoľvek z početných trvalých hruškovitých rastlín rodu Tulipa.
+agentive-physical-object;['proso', 'pšeno', 'millets'];Skupina druhov obilnín s malým zrnom, ktorá sa hojne pestuje po celom svete pre potravu a krmivo.
+agentive-physical-object;['jabloň'];Strom rodu ''Malus''. Rodí ovocie jablká.
+agentive-physical-object;['kura', 'gallus gallus', 'sliepka', 'gallus gallus domesticus'];Druh zdomácneného vtáka z radu Galliformes, ktorý sa často chová ako druh hydiny (Gallus gallus domesticus).
+agentive-physical-object;['mačka', 'mačka domáca', 'felis silvestris catus', 'felis catus', 'cica', 'domestic cat', 'housecat', 'mačky', 'pravda mačka'];Všeobecné štvornohé zviera (Felis silvestris) najčastejšie ako domácie zvieratko.
+agentive-physical-object;['mango', 'mangifera indica', 'mango strom'];Tropický ázijský ovocný strom, mangifera indica.
+agentive-physical-object;['medveď', 'ursida', 'medvede', 'ursidae', 'medveďovité', 'medvědovitého'];Veľký mäsožravý cicaved rodu Ursidae, príbuzný psa a medvedíka čistotného. Má hustú srsť, veľmi krátky chvost a ploché nohy.
+agentive-physical-object;['jabloň', 'malus pumila', 'sad jabloň'];Strom rodu ''Malus''. Rodí ovocie jablká.
+agentive-physical-object;['aníz', 'bedrovník anízový', 'pimpinella anisum', 'aníz rastlín'];Stredomorská rastlina - pimpinella anisum.
+agentive-physical-object;['medvedík čistotný', 'lotor', 'procyon lotor', 'spoločné mýval', 'spoločný mýval', 'spoločný racoon'];(Procyon lotor) Všežravý nočný cicavec vyskytujúci sa v severnej a strednej Amerike.
+agentive-physical-object;['hruška', 'hruška obyčajná', 'hruškovník', 'pyrus communis', 'pyrus'];Strom plodiaci ovocie zužujúce sa smerom k stonke a oblé naspodu.
+agentive-physical-object;['medvedík čistotný', 'medviedik čistotný', 'mýval severný', 'medvedík mýval', 'procyon lotor', 'mýval', 'spoločný mýval severnej'];(Procyon lotor) Všežravý nočný cicavec vyskytujúci sa v severnej a strednej Amerike.
+agentive-physical-object;['egreš', 'egreše', 'ribes uva-crispa', 'egreše bush', 'ribes grossularia'];Tŕnitý eurázijský ker so zelenkavými kvetmi s fialovým nádychom a oválnymi žlto-zelenými alebo červeno-fialovými bobuľami.
+agentive-physical-object;['chmeľ', 'chmel', 'chmeľ ušľachtilý'];Plody rovnomennej rastliny používané pri varení piva na dodanie charakteristickej horkastej chuti.
+agentive-physical-object;['baran', 'barana'];Samec ovce.
+agentive-physical-object;['vták', 'vtáky', 'aves', 'vtáci', 'avafauna', 'roosting', 'vtáctvo', 'vtákov'];Všetky teplokrvné stavovce v živočíšnej triede Aves.
+amount-of-matter;['voda', 'h₂o', 'oxidán', 'vody', 'h2o', 'kvapalnej vody'];Bežná tekutina (H₂O), ktorá tvorí dažde, rieky, moria atď. a tvorí veľkú časť telies organizmov.
+amount-of-matter;['meď', 'cu', 'atómové číslo 29', 'medi'];Chemický prvok. jeden z najdôležitejších neželezných kovov. ťažný a kujný kov náchádzaný v rôznych rudácha pužívaný v priemysle, vývoji a umení v obidvoch formách ako čistý aj legovaný.
+amount-of-matter;['lítium', 'li', 'lithium', 'atómové číslo 3'];Ľahký striebristý alkalický kovový prvok, chemický symbol Li a atómové číslo 3, ktorý sa vyskytuje primárne ako minerály lepidolit, spodumen, and amblygonit.
+amount-of-matter;['nápoj', 'nápoje', 'nápojov', 'pitný'];Ktorákoľvek z rôsnych tekutín určených na pitie.
+amount-of-matter;['zásada', 'báza', 'alkálie', 'alkálií', 'základné', 'zásaditosť'];Chemická látka, iónová alebo molekulárna, schopná prijať alebo odovzdať protón (vodíkový ión) inej látke. táto druhá látka sa chová pri odovzdávaná protónu ako kyselina.
+amount-of-matter;['kyselina', 'kyseliny', 'protického kyseliny'];Chemická zlúčenina schopná uvoľniť aspoň jeden katión vodíka (protón).
+amount-of-matter;['pivo', 'ale'];Alkoholický nápoj bežne fermentovaný z obilného sladu s prídavkom chmeľu alebo inej látky pre dodanie horkastej chute.
+amount-of-matter;['zemina', 'pôda'];Zmes pieskového a organického materiálu podporujúceho rast rastlín.
+amount-of-matter;['zemina', 'pôda'];Vrchná časť povrchu zeme pozostávajúca z rozložených častíc skál, humusu, vody a vzduchu.
+biological-object;['vetva', 'konár'];Drevená časť stromu vyrastajúca z kmeňa a normálne sa rozvetvuje.
+biological-object;['konár', 'vetva'];Drevená časť stromu vyrastajúca z kmeňa a normálne sa rozvetvuje.
+biological-object;['tuk', 'tukové tkanivo', 'tukové väzivo', 'tukový vankúšik', 'tukového tkaniva', 'telesného tuku', 'viscerálneho tuku'];Špecializované živočíšne tkanivo s vysokým obsahom tukov využívané ako dlhotrvajúca zásobáreň energie.
+biological-object;['káva', 'kávové zrno', 'zrnko kávy', 'coffee berry'];Nápoj vyrobený vylúhovaním kávových zŕn v horúcej vode.
+biological-object;['vajce', 'vajíčko', 'vajcia'];Veľká ženská pohlavná bunka obalená poréznou, vápenatou alebo koženou škrupinou, ktorú tvoria vtáky a plazy.
+biological-object;['prst', 'prst na ruke', 'prsta'];Jeden z dlhých výbežkov na ruke používaný na uchopovanie predmetov.
+biological-object;['liči', 'dvojslivka', 'dvojslivka čínska', 'lichi', 'leechee', 'litchee', 'litchi matice'];Plod čínskeho stromu, Litchi chinensis, ktorý má svetločervené plody s jednou kôstkou obalenou mäsitou bielou dužinou.
+biological-object;['egreš'];Ríbezli podobný, žlto-zelený alebo červeno-fialový bobuľový plod plod používaný hlavne v džemoch a želé.
+biological-object;['jablko', 'jablká', 'green apple', 'malus domestica'];Obľúbené, chrumkavé, guľaté ovocie z jablone, väčšinou s červenou, žltou alebo zelenou šupkou so svetlejšou dužinou.
+biological-object;['zub', 'zuby', 'zuba'];Tvrdá, vápenatá štruktúra prítomná v ústach mnohých stavovcov, vo všeobecnosti používaná na jedenie.
+biological-object;['semenník', 'jadro', 'vajce', 'testes', 'testis', 'semenníky', 'ballock', 'bordel', 'semenníkov', 'teste', 'testikulárne'];Pohlavná žľaza samca, ktorá produkuje spermie a hormóny, majú ju niektoré druhy zvierat.
+biological-object;['kvet', 'kvetina', 'kvety', 'kvetinové'];Reproduktívna štruktúra pri krytosemenných rastlinách (angiospermae), tvorená z tyčiniek a piestikov obklopená okvetnými a kališnými lístkami, ktoré sa všetky nachádzajú v ?okvetí.
+biological-object;['kosť', 'kostné tkanivo', 'kosti', 'kostnej'];Kompozitný materiál pozostávajúci najmä z fosforečnanu vápenatého a kolagénu a tvorí kostru väčšiny stavovcov.
+biological-object;['telo', 'fyzická konštitúcia', 'teleso', 'fyzickej štruktúry', 'fyzické telo', 'organická štruktúra'];Fyzická štruktúra človeka alebo živočícha.
+biological-object;['telo', 'fyzická konštitúcia', 'teleso', 'fyzickej štruktúry', 'fyzické telo', 'organická štruktúra'];Rozlíšiteľný objekt s danými vlastnosťami (v zmysle klasickej fyziky) ako hmotnosť a rýchlosť (rotácie).
+biological-object;['tvár', 'obličaj', 'ľudská tvár', 'tváre'];Predná časť hlavy, na ktorej sú oči, nos ústa a okolitá plocha
+biological-object;['oko', 'oculus', 'oči', 'oculi', 'optický', 'zložené oči'];Orgán citlivý na svetlo, ktoré prevádza na elektrické signály posielané do mozgu, čím umožňuje zvieratám vidieť.
+biological-object;['tvár'];Časť ľudského alebo zvieracieho tela, na ktorej je brada, ústa a hlavné zmyslové orgány.
+biological-object;['krk', 'šija', 'krku'];Časť tela (niektorých živočíchov vrátane človeka), ktorá spája hlavu a trup.
+biological-object;['brada'];Spodná čast na tvári, hneď pod ústami.
+biological-object;['ucho', 'uši', 'organum statoacusticum', 'organum vestibulocochleare', 'polohovosluchový aparát', 'predsieňovoslimákový orgán', 'rovnovážny a sluchový orgán', 'statoakustický aparát', 'ľudské ucho'];Orgán sluchu.
+biological-object;['kniha', 'kniha sa', 'psalterium', 'tretej žalúdok'];Časť žalúdka prežúvavcov.
+course;['epidémia', 'epidémie'];Náhly nárast počtu výskytov ochorenia na hodnotu nad normálom, ovplyvňujúci veľké množstvo ľudí na veľkom území.
+course;['zmena', 'modifikácia'];Proces stávania sa rozdielnym (iným).
+course;['začiatok', 'vznik', 'počiatok', 'začiatku'];Začatie činnosti, udalosti.
+course;['narodenie', 'rodenie', 'zrodenie', 'pôrod', 'nascence', 'zrod'];Chvíľa, v ktorej sa niekto narodí.
+dependent-place;['oko', 'eyewall'];Stred búrky okolo ktorého fúkajú vetry.
+dependent-place;['vpravo', 'pravá strana', 'pravý'];Smer alebo strana opačná ako ľavá. Keď osoba rozpaží ruky, dlaňami od seba, ruka, ktorej palec a ukazovák nie sú v tvare písmena L, ukazuje týmto smerom.
+functional-matter;['meď', 'cu', 'atómové číslo 29', 'medi'];Chemický prvok. jeden z najdôležitejších neželezných kovov. ťažný a kujný kov náchádzaný v rôznych rudácha pužívaný v priemysle, vývoji a umení v obidvoch formách ako čistý aj legovaný.
+functional-matter;['syr', 'syry'];Zrazený alebo kultivovaný mliečny výrobok
+functional-matter;['doska', 'dosky'];Kúsok dreva akebo podobného materiálu, ktorý bol odpílený do pravidelného tvaru zvyčajne v príprave na použitie na nejakú stavebnú činnosť.
+functional-matter;['lepidlo', 'lep', 'lepidlo zástupca', 'lepidlá'];Hmota slúžiaca na spájanie, zliepanie niečoho.
+functional-matter;['nápoj', 'nápoje', 'nápojov', 'pitný'];Ktorákoľvek z rôsnych tekutín určených na pitie.
+functional-matter;['diuretikum', 'močopudný liek', 'diuretický', 'diuretikum drog', 'diuretiká', 'voda pilulka'];Liek, ktorý zvyšuje tvorbu moču.
+functional-matter;['liči', 'dvojslivka', 'dvojslivka čínska', 'lichi', 'leechee', 'litchee', 'litchi matice'];Plod čínskeho stromu, Litchi chinensis, ktorý má svetločervené plody s jednou kôstkou obalenou mäsitou bielou dužinou.
+functional-matter;['egreš'];Ríbezli podobný, žlto-zelený alebo červeno-fialový bobuľový plod plod používaný hlavne v džemoch a želé.
+functional-matter;['bavlna'];Najhospodárnejšie prírodné vlákno, získavané z rastlín rodu Gissypium, používa sa na výrobu tkanín, lanovia a vaty a na výrobuumelých vlákien a celulózy.
+functional-matter;['pivo', 'ale'];Alkoholický nápoj bežne fermentovaný z obilného sladu s prídavkom chmeľu alebo inej látky pre dodanie horkastej chute.
+functional-matter;['chlieb', 'chleboviny', 'chleba', 'chleby', 'kvasený chlieb', 'zamestnanci života'];Bežné jedlo vyrobené z múky, vody a kvásku hnietením a pečením bochníka.
+functional-matter;['jablko', 'jablká', 'green apple', 'malus domestica'];Obľúbené, chrumkavé, guľaté ovocie z jablone, väčšinou s červenou, žltou alebo zelenou šupkou so svetlejšou dužinou.
+functional-matter;['slad'];Surovina používaná predovšetkým na výrobu piva a destiláciu, získaná klíčením a sušením jačmeňa.
+functional-matter;['koláč', 'múčnik', 'koláč mix', 'koláče', 'tortu', 'tortu mix'];Výdatný, sladký, pečený zákusok, typicky vyrobený z múky, vajec, cukru a masla.
+functional-matter;['vajcia', 'vajce', 'vajíčka', 'vajíčko', 'produkcii vajec', 'rybie vajcia'];Vajce domestikovaných vtákov, najbežnejšie sliepky, používané ako jedlo.
+functional-matter;['bavlna', 'vata', 'bavlnené vlákno', 'bavlnené', 'vaty'];Najhospodárnejšie prírodné vlákno, získavané z rastlín rodu Gissypium, používa sa na výrobu tkanín, lanovia a vaty a na výrobuumelých vlákien a celulózy.
+functional-matter;['perie', 'operenie', 'pero', 'barbule', 'filoplume', 'perie zatmenie'];Rozvetvujúca sa vlasovitá štruktúra rastúca na koži vtákov, ktorá ich chráni pred chladom a vodou a pomáha krídlam získať vztlak.
+functional-matter;['pôda', 'zemina', 'hlina', 'pôdy', 'hlinené'];Zmes pieskového a organického materiálu podporujúceho rast rastlín.
+functional-matter;['list', 'hárok', 'kus papiera', 'list papiera'];Jeden obdĺžinikový kúsok papiera.
+genetic-collective;['rodina', 'rodinná jednotka', 'rodinné vzťahy', 'rodín', 'vzťahy v rodine'];Skupina obsahujúca rodičov, potomkov a iných príbuzných alebo vo vzťahu k nim.
+genetic-collective;['baby boom', 'baby-boom generácie', 'baby boomu', 'generácie povojnového baby boomu', 'silných populačných ročníkov'];Obdobie veľmi zvýšenej pôrodnosti v určitom období a zvyčajne v určitej geografickej oblasti.
+geographical-object;['jadranské more', 'jadran', 'adriatické more'];More oddeľujúce taliansky polostrov od balkánskeho polostrova.
+geographical-object;['austrália'];Kontinent, ktorý sa celý nachádza na južnej pologuli, obklopený Indickým a Tichým oceánom a Južným oceánom.
+geographical-object;['zem', 'pevnina', 'pôda', 'suchá zem', 'súš', 'územie', 'krajina', 'pevná zem', 'suché pôdy', 'terra firma'];Určitá časť povrchu Zeme vrátane všetkých jeho atribútov zahrňujúca jeho geológiu, topografiu, hydrológiu, pôdu, fóru a faunu spolu s výsledkami minulej a súčasnej ľudskej činnosti v zmysle, že tieto atribúty majú významý vplyv na súčasné a budúce využitie krajiny.
+geographical-object;['južný oceán', 'antarktický oceán', 'južné ľadové more', 'južný ľadový oceán'];Vody vrátane ľadových krýh pod kontinentom Antarktída. Pokrýva najjužnejšie časti Tichého, Atlantického a Indického Oceánu. Rossovo, Amundsenovo, Bellingshausenovo a Weddellovo more.
+information-encoding-system;['onomatopoia', 'zvukomaľba', 'onomatopoeia', 'onomatopeia', 'onomatopeic', 'onomatopoetic', 'zvukomalebné'];Slovo, ktoré má predstavovať zvuk.
+information-object;['zámeno', 'zámená', 'pronomen', 'pronominum'];Slovo, ktoré sa používa namiesto podstatného mena alebo frázy. slovo používané ako odkaz na iné slovo
+information-object;['osobné zámeno', 'osobných zámen'];Zámeno, ktoré odkazuje na predtým spomenutú osobu.
+information-object;['kópia', 'prepis'];Reprodukcia písaného záznamu.
+information-object;['užšie významy', 'hyponym', 'hypernym', 'podriadený slovo'];Záznamy v synonymickom slovníku, ktoré majú užší sémantický rozsah ako iné.
+information-object;['slovný druh', 'slovné druhy', 'lexikálnej kategórie', 'triedy formulára', 'časť-of-speech', 'časť reči'];Kategória, do ktorej slovo patrí na základe jeho syntaktickej funkcie.
+information-object;['omega', 'ω', 'ómega'];Posledné písmeno každej gréckej abecedy. Veľké písmeno Ω. malé: ω.
+information-realization;['kniha', 'knižka', 'knihy'];Zbierka listov papiera zviazaných závesu na jednom okraji, obsahujúce tlačenej alebo písomné materiály, obrázky, atď
+information-realization;['listina', 'dokument', 'postupná listina', 'zmluva', 'čin', 'listina dopravu'];čin, dej, konanie, vykonanie niečoho
+information-realization;['blok valcov', 'blok motora', 'bloku motora'];Kovová skriňa obsahujúca valce a chladiace vedenia motora.
+information-realization;['karta'];Plochý, normálne obdĺžnikový kus tvrdého papiera, umelej hmoty atď.
+information-realization;['mier', 'mierová zmluva'];stav bez vojny, obzvlášť medzi dvomi krajinami
+information-realization;['arménske písmo', 'arménčina', 'arménska abeceda', 'armenian abeceda', 'arménskej abecedy'];Písmo používané pre arménčinu.
+information-realization;['avestčina', 'avestan', 'avestic'];Zaniknutý iránsky jazyk, v ktorom sa o.i. skladali hymny zoroastrickej svätej knihy, Avesty.
+language;['kornčina'];Keltský jazyk, ktorým sa hovorí v Cornwalle.
+language;['fulbčina', 'fulbe', 'fell', 'fula ľudí', 'fulah'];Makrojazyk pozostávajúci z deviatich jazykov.
+language;['arawačtina', 'arawakan', 'arawakan jazyk', 'arawakan jazyky', 'maipurean'];Jazyk Surinamu, Francúzskej Guyany, Guyany a Venezuely.
+language;['jorubčina', 'yoruba', 'aku'];Subsaharský jazyk patriaci do vetvy Benue-Congo Nigersko-Konžskej jazykovej skupiny. Má takmer 30 milónov hovoriacich v Nigérii, Benine, Togu a Sierre Leone, ako aj komunity v Brazílii a na Kube.
+language;['ujgurčina', 'čagatajčina', 'chagatai', 'jagatai', 'jaghatai', 'ujgurskej jazyk', 'východná turku'];Turecký jazyk, ktorým hovoria Ujgurovia v Sin-ťiang.
+language;['bengálčina'];Indický jazyk, ktorým sa hovorí hlavne v Bangladéši a Indii.
+language;['osetčina', 'osetínčina', 'osse', 'ossetic'];Jazyk používaný v Osetsku na svahoch Kaukazu na hraniciach Ruska a Gruzínska.
+language;['dánčina', 'da', 'dan', 'dánsky jazyk', 'dánskej'];Severogermánsky jazyk, ktorým sa hovorí hlavne v Dánsku.
+language;['islandčina', 'islandský jazyk', 'islandský'];Severogermánsky jazyk, ktorým sa hovorí hlavne na Islande.
+language;['turečtina'];Turecký jazyk, ktorým sa hovorí halvne v Turecku, na Cypre a iných krejinách bývalej Ottomanskej ríše.
+language;['frízština'];Západogermánsky jazyk používaný vo Frízsku v severozápadnom Holandsku.
+language;['sanskrit', 'sanskrt', 'stará indičtina', 'staré indické jazyky', 'staré indoárijské jazyky', 'starý indoárijský jazyk', 'sanskritic jazyk'];Klasický indický jazyk, liturgický jazyk hinduizmu, budhizmu a džinizmu.
+language;['ido'];Umelý jazyk. reforma Esperanta.
+language;['rumunčina', 'rumunský jazyk', 'rumunského jazyka'];Románsky jazyk, ktorým sa hovorí hlavne v Rumunsku, Moldavsku a Vojvodine.
+language;['afrikánčina', 'afrikaans', 'south african dutch', 'taal'];Západogermánsky jazyk, ktorým sa hovorí najmä Južnej Afrike a Namíbii.
+language;['latinčina', 'latinský jazyk', 'latinský', 'lingua latina'];Indoeurópsky jazyk, ktorým sa pôvodne hovorilo v regióne v blízkosti mesta Rím, neskôr v celej Rímskej ríši a ako výsledok rímskeho dedičstva v stredoveku a neskôr aj v katolíckom a akademickom svete.
+language;['nynorsk', 'nórsky nynorsk', 'novonórčina', 'nová nórčina', 'landsm', 'jazyk nynorsk', 'landsmaal', 'new norwegian'];Jeden z dvoch úradných štandardov zápisu v Nórsku, odvodený od dialektov, druhým je bokmål.
+language;['bokmål', 'nórsky bokmål', 'riksmaal', 'riksmal', 'riksmål'];Jeden z dvoch úradných štandardov zápisu v Nórsku, odvodený od dánčiny, druhým je nynorsk.
+language;['arapaho'];Jazyk v USA.
+language;['čejenčina'];Jazyk v USA.
+language;['krí'];Skupina úzko súvisiacich algonkinských jazykov, ktorými hovorí približne 50 000 ľudí v Kanade od Alberty po Labrador.
+language;['hebrejčina', 'hebrejské jazyky', 'hebraic'];Semitský jazyk, ktorý sa používa hlavne v židovských obciach v Izraeli a po celom svete.
+language;['írčina', 'írsky jazyk', 'gaeilge', 'gaeilgeoir', 'irish gaelic', 'írsky gaelský'];Keltský jazyk používaný hlavne v Írsku.
+language;['gegčina', 'ghega', 'ghega dialekt'];Albánsky jazyk používaný hlavne v severných častiach Albánska a okolitých oblastiach.
+language;['toskitčina', 'tosk', 'tosk dialekt'];Albánsky jazyk používaný na juhu Albánska.
+language;['kantónčina', 'kantonský', 'kantonská jazyku', 'kantonský dialekt', 'standard kantonský', 'yue', 'yue dialekt'];Jedna z hlavných skupín dialektov alebo jazykov čínštiny alebo čínskej jazykovej rodiny, používaná hlavne v častiach južnej pevninskej Číny.
+language;['amharčina', 'amharic', 'etiópsky jazyk', 'etiópskych semitských jazykov'];Semitský jazyk, ktorým sa hovorí hlavne v Etiópii.
+language;['mančina', 'manská gaelčina', 'manské jazyk'];Zaniknutý jazyk, ktorým sa hovorilo na ostrove Man, momentálne zažíva renesanciu.
+language;['škótska gaelčina', 'gaelčina', 'škóti gaelský', 'škótsky gaelský', 'škótsky gaelský jazyk'];Jazyk v goidelskej vetve keltských jazykov, ktorým sa hovorí v Škótsku.
+language;['starogréčtina', 'staroveká gréčtina', 'ancient greek', 'starovekého gréckeho jazyka'];Historický jazyk, rozšírený najmä v Grécku.
+language;['grécke jazyky', 'gréčtina', 'grécka jazyk', 'helénsky'];Indoeurópsky jazyk, ktorým sa hovorí hlavne v Grécku a na Cypre.
+language;['pandžábčina', 'mírpurská pandžábčina', 'východná pandžábčina', 'západná pandžábčina', 'punjabi'];Indický jazyk, ktorým sa hovorí v štáte Pandžáb v Indii a regióne Pandžáb v Pakistane.
+language;['albánčina'];Indoeurópsky jazyk, ktorým sa hovorí hlavne v Albánsku, Kosove, Grécku, Srbsku, Čiernej hore a Macedónskej republike.
+language;['arménčina', 'arménsky jazyk', 'arménskom jazyku'];Indoeurópsky jazyk, kroým hovoria Arméni.
+language;['vietnamčina', 'annamite'];Austro-Aziatický jazyk, ktorým sa hovorí hlavne vo Vietname.
+language;['swahilčina', 'svahilčina', 'svahilčine'];Jeden z dvoch široko používaných jazykov vo Východnej Afrike.
+language;['maorijčina', 'maorčina', 'te reo maorov'];Jazyk pôvodných obyvateľov Nového Zélandu, Maurov
+language;['fidžijčina'];Jazyk na Fidži.
+language;['estónčina', 'estónsky jazyk', 'estónskom jazyku', 'estónsky'];Ugro-fínsky jazyk, ktorým sa hovorí hlavne v Estónsku.
+language;['lotyština', 'lotyšský jazyk', 'lotyšskej', 'lotyšskom jazyku', 'lotyšského jazyka'];Baltský jazyk, ktorým sa hovorí hlavne v Lotyšsku.
+language;['španielčina', 'kastílčina', 'španielsky jazyk', 'španielsky-jazyk'];Románsky jazyk, ktorým sa hovorí hlavne v Španielsku, strednej a južnej Amerike a v Karibiku.
+language;['portugálsky', 'portugalský'];Týkajúci sa Portugalska, Portugalcov alebo portugalčiny.
+language;['arabčina', 'arabský jazyk'];Semitský jazyk, ktorým sa hovorí prevažne v arabskom svete - severná Afrika a Stredný východ. a používa sa ako liturgický jazyk Islamu.
+language;['bieloruština', 'bieloruský jazyk', 'bieloruský'];Východoslovanský jazyk, ktorým sa hovorí najmä v Bielorusku.
+language;['ukrajinčina', 'ukrajinský jazyk', 'ukrajinec', 'ukrajinského jazyka'];Východoslovanský jazyk, ktorým sa hovorí hlavne v Ukrajine.
+language;['ruština', 'rus', 'ruska', 'ruský jazyk', 'ruského jazyka'];Východoslovanský jazyk, ktorým sa hovorí hlavne v Rusku a bývalých sovietskych republikách.
+language;['nemčina', 'nemecký jazyk', 'po nemecky', 'nemecky a', 'nemecky hovoriacich', 'nemčine', 'vysoká nemčina'];Indo-Európsky jazyk, ktorým sa hovorí najmä v Nemecku, Rakúsku, Lichtenjštajnsku, Južnom Tirolsku, Švajčiarku a v malej časti Belgicka.
+locative-role;['metropola', 'mesto', 'mestské centrum', 'mestského centra', 'metropole', 'metropoly'];Dnes všeobecne používaný termín označujúci akúkoľvek urbanistickú formu, ale obzvlášť používaný pre veľké urbanistické sídliská. Neexistujú však dohodnuté definície na odlíšenie mesta od veľkých metropol alebo malomiest.
+locative-role;['hrada', 'hriadka', 'záhon'];vyhradená oblasť na zemi, kde rastú rastliny.
+locative-role;['miesto', 'bod', 'topografická oblasť', 'mieste', 'topografické bod', 'umiestnenie'];Pozícia alebo oblasť v priestore.
+locative-role;['blok', 'bloku', 'mestská časť', 'mestský blok'];Budova alebo sada budov obklopená zo všetkých strán pomerne šrokými ulicami v približne štvorcovom alebo obdĺžnikovom priestore.
+locative-role;['centrum mesta', 'stred mesta', 'centra mesta', 'central city', 'city center'];Centrálna časť mesta.
+locative-role;['začiatok', 'počiatok', 'koreň', 'prameň', 'pôvod', 'zdroj', 'vznik', 'pôvodu'];Miesto, kde niečo začne, kde sa prvýkrát obajví.
+non-agentive-physical-object;['šaty'];Oblečenie pre ženy so sukňou a vrchom.
+non-agentive-physical-object;['kuchynská výlevka', 'výlevka', 'kuchynský drez'];Výlevka v kuchyni.
+non-agentive-physical-object;['blok', 'kváder', 'bloku'];Celistvý kus materiálu, zvyčajne pevný, obzvlášť pre ďalšie spracovanie a obrábanie.
+non-agentive-physical-object;['lano', 'povraz', 'lanovie', 'šnúra', 'laná', 'povraznícky'];Hrubý, silný povraz vyrobený z niekoľkých prameňov, ktoré sú spolu zapletené.
+non-agentive-physical-object;['čiapka'];Obvykle mäkká, prispôsobivá prikrývka hlavy, buď bez striešky alebo s priezorom.
+non-agentive-physical-object;['koberec', 'koberček', 'koberce'];Tkanina používaná ako pokrývka podlahy.
+non-agentive-physical-object;['hracia kocka', 'kocka', 'kocky', 'polyhedral kocky'];Objekt so zvyčajne 6 stranami, každá s inou hodnotou, ktorá sa používa v mnohých hrách na náhodný výber čísla.
+non-physical-place;['miesto', 'bod', 'topografická oblasť', 'mieste', 'topografické bod', 'umiestnenie'];Pozícia alebo oblasť v priestore.
+phenomenon;['hryzenie', 'žuť'];Činnosť hryzenia.
+phenomenon;['hraničná vrstva', 'medzné vrstvy'];Vrstva tekutiny v blízkosti fyzickej hranice v ktorej je pohyb tekutiny významne ovplyvnený hranicou a má strednú hustotu menšiu ako vo voľnom prietoku.
+phenomenon;['pôrod', 'narodenie', 'rodenie', 'pôrodu', 'accouchement', 'narodením dieťaťa', 'pôrodná', 'vaginálny pôrod'];Fakt alebo čin, ktorým sa privádza na svet dieťa, vyvrcholenie tehotenstva.
+phenomenon;['plameň', 'oheň', 'horenie', 'horiace', 'požiare'];Stav horenia, pri ktorom horľavé materiály horia pričom sa tvorí teplo plamene a často aj dym.
+phenomenon;['narodenie', 'pôrod', 'rodenie', 'narodenia', 'pôrodná'];Fakt alebo čin, ktorým sa privádza na svet dieťa, vyvrcholenie tehotenstva.
+phenomenon;['narodenie', 'pôrod', 'rodenie', 'narodenia', 'pôrodná'];Chvíľa, v ktorej sa niekto narodí.
+physical-body;['zem', 'zemeguľa', 'modrá planéta', 'planéta zem', 'svete', 'sveta'];Planéta obývaná ľuďmi, tretia obežnica Slnka.
+physical-object;['auto', 'automobil', 'autiak', 'búrak', 'fáro', 'trieda osobného automobilu', 'automobily'];Štvorkolesové motorové vozidlo, ktoré sa používa na prevoz.
+physical-object;['taška', 'vrece', 'papierový sáčok', 'taške'];Pružný obal z látky, papiera, plastu, kože, atď., na uloženie niečoho alebo odnesenie preč.
+physical-object;['väzenie', 'väznica', 'nápravno-výchovné zariadenie', 'nápravnovýchovný ústav', 'ústav na výkon trestu odňatia slobody', 'minimálne bezpečnostné', 'nápravné inštitúcie', 'stredne bezpečnostné', 'uväznený', 'uväzniť', 'väzenia', 'väzniciach'];Miesto s obmedzenou osobnou slobodou.
+physical-object;['banka', 'coin bánk'];Miesto, kde sa uchovávajú prvky, zvyčajne rovnakého typu, pre referenčné účely alebo neskoršie použitie, napr. banka dát, banka obrázkov.
+physical-object;['zvon'];Predmet z kovu alebo iného tvrdého materiálu, zvyčajne, ale nie vždy v tvare obráteného pohára, s okrajom, ktorý po náraze rezonuje.
+physical-object;['injekčná ihla', 'injekčných ihiel'];Dutý, tenký, zvyčajne ostrý nástroj používaný na vstrekovanie alebo odber tekutín z tela osoby alebo zvieraťa.
+physical-object;['šaty'];Oblečenie pre ženy so sukňou a vrchom.
+physical-object;['xylofón', 'marimba', 'gyil', 'xylofóny'];Hudobný nástroj z drevenných obdĺžnikov, každý takého tvaru, aby rezonoval danou výškou tónu po údere.
+physical-object;['koberec', 'koberček', 'koberce'];Tkanina používaná ako pokrývka podlahy.
+physical-object;['väzenie', 'väzenia', 'jailhouse', 'kriminál', 'pokey', 'tesný'];Miesto s obmedzenou osobnou slobodou.
+physical-object;['vaňa', 'kúpanie vaňa', 'necky', 'vane'];Nádoba alebo nádrž používaná na kúpanie.
+physical-object;['wc', 'toaleta', 'záchod', 'kúpeľňa', 'lav'];Miestnosť vybavená najmenej jedným hygienickým zariadením, ako napríklad vaňa, sprcha, umývadlo alebo záchod.
+physical-object;['operačná sála', 'chirurgia', 'operačná miestnosť', 'operačnom sále'];Miestnosť v rámci kliniky alebo miesta, kde vykonáva prax lekár, vybavená na chirurgické zákroky.
+physical-object;['spálňa', 'spálne', 'spanie'];Miestnosť v dome (s najmenej jednou posteľou a šatníkom), kde ľudia spia.
+physical-object;['ihla', 'injekčná ihla'];Dutý, tenký, zvyčajne ostrý nástroj používaný na vstrekovanie alebo odber tekutín z tela osoby alebo zvieraťa.
+physical-object;['kladka', 'kladkostroj', 'blok', 'kladnice', 'remenice-block'];Nástroj pozostávajúci zo sústavy kolies, ktorou je vedené lano, slúžiaci na ľahšie zdvíhanie alebo presúvanie nákladu.
+physical-object;['ručička'];Dlhá, tenká súčiastka ktorá ukazuje hodnotu na stupnici či číselníku (napríklad kompasu).
+physical-object;['budova', 'dom', 'stavba', 'verejná budova', 'výstavba', 'budov', 'budovy', 'verejné budovy', 'verejných budov'];Niečo postavené so strechou a múrmi, ako dom či fabrika.
+physical-object;['čiapka'];Obvykle mäkká, prispôsobivá prikrývka hlavy, buď bez striešky alebo s priezorom.
+physical-object;['hodiny', 'stopky', 'mechanické hodiny'];Zariadenie na meranie alebo zaznamenávanie času dráhy
+physical-object;['kúpeľňa', 'wc', 'verejné toalety', 'comfort station', 'toaleta', 'umyváreň', 'verejné pohodlie', 'verejné wc', 'wc zariadenia'];Miestnosť vybavená najmenej jedným hygienickým zariadením, ako napríklad vaňa, sprcha, umývadlo alebo záchod.
+physical-object;['hradba', 'násyp', 'val', 'bašta', 'ochrana', 'záštita', 'múr', 'stena'];Umelá vyvýšenina postavená okolo priestoru, zvyčajne na obranné účely.
+physical-object;['hardvér', 'hardware', 'počítačového hardvéru', 'počítačový hardvér'];Časť počítača, ktorá je pevná a nie je ju možné zmeniť bez výmeny alebo fyzickej modifikácie.
+physical-object;['upchanie', 'uzáver'];Prekážka v trubke či rúre.
+physical-object;['továreň', 'priemyselný závod', 'dielňa', 'závod', 'fabrika', 'priemyselné zariadenie', 'práce'];Budovy, kde sa vykonávajú činnosti súvisiace s priemyselnými produktívnymi procesmi.
+physical-object;['kostol', 'cirkevná budova', 'kostolík', 'cirkev', 'stavba kostola'];Budova na náboženskú činnosť.
+physical-object;['koberec', 'koberček', 'koberce'];Tkanina používaná ako pokrývka podlahy.
+physical-object;['čembalo', 'cembalo', 'klavičembalo', 'harpsichord', 'čembalá'];Strunový brnkací hudobný nástroj s klaviatúrou.
+physical-object;['základ', 'základy', 'základňa', 'základ stavby', 'understructure'];Najnižšie položená podpora štruktúry.
+physical-object;['hrada', 'krokvy'];Otesaný hranatý kmeň, zvyčajne v povalovej konštrukcii domu.
+physical-object;['svieca', 'sviečka', 'sviečky', 'vosk svetlo'];Svetelný zdroj pozostávajúci z knôtu zapusteného v pevnej horľavej látke ako vosk, loj alebo parafín.
+physical-object;['kráľovná', 'dáma'];Najsilnejšia figúrka v šachovej hre, schopná pohybovať sa horizontálne, vertikálne aj diagonálne v oboch smeroch.
+political-geographic-object;['kirgizsko', 'kirgizská republika', 'kirgizstan', 'kirgizština', 'kirgistan', 'kyrgyzstan', 'kirghizia', 'kirghizstan', 'kirgizskom', 'kirgizsku'];Severozápadný turecký jazyk a, spolu s ruštinou, úradný jazyk Kirgizska.
+political-geographic-object;['metropola', 'mesto', 'mestské centrum', 'mestského centra', 'metropole', 'metropoly'];Dnes všeobecne používaný termín označujúci akúkoľvek urbanistickú formu, ale obzvlášť používaný pre veľké urbanistické sídliská. Neexistujú však dohodnuté definície na odlíšenie mesta od veľkých metropol alebo malomiest.
+political-geographic-object;['afganistan', 'islamský štát afganistan', 'afganský islamský štát', 'afganská islamská republika'];Krajina v strednej Ázii s hlavným mestom Kábul.
+political-geographic-object;['austrália', 'austrálske súštátie', 'austrálsky zväz', 'commonwealth of australia'];Krajina v Oceánii, hlavné mesto Canberra.
+political-geographic-object;['honduras', 'honduraská republika', 'republic of honduras'];Krajina v Strednej Amerike s hlavným mestom Tegucigalpa.
+political-geographic-object;['paraguaj', 'paraguajská republika', 'paraguay', 'paraguajský'];Krajina v Južnej Amerike.
+political-geographic-object;['mexiko', 'spojené štáty mexické', 'maxiko', 'estados unidos mexicanos', 'méxico'];Krajina v Severnej Amerike.
+political-geographic-object;['andorra', 'andorrské kniežatstvo', 'andora'];Krajina v juhozápadnej Európe s halvným mestom Andorra la Vella.
+political-geographic-object;['aljaška', 'alaska', 'ak', 'aljaške', 'last frontier'];49. štát Spojených Štátov Amerických, nachádzajúci sa na západ od Kanady v Severnej Amerike
+political-geographic-object;['alžír', 'algerine', 'alžírsky kapitálu'];Hlavné a najväčšie mesto Alžírska.
+political-geographic-object;['kábul', 'hlavné mesto afganistanu', 'kabul'];Hlavné mesto Afganistanu.
+political-geographic-object;['tirana', 'tiranë', 'albánsky kapitálu'];Hlavné a najväčšie mesto Albánska.
+political-geographic-object;['luanda', 'angolan kapitálu'];Hlavné a najväčšie mesto Angoly.
+political-geographic-object;['londýn', 'british kapitálu', 'greater london', 'hlavné mesto spojeného kráľovstva'];Hlavné mesto Spojené kráľovstva, Veľkej Británie a Anglicka.
+political-geographic-object;['paríž', 'paris', 'francúzska metropola', 'hlavné mesto francúzska', 'mesto svetla', 'paríži'];Hlavné a najväčšie mesto Francúzska.
+political-geographic-object;['ulanbátar', 'ulanbatar', 'hlavné mesto mongolska', 'kulun', 'ulaanbaatar', 'ulan bator', 'urga'];Hlavné mesto Mongolska.
+political-geographic-object;['central business district', 'centrum mesta', 'stred mesta', 'centrum', 'obchodná štvrť'];Centrálna časť mesta.
+qualitative-role;['cena', 'hodnota', 'ceny'];Peňažná čiastka zaplatená za tovar alebo službu.
+quality;['citrón', 'citrónovožltá', 'citrón žltá'];Farba pripomínajúca farbu citróna. RAL-1012
+quality;['farba', 'zafarbenie', 'čierny', 'farby'];Farba (farba oblohy v noci, peria drozda), tvorí sa pohltením všetkého svetla. temno a bezfarebno.
+quality;['hnedá', 'hnedá farba', 'hneď', 'hnedý', 'tmavo hnedá', 'zahnědění'];Červeno oranžová farba, vrátane farby čokolády alebo kávy.
+quality;['konto', 'obchodný vzťah', 'účet'];Formálny kontraktný vzťah za účelom poskytovania bežných bankových služieb alebo burzových operácií alebo obchodných služieb.
+quality;['cena', 'peňažná hodnota', 'hodnota', 'náklady', 'peňažnú hodnotu'];Peňažná čiastka zaplatená za tovar alebo službu.
+region;['stopa', 'ft', 'noha', 'nohy'];Jednotka miery rovná približne dvanástim placom a tretine yardu (alebo presne 30,48 centimetra).
+region;['kvapka', 'troška', 'za mak', 'zamak', 'štipka', 'dažďová kvapka', 'drib', 'driblet', 'kvapku', 'kvapôčky', 'pokles'];Veľmi malé množstvo kvapaliny vzniknutej z gule počas pohybu.
+region;['mesiac', 'kalendárny mesiac', 'mesiace'];Obdobia na ktoré je rozdelený celý rok, historicky rozdelené na základe fáz mesiaca. V gregoriánskom kalendári je dvanásť mesiacov.
+region;['ár', 'sú'];jednotka plochy, 100 metrov štvorcových, 1 štvorcový dekameter alebo 1 dam² alebo 100 m²
+region;['koktail', 'koktajl', 'kokteil', 'koktejl', 'mliečne koktaily', 'mliečny koktail'];Ovocná dreň zmiešaná s vodou alebo mliekom a cukrom v mixéri.
+region;['8', 'osem', 'viii', 'oktet', 'osmička', 'eighter', 'eighter z decatur', 'octad', 'octonary', 'ogdoad'];Základná číslovka nasledujúca po sedem a predchádzajúca deväť, rímskych VIII, arabských 8.
+region;['1', 'jeden', 'jednotka', 'eso', 'n-tic', 'n-tica', 'sextuple'];Kardinálne číslo, ktoré nasleduje hneď za nulou a predchádza čísku dva, reprezentované rímskou číslicou I a arabskou číslicou 1.
+regulation;['prirodzené právo', 'zákon', 'prirodzený zákon', 'právo', 'prirodzeného práva'];Jedno z pravidiel, ktoré vytvárajú legislatívny systém.
+relation;['sémantický vzťah', 'sémantické vzťahy'];Vzťah, ktorý existuje medzi významami slov.
+relation;['ale', 'spojenie'];Vylučovacia spojka "ale".
+relation;['hyperonymum', 'hypernym', 'hypernymá', 'superordination'];Záznamy v synonymickom slovníku, ktoré majú širší sémantický rozsah ako iné. Toto je termín používaný vo OmegaWiki, ktorý by nemal mať synonymá, iba preklady.
+relevant-part;['pixel', 'obrazový prvok', 'megapixel', 'megapixelov', 'obrázok element', 'pel', 'pixelov', 'sub-pixel', 'subpixel'];Nejmenšia nedeliteľná jednotka tvoriaca celkový obraz alebo rastrový model.
+relevant-part;['spojenie', 'väzba', 'pripojenie'];Spojenie medzi miestami, osobami, udalosťami alebo vecami.
+relevant-part;['aspekt', 'stránka', 'fazeta'];Jedna z mnohých podobných alebo súvisiacich a predsa rozličných vecí.
+relevant-part;['koberec', 'koberček', 'koberce'];Tkanina používaná ako pokrývka podlahy.
+relevant-part;['perie', 'operenie', 'pero', 'barbule', 'filoplume', 'perie zatmenie'];Rozvetvujúca sa vlasovitá štruktúra rastúca na koži vtákov, ktorá ich chráni pred chladom a vodou a pomáha krídlam získať vztlak.
+relevant-part;['hardvér', 'hardware', 'počítačového hardvéru', 'počítačový hardvér'];Časť počítača, ktorá je pevná a nie je ju možné zmeniť bez výmeny alebo fyzickej modifikácie.
+simple-collection;['korpus', 'zbierka'];Zbierka písomností.
+simple-planned-collective;['mať funkciu', 'pracovať', 'pôsobiť', 'slúžiť'];Vykonávať povinnosti súvisiace s danou hodnosťou, miestom alebo funkciou.
+situation;['kiahne', 'variola', 'pravé kiahne'];Vysoko nákazlivé výrusové ochorenie charakterizované horúčkou, slabosťou, vyrážkou na koži s pustulami tvoriacimi chrasty, ktoré po odlúpnutí zanechávajú jazvy.
+situation;['akné', 'furunkuly'];Bolestivý, miestny kožný zápal spôsobený infekciou chlpového folikuku. Zvyčajne je prítomné tvrdé jadro a hnis. Často sa objavuje na čelách pubescentov.
+situation;['príležitosť', 'šanca', 'šancu'];Priaznivá okolnosť
+situation;['príklad', 'obraz', 'vzor', 'konceptuálne modelovanie', 'konceptuálny model', 'model'];Niečo, čo reprezentuje celú množinu podobných vecí v skupine.
+situation;['pupienok', 'akné', 'pupienky', 'zit'];Bolestivý, miestny kožný zápal spôsobený infekciou chlpového folikuku. Zvyčajne je prítomné tvrdé jadro a hnis. Často sa objavuje na čelách pubescentov.
+situation;['podanie', 'servis', 'slúžiť'];Prvá strela lopty v hre za účelom dosiahnutia ďalšieho bodu.
+situation;['mier', 'mierová zmluva'];stav bez vojny, obzvlášť medzi dvomi krajinami
+situation;['uhryznutie', 'hmyzom'];Rana zanechaná po hryzení.
+situation;['ahoj', 'hello', 'hallo', 'dobrý deň', 'nazdar', 'servus', 'čau', 'haló'];Pozdrav medzi dvoma alebo viacerými ľudmi, ktorí sa navzájom poznajú.
+situation;['choroba', 'porucha', 'ochorenie', 'choroby', 'chorý', 'nemoc', 'morbidita', 'morbídne', 'zdravotné poruchy', 'zdravotný stav'];Patologický proces nesúci charakteristickú množinu príznakov a symptómov, ktoré sú škodlivé zdraviu človeka.
+situation;['popálenina', 'popáliť', 'popáleniny', 'popáleniny tretieho stupňa', 'druhého stupňa popálenia', 'druhý stupeň vypáliť', 'tretí stupeň horí'];Poranenie kože spôsobené ohňom, intenzívnym teplom, žiarou alebo istými chemikáliami.
+situation;['príklad', 'prípade'];Niečo, čo reprezentuje celú množinu podobných vecí v skupine.
+situation;['popálenina', 'popáliť', 'popáleniny', 'popáleniny tretieho stupňa', 'druhého stupňa popálenia', 'druhý stupeň vypáliť', 'tretí stupeň horí'];Poranenie kože spôsobené ohňom, intenzívnym teplom, žiarou alebo istými chemikáliami.
+situation;['popálenina', 'popáliť', 'popáleniny', 'popáleniny tretieho stupňa', 'druhého stupňa popálenia', 'druhý stupeň vypáliť', 'tretí stupeň horí'];Poranenie kože spôsobené ohňom, intenzívnym teplom, žiarou alebo istými chemikáliami.
+situation;['choroba', 'nemoc', 'ochorenie', 'choroby', 'unwellness'];Patologický proces nesúci charakteristickú množinu príznakov a symptómov, ktoré sú škodlivé zdraviu človeka.
+situation;['popálenina', 'popáliť', 'popáleniny', 'popáleniny tretieho stupňa', 'druhého stupňa popálenia', 'druhý stupeň vypáliť', 'tretí stupeň horí'];Poranenie kože spôsobené ohňom, intenzívnym teplom, žiarou alebo istými chemikáliami.
+situation;['začiatok', 'vznik', 'počiatok', 'začiatku'];Začatie činnosti, udalosti.
+situation;['začiatok', 'vznik', 'počiatok', 'začiatku'];Začatie činnosti, udalosti.
+situation;['aktivita', 'aktívnosť', 'konanie', 'pôsobenie', 'činnosť'];Stav alebo vlastnosť aktívneho bytia.
+social-relationship;['vzťah', 'medziľudský vzťah', 'spojitosť', 'súvislosť', 'medziľudských vzťahov', 'dlhodobom vzťahu', 'dlhodobý vzťah', 'medziľudské vzťahy', 'spoločnosť', 'ľudskej interakcie', 'ľudského vzťahu', 'ľudských vzťahov'];Spojenie alebo vzťah medzi dvomi alebo viacerými prvkami.
+social-relationship;['konto', 'obchodný vzťah', 'účet'];Formálny kontraktný vzťah za účelom poskytovania bežných bankových služieb alebo burzových operácií alebo obchodných služieb.
+socially-constructed-person;['kosť', 'samica'];Žena považovaná za sexuálne príťažlivú mužom alebo mužmi.
+socially-constructed-person;['kikuju', 'kikujčina'];Jazyk v Keni.
+socially-constructed-person;['dcéra', 'dcéry'];Potomok ženského pohlavia. Ľudského aj živočíšneho rodu.
+socially-constructed-person;['kráľovná', 'panovníčka', 'queen', 'kráľovná vládnuca', 'cisárovnej vládnucej', 'samica monarcha'];Panovník ženského rodu.
+socially-constructed-person;['otec', 'ploditeľ', 'begetter', 'biologický otec', 'mužský rodič'];Rodič mužského pohlavia.
+socially-constructed-person;['manžel', 'ženatý muž', 'ženáč', 'manžílek'];Muž, ktorý je partnerom v manželstve alebo manželskom partnerstve.
+socially-constructed-person;['manželka', 'vydatá žena', 'žena', 'manželky'];Vydatá žena.
+socially-constructed-person;['longobardi', 'lombardčina', 'langobardi', 'longobardov', 'lombard'];Taliansky jazyk.
+socially-constructed-person;['baskičtina', 'bask', 'basque', 'basque jazyk', 'euskara', 'euskera'];Jazyk, ktorým sa hovorí hlavne v Baskicku.
+socially-constructed-person;['sumerčina', 'sumerian'];Jazyk starovekých Sumerov, ktorým sa hovorilo v južnej Mezopotámii najmenej od 4. storočia pred Kr.
+socially-constructed-person;['vandali', 'vandal'];VýchodoGermánsky rod, ktorý nastúpil v neskoro-rímskom Impériu počas 5. storočia.
+socially-constructed-person;['nemec', 'nemka'];Osoba nemeckej národnosti.
+socially-constructed-person;['japončina', 'japonec', 'japonec-jazyková'];Jazyk používaný hlavne v Japonsku.
+socially-constructed-person;['rarotongská maorijčina', 'jazyku tongan'];Jazyk na Tonga.
+socially-constructed-person;['tajný agent', 'agent, tajný', 'pracovník rozviedky', 'člen spravodajskej služby', 'špión', 'spravodajský dôstojník', 'spravodajský agent'];Osoba zodpovedná za nelegálne zhromažďovanie tajných informácií.
+socially-constructed-person;['zakladateľ', 'otec', 'zriaďovateľ', 'entrepreneurialism', 'podnikania', 'podnikateľ', 'podnikateľov', 'podnikateľské myslenie', 'spoluzakladateľ', 'sériový podnikateľ'];Osoba, ktorá niečo založila alebo objavila, ako ''Praotec našej krajiny''
+socially-constructed-person;['šéf', 'hlava', 'vedúca osoba', 'top dog'];Osoba, ktorá vládne, vedie alebo má niečo na starosti
+socially-constructed-person;['vodca', 'líder', 'šéf'];Osoba, ktorá vládne, vedie alebo má niečo na starosti
+socially-constructed-person;['manžel', 'manželka', 'lepšia polovička', 'partner', 'druh', 'družka', 'partnerka', 'muž', 'žena', 'manžela', 'ženatý človek'];Muž, ktorý je partnerom v manželstve alebo manželskom partnerstve.
+socially-constructed-person;['kuchár', 'hlavný kuchár', 'šéfkuchár', 'kuchári', 'sous-chef'];Osoba, ktorá pripravuje jedlo.
+socially-constructed-person;['kuchár', 'hlavný kuchár', 'šéfkuchár', 'kuchári', 'sous-chef'];Osoba, ktorej zamestaním je pripravovať jedlo pre zákazníkov.
+socially-constructed-person;['gruzínčina'];Južnokaukazský jazyk, ktorým sa hovorí prevažne v Gruzínsku.
+socially-constructed-person;['ortopéd', 'ortopedické'];Lekársky špecialista, ktorý sa zaoberá ortopédiou.
+socially-constructed-person;['bábätko', 'kojenec', 'bábo', 'dieťatko', 'malé dieťa', 'dojča', 'dieťa', 'novorodencov', 'nemluvňa'];Veľmi mladý človek, od narodenia do niekoľkých rokov veku.
+socially-constructed-person;['celebrita', 'osobnosť', 'hviezda', 'celebrity', 'mediálna osobnosť', 'popstar', 'slávna osoba', 'televízne osobnosť'];Významná alebo populárna osoba, často herec alebo športovec.
+socially-constructed-person;['mníška', 'matka', 'rehoľníčka', 'mníšky'];Žena, ktorá má aspoň jedno dieťa.
+socially-constructed-person;['dievča', 'slečna', 'dievčina', 'deva', 'dievka', 'dievčatá', 'fille', 'missy', 'mladá žena'];Mladá osoba ženského pohlavia, zvyčajne dieťa alebo pubertiačka.
+socially-constructed-person;['žena', 'dospelá žena', 'ženy'];Dospelý človek pohlavia, ktoré tvorí vajíčka a rodí deti.
+socially-constructed-person;['stará baba', 'kurva', 'štetka'];Škaredá alebo nepríjemná žena.
+socially-constructed-person;['baba', 'kosť', 'samica', 'dievča'];Žena považovaná za sexuálne príťažlivú mužom alebo mužmi.
+socially-constructed-person;['kuchár', 'kuchárka', 'krátke aby kuchár'];Osoba, ktorej zamestaním je pripravovať jedlo pre zákazníkov.
+socially-constructed-person;['obchodník s rybami', 'predavač rýb', 'predavčka rýb', 'predajca rýb', 'predavačka rýb', 'fishmongers', 'rybami'];Obchodník špecializujúci sa na predaj rýb.
+socially-constructed-person;['teta'];Žena s aspoň jedným súrodencom, ktorý má aspoň jedno dieťa. sestra niekoho otca alebo matky.
+socially-constructed-person;['kráľovná', 'kráľovná manželka', 'kráľovná-manželka', 'manžel cisárovnej'];Manželka kráľa.
+socially-constructed-person;['kráľovná'];Manželka kráľa.
+space-region;['miesto', 'bod', 'topografická oblasť', 'mieste', 'topografické bod', 'umiestnenie'];Pozícia alebo oblasť v priestore.
+space-region;['obežná dráha', 'orbita', 'dráhu', 'nebeský obežnej dráhe', 'planetárneho pohybu'];Kruhová alebo eliptická dráha objektu pohybujúceho sa okolo iného objektu.
+spatial-feature;['dno', 'spodok'];Preliačenina tvoriaca podklad pod telesom vody.
+spatial-feature;['hranica', 'vymedzenie', 'colná hranica', 'delimitácia', 'hraničná čiara', 'hraničný pruh', 'medza', 'medzná čiara', 'ohraničenie', 'stanovenie hraníc', 'štátna hranica', 'medzinárodné hranice', 'hranice', 'hraníc', 'vymedzenie volebných obvodov', 'vymerať', 'štátne hranice'];Myslená čiara deliaca politické alebo geografické oblasti.
+spatial-feature;['mys', 'ostrov', 'predhorie', 'výbežok', 'výčnelok', 'útes'];Výbežok vyčnievajúci smerom k moru od pobrežia, väčšinou so značným útesom.
+spatial-feature;['hrana', 'hranica', 'kraj', 'okraj'];Hranica plochy.
+spatial-feature;['podlaha', 'dlážka', 'podlahy', 'podlahe'];Spodná časť miestnosti. Základný povrch v miestnosti.
+spatial-feature;['hrot šípu', 'hrot šípky', 'šípok'];Zaostrený koniec šípu.
+spatial-feature;['chrbát', 'zadná časť', 'zadok', 'rub', 'zadnej časti'];Opačná strana na niečom, pričom druhá strana je vpredu alebo je použiteľnejšia. Strana, na ktorú sa normálne nehľadí.
+subject;['matematika', 'matika', 'počty', 'matematicky', 'matematike'];Vedná disciplána zaoberajúca sa pojmami ako množstvo, štruktúra, priestor a zmena.
+subject;['vedy o zemi', 'veda o zemi', 'náuka o zemi', 'geoveda', 'geovedy', 'geoscience', 'geosciences'];Veda zaoberajúca sa Zemou alebo jej ľubovoľnou časťou. patria sem o.i. disciplíny geológie, geografie, oceánografie a meteorológie.
+subject;['astronómia', 'astronomické', 'astronómie', 'uranology'];Veda zaoberajúca sa nebeskými telesami, ich pozorovaním a interpretáciou žiarenia zachyteného v blízkosti Zeme z častí vesmíru.
+subject;['chémia', 'chemik', 'lučba', 'chemické vedy', 'aplikovanej chémie', 'aplikovaná chémia', 'chémie'];Vedná náuka o vlastnostiach, zložení a štruktúre hmoty, zmenách v štruktúre a zložení hmoty a sprievodných energetických zmenách.
+subject;['architektúra', 'architektúry'];Umenie a veda navrhovania a budovania štruktúr alebo skupín štruktúr, za podmienky dodržania estetických a funkčných kritérií.
+subject;['biochémia', 'biochemik', 'biochémie', 'biochemické', 'biochemikálie'];Náuka o chemických látkach vyskytujúcich sa v živých organizmoch a reakciách a metódach pre identifikovanie týchto látok.
+subject;['fyzika', 'filozofia prírody', 'fyziky', 'prírodná filozofia', 'prírodný filozof', 'prírodných filozofov'];Náuka o tých aspektoch prírody, ktoré je možné porozumieť fundamentálnym spôsobom na základe elementárnych rincípov a zákonov.
+subject;['biológia', 'biológ', 'biologické vedy', 'biologický výskum', 'biosciences'];Odvetvie prírodných vied zaoberajúce sa štúdiom života a živých organizmov.
+subject;['sémantika', 'sémanticky'];Odvetvie lingvistiky, ktoré študuje význam v jazyku.
+substance-role;['sediment', 'usadenina', 'naplavenina', 'nános', 'sedimenty', 'usadeniny', 'sedimentov'];Akýkoľvek materiál prenesený vodou, ktorý sa napokon usadí na dne potom, čo voda stratí silu niesť ho ďalej.
+task;['delenie', 'delenec', 'celočíselné delenie'];V matematike, aritmetická operácia opačná k násobeniu.
+taxonomic-collection;['slovný druh', 'slovné druhy', 'lexikálnej kategórie', 'triedy formulára', 'časť-of-speech', 'časť reči'];Kategória, do ktorej slovo patrí na základe jeho syntaktickej funkcie.
+taxonomic-collection;['prídavné meno', 'adjektívum', 'prídavné mená', 'adjektíva', 'atributivní adjektívum', 'forma'];Slovo, ktoré modifikuje význam alebo opisuje podstatné meno alebo zámeno.
+taxonomic-collective;['ryby', 'pisces', 'trieda ryby', 'ryba', 'rýb', 'ichtyofauny', 'morských rýb'];Chladnokrvný živočích žijúci vo vodnom prostredí, pohybujúci sa pomocou plutiev a dýchajúci žiabrami (Pisces).
+taxonomic-collective;['proso', 'pšeno', 'millets'];Skupina druhov obilnín s malým zrnom, ktorá sa hojne pestuje po celom svete pre potravu a krmivo.
+technique;['inovácia', 'vynález', 'myšlienka', 'nápad', 'objav', 'obnovenie', 'obnovovanie', 'zavedenie', 'inovatívne', 'inovácie', 'inovácií', 'invent', 'technologické inovácie', 'vynájdený', 'vynálezcov', 'vynálezov', 'vynálezu'];Niečo novo predstavené ako nová metóda či zariadenie.
+temporal-region;['storočie', 'storočia', 'stoletie'];Obdobie 100 rokov.
+temporal-region;['dlhá doba', 'roky', 'veky', 'vek', 'dlhú dobu', 'ma', 'rok', 'rok gregoriánskeho', 'rokoch', 'rokov'];Časová doba, ktorú osoba, zviera alebo rastlina žije.
+temporal-region;['narodeniny'];Deň, v ktorom sa pred niekoľkými rokmi niekto narodil alebo sa stala významná udalosť.
+temporal-region;['mesiac', 'kalendárny mesiac', 'mesiace'];Obdobia na ktoré je rozdelený celý rok, historicky rozdelené na základe fáz mesiaca. V gregoriánskom kalendári je dvanásť mesiacov.
+temporal-region;['január', 'ľaden', 'januára'];Prvý mesiac v gregoriánskom kalendári s 31 dňami.
+temporal-region;['január', 'ľaden', 'januára'];Prvý mesiac v gregoriánskom kalendári s 31 dňami.
+temporal-region;['január', 'ľaden', 'januára'];Prvý mesiac v gregoriánskom kalendári s 31 dňami.
+temporal-region;['december', 'prosinec', 'decembri'];Dvanásty mesiac v gregoriánskom kalendári, má 31 dní.
+temporal-region;['december', 'prosinec', 'decembri'];Dvanásty mesiac v gregoriánskom kalendári, má 31 dní.
+temporal-region;['máj', 'mája'];Piaty mesiac v gregoriánskom kalendári, má 31 dní.
+temporal-region;['september', 'hrudeň', 'septembra'];Deviaty mesiac v gregoriánskom kalendári, má 30 dní.
+temporal-region;['marec'];Tretí mesiac v gregoriánskom kalendári, má 31 dní.
+temporal-region;['február', 'malý sečeň', 'februára', 'februári'];Druhý mesiac v gregoriánskom kalendári, má 29 dní v priestupnom roku a 28 dní ostatné roky.
+temporal-region;['august', 'auguste'];ôsmy mesiac v gregoriánskom kalendári, má 31 dní.
+temporal-region;['júl', 'júla'];Siedmy mesiac v gregoriánskom kalendári, má 31 dní.
+temporal-region;['apríl', 'apríla'];Štvrtý mesiac v gregoriánkom kalendári s 30 dňami.
+temporal-region;['jún', 'júna'];Šiesty mesiac v gregoriánskom kalendári, má 30 dní.
+temporal-region;['november', 'listopád', 'studeň', 'novembra'];Jedenásty mesiac v gregoránskom kalendári, má 30 dní.
+temporal-region;['október', 'seveň', 'októbra', 'októbri'];Desiaty mesiac v gregoriánskom kalendári, má 31 dní.
+temporal-region;['deň'];Doba od polnoci do nasledujúcej polnoci. Sedem dní tvorí jeden týždeň.
+temporal-region;['jeseň'];Obdobie po lete pred zimou, zvyčajne od 21. Septembra do 20. Decembra. na južnej pologuli od 21. Marca do 20. Júna.
+temporal-region;['deň', 'denná doba', 'denný čas', 'denných'];Časový úsek od východu po západ slnka.
+temporal-region;['narodenie', 'zrod', 'zrodenie', 'pôrod'];Fakt alebo čin, ktorým sa privádza na svet dieťa, vyvrcholenie tehotenstva.

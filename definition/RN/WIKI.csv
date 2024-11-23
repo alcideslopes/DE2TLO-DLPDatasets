@@ -1,0 +1,120 @@
+agentive-physical-object;['umwungu'];Umwungu (Cucurbita pepo, Cucurbita mixta, Cucurbita maxima, Cucurbita moschata) n’ikiribwa.
+agentive-physical-object;['ingona', 'crocodylus niloticus'];Ingona (Crocodylus niloticus) ni igikoko.
+agentive-physical-object;['ibingira', 'lycaon pictus'];Ibingira (Lycaon pictus) ni igikoko.
+agentive-physical-object;['inzovu', 'loxodonta africana'];Inzovu (Loxodonta africana) ni igikoko.
+agentive-physical-object;['indonyi', 'kobus ellipsiprymnus'];Indonyi (Kobus ellipsiprymnus defassa) ni igikoko.
+agentive-physical-object;['inkona'];Inkona ni igikoko (ikiguruka).
+agentive-physical-object;['ibitunguru', 'allium cepa'];Ibitunguru (Allium cepa) n’ikiribwa.
+agentive-physical-object;['amateke', 'colocasia esculenta'];Amateke (Colocasia esculenta) n’ikiribwa.
+agentive-physical-object;['ingege', 'oreochromis niloticus'];Ingege ni igikoko.
+agentive-physical-object;['intare', 'intambwe', 'panthera leo'];Intare or Intambwe (Panthera leo) ni igikoko.
+agentive-physical-object;['imbogo', 'syncerus caffer'];Imbogo (Syncerus caffer) ni igikoko.
+agentive-physical-object;['agahungarema', 'chiroptera'];Agahungarema (Chiroptera) ni igikoko.
+agentive-physical-object;['imbata'];Imbata ni igikoko (ikiguruka).
+agentive-physical-object;['igiharage', 'ibiharage', 'phaseolus vulgaris'];Igiharage (sg) / Ibiharage (pl) (Phaseolus vulgaris) n’ikiribwa.
+agentive-physical-object;['isato', 'python sebae'];Isato (Python sebae) ni igikoko (inzoka).
+amount-of-matter;['kolesterole'];Ikinure nzibiramitsi bita “kolesterole’’ ni ikinure coroshe dusanga mu maraso.
+biological-object;['umubiri'];Umubiri
+functional-matter;['ikiraya', 'ibiraya', 'solanum tuberosum'];Ikiraya (sg) / Ibiraya (pl) (Solanum tuberosum) n’ikiribwa.
+functional-matter;['inyama'];Inyama n’ikiribwa.
+information-realization;['bibiliya'];Ivyakozwe
+language;['kiseperanto'];Kiseperanto (kiseperanto: Esperanto) ni ururimi rw’isi. rurabugwe hose na abantu barashaka kubuga na abantu b’ururimi rundi.
+locative-role;['los angeles'];Los Angeles ni igisagara mu California mu Leta z’Unze Ubumwe za Amerika.
+locative-role;['st. petersburg', 'saint-pétersbourg', 'saint petersburg'];Saint-Pétersbourg (ikirusiya: Санкт-Петербург) ni igisagara mu Uburusiya.
+locative-role;['lituania'];Lituania (Lietuva) n’igihugu muri Uburaya.
+locative-role;['vladivostok'];Vladivokompilationok (ikirusiya: Владивосток) ni igisagara mu Uburusiya.
+locative-role;['chicago'];Chicago ni igisagara mu Illinois mu Leta z’Unze Ubumwe za Amerika.
+locative-role;['rio de janeiro'];Rio de Janeiro ni igisagara mu Brazil.
+political-geographic-object;['los angeles'];Los Angeles ni igisagara mu California mu Leta z’Unze Ubumwe za Amerika.
+political-geographic-object;['st. petersburg', 'saint-pétersbourg', 'saint petersburg'];Saint-Pétersbourg (ikirusiya: Санкт-Петербург) ni igisagara mu Uburusiya.
+political-geographic-object;['yapon', 'ubuyapani'];Ubuyapani ni igihugu kiri muri Aziya.
+political-geographic-object;['esipanye', 'hisipaniya', 'españa'];Esipanye n’igihugu muri Uburaya.
+political-geographic-object;['ubuganda', 'ubugande', 'uganda'];Ubuganda ni igihugu muri Bufirika.
+political-geographic-object;['ububirigi', 'ububiligi'];Irepuburika y’Ububirigi ni igihugu mu Uburaya.
+political-geographic-object;['burumaniya', 'birimaniya', 'myanmar'];Burumaniya canke Myanmar (ikiburumaniya: မြန်မာပြည်) ni igihugu muri Aziya.
+political-geographic-object;['australiya', 'ositaraliya', 'australia', 'ubusarariya'];Ubwenegihugu bwa Australiya n’intambwe ikomeye cane muri kahise kawe k’umwimukira.
+political-geographic-object;['rwanda', 'urwanda', 'u rwanda', 'repubulika yu rwanda'];Urwanda n´igihugu muri Bufirika.
+political-geographic-object;['polonia', 'pologne', 'polonye'];Pologne (Polska) n’igihugu muri Uburaya.
+political-geographic-object;['uburundi', 'republika y’u burundi', "republika y'uburundi", 'burundi', "republika y'u burundi", 'urundi'];Repuburika y’Uburundi ni igihugu kiri muri Afirika y’ubuseruko.
+political-geographic-object;['tanzaniya', 'tanzania'];Tanzaniya n´igihugu muri Bufirika.
+political-geographic-object;['vietnam', 'viyetinamu'];Vietnam n’igihugu kiri muri Aziya.
+political-geographic-object;['ubudage', 'ubudagi', 'deutschland'];Ubudage, canke Ubudagi (ikidage: Deutschland) n’igihugu muri Uburaya.
+political-geographic-object;['misiri', 'egipto'];Misiri ni igihugu mu Bufirika.
+political-geographic-object;['venezuela', 'venezuwela'];Venezuela n’igihugu muri Amerika.
+political-geographic-object;['ubuhindi', 'india'];Ubuhindi ni igihugu muri Aziya.
+political-geographic-object;['italya', 'ubutariyano', 'ubutaliyani', 'irepuburika y’ubutariyano'];Irepuburika y’Ubutariyano ni igihugu mu Uburaya.
+political-geographic-object;['chile', 'chili', 'shili'];Chili n’igihugu kiri muri Amerika.
+political-geographic-object;['ubugiriki', 'grecia', 'ubugereki'];Ubugiriki canke Ubugereki n’igihugu muri Uburaya.
+political-geographic-object;['ubufaransa', 'francia', 'faransa'];Ubufaransa canke Repubulika y'u Bufaransa n’igihugu muri Uburaya.
+political-geographic-object;['irlanda'];hh European country, extended for 78.000 km2 in most.
+political-geographic-object;['filipine', 'amazinga ya filipine'];Filipine, canke Republika ya Filipine n’iguhugu kiri muri Aziya.
+political-geographic-object;['vladivostok'];Vladivokompilationok (ikirusiya: Владивосток) ni igisagara mu Uburusiya.
+political-geographic-object;['lisboa'];Lisboa ni umurwa mukuru wa Portugal.
+political-geographic-object;['bogotá'];Bogotá ni umurwa mukuru wa Colombia.
+political-geographic-object;['roma', 'rome'];Rome ni umurwa mukuru wa Ubutariyano.
+political-geographic-object;['jerusalem'];Jerusalem ni umurwa mukuru wa Palesitine.
+political-geographic-object;['berlin'];Berlin ni umurwa mukuru wa Ubudagi.
+political-geographic-object;['moscou'];Moscou (ikirusiya: Москва) ni umurwa mukuru wa Uburusiya.
+political-geographic-object;['chicago'];Chicago ni igisagara mu Illinois mu Leta z’Unze Ubumwe za Amerika.
+political-geographic-object;['finilande', 'finilandi'];Finilande canke Irepuburika ya Finilande ni igihugu muri Uburaya.
+political-geographic-object;['bujumbura'];Bujumbura ni umurwa mukuru w' Uburundi mu vyerekeye Ubutunzi Uburinganire: Ibirometero kwadarato 127 Abanyagihugu: 1096647 Ukurundana: Abantu 8605 ku kirometero kwadaratoBujumbura n'umurwa mukuru w'uburundi muvyerekeye Ubutunzi inyuma yaho Gitega ibaye umurwa mukuru wa politike.Nico gisagara cambere kinini mu Burundi kigatera caguka.Muri 2008 cari gifise uburinganire bungana n'ibirometero kwadrato 87 Ubu naho kikaba kigeze ju birometero kwadrato 127.Ico gisagara cahora gifise Ama komine 13 Ubu naho kikaba gifise Ama komine 3 inyuma y'ingaburo nshasha y'ico gisagara.Ayo makomine atatu akaba ari Muha,Mukaza na Ntahangwa.Komine Ntahangwa ikaba iherereye mu buraruko bw'ico gisagara ikagarukira ku ruzi Ntahangwa,komine Mukaza nayo ikaba iherereye hagati, ikaba iri hagati y'uruzi Ntahangwa na Muha.Komine Muha Iherereye Mu bumanuko bw'ico gisagara igahera ku ruzi Muha itera imanuka.
+political-geographic-object;['santiago de chile'];Santiago ni umurwa mukuru wa Chile.
+political-geographic-object;['paris'];Paris ni umurwa mukuru wa Ubufaransa.
+political-geographic-object;['tegucigalpa'];Tegucigalpa ni umurwa mukuru wa Honduras.
+political-geographic-object;['warszawa', 'varsovie'];Varsovie (Warszawa) ni umurwa mukuru wa Pologne.
+political-geographic-object;['madrid'];Madrid ni umurwa mukuru wa Esipanye.
+political-geographic-object;['montevideo'];Montevideo ni umurwa mukuru w'igihugu ca Uruguay.
+political-geographic-object;['caracas'];Caracas ni umurwa mukuru wa Venezuela.
+political-geographic-object;['ville de saint-marin', 'san marino', 'igisagara ca saint-marin'];Ville de Saint-Marin (Igisagara ca Saint-Marin) ni umurwa mukuru wa Saint-Marin.
+political-geographic-object;['brasília'];Brasília ni umurwa mukuru wa Brazil.
+political-geographic-object;['ankara'];Ankara ni umurwa mukuru wa Turukiya.
+political-geographic-object;['rio de janeiro'];Rio de Janeiro ni igisagara mu Brazil.
+political-geographic-object;['brazil', 'burezili'];Brazil n’igihugu kiri muri Amerika.
+region;['ubusa', '0'];Ubusa ni igiharuro.
+region;['ijana', '100'];Ijana ni igiharuro.
+region;['igihumbi'];Igihumbi ni igiharuro.
+region;['mirong’itanu', '50'];Mirong’itanu ni igiharuro.
+region;['mirong’ine', '40'];Mirong’ine ni igiharuro.
+region;['mirong’indwe', '70'];Mirong’indwe ni igiharuro.
+region;['mirong’itandatu', '60'];Mirong’itandatu ni igiharuro.
+region;['mirong’itatu', '30'];Mirong’itatu ni igiharuro.
+region;['cenda', '0', '9', 'icenda'];Cenda canke Icenda ni igiharuro.
+region;['cumi n’icenda', '19'];Cumi n’icenda ni igiharuro.
+region;['cumi na kabiri', '12'];Cumi na kabiri ni igiharuro.
+region;['cumi na gatandatu', '16'];Cumi na gatandatu ni igiharuro.
+region;['gatandatu', '6'];Gatandatu ni igiharuro.
+region;['gatanu', '5', 'itanu'];Gatanu canke Itanu ni igiharuro.
+region;['cumi na gatanu', '15'];Cumi na gatanu ni igiharuro.
+region;['cumi', '10', 'icumi'];Cumi canke Icumi ni igiharuro.
+region;['mirongo ibiri', '20', 'mirong’ibiri'];Mirongo ibiri canke Mirong’ibiri ni igiharuro.
+region;['gatatu', '3', 'esheshatu'];Gatatu canke Esheshatu ni igiharuro.
+region;['kabiri', '2', 'evyiri'];Kabiri canke Evyiri ni igiharuro.
+region;['umunani', '8', 'munani'];Umunani canka Munani ni igiharuro.
+region;['indwi', '7'];Indwi ni igiharuro.
+region;['cumi na indwi', '17'];Cumi na indwi ni igiharuro.
+region;['cumi na rimwe', '11'];Cumi na rimwe ni igiharuro.
+region;['cumi na kane', '14'];Cumi na kane ni igiharuro.
+region;['kane', '4', 'ennye'];Kane canke Ennye ni igiharuro.
+region;['cumi na gatatu', '13'];Cumi na gatatu ni igiharuro.
+region;['mirongo ibiri na rimwe', '21'];Mirongo ibiri na rimwe ni igiharuro.
+region;['mirongo ibiri na cenda', '29'];Mirongo ibiri na cenda ni igiharuro.
+region;['mirongo ibiri na gatandatu', '26'];Mirongo ibiri na gatandatu ni igiharuro.
+region;['mirongo ibiri na gatanu', '25'];Mirongo ibiri na gatanu ni igiharuro.
+region;['mirongo ibiri na kabiri', '22'];Mirongo ibiri na kabiri ni igiharuro.
+region;['mirongo ibiri na umunani', '28'];Mirongo ibiri na umunani ni igiharuro.
+region;['mirongo ibiri na indwi', '27'];Mirongo ibiri na indwi ni igiharuro.
+region;['mirongo ibiri na kane', '24'];Mirongo ibiri na kane ni igiharuro.
+region;['mirongo ibiri na gatatu', '23'];Mirongo ibiri na gatatu ni igiharuro.
+region;['rimwe', '1'];Rimwe ni igiharuro.
+situation;['sickle-cell'];Indwara yitwa Sickle-cell Uturingoti tw’amaraso atukura nitwo dukwiza umwuka bita oxygen mu mubiri wose.
+situation;['ikiyingiyingi'];Ikiyingiyingi Nta muntu atigera yumva ko yijiriwe mu buzima bwiwe, ariko kenshi n’ibintu biza bigahera.
+situation;['infuluwanza', 'giripe'];Infuluwanza canke giripe itegwa n’udukoko wandura duciye mumazuru, mumuhogo no mu bihaha.
+situation;['indwara y’igitigu'];Indwara y’Igitigu ni indwara iterwa n’umugera kandi igasinzikaza igitigu.
+situation;['guhahamuka'];Guhahamuka (PTSD).
+situation;['kwama wacitse ivutu'];Kwama wacitse ivutu.
+situation;['bilariziyozi'];Indwara ya Bilariziyozi (Schistosomiasis) n’indwara iterwa n’akayoka gatoyi cane kaba mu mazi atemba.
+situation;['boronshite'];Boronshite nihamwe ibikororwa vyuzuranye muri twa dukenke tuja kubi haha, hama bigatera umuntu kunanirwa no guhema neza.
+situation;['ibiyayura umutwe'];Ibiyayura umutwe ni ibintu bihindura ingene umubiri wawe usanzwe ukora.
+socially-constructed-person;['ronald reagan'];Ronald Wilson Reagan, 40.
+state;['kwamana ubwoba wicura abansi n’ibikugirira nabi'];Kwamana ubwoba wicura abansi n’ibikugirira nabi.
+state;['akomeye mu mutwe'];Akomeye mu mutwe Umunt no.

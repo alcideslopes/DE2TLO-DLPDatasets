@@ -1,0 +1,684 @@
+activity;['futbol'];Futbol bul sporttın' bir tu'ri bolıp, onda 11 oyınshını o'z ishine alg'an eki komanda domalaq top ja'rdeminde bir-birine qarsı oynaydı.
+activity;['film', 'kino', 'kinofilm'];Kinofilmler, tag'ı filmler retinde bilgen, vizual kommunikatsiyanın' tu'ri ol jıljıytug'ın su'wretlerdi ja'ne dawıstı a'n'gimelerdi aytıw yamasa xabarlaw ushın qollanadı.
+activity;['basketbol'];Basketbol — bes adamlıq eki topardın', basketbol tobın 3.05 metr biyiklikdegi basketbol sebetine salıw ushun jarisiwları, sportdın' bir ko'rinisi.
+activity;['golf'];Golf bay adamlar tarepinnen oynalgan sportin' ko'rinisidir.
+activity;['beyzbol'];Beyzbol Sport tu'rlerinin' biri.
+activity;['tennis'];Tennis eki adam yaki eki kisilik ekki topar arasinda oynalatug'in sport oyini.
+activity;['taekwando'];Taekwando sport turlerinin' biri.
+activity;['dzyudo'];Dzyudo sport turlerinin' biri.
+activity;['billiyard'];Bilyard (Fransuzsha: billiard, Fransuzsha: bille — shar) — gorizontal ju'zesine uqsas qaplangan tuwri to'rtmu'yesh stol, sonin'day sol stolda oynalatug'in oyin.
+activity;['awir atletika'];Awir atletika sport turlerinin' biri.
+activity;['boks'];Boks sport turlerinin' biri.
+activity;["o'lim jazası"];O'lim jazasi bul ma'mleket jaza retinde kimdidur o'ltiriwine aytiladi.
+activity;["suwda ju'ziw"];Suwda ju'ziw Sport tu'rlerinin'biri
+activity;['kommunikatsiya'];Kommunikatsiya bul pikir ha'm mag'lıwmattı jetkerip beriw ha'reketi.
+activity;["a'yyemgi gretsiyada olimpiada oyınlarının' payda bolıwı"];A'yyemgi Gretsiyada Olimpiada oyınlarının' payda bolıwı - A'yyemgi Olimpiada oyınları b.e.sh.
+activity;['hawa rayı'];Hawa rayı aspanda ne bolıp atırg'anlıg'ı haqqında aytadı.
+activity;["fransuz ko'terilisi"];Fransuz ko'terilisi bul Fransiya tariyxında 1789-1799-jılları dawam etken da'wir.
+activity;["gu'res"];Gu'res sportin' bir tu'ri.
+agentive-figure;['bank'];Bank — aqsha qarjıları men qorların jıynaw, beriw, ma'mleketler, ka'rxanalar, mekemeler ja'ne jeke adamlar arasındag'ı o'z-ara to'lemler men aqshalay esap ayırısıwda da'ldallıqtı ju'zege asırıw, aqshanın' belgili bir tu'rin aylanısqa qosıw, aqsha men qunlı qag'azlar shıg'arıw, altın menen, shetellik valyuta menen tu'rli operatsiyalar jasaw ja'ne basqa da xızmetler atqaratug'ın qarjı mekemesi.
+agentive-figure;["g'a'rezsiz ma'mleketler doslıq awqamı"];G'a'rezsiz Ma'mleketler Doslıq Awqamı - Usı aymaqlıq sho'lkem burıng'ı SSSR ayrım respublikaları ta'repinen du'zilgen edi.
+agentive-figure;['nasa'];NASA (inglis NASA - National Aeronautics and Space Administration) — AQShtın’ aeronavtika ha’m a’lemdi izertlew boyınsha milliy basqarması bolıp, AQShtın’ federallıq hu’kimetine qaraslı agentlik esaplanadı.
+agentive-figure;["birlesken milletler sho'lkemı", 'birlesken milletler shólkemi', 'bmsh', 'bmt'];Birlesken Milletler Sho'lkemı (qısqasha BMSh, ra'smıy tillerınde - Arabsha: الأمم المتحد‎, Qıtaysha: 联合国, inglis United Nations, İspansha.
+agentive-figure;['din'];Din - Tan'ri tarepinen jaratilg'an kanundir.
+agentive-figure;['i̇slam dini'];Ïslam (arab.: إسلام‎) — älemdik monoteïsttik-ïbrahïmdik din.
+agentive-figure;['induizm'];Induizm – du'nyada bir din.
+agentive-figure;['sovetler soyuzı'];Sovetler awqami 1922-jili V.I.Lenin qurgan memleket.
+agentive-physical-object;['reaktiv dvigatel'];Reaktiv dvigatel — ag'ımı esabına reaktiv ku'sh payda qılatug'ın dvigatel.
+agentive-physical-object;['haywanlar', 'animalia'];Haywanlar (inglis Animal) — organizmnın' (Aristoteldın' da'wrınnen berı) a'detıy bo'lıngen kategoriyası, og'an ha'zırgı waqıtda biologiya tu'rınde qaraladı.
+agentive-physical-object;["o'simlikler", "o'simlik"];O'simlikler (Plantae) - ko'p kletkalı Plantae tu'rine kiritwshi jasawshı organizmler esaplanadı.
+agentive-physical-object;['ekskavator'];Ekskavator
+agentive-physical-object;['kompyuter'];Kompyuter (ingl.
+agentive-physical-object;['qıyar'];Qıyar
+agentive-physical-object;['elektrik dvigateli'];Elektrik dvigateli, elektrik energiyasin mexanikaliq energiyag'a aylandiriwshi qural.
+agentive-physical-object;['i̇nfuzoriyalar'];İnfuzoriyalar tipine 8000 nan aslam tu'r kiredi.
+agentive-physical-object;['limon'];Limon
+agentive-physical-object;['porsıq'];Porsıq (lat.
+agentive-physical-object;['bolmıs', 'organizm'];Bolmıs - ulıwma ha'm onın' sanasına baylanıslı bolmag'an jag'dayda jasawshı obektiv bildiriwshi filosofiyalıq tu'sinik.
+agentive-physical-object;['bolmıs', 'organizm'];Organizm (lat.
+agentive-physical-object;['qawın', 'cucumis melo'];Qawın
+agentive-physical-object;['qa’reli'];Qa’reli
+agentive-physical-object;['bir kletkalı haywanlar'];Bir kletkalı haywanlar - A'piwayılar XVII a'sirdin' ekinshi yarımında, a'sirese mikroskop payda bolg'annan keyin belgili bola baslaydı.
+agentive-physical-object;['piyaz'];Piyaz
+agentive-physical-object;["qırg'awıl"];Qırg'awıl (lat.
+agentive-physical-object;['elektrik generatori'];Elektrik generatori, mexaniqaliq energiyani elektr energiyasina aylandiriwshi a'sbap.
+agentive-physical-object;['shabdal', 'prunus persica'];Shabdal (lat.
+agentive-physical-object;['rediska'];Rediska
+agentive-physical-object;['baklajan', 'solanum melongena', 'baxlajan'];Baklajan
+agentive-physical-object;['jolbarıs', 'panthera tigris'];Jolbarıs — Qubla Aziya ha'm uzaq shıg'ısta tarqalg'an, don'ız, suwın sıyaqlı u'lken haywanlardı awlaydı.
+agentive-physical-object;["la'ylekler", 'ләйлек'];La'ylekler - biraz u'lken, ayaqları tumsıg'ı uzın quslar.
+agentive-physical-object;['ayıwlar', 'ayıw'];Ayıwlar — Ku'shli ha'm u'lken haywanlar, O'zbekistan tawlarında qon'ır ayıw ushırasadı.
+agentive-physical-object;['almurt'];Almurt
+agentive-physical-object;["ko'k kepter"];Ko'k kepter - kepterdin' denesi bas, moyın, gewde ha'm ayaqlardan ibarat.
+agentive-physical-object;['kesirtkeler', 'kesirtke'];Kesirtkeler - Wolardın' denesi qabırshaqlar menen qaplang'an.
+agentive-physical-object;['pingvin'];Pingvin - qanatı kelte ha'm jin'ishke bolıp yeskekke aylang'an.
+agentive-physical-object;['anar', 'punica granatum'];Anar
+agentive-physical-object;['bakteriya', 'bacteria'];Bakteriyalar ju'da' kishkene organizmler.
+agentive-physical-object;['shıbın-shirkeyler', 'insecta'];Shıbın-shirkeyler - haywanlar arasında sanının' ko'pligi ha'm ko'p tu'rliligi menen ayrılıp turadı.
+agentive-physical-object;['piste'];Piste
+agentive-physical-object;['yerik'];Yerik
+amount-of-matter;['suw', 'h₂o'];Suw (Vodorod oksidi) — binar organikalıq birlespe, ximiyalıq formulası Н2O. Suwdın' molekulası o'z aralarında kovalent baylanıs penen birlesken eki sanlı vodorod ha'm bir sanlı kislorod atomınnan ibarat.
+amount-of-matter;['vodorod', 'h'];Vоdоrоd ((Latın.
+amount-of-matter;['nаtriy', 'na'];Nаtriy – Меndеlеv da'wirlik sistemasının' l toparı kategoriyasındag'ı, 11shı sаn аstındа jaylasqаn ximiyalıq elemеnt.
+amount-of-matter;['natriy gidroksid'];Natriy gidroksid (oyıwshı natriy, kaustik), NaOH — ren'siz kristall zat.
+biological-object;['alma'];Alma
+chemical-object;['molekula'];Molekula (inglis molecula, lat.
+classification-system;['html', 'hypertext markup language'];HTML (inglis Hypertext Markup Language) - gipertekstli hu'jjetler jaratıw ushın arnawlı til.
+classification-system;['kalendar'];Kalendar bul kalendar sa'nelerin ku'nlerge belgilew sisteması.
+cognitive-event;['bahalaw'];Bahalaw – bul esap obektlerin natural o'lshemlerden pul o'lshemlerge o'tkiziw usılı bolıp tabıladı.
+cognitive-event;['sezim'];Sezim bul adamlardın' ishinen o'zlerin seziw jag'dayı.
+cognitive-event;['oy-pikir'];Oy-pikir tiri janlardın' qa'tesiz ha'reket etiwi ushın miyden jiberiletug'ın xabar.
+cognitive-modal-description;['i̇deologiya'];İdeologiya (yunanshe: ιδεολογία , — idеya. ha'm — bilim) — İdеоlоgiya — ulıwma bеlgılengеn idеyalardın' (pоlitikа, sotsial ha'mde ja'maatlık) jıynalg'an stukturalar sisteması.
+course;['algoritm'];Algoritm - qoyılg'an ma'seleni tıyanaqlı waqıt ishinde sheshiw ushın isletiletug'ın ha'reketler anıqlamaları izbe-izligi.
+course;['ekonomikalıq tsikllar'];Ekonomikalıq tsikllar - ekonomikanın' bir neshe jıllar dawamında o'siwi h'a'm to'menlewin ko'rsetiwshi protsess esaplanadı.
+dependent-place;['termosfera'];Termosfera 90-800 km biyiklik araliginda jaylasqan.
+dependent-place;['stratosfera'];Stratosfera - 11-55 km aralıqda jaylasıp, bunda hawa qatlamı siyrek boladı ha'm temperatura az o'zgeriwı menen bolıp turadı.
+dependent-place;['troposfera'];Troposfera Jer u'stine jaqin jaylasqan hawa qatlami.
+ecological-collective;["o'simlikler", "o'simlik"];O'simlikler (Plantae) - ko'p kletkalı Plantae tu'rine kiritwshi jasawshı organizmler esaplanadı.
+functional-matter;['koreys jazıwı'];Koreys jazıwı (koreysshe: 한글 Han'gul (Qubla Koreyada) ya'ki 조선글 Choso‘n'gul (Arqa Koreyada)) jazılıwshı koreys milliy alifbesi.
+functional-matter;['d vitamini'];D Vitamin organizmde Mineralıq zаt аlmаsıwında qatnasadı, kaltsiy mеnеn fоsfоrdın' sаnın jo'nge sаlаdı, tuzlardı siniriwde qatnasadı.
+functional-matter;["ta'biyiy ga'z"];Ta'biyiy ga'z - tu'rlı organik ga'zler qatnaspası.
+functional-matter;['kartoshka', 'solanum tuberosum'];Kartoshka
+functional-matter;['vitamin'];Vitamin (lat.
+functional-matter;['vitamin'];Vitamin (lat.
+functional-matter;['nan'];Nan — keminde un ha'm suwdan turatug'ın qamırdan tayarlang'an azıq awqat toparı.
+functional-matter;['alma'];Alma
+functional-matter;['paxta'];Paxta gawasha hasili bolip tekstil o'nermentshiliginde ken'nen qolanilatin tabiyiy o'simlik.
+functional-matter;['mineral'];Mineral (Fransuzsha: minéral, latınshada minera — ruda) — belgili ximiyalıq quramg'a ha'm kristallıq du'ziliske iye bolg'an ta'biiy dene.
+functional-matter;["da'ri"];Da'ri adam awırg'an waqıtta ja'rdem beretug'ın arnawlı awqat yamasa ximiyalıq qollanba.
+geographical-object;['kaymanov atawları'];Kaymanov atawlari Okeaniya kontinentinde jaylasqan ma'mleket.
+geographical-object;['qubla amerika'];Qubla Amerika — qubla yarım sharda jaylasqan bolıp, ol Jerdegi en' u'lken to'rtinshi materik esaplanadı.
+geographical-object;["ten'iz"];Ten'iz — Du'nya okeaninin' Jer yaki suw-asti relyef ba'lentlikleri arqali bo'linip turatug'in bir bo'legi.
+geographical-object;['tayvan'];Tayvan Aziya kontinentinde jaylasqan ma'mleket.
+geographical-object;['farer atawları'];Farer atawları Evropadag'ı ma'mleket.
+geographical-object;['folklend atawları'];Folklend atawlari Okeaniya kontinentinde jaylasqan ma'mleket.
+geographical-object;['okean'];Okean kontinentler arasındag'ı u'lken duzlı suw maydanı esaplanadı.
+geographical-object;['okeaniya'];Okeaniya — du'nyanın' geografik, ha'm geosiyasıy aymag'ı, ol ko'bınshe Tınısh okeanının' ortasındag'ı ha'm batısındag'ı ju'zlep kishı atawlardan ha'm atollardan du'zilgen.
+geographical-object;["kaspiy ten'izi"];Kaspiy ten'izi Evropa menen Aziyanın' shegaralasqan jerınde jaylasqan.
+geographical-object;["missisipi da'ryasi"];Missisipi (inglis Mississippi, ojibwe tilinde misi-ziibi — "ulli da'rya") — AQSH-da du'nyanin' en' ulli da'ryalarinin' biri: uzinlig'i 3 770 kilometr.
+geographical-object;["amazon da'ryası"];Amazon da'ryası (İspan ha'm Portugalshada Rio Amazonas) Qubla Amerikanın', tiykarınan Braziliyanın' tropikalıq tog'aylarınan ag'ıp o'tetug'ın dar'ya esaplanadı.
+geographical-object;['volga'];Volga
+geographical-object;["qara ten'iz"];Qara ten'iz - Evropa ha'm Aziya arasındag'i Atlantika okeanının' bir ten'izi.
+geographical-object;['montserrat'];Montserrat Okeaniya da jaylasqan mamleket.
+geographical-object;["adriatika ten'izi"];Adriatika tenizi — u'lken Evropada, İtaliya ha'm Balkanlar arasındag'ı ten'iz.
+geographical-object;['antarktika'];Antarktika bul jer sharının' en' to'meninde jaylasqan materik.
+geographical-object;['ullı britaniya'];Ullı Britaniya Evropadag'ı ma'mleket.
+geographical-object;["jan'a kaledoniya"];Jan'a Kaledoniya Okeaniya kontinentinde jaylasqan ma'mleket.
+geographical-object;['amerika'];Amerika — batıs yarım sharda jaylasqan bolıp, ol Jerdegi en' u'lken 2.
+geographical-object;['men atawı'];Men atawi Okeaniya kontinentinde jaylasqan ma'mleket.
+geographical-object;['atlantika okeanı'];Atlantika okeanı batista Amerikalar ha'm Tınısh okeanı, shıǵısta Evropa, Afrika, ha'm Hind okeanı, arqada Arktika okeanı, hámde qublada Qubla okeanı menen qorshalǵan suw kólemi esaplanadi.İlimpazlardıń aytıwınsha millionlap jıllar aldında jerde tek ǵana bir okean bolǵan hám ol dunyadaǵı kópshilik jerler házirgi Atlantika okeanı ornında bir-biri menen tutas bolǵan.
+geographical-object;["dunay da'ryası", "dunay da'ryasi"];Dunay da'ryasi Vengriya, Slovakiya ha'm to'rt paytaxt qaladan ag'ip o'tedi.
+geographical-object;['evraziya'];Evraziya - jer sharındag'ı jaylasqan materiklerdin' biri.
+geographical-object;['tınısh okeanı', 'tinish okeani', 'tınısh okean'];Tınısh okeanı bul batısta Aziya ha'm Avstraliya, shıg'ısta Amerikalar, qublada Qubla okeanı, ha'm arqada Arktika okeanı aralıg'ında jaylasqan suw ko'lemi esaplandı.
+geographical-object;["ten'iz maydanı"];Ha'zirgi ten'iz huqıqı ma'lim xalıqaralıq-huqıqıy normalar biyg'a'rez sisteması sıpatında 1982-jılı qabıl etilgen Ten'iz huqıqı boyınsha BMSh konventsiyasında kodifikatsiyalang'an.
+geographical-object;['komor atawları'];Komor atawlari Okeaniya kontinentinde jaylasqan ma'mleket.
+geographical-object;['nil'];Nil (Arabsha: النيل an-nīl) Afrikada jaylasqan da'rya.
+information-encoding-system;['poeziya'];Poeziya sanaat ha'm a'debiyattın' bir tu'ri.
+information-object;['radio'];Radio (lat.
+information-object;["ha'rip"];Ha'rip (Arabsha: رسالة‎) — alifbede bolg'an, jazıwda so'z dawısların (fonemalardı), olardın' variantların ha'm geybir qosılmalardı ko'rsetıw ushın xizmet qılatug'ın, baspa ya'ki jazba grafik belgı.
+information-realization;['operatsion sistema'];Operatsion sistema (ko'binese OS ha'mde O/S dep qisqartıladı) kompyuter sistemasının' bag'darlama komponenti bolıp, kompyuterdin' sheklengen resursların basqarıw ha'm koordinatsiya ha'reketlerine juwap beredi.
+information-realization;['maxabxarata', 'mahabharata'];Maxabxarata (महाभारत: {{{4}}}), /maɦaːbʱaːrət̪ə/) - hind xalqının' a'yyemgi eposlarının' biri.
+information-realization;['oferta'];Oferta (inglis tilinde offero «usınaman») — shaxstın' puxaralıq-huqıqıy sha'rtnama du'ziwge usınısı.
+information-realization;["bahalı qag'az"];Bahalı qag'az - bul hu'jjet iyesinin' mu'lklik huqıqın yamasa onın' emitentine mu'na'sibetin tastıyıqlawshı aqsha hu'jjet, yag'nıy bahalı qag'azdın' a'hmiyeti sonnan ibarat, bul usının' menen bir waqıtta ha'm menshik titulı, ha'm qarız minnetlemesi, ha'm da'ramat alıw huqıqı, ha'm da'ramattın' bir bo'legin to'lew minnetlemesi.
+information-realization;['unix'];Unix (aytılıwı Yuniks) kompyuter operatsion sisteması esaplanıp, AT&T kompaniyası isshileri ta'repinen Bell laboratoriyasında 1969-jılı jaratılg'an.
+information-realization;['besik jırı'];Besik jırı - qaraqalpaq xalıq qosıqlarının' belgili bir tu'ri bolıp esaplanadı.
+information-realization;["an'ızlar"];An'ızlar - qaraqalpaq ko'rkem awızeki do'retpelerinin' belgili bir janrı bolıp, do'reliwi jag'ınan ju'da' a'yyemgi zamanlarg'a barıp jetedi.
+information-realization;["xalıqaralıq sha'rtnama"];Xalıqaralıq sha'rtnamalar haqqında 1969-jılg'ı Vena Konventsiyası qag'ıydalarına muwapıq, xalıqaralıq sha'rtnama - ma'mleketler ha'm xalıqaralıq huqıqtın' basqa subektleri arasında bir, eki yamasa bir-biri menen baylanıslı bir neshe hu'jjetlerde iske asırılg'anına ja'ne onın' anıq atına qaramastan jazba tu'rde du'ziletug'ın xalıqaralıq huqıq penen retlestiriwshi pitim esaplanadı.
+information-realization;['obligatsiya'];Obligatsiya – aqsha qarjıları iyesinin' onı o'tkergenin ha'm belgilengen protsentti to'legen halda (shıg'arıw sha'rtlerinde basqashası na'zerde tutılmag'an bolsa) onda na'zerde tutılg'an mu'ddette bahalı qag'azdın' nominal bahasın og'an qaplaw haqqında minnetlemesin tastıyıqlaytug'ın bahalı qag'az.
+information-realization;['ms-dos'];MS-DOS (inglis Microsoft Disk Operating System so'zlerinen qısqartılg'an) bul Microsoft Korporatsiyası ta'repinen jaratılg'an operatsion sistema esaplanadı.
+information-realization;["a'debiyat"];A'debiyat bir tilge, da'wirge yamasa ma'deniyatqa tiyisli jazba shıg'armalardın' toplamı.
+information-realization;['avesto', 'avestā'];Avesto Orta Aziya tariyxında g'ana emes, al du'nya ma'deniyatı tariyxında u'lken a'hmiyetke iye.
+information-realization;['quran', "quranı ka'rim"];Arab xalqı ma'deniyatının', ulıwma islam dinindegi xalıqlardın' muqaddes ma'n'gi miyrası – Quran.
+language;['hakka tili'];Hakka (客家話/客家话, pinyin: kèjiāhuà, Hakka tilinde Hak-kâ-fa) Qıtaydın' qubla bo'leginde jasaytug'ın Hakkalar tarepınnen jaratılg'an Qıtay tillerı shan'arag'ına kiretug'ın til esaplanadı.
+language;['mongol tili'];Mongol tili — Mongoliyanın' ra'smıy tili.
+language;['dan tili', 'da', 'dan'];Dan tili (Dansk) — Daniya xalqının ana tili.
+language;['shved tili'];Shved tili (o'z atı svenska) - German tilleri toparına kiriwshi til.
+language;['bolgar tili'];Bolgar tili — Bolgariya xalqının ana tili.
+language;["tu'rk tili"];Tu'rkiyadan basqa-da arqa irakda, Siriyada, iranda, Kiprde ha'm Balkan ma'mleketlerınde so'ylesıledı.
+language;['esperanto tili', 'esperanto'];Esperanto tili (esperantoca: Esperanto) — bir jasama til.
+language;['rumin tili'];Rumin dili (ruminshe: limba română) — Shıg'ıs latın toparına kiriwshi til, Rumıniyanın' ma'mleketlik tili.
+language;['ingliz tili'];Ingliz tili : Angliya­nin' ha'm Buyik Britaniyanin' rasmi Tili.
+language;['latın tili'];Latın tili
+language;['qıtay tili'];Qıtay tili - Qıtayda ha'm onın' a'tirapında jasaytug'ın 1 milliarddan aslam xalıqtın' so'ylesetug'ın tili.
+language;['koreys tili'];Koreys tili : Arqa Koreya, ha'm Qubla Koreyanın' ra'smiy tili.
+language;['alban tili'];Alban tili (gjuha shqipe, gûha şkîpe, cuha şçipe) — hind-evropa tilleri topari'na kiriwshi til.
+language;['parsı tili'];Parsı tili — İran, Afg'anstan ha'm Ta'jikistan jasawshı xalqının‘ ana tili.
+language;['oksitan tili'];Oksitan tili (occitan) — Evropada Oksitan xalqının ana tili.
+language;['eston tili'];Eston tili (eesti keel) — Estoniya xalqının ana tili.
+language;['fin tili'];Fin tili — Finlyandiya xalqının ana tili.
+language;['venger tili'];Venger tili — (o'z atı: Magyar) vengerler tili.
+language;['urdu tili', 'urdû'];Urdu tili — Pakistan jasawshı xalqının‘ ana tili.
+language;['i̇span tili', 'ispan tili'];İspan tili — Hind-Evropa tilleri toparına kiredı ha'mde Ispan tilinde 320 million adam so'ylesedı.
+language;['arab tili'];Arab tili - samiy (semid) tiller toparına kiredi.
+language;['makedon tili'];Makedon tili (македонски јазик, makedonski jazik) — Makedoniya xalqının ana tili.
+language;['polyak tili'];Polyak tili — hind-Evropa tilleri shan'arag'ının' batıs slavyan tilleri toparındag'ı til. Polsha Respublikasının' ra'smiy tili.
+language;['belorus tili'];Belorus tili (belorussha беларуская мова) — shıg'ıs slavyan toparına kiriwshi til.
+language;['slovak tili'];Slovak tili (slovenský jazyk, Slovenčina) — Slovakiya xalqının ana tili.
+language;['ukrain tili'];Ukrain tili (ukrainsha українська мова) — shıg'ıs slavyan toparına kiriwshi till.
+language;['orıs tili'];Orıs tili (русский язык) - shıg'ıs slavyan grupasına kiriwshi til, Rossiyanın' ma'mleketlik tili.
+language;['nemis tili'];Nemis tili - Germaniya, Avstriya, Lixtenshteyn, Lyuksemburg, Belgiya ha'm Shveytsariyanın' ra'smiy tili esaplanadı.
+legal-possession-entity;['aktsiz'];Aktsiz (lat.
+locative-role;['florenciya'];Florenciya Italiya da jaylasqan qala.
+locative-role;['kyoto'];Kyoto, (Shablon:Lang-ja - Paytaxtların paytaxtı) — Yaponiyada jaylasqan qala.
+locative-role;['lyon'];Lyon qala.
+locative-role;['nankin', "nankin'"];Nankin (Qıtaysha Nanszin — qubla paytaxt) — Qıtaydın' shıg'ıs bo'legindegı qala.
+locative-role;['kharkiv'];"'Kharkiv'" Ukrainada jaylasqan qala.
+locative-role;['edirne'];Edirne Túrkiyada jaylasqan qala.
+locative-role;['sevastopol'];Sevastopol
+locative-role;['ho chi minh city'];Ho Chi Minh City - aldıng'ı atı Saygon bolg'an Vietnamnın' en' u'lken qalası esaplanadı.
+locative-role;['marsel'];Marsel (Fransuzsha: Marseille) — Franciyanın' en' iri teniz portı, ha'm Bouches-du-Rhône departamentinin' administrativ orayı.
+locative-role;['nyurnberg'];Nyurnberg Germaniyanın' Bavariya jerinde jaylasqan qala.
+locative-role;['degu', 'daegu'];Daegu (대구, 大邱) — Qubla Koreyada jaylasqan en' u'lken qalalardın' biri.
+locative-role;['pusan', 'busán'];Pusan qala.
+locative-role;['jeneva'];Jeneva Shveytsariyada jaylasqan qala.
+locative-role;['volgograd'];Volgograd RF dag'i qala.
+locative-role;['sankt peterburg'];Sankt Peterburg Rossiyada jaylasqan qala esaplanıp, onın' xalqı shama menen 4.039.751 adamg'a ten'.
+locative-role;['mekka', 'mekke'];Mekke (Arabsha: مكّة المكرمة‎ Makkah Al-Mukarramah) — Musulmanlardın' muqaddes qalası.
+locative-role;['xanchjou', 'hángzhōu'];Xanchjou — Qıtaydın' shıg'ıs bo'legindegi qala, Chjetszyan provinsiyasının' administrativ orayı.
+locative-role;['resife'];Resife (inglis Recife) — qala.
+locative-role;['xirosima', 'hiroshima'];Xirosima — Yaponiyada jaylasqan qala.
+locative-role;['monako'];Monako Evropadag'ı ma'mleket.
+locative-role;["qubla-shig'is aziya", "qubla-shıg'ıs aziya"];Qubla-shıg'ıs Aziya — Qitaydın', Hindistannın' ha'm Avstraliyanın' arasındag'ı kontinental ha'm u'lken territoriyalardı iyelegen u'lken kontinent.
+locative-role;['frankfurt'];Frankfurt-Маyn (Nemis Frankfurt am Main) — Germaniyada u'lkenlıgı boyınsha 5-shı qalası.
+locative-role;['maharashtra'];Maharashtra Hindistannın' ortasında jaylasqan shtat.
+locative-role;['serbiya', 'србија'];Serbiya Evropadag'ı ma'mleket.
+locative-role;['liverpool'];Liverpool Angliyada jaylasqan qala.
+locative-role;['ganover', 'hannover'];Ganover qala.
+locative-role;['nyukasl upon tyne', 'newcastle upon tyne'];"'Newcastle upon tyne'" Angliya da jaylasqan qala.
+locative-role;['göteborg'];Göteborg Shvetsiyada jaylasqan qala.
+locative-role;['andaliwsiya'];Andaliwsiya (isp.
+locative-role;['litva'];Litva (lt.
+locative-role;['blekpul', 'blackpool'];Blekpul (inglis Blackpool) — Ullı Britaniyada, Anglıyada jaylasqan qala.
+locative-role;['sheffield'];Sheffield qala.
+locative-role;['saragosa', 'zaragoza'];Saragosa - (İspansha.
+locative-role;['tebriz', 'tabriz'];Tebriz — İrannın' Arqa-Batısında jaylasqan qala.
+locative-role;['donetsk'];Donetsk (orıs.
+locative-role;['osaka'];Osaka — Yaponiyada jaylasqan qala.
+locative-role;['san paulo', 'sâo paulo'];San Paulo qala.
+locative-role;['bari'];Bari — İtaliyada jaylasqan qala.
+locative-role;['turin'];Turin (İt: Torino.) — İtaliyada jaylasqan qala.
+locative-role;['shikago', 'chicago'];Shikago qala.
+locative-role;['wels'];Wels Ullı Britaniyadag'ı ma'mleket esaplanadı.Xalqının' sanı 2,999,300 adamg'a shamalas.
+locative-role;['samarqand', 'samarkand'];Samarqand qala.
+locative-role;['rotterdam'];Rotterdam — Niderlandiyanın' batıs bo'legindegı qala, Reyn da'ryası deltasının' arqasında.
+locative-role;['myunxen'];Myunxen qala.
+locative-role;['milan'];Milan (Italiyansha.
+locative-role;['palermo'];"'Palermo'" Italiya da jaylasqan port qala.
+locative-role;['rio-de-janeiro', 'rio de janeiro', 'rio de jeneiro'];Rio-de-Janeiro (toliq ati: São Sebastião do Rio de Janeiro) Braziliya da Atlantika okeaninin' jag'asinda jaylasqan qala.
+locative-role;['i̇stanbul'];İstanbul Tu'rkiyada jaylasqan qala.
+locative-role;['nyu york', 'new york city'];Nyu York (inglis New York City) – AQSHdın' en' iri qalalardin' biri.
+locative-role;['arqa evropa'];Arqa Evropa Evropanin' Arqasinda jaylasqan aymaq.
+locative-role;['orayliq amerika'];Orayliq Amerika — Arqa Amerikadan, Meksika ha'm Panama kanalına shekem bolg'an aymaqta jaylasqan bo'legi.
+locative-role;['latın amerika'];Latın Amerika Amerika kontinentinde jaylasqan.
+locative-role;['vinetsiya'];"'Vinetsiya'" Italiya da jaylasqan Port qala.
+locative-role;['antarktida'];Antarktida (yunanshe: ἀνταρκτικός
+locative-role;['arktika'];Arktika — Jer shariniñ arqa bólegin iyeleytug'in aymaq.
+locative-role;['keyptaun'];Keyptaun (inglis Cape Town, — Qubla Afrika Respublikasının' paytaxtı.
+locative-role;["saxara sho'listanlıg'ı", 'sáhara'];Arqa Afrikada jaylasqan Saxara sho'listanlıg'ı u'lkenligi boyınsha du'nyada ekinshi orındı iyeleydi.
+non-physical-collection;['induizm'];Induizm – du'nyada bir din.
+non-physical-collection;['din'];Din - Tan'ri tarepinen jaratilg'an kanundir.
+non-physical-collection;['xalıqaralıq huqıq'];Xalıqaralıq huqıq ma'mleketler aralıq yaki ken'irek ma'nide xalıqaralıq qatnasıqlarg'a ta'n bolg'an waqıya ha'm protsesslerdin' huqıqıy qa'siyetlerin qarastıratın ilimi.
+non-physical-collection;['materiyalizm'];Materiyalizm (lat.
+non-physical-collection;['nominalizm'];Nominalizm (lat.
+non-physical-collection;['i̇slam dini'];Ïslam (arab.: إسلام‎) — älemdik monoteïsttik-ïbrahïmdik din.
+non-physical-collection;['realizm'];Realizm - filosofiyada iskusstvo ha'm a'debiyattag'ı realizm menen hesh qanday baylanıssız ha'm u'lken eki ma'nisti an'latıw ushın qollanılatug'ın filosofiyalıq termin esaplanadı.
+non-physical-collection;["orta a'sir sxolastikası"];Orta a'sir filosofiyası sxolastika degen atama menen ma'lim.
+organized-collection;['galaktika'];Galaktika tartıw ku'shı arqalı bir-birıne baylang'an juldızlardan, Juldızara gazlerden ha'm-de tozannan ha'm ha'zirshe onshalı ko'z jetirmeytın qaran'g'ı jisimnen ibarat ken'lik.
+organized-collection;['xalıqaralıq huqıq'];Xalıqaralıq huqıq ma'mleketler aralıq yaki ken'irek ma'nide xalıqaralıq qatnasıqlarg'a ta'n bolg'an waqıya ha'm protsesslerdin' huqıqıy qa'siyetlerin qarastıratın ilimi.
+phenomenon;['ximiyalıq reaksiya', 'хimiyalıq reaksiya'];Ximiyalıq reaksiya — bir yaki birneshe zattın' o'zınen ximiyalıq du'zılısı yakı qurılısı jaqtan parıqlanatın zatlarg'a qosılıwına aytıladı.
+phenomenon;['elektr togı', "elektr tog'ı"];Elektr togı — elektr zaryadlarının' ta'rtipli ha'reketi.
+phenomenon;['koreys jazıwı'];Koreys jazıwı (koreysshe: 한글 Han'gul (Qubla Koreyada) ya'ki 조선글 Choso‘n'gul (Arqa Koreyada)) jazılıwshı koreys milliy alifbesi.
+phenomenon;['fenomen'];Fenomen, (yunanshe: φαινόμενον , «ju'z beriwshi») — a'dettegidey emes qubılıs, az ushırawshı fakt.
+phenomenon;["ekonomikalıq o'siw"];== Ekonomikalıq o'siw ==
+phenomenon;['hawa rayı'];Hawa rayı aspanda ne bolıp atırg'anlıg'ı haqqında aytadı.
+phenomenon;['metabolizm'];Metabolizm bul ximiyalıq ha'reketler sisteması ja'rdeminde tiri janlardın' basqa zatlardan, ma'selen azıq-awqattan ku'sh (energiya) alıwı.
+phenomenon;['elektrik zaryadı'];Elektrik zaryadı — Zatin' elektromagnit maydanıin' bo'legi boliwi ha'm elektromagnit o'zara ta'sirı qatnasiw ukıbı keltiriwshi fiziki skalyar birlik.
+physical-body;['kometa'];Kometa yakı quyrıq-juldız Quyashtın' qasınnan aylanatug'ın shala dene, ol quyashqa jeterlı da'rejede jaqınlasqan waqıtta ko'rinıp turg'an kometa yaki quyrıq payda boladı.
+physical-body;['ay'];Ay — Jerdin' ta'biyiy joldası.
+physical-body;['asteroid'];Asteroidlar Galaktikag'a tiyisli kishi aspan deneleri bolip, olar Ku'nin' orbitasinda aylanip ju'redi.
+physical-body;['jer'];Jer - Quyash sistemasınıń úshinshı planetası.
+physical-body;['mars', '♂'];Mars — Quyash sistemasındag'ı 4-shi planetası.
+physical-body;['merkuriy'];Merkuriy — Quyash sistemasındag'ı planeta.
+physical-object;['velosiped'];Velosiped (lat.
+physical-object;['printеr'];Printеr (inglis print so'zinеn) — su'wretı ya'ki jazıwdı qag'azg'a ko'shiriw mashinası.
+physical-object;['avtomobil'];Avtomobil — adamlardi tasiwg'a mo'lsherlengen transport texnikası.
+physical-object;['taksi'];Taksi
+physical-object;['elektrod'];Elektrod
+physical-object;['gazeta'];Gazeta
+physical-object;['ventilyator'];Ventilyator (Lаtinshа: ventіlatіo — samallaw) — o'ndiris orinlarin samallatiwda, hawаni ya'ki bаsqа gаzlerdi qozg'alisqа tu'sіrіp оrnin аlmastiriw ushin olardin' artiq qisimin (a'dеttе, 0,15 Mpа-g'а dеyіngi) ko'shiriwde qollanilatug'in qurilma.
+physical-object;['mobil telefon'];Mobil telefon, yaki qol telefonı (uyalı telefon apparatı) — sımsız telefon turi.
+physical-object;['poyezd'];Poyezd — bir ya'ki bir neshe vagon tir-kelgen quramalı transport.
+physical-object;['ampermetr'];Ampermetr — o‘zgermes ha'm o‘zgeriwshen' tok ku'shin o‘lsheytug'ın a'sbap. elektr shınjırına izbe-iz jalganadı.
+physical-object;['gitara', 'gitar'];Gitara — sımlı-tartımlı mu'zika a'sbabı. a'detde barmaqlarda, ya'ki nayda (mizrab) shalınadı.
+physical-object;['sekundomer'];Sekundomer — waqi't arali'gi'n sag'at, minut, sekund ha'm sekunddi'n' u'leslerinde wo'lsheytug'i'n a'sbap.
+physical-object;['transformator'];Transformator, elektrik tog'in yaki toqtin' ku'shin azaytiw yaki uzatiw u'shin qolanilatug'in elektrik a'njamidir.
+physical-object;['transformator'];Transformator, elektrik tog'in yaki toqtin' ku'shin azaytiw yaki uzatiw u'shin qolanilatug'in elektrik a'njamidir.
+physical-object;["oksford u'niversitetı"];Oksford Universiteti (inglis Oxford University) Angliyanın' Oksford qalasinda 11-shi asirdın' aqırında qurılg'an oqiw orni.
+physical-object;['prinston universiteti'];Prinston universiteti (inglis Princeton University) - AQShtın' en' belgili ha'm abıroylı universitetlerinın' biri bolıp, 1746-shı jılda du'zilgen.
+physical-object;['avtobus'];Аvtоbus - adamlardı tasıwg'a arnalg'an transport texnikası.
+physical-object;['traktor'];Traktor
+physical-object;['vertolyot'];Vertolyot —
+physical-object;['oyınshıq'];Oyınshıq bul oynaw ushın zat.
+physical-object;['transformator'];Transformator, elektrik tog'in yaki toqtin' ku'shin azaytiw yaki uzatiw u'shin qolanilatug'in elektrik a'njamidir.
+physical-object;['teleskop'];Teleskop (τῆλε: {{{4}}} — uzaq + σκοπέω: {{{4}}} — qarayman, baqlayman) — astronomiyalıq denelerden keliwshi jaqtılıq nurların jıynap ha'm fokuslap beriwshi astronomiyalıq a'sbap.
+physical-object;['metro'];Меtropoliten adamlardı tasıytug'ın transport.
+physical-object;['labirint'];Labirint (grek.
+physical-object;['velosiped'];Velosiped (lat.
+physical-object;['lokomotiv'];Lokomotiv (lat.
+physical-object;['radar'];Radar [ing .
+physical-object;['i̇nternet', 'internet'];İnternet bul standart internet protokolı arqalı mag'lıwmatlardı paketler ja'rdeminde almasıwshı o'z-ara baylanısqan du'nya ju'zlik ha'm ha'mmege ashıq kompyuter tarmaqları jiynag'ı esaplanadı.
+political-geographic-object;['rumıniya', 'ruminiya'];Rumıniya Evropada jaylasqan ma'mleket.
+political-geographic-object;['florenciya'];Florenciya Italiya da jaylasqan qala.
+political-geographic-object;['kyoto'];Kyoto, (Shablon:Lang-ja - Paytaxtların paytaxtı) — Yaponiyada jaylasqan qala.
+political-geographic-object;['lyon'];Lyon qala.
+political-geographic-object;['nankin', "nankin'"];Nankin (Qıtaysha Nanszin — qubla paytaxt) — Qıtaydın' shıg'ıs bo'legindegı qala.
+political-geographic-object;['kharkiv'];"'Kharkiv'" Ukrainada jaylasqan qala.
+political-geographic-object;['edirne'];Edirne Túrkiyada jaylasqan qala.
+political-geographic-object;['sevastopol'];Sevastopol
+political-geographic-object;['ho chi minh city'];Ho Chi Minh City - aldıng'ı atı Saygon bolg'an Vietnamnın' en' u'lken qalası esaplanadı.
+political-geographic-object;['marsel'];Marsel (Fransuzsha: Marseille) — Franciyanın' en' iri teniz portı, ha'm Bouches-du-Rhône departamentinin' administrativ orayı.
+political-geographic-object;['nyurnberg'];Nyurnberg Germaniyanın' Bavariya jerinde jaylasqan qala.
+political-geographic-object;['degu', 'daegu'];Daegu (대구, 大邱) — Qubla Koreyada jaylasqan en' u'lken qalalardın' biri.
+political-geographic-object;['pusan', 'busán'];Pusan qala.
+political-geographic-object;['jeneva'];Jeneva Shveytsariyada jaylasqan qala.
+political-geographic-object;['volgograd'];Volgograd RF dag'i qala.
+political-geographic-object;['sankt peterburg'];Sankt Peterburg Rossiyada jaylasqan qala esaplanıp, onın' xalqı shama menen 4.039.751 adamg'a ten'.
+political-geographic-object;['mekka', 'mekke'];Mekke (Arabsha: مكّة المكرمة‎ Makkah Al-Mukarramah) — Musulmanlardın' muqaddes qalası.
+political-geographic-object;['abu dabi', 'abú dhabí'];Аbu Dabi — Abu Dabi qala.
+political-geographic-object;['xanchjou', 'hángzhōu'];Xanchjou — Qıtaydın' shıg'ıs bo'legindegi qala, Chjetszyan provinsiyasının' administrativ orayı.
+political-geographic-object;['resife'];Resife (inglis Recife) — qala.
+political-geographic-object;['xirosima', 'hiroshima'];Xirosima — Yaponiyada jaylasqan qala.
+political-geographic-object;['arqa koreya'];Koreya Xalıq Demokratik Respublikası (KXDR) ya'kı Arqa Koreya — Koreya yarımatawında, Qubla Koreya arqasında jaylasqan ma'mleket.
+political-geographic-object;['norvegiya', 'kongeriket noreg', 'kongeriket norge', 'noreg', 'norge'];Norvegiya — Arqa Evropada Skandinaviya yarimatawinin' batis bo'leginde jaylasqan mamleket.
+political-geographic-object;['niderlandiya'];Niderlandiya Patshalig'i (inglis Nederlands [ˈneːdərlɑnt], — Batis Evropa dag'i Mamleket.
+political-geographic-object;['lesoto'];Lesoto (inglis Kingdom of Lesotho. sesoto tilinde Muso oa Lesotho) — Qubla Afrikada jaylasqan ma'mleket.
+political-geographic-object;['yaponiya'];Yaponiya, shıg'ıs Aziyada jaylasqan ma'mleket.
+political-geographic-object;['monako'];Monako Evropadag'ı ma'mleket.
+political-geographic-object;['oraylıq afrika respublikası', 'oraylıq afrika'];Orajlıq Afrika Respublikası (Fransuzsha: République centrafricaine, sango: Ködörösêse tî Bêafrîka) — Orajlıq Afrikada žajlasqan mămleket.
+political-geographic-object;['malayziya'];Malayziya respublikasi.
+political-geographic-object;['namibiya'];Namibiya (inglis Republic of Namibia) — Qubla Afrikada jaylasqan ma'mleket.
+political-geographic-object;["antigua ha'm barbuda"];Antigua ham Barbuda Qubla amerika materiginde jaylasqan mamleket.
+political-geographic-object;['beliz', 'belize'];Beliz — Arqa amerika materiginde jaylasqan mamleket.
+political-geographic-object;['ekvatorial gvineya'];Ekvatorial Gvineya (Fransuzsha: Guinea Ecuatorial , İspansha.
+political-geographic-object;["sent-kitts ha'm nevis"];Sent-Kitts ha'm Nevis Okeaniya da jaylasqan mamleket.
+political-geographic-object;['dominika'];Dominika Orayliq Amerika da jaylasqan mamleket.
+political-geographic-object;['angliya'];Angliya Ullı Britaniyadag'ı en' u'lken ma'mleket esaplanadı.
+political-geographic-object;['shveytsariya', 'ch'];Shveytsariya Evropadag'ı ma'mleket.
+political-geographic-object;["birlesken arab a'mirlikleri", 'birlesken arab amirlikleri', 'birlesken arab emiratları'];Birlesken Arab A'mirlikleri yamasa BAA' Jaqi'n Shi'g'i'sta jaylasqan ma'mleket, oni'n' paytaxti' ha'm en' ulken qalasi' bul Abu Dabi.
+political-geographic-object;['sovetler soyuzı'];Sovetler awqami 1922-jili V.I.Lenin qurgan memleket.
+political-geographic-object;['frankfurt'];Frankfurt-Маyn (Nemis Frankfurt am Main) — Germaniyada u'lkenlıgı boyınsha 5-shı qalası.
+political-geographic-object;['lyuksemburg'];Lyuksemburg Evropadag'ı ma'mleket.
+political-geographic-object;['marokko'];Marokko Afrika kontinentinde jaylasqan ma'mleket.
+political-geographic-object;['i̇spaniya', 'ispaniya'];İspaniya (İspansha.
+political-geographic-object;['saudiya arabstanı', 'saudiya arabıstanı', 'saud araviya'];Saudiya Arabıstanı Patshalıg'ı (Arabsha: المملكة العربية السعودية‎) — Arabıstan yarım atawında en' İri ma'mleket.
+political-geographic-object;['chad', 'shad'];Chad (Fransuzsha: République du Tchad, Arabsha: جمهورية تشاد‎) — Oraylıq Afrikada jaylasqan ma'mleket.
+political-geographic-object;['chad', 'shad'];Shad Afrika da jaylasqan mamleket.
+political-geographic-object;['tajikstan', "ta'jikistan", 'tajikistan'];Ta'jikistan - Orta Aziyada jaylasqan ma'mleket.
+political-geographic-object;['uganda'];Uganda — Shıg'ıs Afrikada jaylasqan ma'mleket.
+political-geographic-object;['belorussiya'];Belorussiya Evropadag'ı ma'mleket.
+political-geographic-object;['malavi', 'malawi'];Malavi Afrika kontinentinde jaylasqan ma'mleket.
+political-geographic-object;['zimbabve'];Zimbabve (inglis Republic of Zimbabwe. shona ha'm ndebele tillerinde Zimbabwe) — Shıg'ıs Afrikada jaylasqan ma'mleket.
+political-geographic-object;["a'zerbayjan", 'azerbayjan', "a'zirbayjan", 'azerbaijan', 'aʻzirbayjan'];A'zerbayjan - Aziya ha'm Evropada jaylasqan ma'mleket.
+political-geographic-object;["qırg'ızstan", "qırg'ızıstan"];Qırg'ızstan Oraylıq Aziyadag'ı ma'mleket esaplanadı.
+political-geographic-object;["o'zbekstan", "o'zbekistan", 'ózbekistan'];Ózbekistan - Oraylıq Aziyadag'ı mámleket.
+political-geographic-object;['mali'];Mali Afrika kontinentinde jaylasqan ma'mleket.
+political-geographic-object;['qazaqstan', 'қазақстан'];Qazaqstan (Qazaqstan Respublikası) — Evraziya materiginin' ortasında jaylasqan ma'mleket.
+political-geographic-object;['mongoliya'];Mongoliya, — Orayliq Aziyada jaylasqan ma'mleket.
+political-geographic-object;['liverpool'];Liverpool Angliyada jaylasqan qala.
+political-geographic-object;['belgiya'];Belgiya (Fransuzsha: Belgique, inglis Belgium), (Koninkrijk België, — Arqa-Batis Evropada jaylasqan Mamleket, NATO-sho'lkeminin' ag'zasi.
+political-geographic-object;['svazilend', 'swaziland'];Svazilend (inglis Kingdom of Swaziland. sisvati tilinde Umbuso weSwatini) — Qubla Afrikada jaylasqan ma'mleket.
+political-geographic-object;['tonga'];Tonga, ya'ki Tonga Patshalıg'ı inglis Kingdom of Tonga) - Okeaniyada jaylasqan ma'mleket.
+political-geographic-object;['pakistan'];Pakistan Respublikası — Qubla aziyada jaylasqan ma'mleket.
+political-geographic-object;['bangladesh'];Bangladesh Respublikasi Qubla aziyada jaylasqan mamleket.
+political-geographic-object;["afg'anstan", "awg'anistan"];Awǵanıstan — Oraylıq Aziyada jaylasqan ma'mleket.
+political-geographic-object;['avstriya'];Avstriya Evropadag'ı ma'mleket.
+political-geographic-object;['laos'];Laos Xalıq Demokratik Respublikasi (Sathalanalat Pasathipatai Pasacon Lao) — Qubla-shig'is Aziyada, Hindiqıtay yarim-atawinin' ortasinda jaylasqan ma'mleket.
+political-geographic-object;['myanma'];Myanmar, — Qubla shig'is aziyada jaylasqan mamleket.
+political-geographic-object;['kambodja'];Kambodja Aziyadag'ı ma'mleket.
+political-geographic-object;['avstraliya'];Avstraliya (inglis Australia, — "Qubla"), (inglis Commonwealth of Australia, — Qubla yarımsharda jaylasqan ma'mleket, ol Avstraliya materiginde, Tasmaniya atawında ha'm Hind okeanı menen tınısh okeanının' birneshe atawlarında jaylasqan.
+political-geographic-object;['ganover', 'hannover'];Ganover qala.
+political-geographic-object;['nyukasl upon tyne', 'newcastle upon tyne'];"'Newcastle upon tyne'" Angliya da jaylasqan qala.
+political-geographic-object;['göteborg'];Göteborg Shvetsiyada jaylasqan qala.
+political-geographic-object;['makao'];Makao Afrika kontinentinde jaylasqan ma'mleket.
+political-geographic-object;['kataloniya'];Kataloniya (inglis Catalonia, Katalansha.
+political-geographic-object;["tu'rkmenistan", "tu'rkmenstan"];Tu'rkmenistan (tu'rkmenshe.
+political-geographic-object;['gruziya'];Gruziya Evraziya materiginin' ortasında jaylasqan ma'mleket.
+political-geographic-object;['ruanda', 'rwanda'];Ruanda (inglis Republic of Rwanda. Fransuzsha: République du Rwanda. kinyaruanda tilinde Repubulika y'u Rwanda) — Shıg'ıs Afrikada jaylasqan ma'mleket.
+political-geographic-object;['zambiya', 'zambia'];Zambiya (inglis Republic of Zambia) — Shıg'ıs Afrikada jaylasqan ma'mleket.
+political-geographic-object;['zair'];Zair Afrika da jaylasqan ma'mleket.
+political-geographic-object;['gonduras', 'honduras'];Gonduras respublikasi - Orayliq Amerikada jaylasqan ma'mleket.
+political-geographic-object;['kosta-rika', 'crc', 'kosta rika'];Kosta Rika (inglis Costa Rica. — Oraylıq Amerikada jaylasqan ma'mleket.
+political-geographic-object;['vengriya'];Vengriya Evropadag'ı ma'mleket.
+political-geographic-object;['polsha', 'polska'];Polsha
+political-geographic-object;['burundi'];Burundi (Fransuzsha: République du Burundi. rundi tilinde Republika y'u Burundi) — Shıg'ıs Afrikada jaylasqan ma'mleket.
+political-geographic-object;['tanzaniya'];Tanzaniya — Shıg'ıs Afrikada jaylasqan ma'mleket.
+political-geographic-object;['somalia'];Somalia Afrika da jaylasqan mamleket.
+political-geographic-object;['vietnam', 'vetnam'];Vietnam - Aziyadag'ı ma'mleket.
+political-geographic-object;['libya', 'liviya'];Liviya respublikasi.
+political-geographic-object;['germaniya'];Germaniya Federativ Respublikası GFR. [ˈbʊndəsʁepuˌbliːk ˈdɔʏtʃlant]
+political-geographic-object;['sudan'];Sudan (Arabsha: جمهورية السودان ‎) — Arqa Afrikada jaylasqan ma'mleket.
+political-geographic-object;['mısır', 'egipet'];Mısır — Arqa Afrikada jaylasqan ma'mleket.
+political-geographic-object;['gayana'];Gayana respublikasi.
+political-geographic-object;['surinam'];Surinam Qubla Amerika dag'ı ma'mleket.
+political-geographic-object;['venesuela'];Venesuela respublikasi.
+political-geographic-object;['aljir'];Aljir (Arabsha: الجمهورية الجزائرية الديمقراطية الشّعبية ‎) — Arqa Afrikada Saxara sho'listanlıg'ının' arqasında jaylasqan ma'mleket.
+political-geographic-object;['hindistan'];Hindistan Respublikası inglis India, Republic of India) - Aziyada Hindistan yarım atawında jaylasqan ma'mleket.
+political-geographic-object;['i̇taliya', 'italiya'];İtaliya Evropadag'ı ma'mleket.
+political-geographic-object;['chili', 'shili'];Chili - Qubla Amerikadag'ı ma'mleket.
+political-geographic-object;['paragvay'];Paragvay — Qubla Amerika kontinentinde jaylasqan ma'mleket.
+political-geographic-object;['botsvana', 'botswana'];Botsvana (inglis Republic of Botswana. setsvana tilinde Lefatshe la Botswana) — Qubla Afrikada jaylasqan ma'mleket.
+political-geographic-object;['mozambik'];Mozambik Afrikadag'ı ma'mleket.
+political-geographic-object;['i̇ndoneziya', 'i̇ndonesiya'];İndoneziya, (Respublik İndonesia).
+political-geographic-object;['gretsiya', 'yunanistan', 'greciya'];Yunanistan — (yunan.
+political-geographic-object;['ukraina'];Ukraina (Ukr.
+political-geographic-object;['meksika'];Meksika — (İspansha.
+political-geographic-object;['armeniya'];Armeniya Aziya materiginin' ortasında jaylasqan ma'mleket.
+political-geographic-object;['i̇rak'];Irak respublikasi (IRAQ) Qubla batis aziyada jaylasqan.
+political-geographic-object;['qubla koreya', 'koreya respublikası'];Qubla Koreya (ra'smiy atali'wi': Koreya Respublikasi') Koreya yari'm atawi'ni'n' qublasi'nda, Aziyani'n' arqa-shi'g'isi'nda jaylasqan ma'mleket.
+political-geographic-object;['gambiya'];Gambiya Afrikadag'ı ma'mleket.
+political-geographic-object;['gana'];Gana — (inglis Republic of Ghana), - Afrika materiginde jaylasqan mamleket.
+political-geographic-object;['nigeriya'];Nigeriya (inglis Nigeria), Nigeriya Federativ Respublikası (inglis Federal Republic of Nigeria) — Batıs Afrikada jaylasqan ma'mleket.
+political-geographic-object;['kot-di̇vuar'];Kot-divuar respublikasi.
+political-geographic-object;['gabon'];Gabon (Fransuzsha: République Gabonaise) — Oraylıq Afrikada jaylasqan ma'mleket.
+political-geographic-object;['kongo'];Kongo, ya'ki Kоngо Respublikası - Afrika kontinentinde jaylasqan ma'mleket.
+political-geographic-object;['kamerun'];Kamerun (Fransuzsha: République du Cameroun) — Oraylıq Afrikada jaylasqan ma'mleket.
+political-geographic-object;['senegal'];Senegal Afrika kontinentinde jaylasqan ma'mleket.
+political-geographic-object;['frantsiya', 'franciya'];Frantsiya (inglis France [fʁɑ̃s]), rasmiy ati (Fransuzsha: République française [ʁepyblik fʁɑ̃sɛz]) — Batis Evropa da jaylasqan Mamleket.
+political-geographic-object;['ekvador'];Ekvador Qubla Amerika materiginde jaylasqan ma'mleket.
+political-geographic-object;['i̇rlandiya', 'irlandiya'];İrlandiya Evropadag'ı ma'mleket.
+political-geographic-object;['madagaskar'];Madagaskar — respublikası.
+political-geographic-object;['maldiv atawları', 'maldiv arallari'];Maldiv atawları (Dhivehi Raa’je, ra'smiy atı Maldiv Respublikası Diwehi Raddýege Dýumhuriýa) — Qubla Aziyada, Hindistannın' qublasında, Hind okeanında atawlar toparında jaylasqan ma'mleket.
+political-geographic-object;['el salvador'];El Salvador, — Orayliq amerikada jaylasqan ma'mleket.
+political-geographic-object;['filippin'];Filippin, Filippin Respublikasi
+political-geographic-object;['seyshel atawları'];Seyshel atawlari - Afrikada jaylasqan mamleket.
+political-geographic-object;['blekpul', 'blackpool'];Blekpul (inglis Blackpool) — Ullı Britaniyada, Anglıyada jaylasqan qala.
+political-geographic-object;['shvetsiya'];Shvetsiya Patshalig'i (Shablon:Lang-sv) — Arqa Evropada Skandinaviya yarimatawida jaylasqan ma'mleket.
+political-geographic-object;['al-quwayt', 'al-kuveyt'];Kuveyt (ya'ki Al- Kuveyt — Arabsha: الكويت ‎) — Kuveyt ma'mleketinin' paytaxtı.
+political-geographic-object;['paytaxt'];Paytaxt — Mamleketin' yaki Administrativ (ma'selen, Avtonom respublika, Provinsiya, Shtat) rasmiy basli Qala, degen mag'analardi an'latadi.
+political-geographic-object;['puerto-riko'];Puerto-Riko — Orayliq amerikada jaylasqan ma'mleket.
+political-geographic-object;['lixtenshteyn'];Lixtenshteyn Evropadag'ı ma'mleket.
+political-geographic-object;['andorra'];Andorra Evropadag'ı ma'mleket.
+political-geographic-object;['kanzas', 'kansas'];Kansas, AQSHdag'i' shtat.
+political-geographic-object;['alyaska', 'alaska'];Alyaska - Arqa Amerikanin' en' arqa-batis bo'leginde jaylasqan AQSHqa tiyisli bolg'an shtat.
+political-geographic-object;['florida'];Florida - Amerika Qurama Shtatlarınan bırı.
+political-geographic-object;['arizona'];Arizona - AQSH da jaylasqan shtatlardin' biri.
+political-geographic-object;['alabama'];Alabama — AQSHda jaylasqan shtatlardin' biri.
+political-geographic-object;['kaliforniya shtati'];Каliforniya - АQSHtin' qubla-shig'isinda jaylasqan shtati.
+political-geographic-object;['sheffield'];Sheffield qala.
+political-geographic-object;['oman'];Oman sultanlig'i - Arabistan yarim atawinda jaylasqan mamleket.
+political-geographic-object;['amerikalıq samoa'];Amerikalıq Samoa, inglis American Samoa) - Okeaniyada jaylasqan ma'mleket.
+political-geographic-object;['damashq'];Damashq — Siriyanın' Paytaxtı.
+political-geographic-object;['saragosa', 'zaragoza'];Saragosa - (İspansha.
+political-geographic-object;['tebriz', 'tabriz'];Tebriz — İrannın' Arqa-Batısında jaylasqan qala.
+political-geographic-object;['kuvayt', 'kuveyt', 'kuveit'];Kuveyt, (Arabsha دولة الكويت - Dawlat al-Kuwayt) - Batıs Aziyada Arabıstan yarım atawında jaylasqan ma'mleket.
+political-geographic-object;['i̇ordaniya', 'iordaniya'];İordaniya Patshalıg'ı (Arabsha: المملكة الأردنية الهاشمية‎, el-Memleket-ul-Urduniýe el-Haşimiýe) ya'ki İordaniya (Arabsha: الأردن‎, el-Urdun) — Qubla Batıs Aziyada jaylasqan arab ma'mleketi.
+political-geographic-object;['tibet'];Tibet — Aziyadag'ı ma'mleket.
+political-geographic-object;['livan'];Livan, (Arabsha الجمهورية اللبنانية - Al-Jumhūriyyah al-Lubnāniyyah) - Qubla-Batıs Aziyada, Worta jer ten'izinın' shıg'ıs jag'asında jaylasqan ma'mleket.
+political-geographic-object;['vatikan'];Vatikan Evropadag'ı qala memleket.
+political-geographic-object;['fidji'];Fidji Aziya dag'ı ma'mleket.
+political-geographic-object;['amsterdam'];Amsterdam- Niderlandiyanın' paytaxtı.
+political-geographic-object;['donetsk'];Donetsk (orıs.
+political-geographic-object;['osaka'];Osaka — Yaponiyada jaylasqan qala.
+political-geographic-object;['cape verde', 'kabo-verde', 'kavo verde'];Kabo-verde Afrika kontinentinde jaylasqan ma'mleket.
+political-geographic-object;['baxreyn'];Baxreyn, (arabsha البحرين - al-Bahrayn, — Arabstan yarim atawinda jaylasqan ma'mleket.
+political-geographic-object;['vanuatu'];Vanuatu Afrika kontinentinde jaylasqan ma'mleket.
+political-geographic-object;['kiribati'];Kiribati, ya'ki Kiribati Respublikası inglis Republic of Kiribati) - Okeaniyada jaylasqan ma'mleket.
+political-geographic-object;["trinidad ha'm tobago"];Trinidad ha'm Tobago Orayliq Amerikada jaylasqan ma'mleket.
+political-geographic-object;['i̇slandiya'];İslandiya Evropadag'ı ma'mleket.
+political-geographic-object;['grenada'];Grenada Arqa Amerika da jaylasqan mamleket.
+political-geographic-object;['san paulo', 'sâo paulo'];San Paulo qala.
+political-geographic-object;['abuja'];Abuja — Nigeriyanın' Paytaxtı.
+political-geographic-object;['lima'];Lima- Perudın' paytaxtı.
+political-geographic-object;['sofiya'];Sofiya - Bolgariyanın' paytaxtı.
+political-geographic-object;['bogota', 'bogotá'];Bogota - Kolumbiyanin' paytaxti.
+political-geographic-object;['praga'];Praga Shexiyanın' paytaxtı.
+political-geographic-object;['budapesht', 'budapest'];"'Budapesht"' Vengriya nin' Paytaxti.
+political-geographic-object;['jakarta'];Jakarta (indo.
+political-geographic-object;["bag'dad", 'bagdād', 'bag`dad'];Bag'dad (Arabsha: بغداد‎) – Iraqtın' paytaxtı.
+political-geographic-object;['rome'];Rim - İtaliyanın' paytaxtı.
+political-geographic-object;['beyrut'];Beyrut (Arabsha بيروت) — Livannin' Paytaxti ha'm en' u'lken qalasi.
+political-geographic-object;['buxarest'];Buxarest Ruminiyani'n' Paytaxti.
+political-geographic-object;['al-qudıs', 'ierusalim', 'i̇erusalim', 'yerusalim'];Yerusalim (İvrit: יְרוּשָׁלַיִם‎‎, القُدس) İsraildin' paytaxtı esaplanadı, xalıqaralıq ja'miyet ta'repinen ta'n alınbag'an bolsada.
+political-geographic-object;['kiev', 'kyiv'];"'Kyiv'" Ukraina nin' Paytaxti.
+political-geographic-object;['belgrad'];Belgrad- Serbiyanın' paytaxtı.
+political-geographic-object;['bari'];Bari — İtaliyada jaylasqan qala.
+political-geographic-object;['turin'];Turin (İt: Torino.) — İtaliyada jaylasqan qala.
+political-geographic-object;['erevan'];"'Erevan"'
+political-geographic-object;['berlin'];Berlin- Germaniyanın' paytaxtı.
+political-geographic-object;['pxenyan'];"Pxenyan" Arqa Koreya nin' Paytaxti.
+political-geographic-object;['er-riyad', 'er riyad'];Er-riyad (Arab:الرياض) — Saudiya Arabıstanının' Paytaxtı.
+political-geographic-object;['pekin'];Pekin (inglis Beijing) — Qıtay Respublikasının' paytaxtı.
+political-geographic-object;['tailand', 'tayland'];Tayland (Taysha ราชอาณาจักรไทย - Ratcha Anachak Thai) - Qubla shıg'ıs aziyada jaylasqan ma'mleket.
+political-geographic-object;['efiopiya', 'efiyopia'];Efiopiya
+political-geographic-object;['moskva'];Moskva - Rossiyanın' paytaxtı.
+political-geographic-object;['benin'];Benin (Fransuzsha: Benin) — Batıs Afrikada jaylasqan ma'mleket.
+political-geographic-object;['burkina faso', 'burkina-faso'];Burkina Faso (Fransuzsha: Burkina Faso ) — Batıs Afrikada jaylasqan ma'mleket.
+political-geographic-object;['bagama atawları'];Bagama atawlari Okeaniya dag'ı ma'mleket.
+political-geographic-object;["san-tome ha'm prinsipi"];San-Tome ha'm Prinsipi (Portugalsha: República Democrática de São Tomé e Príncipe) — Oraylıq Afrikada jaylasqan ma'mleket.
+political-geographic-object;['i̇zrail', 'i̇srail'];İzrail, ya'ki — İzrail Ma'mleketi (Shablon:Lang-he) — Aziyanın' qubla-batısında, Orta jer ten'izinın' shıg'ıs jag'asında jaylasqan ma'mleket.
+political-geographic-object;['shikago', 'chicago'];Shikago qala.
+political-geographic-object;['tripoli'];Tripoli Libya nin' paytaxti.
+political-geographic-object;['shotlandiya'];Shotlandiya Britaniya atawlarının' arqasında jaylasqan ma'mleket.
+political-geographic-object;['finlyandiya'];Finlyandiya (fin: Suomi) inglis Finland., ya'ki Finlyandiya Respublikası, — Evropanın' arqasında jaylasqan Ma'mleket.
+political-geographic-object;['atlanta'];"'Atlanta'" AQSHda jaylasqan qala.
+political-geographic-object;['samarqand', 'samarkand'];Samarqand qala.
+political-geographic-object;['rotterdam'];Rotterdam — Niderlandiyanın' batıs bo'legindegı qala, Reyn da'ryası deltasının' arqasında.
+political-geographic-object;['asunsion', 'asunción'];Asunsion, — Paragvaydi'n' Paytaxti.
+political-geographic-object;['doha'];Doha qala.
+political-geographic-object;['paramaribo'];Paramaribo — Surinam paytaxti.
+political-geographic-object;['qabul', 'kabul'];Kabul — (Arabsha : کابل ) Afganstannın' Paytaxtı.
+political-geographic-object;['tirana'];Tirana Albaniyanın' Paytaxtı.
+political-geographic-object;['vena'];Vena
+political-geographic-object;['dakka', 'dhaka', 'daka'];Dakka — Bangladeshtin' Paytaxti.
+political-geographic-object;['myunxen'];Myunxen qala.
+political-geographic-object;['bryussel'];Brussel (inglis Brussels. nemis.: Stadt Brüssel ) — Belgiyanın' paytaxti ha'm en' u'lken qalası.
+political-geographic-object;['santiago'];Santiago - Chilidin' paytaxtı.
+political-geographic-object;['san xose', 'san jose'];San Xose — Kosta Rika Paytaxti.
+political-geographic-object;['arqa nikosiya', 'nikosiya', 'lefkoşa'];Arqa Nikosiya (Lefkoşa: {{{4}}}, Grekshe: Λευκωσία) de fakto ma'mleket esaplang'an Arqa Kipr Tu'rk Respublikasının' paytaxtı ha'mde en' u'lken qalası.
+political-geographic-object;['arqa nikosiya', 'nikosiya', 'lefkoşa'];(grek.
+political-geographic-object;['kopengagen'];Kopengagen — Daniyanın' paytaxtı ha'm en' u'lken qalası.
+political-geographic-object;['san salvador'];San Salvador, — El Salvadordın' Paytaxtı.
+political-geographic-object;['london'];London - Angliyanın' ha'm Ullı Britaniyanın paytaxtı.
+political-geographic-object;['tallin'];Tallin — Estoniyanın' Paytaxtı.
+political-geographic-object;['xelsinki', 'helsingfors', 'helsinki'];Xelsinki (fi.
+political-geographic-object;['paris', 'parij'];Parij (inglis Paris [paˈʁi]) Frantsiyanin' paytaxti.
+political-geographic-object;['tbilisi'];"Tibilisi" Gruziya nin' Paytaxti.
+political-geographic-object;['akkra', 'accra'];Akkra (inglis Accra) — Gananın' paytaxtı.
+political-geographic-object;['afina'];Afina Gretsiya nin' paytaxti.
+political-geographic-object;['tehran', 'teherán', 'tegeran'];Tehran- İranın' paytaxtı.
+political-geographic-object;['tokiyo', 'tokyo'];Tokiyo (yapon tilinde:東京, Tōkyō) — Yaponiyanın' paytaxtı bolıp, so'zbe-so'z awdarma qılg'anda „Shıg'ıs paytaxt“ ma'nisin bildiredi.
+political-geographic-object;['amman'];Amman (Arabsha: عمان‎), — İordaniyanın' Paytaxtı.
+political-geographic-object;['pnompen', 'phnom penh'];Pnompen (кхмерск.
+political-geographic-object;['nayrobi', 'nairobi'];Nayrobi (inglis Nairobi) — Kenyanın' paytaxtı.
+political-geographic-object;['ventyan', 'vientiane'];Ventyan (Lао: Wieng Jan ວຽງຈັນ) — Laostin' Paytaxti, Xalqi sani 783 min' aslam.
+political-geographic-object;['riga'];Riga — Latviyanin' Paytaxti.
+political-geographic-object;['kuala lumpur'];"Kuala-Lumpur" Malayziyanin' paytaxti.
+political-geographic-object;['mexiko'];"'Mexiko'" Meksika nin' Paytaxti.
+political-geographic-object;['ulan-bator'];Ulan-bator — Mongoliyanin' Paytaxti.
+political-geographic-object;['katmandu'];Katmandu (काठमांडौ, Kāthmāndau) Nepaldin' Paytaxti ha'm en' Iri qalasi.
+political-geographic-object;['oslo'];Oslo — Norvegiyani'n' Paytaxti.
+political-geographic-object;['varshava'];Varshava (inglis Warsaw) — Polshani'n' Paytaxti.
+political-geographic-object;['seul', 'seoul'];Seul (koreysshe: 서울) Koreya Respublikasi'ndag'i (Qubla Koreya) en' u'lken qala ha'm oni'n' paytaxti' esaplanadi'.
+political-geographic-object;['madrid'];Madrid - İspaniyanın' paytaxtı
+political-geographic-object;['bangkok'];Bangkok (Krung Thep Maha Nakhon) ) — Tailandtin' Paytaxti ha'm en' u'lken qalasi.
+political-geographic-object;['antananarivo'];Antananarivo — Madagaskardın' Paytaxtı.
+political-geographic-object;['manila'];"'Manila'" Fillipinnın' Paytaxtı.
+political-geographic-object;['sano', "sana'a"];Sano (Arаbsha.
+political-geographic-object;['ashxabad', 'ashgabat'];Ashxabad, — Tu'rkmenistannın' paytaxtı.
+political-geographic-object;['montevideo'];Montevideo — Urugvaydi'n' paytaxti.
+political-geographic-object;['karakas', 'caracas'];"Karakas" Venesuela nin' Paytaxti.
+political-geographic-object;['xanoy', 'hanoi', 'xanoi'];Хаnoy (Shablon:Hà Nội, — Vietnamnin' Paytaxti ha'm en' u'lken qalasi, Klimati — Mussonli.
+political-geographic-object;['kanberra', 'canberra'];Kanberra (inglis Canberra). — Avstraliyanın' paytaxtı.
+political-geographic-object;['baku', 'bakı'];Baku- Azerbayjannın' paytaxtı.
+political-geographic-object;['manama'];Manama — Baxreinnın' Paytaxtı.
+political-geographic-object;['minsk'];"Minsk" Belorussiya nin' Paytaxti.
+political-geographic-object;['brasília', 'brasilia'];Brasília, — Braziliyanın' Paytaxtı.
+political-geographic-object;['ottava', 'ottawa'];Ottava Kanadanın' Paytaxtı.
+political-geographic-object;['zagreb'];Zagreb- Xorvatiyanın' paytaxtı.
+political-geographic-object;['al-qahira'];Al-Qahira (inglis Cairo) — Mısırdın' paytaxtı.
+political-geographic-object;['addis abeba'];Addis Abeba — Efiyopiyanın' paytaxtı.
+political-geographic-object;['almati'];Almatı (Shablon:Lang-kk) — Qazaqstannın' en ulken qalası.
+political-geographic-object;['bishkek'];Bishkek Qirg'izstan respublikasi paytaxti.
+political-geographic-object;['milan'];Milan (Italiyansha.
+political-geographic-object;['i̇slamabad', 'islamabad'];İslamabad Pakistannın' paytaxtı.
+political-geographic-object;['palermo'];"'Palermo'" Italiya da jaylasqan port qala.
+political-geographic-object;['lyublyana'];Lyublyana — Sloveniyanın' paytaxtı.
+political-geographic-object;['dushanbe'];Dushanbe qala.
+political-geographic-object;['ankara'];Ankara - Tu'rkiyanın' paytaxtı.
+political-geographic-object;['tashkent'];Tashkent — Orayliq Aziyanın' en' u'lken tariyxıy qalalarınan biri - O'zbekistannın' paytaxtı.
+political-geographic-object;['melburn', 'melbourne'];Melburn — Avstraliya da jaylasqan qala.
+political-geographic-object;['rio-de-janeiro', 'rio de janeiro', 'rio de jeneiro'];Rio-de-Janeiro (toliq ati: São Sebastião do Rio de Janeiro) Braziliya da Atlantika okeaninin' jag'asinda jaylasqan qala.
+political-geographic-object;['sidney', 'sydney'];Sidney (inglis Sydney) — Avstraliyanın' en' iri qalası.
+political-geographic-object;['i̇stanbul'];İstanbul Tu'rkiyada jaylasqan qala.
+political-geographic-object;['nyu york', 'new york city'];Nyu York (inglis New York City) – AQSHdın' en' iri qalalardin' biri.
+political-geographic-object;['tripoli'];Tripoli Libya nin' paytaxti.
+political-geographic-object;['braziliya'];Braziliya Qubla Amerikada jaylasqan ma'mleket.
+political-geographic-object;['toronto'];Toronto (inglis Toronto) — Kanadanın' Qubla-shıg'ısında jaylasqan qala.
+political-geographic-object;['vinetsiya'];"'Vinetsiya'" Italiya da jaylasqan Port qala.
+political-geographic-object;['keyptaun'];Keyptaun (inglis Cape Town, — Qubla Afrika Respublikasının' paytaxtı.
+political-geographic-object;['texas shtati', 'téxas'];Tехаs (inglis Texas, aytiliwi: Teksas) AQSHtin' qubla-shig'isinda Atlantika okeaninin' jag'asinda jaylasqan shtati.
+quality;['induizm'];Induizm – du'nyada bir din.
+quality;['tezlik'];Tezlik (inglis velocity ya'ki Fransuzsha: vitesse) kelip shıg'ıp, geyde
+quality;['din'];Din - Tan'ri tarepinen jaratilg'an kanundir.
+quality;['absolyut temperatura'];Absolyut temperatura - absolyut no'lden baslap esaplanatug'in temperatura aytiladi.
+quality;['i̇slam dini'];Ïslam (arab.: إسلام‎) — älemdik monoteïsttik-ïbrahïmdik din.
+region;['valyuta'];Valyuta (ital.
+region;['ratsional sanlar'];Ratsional sanlar toplamı
+region;['metr', 'm'];Metr (belgileniwi: m. grekshe μέτρον — o'shew) — SI degi uzunlıq o'lshew birligi.
+region;['10'];10 — 9 ha'm 11 dın' аrаsındа turatug'ın natural sаn.
+region;['1'];1 — 0 ha'm 2nin' аrаsındа turatug'ın natural sаn.
+region;["ku'n"];Ku'n bul Jerdin' o'z orbitasında bir ret aylanıwı ushın ketetug'ın waqıtı.
+simple-collection;['mifologiya'];Mifologiya (yunanshe: μυθολογία , yunanshe: μῦθος — an'ız, da'stan ha'm yunanshe: λόγος — so'z, gu'rrin', ta'liymat) bul ayyemdi folklor ham xalıq an'ızların (epos, ertek) u'yreniwshi filologiya iliminin' bir bo'limi esaplanadı.
+simple-planned-collective;['diplomatiyalıq korpus'];== Diplomatiyalıq korpus ==
+situation;['oferta'];Oferta (inglis tilinde offero «usınaman») — shaxstın' puxaralıq-huqıqıy sha'rtnama du'ziwge usınısı.
+situation;['jumbaq'];Jumbaq - ko'rkem awızeki do'retpelerinin' belgili bir janrı bolıp esaplanadı.
+situation;['nerv kesellikleri'];Nerv kesellikleri - bul, nerv sistemasının' organikalıq yamasa onın' funktsional buzılısları.
+situation;["xalıqaralıq sha'rtnama"];Xalıqaralıq sha'rtnamalar haqqında 1969-jılg'ı Vena Konventsiyası qag'ıydalarına muwapıq, xalıqaralıq sha'rtnama - ma'mleketler ha'm xalıqaralıq huqıqtın' basqa subektleri arasında bir, eki yamasa bir-biri menen baylanıslı bir neshe hu'jjetlerde iske asırılg'anına ja'ne onın' anıq atına qaramastan jazba tu'rde du'ziletug'ın xalıqaralıq huqıq penen retlestiriwshi pitim esaplanadı.
+situation;['gripp'];Gripp ko'p ushırasatug'ın keselllik.
+situation;["differensial ten'lemeler"];=== Differensial ten'lemelerdin' ko'rinisleri ===
+situation;['hawa rayı'];Hawa rayı aspanda ne bolıp atırg'anlıg'ı haqqında aytadı.
+situation;['klimat'];Klimat bul belgili bir territoriyada uzaq waqıt dawamındag'ı ortasha hawa rayı.
+social-role;['valyuta'];Valyuta (ital.
+socially-constructed-person;['geoffrey chaucer'];Geoffrey Chaucer (aytılıwı: Djeffri Choser. sh.
+socially-constructed-person;['johann sebastian bach', 'yoxann sebastian bax'];Johann Sebastian Bach (aytılıwı: Yoxann Sebastian Bax. 31 mart, 1685, – 28 iyul, 1750) nemis kompozitorı ha'm organisti, Barokko da'wirinin' ko'rnekli wa'killerinen biri bolg'an.
+socially-constructed-person;['johann wolfgang von goethe', 'gyote', 'yoxan wolfgang fon gyote'];Johann Wolfgang von Goethe (aytılıwı: Yoxan Wolfgang fon Gyote, 28-avgust 1749 – 22-mart 1832) ataqlı nemis jazıwshısı.
+socially-constructed-person;['ludwig van beethoven', 'lyudwig van betxoven'];Ludwig van Beethoven nemis kompozitorı ha'm pianisti bolg'an.
+socially-constructed-person;['victor hugo', 'viktor gyugo'];Victor-Marie Hugo (26 fevral, 1802 – 22 may, 1885) Fransiyalı shayır, dramaturg, jazıwshı, politik, insan huqıqları qorg'awshısı ha'm Fransiyadag'ı romantizm ha'reketinin' bas wa'killerinin' biri bolg'an.
+socially-constructed-person;['frédéric chopin'];Fryderyk Franciszek Chopin (Frederik Shopen. 1 mart, 1810 - 17 oktyabr, 1849), polshalı kompozitor ha'm pianist, uzaq waqıt Franciyada jasag'an (Fransuzsha: Frédéric François Chopin).
+socially-constructed-person;['louis pasteur'];Louis Pasteur yamasa Lui Paster Frantsuz mikrobiologi ha'm ximigi bolg'an.
+socially-constructed-person;['johannes brahms', 'brahms', 'yoxannes brams'];Johannes Brahms nemis kompozitorı ha'm pianisti bolg'an.
+socially-constructed-person;['marcel proust', 'marsel prust'];Valentin Louis Georges Eugène Marcel Proust (aytılıwı: Valentin Lui Jorj Ejen Marsel Prust. 10 iyul, 1871 – 18 noyabr, 1922) Fransiyalı jazıwshı ha'm kritik bolg'an.
+socially-constructed-person;['adolf hitler', 'adolf gitler', 'adolf xitler', 'gitler'];Adolf Hitler yamasa Gitler (aytılıwı: Adolf Xitler) (20-Aprel 1889 - 30-Aprel 1945) Ekinshi Du'nya Ju'zlik Urısta Germaniya basshisi bolg'an.
+socially-constructed-person;['i̇skender zulqarnayın'];İskender Zulqarnayın (20/26 iyul, b.e.sh.
+socially-constructed-person;['muxammed'];Muxammed ibn ‘Abdullāh (Arabsha محمّد) (sonday-aq Muhammad, Mohammed yamasa Muhammed dep jaziliwi mu'mkin) (ca.
+socially-constructed-person;['vergilius', 'publius vergilius maro', 'vergiliy', 'virgil'];Publius Vergilius Maro (b.e.sh 15 oktyabr, 70 – b.e.sh.
+socially-constructed-person;['karolus magnus', 'ullı karl'];Karolus Magnus (latınsha: Carolus Magnus, ingl.: Charles the Great, nem.: Karl der Große, goll.: Karel de Grote) (742 yamasa 747 - 28 yanvar, 814) Awliye Rim İmperiyasına tiykar salg'an Franklar patshası bolg'an.
+socially-constructed-person;['cristoforo colombo', 'christopher columbus', 'xristofor kolumb'];Cristoforo Colombo (Italiyansha.
+socially-constructed-person;['leonardo da vinci'];Leonardo da Vinci (aytılıwı: Leonardo da Vinchi, 15 aprel, 1452 - 2 may, 1519) İtaliyanın' Florentsiya qalasında tuwılg'an italiyalı su'wretshi, skulptor, qurılısshı, do'retiwshi ha'm injener.
+socially-constructed-person;['william shakespeare', 'shakespeare'];William Shakespeare (aytılıwı:William Shekspir. aprel, 1564 - 23 aprel, 1616) inglis jazıwshısı.
+socially-constructed-person;['rené descartes', 'rene dekart'];René Descartes fransuz filosofi ha'm fizigi bolg'an.
+socially-constructed-person;['rembrandt'];Rembrandt Harmenszoon van Rijn (İyul 15, 1606 - Oktyabr 4, 1669) belgili Gollandiyalı su'wretshi.
+socially-constructed-person;['john locke'];John Locke (aytılıwı: Djon Lok) (29 Avgust 1632 - 28 Oktyabr 1704), Liberalizm Atasi dep tanilg'an Angliyali filosof ha'm shipakeri bolg'an.
+socially-constructed-person;['wolfgang amadeus mozart'];Volfgang Amadey Mozart Avtsriyali kompozitor ha'm pianist bolg'an.
+socially-constructed-person;['napoleon i bonapart'];Napoleon I Bonapart (Frantsuzsha: Napoleon Bonaparte. 15-Avgust 1769 - 5-May 1821), Frantsiyanin' a'skeriy ha'm siyasiy basshisi bolg'an.
+socially-constructed-person;['vincent van gogh', 'van gog', 'van gogh', 'vinsent van gog'];Vincent Willem van Gogh (aytılıwı: Vinsent Willem van Gog, 30-Mart 1853 – 29-İyul 1890) ko'pshilikke Vincent van Gogh atı menen tanıs bolg'an Gollandiyalıq post-Impressionist su'wretshisi.
+socially-constructed-person;['sigmund freud'];Sigmund Freud Avstriyali nevrolog bolg'an.
+socially-constructed-person;['henry ford'];Henry Ford - Amerikaliq injener ha'm isbilermen bolg'an.
+socially-constructed-person;['pablo picasso'];Pablo Ruiz Picasso (aytıwı: Pablo Pikasso. 25 oktyabr, 1881, Malaga, İspaniya - Aprel 8, 1973) İspaniyalı su'wretshi ha'm skulptor bolg'an.
+socially-constructed-person;['franz kafka'];Franz Kafka (3 iyul, 1883 – 3 iyun, 1924) ataqlı nemis tili jazıwshısı bolg'an.
+socially-constructed-person;['ronald reagan'];Ronald Wilson Reagan (6 Februar 1911 - 5 Juni 2004) Americanlıq aktrisa y politician.
+socially-constructed-person;['oktavian avgust'];Oktavian Avgust (23 sentyabr, b.e.sh.
+socially-constructed-person;['xans kristian anderson', 'hans christian andersen'];Аndеrsеn Xаns Kristian (02.04.1805, Оdensе q.
+socially-constructed-person;['qazaqlar', "qazaq xalqının' kelip shıg'ıwı"];Qazaq xalqı (etnosı) - XV-XVI a'sirlerde ha'zirgi jasap atırg'an ken'isliktegi dalan'lıq ha'm qumlıqta qa'liplesken.
+socially-constructed-person;['serra-leone', 'sierra leone'];"Serra-Leone" Afrika da jaylasqan mamleket.
+socially-constructed-person;["ko'shirilgen shaxslar", "xalıqaralıq huqıqta ko'shirilgen shaxslar"];Ko'shirilgen shaxslar - ekinshi jer ju'zi urısı da'wirinde gitlershiler ta'repinen basıp alıng'an aymaqlardan ma'jbu'riy tu'rde ko'shirip a'ketilgen shaxslar.
+socially-constructed-person;['matematik'];Matematik bul matematika tarawında ilimiy is alıp baratug'ın yamasa bul tarawdı u'yreniwshi ilimpazg'a aytıladı.
+socially-constructed-person;['astronom'];Astronom bul planeta, juldızlar ha'mde galaktika sıyaqlı aspan denelerin u'yreniwshi ilimpaz.
+socially-constructed-person;['lev tolstoy'];Lev Nikolayevich Tolstoy (orıssha: Лев Никола́евич Толсто́й. 9 sentyabr, 1828 – 20 noyabr, 1910) ullı orıs jazıwshısı bolg'an.
+socially-constructed-person;['fizik'];Fizik bul fizika tarawın u'yreniwshi yamasa ol bag'darda jumıs alıp barıwshı ilimpaz esaplanadı.
+socially-constructed-person;['kelinshek'];Kelinshek - bul endi turmıs qurıp atırg'an yamasa qaraqalpaq da'stu'rleri boyınsha ayttırılıp alınıp atırg'an qız.
+socially-constructed-person;['thomas edison'];Thomas Alva Edison Amerikali oylap tabiwshi bolg'an.
+socially-constructed-person;['qashqınlar', 'xalıqaralıq huqıqta qashqınlar'];Qashqınlar - quwdalanıw aqıbetinde, a'skeriy ha'reketler yaki basqa ayrıqsha jag'daylar na'tiyjesinde turaqlı jasap turqan ma'mleketin taslap ketken shaxslar.
+socially-constructed-person;['dante alighieri'];Durante degli Alighieri (May/Iyun' c.1265 - Sentyabr' 14, 1321), Dante Alighieri ati menen belgili, Florentsiyaliq Orta A'sirlerdin' shayiri.
+socially-constructed-person;['laozi'];Lao Tzi (老子 Lǎozi, sonday-aq Lao Tsu dep jaziladi) en' ataqli Qitay filosoflarinin' biri bolg'an, lekin onin' jalgiz adam ekenligi, yamasa Lao Tsi menen baylanisli pikirler bir neshe adamlarg'a tiyisliligi tastiyiqlanbag'an.
+socially-constructed-person;['fernando de magallanes', 'ferdinand magellan'];Ferdinand Magellan (1480 – aprel 27, 1521). (portugalsha: Fernão de Magalhães. ispansha: Fernando de Magallanes) portugaliyalıq ten'iz sayaxatshısı, keyinshelik İspaniya ushında xızmet etken.
+socially-constructed-person;['isaac newton'];Ser Isaac Newton (4-Yanvar' 1643 – 31-Mart 1727) - Angliyalı fizik, matematik, astronom, ta'biyiy filosof, alximik, teolog ha'm adamzat tariyxinda en' a'hmiyetli insanlardin' biri.
+socially-constructed-person;['charles darwin'];Charles Robert Darwin (12 fevral, 1809 - 19 aprel, 1882) inglis naturalisti (ta'biyat izertlewshisi) bolg'an.
+socially-constructed-person;['karl marx'];Karl Marks (nemisshe: Karl Marx. 5 May, 1818 – 14 Mart, 1883) nemis filosofı ha'm pul (ekonomika) ha'm ku'sh (siyasat) haqqında jazg'an siyasiy oyshıl bolg'an.
+socially-constructed-person;['immanuel kant'];Immanuel Kant (22-Aprel 1724 jılı – 12-Fevral 1804 jılı) 18shi a'sirdegi nemis filosofı, Prussiyanın' Königsberg (ha'zir Kaliningrad, Rossiya) qalasında tuwılg'an.
+socially-constructed-person;['homer'];Gomer İliada ha'm Odissey epikalıq poemaların jazg'an grek shayırı.
+socially-constructed-person;['evklid'];Evklid (grek.: Εὐκλείδης) (shama menen bizin' eramızg'a shekemgi 325 – 265 jıllar) Mısırdag'ı İskenderiya (Alexandria) qalasında jasag'an a'yyemgi grek matematigi.
+socially-constructed-person;['tomas aquinas', 'foma akvinskiy filosofiyası'];Tomas Aquinas (lat.
+socially-constructed-person;['galileo galilei'];Galileo Galilei (15 fevral, 1564 – 8 yanvar, 1642) İtaliyalı astronom (kosmostı uyreniwshi adam) ha'm ataqlı oyshıl bolg'an.
+socially-constructed-person;["shın'g'ısxan", "shın'g'ıs xan"];Shın'g'ısxan (shama menen 1162 - avgust, 1227) - Mong'ol urıwların birlestirgen ha'm Mong'ol İmperiyasın payda etken du'nyanın' en' ku'shli a'skeriy jolbasshılarının' biri.
+socially-constructed-person;['aristotel'];Aristotel (Grekshe: Ἀριστοτέλης Aristotélēs) (b.e.sh.
+socially-constructed-person;['albert einstein', 'albert eynshteyn'];Albert Einstein (aytılıwı:Albert Eynshteyn. 14 mart, 1879 - 18 aprel, 1955) fizik ha'm ilimpaz bolg'an.
+socially-constructed-person;['nicolaus copernicus'];Nicolaus Copernicus astronom bolg'an.
+socially-constructed-person;['dmitriy mendeleev'];Dmitriy Mendeleev (orıs.
+socially-constructed-person;['anton chexov', 'anton pavlovich chexov'];Anton Pavlovich Chexov (russha: Антон Павлович Чехов. 29 yanvar, 1860 – 15 iyul, 1904) shıpaker qa'niygeligine iye orıs jazıwshısı ha'm dramaturgi bolg'an.
+socially-constructed-person;['vladimir lenin'];thumb|right|Vladimir Lenin Vladimir Ilyich Ulyanov, (22-Aprel, 1870 - 21-Yanvar, 1924) Lenin (Russhada: Ленин) ati menen belgili Rus revolyutseneri, ha'm de Bolshevik partiyasi ha'm Oktyabr Revolyustsiyasi basshisi bolg'an.
+socially-constructed-person;['fyodor dostoevskiy'];Fyodor Mixaylovich Dostoyevskiy (orıssha: Фёдор Миха́йлович Достое́вский. 11 noyabr, 1821 – 9 fevral, 1881) ullı orıs jazıwshısı bolg'an.
+socially-constructed-person;['yosif stalin'];Yosif Stalin (Orıssha, tolıq : Иосиф Виссарионович Сталин, tuwılg'anda Джугашвили (Dzhugashvili), Gruzinshe: იოსებ ჯუღაშვილი (Ioseb Jughashvili). (18 dekabr, 1878 – 5 mart, 1953) Kommunist diktator Ioseb Jugashvilidin' qabıl etken atı.
+socially-constructed-person;['miguel de cervantes', 'migel de servantes', 'servantes'];Miguel de Cervantes Saavedra (aytılıwı: Migel de Servantes, 29-Sentyabr 1547 – 23-Aprel 1616) İspaniyalıq roman jazıwshısı, shayır ha'm dramaturg.
+socially-constructed-person;['marko polo'];Marko Polo (Marco Polo) - (15-sentyabr, 1254, Veneciya — 8-yanvar, 1324) — italiyalıq sayaxatshı ha'm jazıwshı.
+space-region;['ullı jipek jolı'];Ullı jipek jolı - a'sirler dawamında Shıg'ıs ha'm Batıstı baylanıstırdı.
+space-region;['arqa polyus'];Arqa polyus — Jerdin' aylang'an qiyali og'inin' Arqa yarim sharda Jerdin' ju'zi menen kesisetug'in jeri.
+spatial-feature;['taw'];Тaw (tаwlаr) — tegıslık u'stındegı bıyık relyeftın' uzın fоrmаsı.
+spatial-feature;['alp tawlari', 'alp tawları'];Alp tawları Fransuzsha: Alpes, Italiyansha.
+spatial-feature;['gibraltar'];Gibraltar Evropadag'ı ma'mleket.
+spatial-feature;["ma'mleketlik shegara"];Ma'mleketlik shegaralardın' tiykarg'ı wazıypası ma'mleketlik aymaq ko'lemin belgilewden ibarat.
+spatial-feature;['gimalay tawları'];Gimalay bul Aziyada jaylasqan taw dizbekleri.
+subject;['ilim'];Ilim — obyektiv Bilimler islenilip du'zu'liwshi ha'm teoretik jaqtan qollanilg'an adamzat jaratqan bilim.
+subject;['matematika'];Matematika (μάθημα: {{{4}}} — u'yreniw, ilim) — real obyektlerdin' formalarin sanaw, o'lshew ha'm bayan etiw amellerine tariyxiy jaqtan tiykarlang'an qurilis, ta'rtip ha'm qatnasiqlar haqqindag'i ilim.
+subject;['geologiya'];Geologiya Jerdi qurag'an jansız zatlardı uyreniwshi ilim.
+subject;['dialektika'];Dialektika - bul barlıq jasaytug'ınlardın' bolmısı menen rawajlanıwının' universallıq baylanısları haqqındag'ı filosofiyalıq ta'liymat.
+subject;['meteorologiya'];Meteorologiya – atmosferada bolip atirg'an ha'diyselerdi u'yrenetug'in ha'm olardin' sebeplerin tu'sindiretug'in ilim.
+subject;['geografiya'];Geografiya (γεωγραφία: {{{4}}} "Jerdi u'yreniw" (Shablon:Lang-grc2 — Jer ha'm Shablon:Lang-grc2 — Jaziw, bayan etiw)) — Jerdin' geografik qabig'inin' u'yrenetin ha'm ken'islik-waqt qag'iydalarin ju'zege shig'ariwshi Ilimler kompleksi.
+subject;['ritorika'];Ritorika - qosıq, a'debiy shıg'armalar jazıwdı, oratorlıq wo'nerın, huqıq tıylarların u'yretetın ilim.
+subject;['i̇timallıqlar teoriyası'];İtimallıqlar teoriyası - tosınnanlı qubılıslardag'ı (ha'diyselerdegi) nızamlıqlardı izertlewshi matematikalıq ilim bolıp tabıladı.
+subject;['ekologiya'];Ekologiya - jer ortalig'i ha'm tiri organizmlerdi, sonday-aq olardin' bir-biri menen baylanisin u'yreniwshi ilim.
+subject;['zoologiya'];Zoologiya — haywan, Ilim
+subject;['informatika'];Informatikа — Kompyuter ha'm оdаn basqa tеxnikаlıq qurılmalar ko'megı menen mag'liwmatlardı аlıw, saqlаw, o'zgertiw, jo'netıw ha'm оnı paydalanıw jolların izertleytug'ın ilim.
+subject;['dinamika'];Dinamika
+subject;['anatomiya'];Anatomiya tiri janlardın', adamlardın', haywanlardın', o'simliklerdin' denelerin u'yreniwshi ilim.
+subject;['mexanika'];Meхаnikа fizika pa’ninın’ bir bo’limi bоlıp, оl materiya qozg’alısının’ en’ a’piwаyı ko’rinislerin, denelerdın’ bir-birine sаlıstırg’andа ko’shıwlerin u’yrenedi.
+subject;['astronomiya'];Astronomiya (grekshe astron (ἄστρον) - "juldiz" ha'm nomos (νόμος) - "kanun" so'zlerinnen) aspan deneleri, ma'selen juldizlar, planetalar, kometalardi ha'mde galaktikalardi u'yrenetug'in ilim.
+subject;['psixofiziologiya'];Psixofiziologiya — seziw, eslep qalıw, oy ha'm t.b.
+subject;['topologiya'];Topologiya - forma ha'm topologiyaliq bosliqlardi u'yreniwshi matematikaliq ilim
+subject;['sotsialliq ilimler'];Sotsialliq ilimler adamlar toparinin' h'am adamlardin' sotsialliq o'mirin izertlewshi ilimnin' tarawlari bolg'an antropologiya, kommunikatsiya, kriminologiya, ekonomika, geografia, tariyx, siyasiy ilim, psixologiya, ja'miyet taniw ha'm sotsiologiyalardi o'z ishine aladi.
+subject;['ekonomika'];Ekonomika sotsialliq ilimnin’ tovarlardin’ ha’m xizmetlerdin’ o’ndirisin, bo’listiriliwin ha’m tutiniliwin izertleytug’in tarawi.
+subject;['ximiya'];Ximiya (Arabsha: کيمياء‎ χυμα: {{{4}}} — "(metal)", "Quyiw", "ag'im", χυμευσις: {{{4}}} — "qaralmaq") — zatlar, olardin' o'zgeshelikleri, payda boliwi ha'm ximiyaliq reaktsiyalardin' na'tijesinde aralasiwi, ha'm sol zattin' basqa bir na'rsege aylaniw protsessin u'yrenetug'in ilim.
+subject;['i̇xtiologiya'];İxtiologiya (grekshe: ixtis - balıq, logos - so'z) - balıqlar haqqındag’ı ilim bolıp , aqıl es degendi an’latadı.
+subject;['fizika injenerligi'];Fizika injenerligi ta'biyat waqiyalarin u'yreniw ha'm olardan paydalanip adamzadtin' turmisin an'satlastiriw maqseti menen do'retilgen bo'limi.
+subject;['algebra'];Algebra — matematikanin' bir bo'limi.
+subject;['trigonometriya'];Trigonometriya, Qadimgi Grek tilinde trigōnon "u'shmu'yeshlik" + metron "o'lshew" so'zlerinen kelip shiqqan ilim.
+subject;['bioximiya'];Bioximiya sonın'day Biologik ximiya tiri organizmler ha'm hujayralarda ximiyalıq ha'diyselerdi u'yreniwshi ilim.
+subject;['geometriya'];Geometriya (A'yyemgi Greksheden: γεωμετρία. geo- "jer", -metron "o'lshew") matematikanin' bir bo'limi bolip, ol forma, o'lshem, figuralardin' salistirmali jaylasiwi ha'mde bosliqlardin' sipatlarin' uyreniwshi ilim esaplanadi.
+subject;['filosofiya'];Filosofiya bul barlıq, bilim, haqıyqatlıq, go'zallıq, a'dillik, oy-pikir ha'm til sıyaqlı mashqalalardı u'yreniwshi pa'n esaplanadı.
+subject;['biologiya'];Biologiya o'simlikler, haywanlar, zamarıq (ma'selen, pa's o'siwshi zamarıqlar) ha'm bakteriyalar sıyaqlı tiri zatlardın' o'miri haqqındag'ı ilim.
+subject;['kriminologiya'];Kriminologiya ataması latınsha krimen - jınayat, grekshe logos - ta'liymat so'zlerinin' birikpesinen turıp, jınayat haqqında ta'liymat degendi an'latadı.
+subject;['antropologiya'];Antropologiya – adam denesi du'zilisi, kelip shig'iwi ha'm rawajlaniwin u'yrenetug'in ilim.
+task;['minez-qulıq'];Minez-qulıq bul sistema yamasa organizmnin' ortalıqqa qarap o'z ha'reketlerin o'zgertiw qa'siyeti esaplanadı.
+taxonomic-collective;['terek'];Terek (Populus) — taldaslar biologiyasına kiriwshı kategoriyası.
+taxonomic-collective;['burısh', 'cápsicum'];Burısh
+taxonomic-collective;["u'yrek", 'anatidae'];U'yrekler - jabayı u'yrekler bunnan 3000 jıl burın ma'deniylestirilgen.
+taxonomic-collective;['qabaq', 'cucurbita'];Qabaq
+taxonomic-collective;["g'azlar", 'anser', 'anser anser domesticus'];G'azlar - u'yreklerge qarag'anda u'lkenirek, wolar tek wo'simlikler menen azıqlanadı.
+temporal-region;['waqıt'];Waqıt o'tmishti, ha'zirgi ku'ndi ha'm keleshekti o'lshewde qollanıladı.
+temporal-region;['yanvar'];Yanvar - jildin' birinshi ayı.
+temporal-region;['yanvar'];Yanvar - jildin' birinshi ayı.
+temporal-region;['yanvar'];Yanvar - jildin' birinshi ayı.
+temporal-region;['dekabr'];Dekabr (latın.
+temporal-region;['dekabr'];Dekabr (latın.
+temporal-region;['may'];May (latın.
+temporal-region;['sentyabr'];Sentyabr (latın.
+temporal-region;['mart'];Mart (latın.
+temporal-region;['fevral'];Fevral ya'ki kishi ay - Grigorian kestesıne ko're jıldın' ekinshi ayı.
+temporal-region;['avgust'];Avgust (lat.
+temporal-region;['i̇yul'];İyul (latın.
+temporal-region;['aprel'];Aprel (latın.
+temporal-region;['i̇yun'];İyun (latın.
+temporal-region;['noyabr'];Noyabr (latın.
+temporal-region;['oktyabr'];Oktyabr (latın.
+text;['veksel'];Veksel bul ko'rsetilgen mu'ddet kelgennen keyin belgili aqsha mug'darın veksel iyesine to'lew haqqında veksel beriwshinin' minnetlemesin tastıyıqlaytug'ın bahalı qag'az.
+text;['obligatsiya'];Obligatsiya – aqsha qarjıları iyesinin' onı o'tkergenin ha'm belgilengen protsentti to'legen halda (shıg'arıw sha'rtlerinde basqashası na'zerde tutılmag'an bolsa) onda na'zerde tutılg'an mu'ddette bahalı qag'azdın' nominal bahasın og'an qaplaw haqqında minnetlemesin tastıyıqlaytug'ın bahalı qag'az.

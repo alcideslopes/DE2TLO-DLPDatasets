@@ -1,0 +1,26 @@
+agentive-physical-object;['canis lupus familiaris', 'pes', 'pes domácí', 'canis familiaris', 'canis familiarus domesticus', 'canis lupus f. familiaris', 'fena', 'hafík', 'psa', 'domácí pes', 'familiaris', 'psa domácího'];Běžné čtyřnohé zvíře. Běžně chované jako domácí mazlíček či hlídač.
+agentive-physical-object;['jabloň'];Strom rodu ''Malus''.
+agentive-physical-object;['jabloň', 'malus pumila', 'sad jabloň'];Strom rodu ''Malus''.
+language;['afrikánština', 'afrikaans', 'búrština', 'south african dutch', 'taal'];Západogermánský jazyk, jímž se mluví hlavně v Jihoafrické republice a Namibii.
+language;['běloruština', 'bělorus', 'běloruska', 'běloruský jazyk', 'běloruský'];Osoba běloruské národnosti.
+locative-role;['green', 'jamkoviště', 'putting green', 'uvedení povrchu'];Část golfového hřiště poblíž jamky.
+physical-object;['rybářská loď', 'rybolov plácnutí', 'rybářské lodi', 'rybářské plavidlo', 'rybářského plavidla', 'rybářský člun', 'rybářských lodí', 'rybářských plavidel'];Plavidlo používané k lovení ryb na mořích, jezerech nebo řekách.
+political-geographic-object;['aljaška', 'alaska', 'state of alaska', 'stát aljaška', 'ak', 'aljašce', 'last frontier'];49. stát Spojených států amerických, nacházející se západně od Kanady v Severní Americe
+political-geographic-object;['alžír', 'alger', 'džazáír', 'algerine', 'alžírský kapitálu'];Hlavní a největší město Alžírska.
+political-geographic-object;['amsterdam', 'amsterodam', 'holandské benátky', 'dutch kapitálu', 'hlavní město nizozemska'];Hlavní město Nizozemska.
+political-geographic-object;['dauhá', 'doha', 'al-bídá', 'dohá', 'bida', 'el beda', 'hlavním městě kataru'];Hlavní město Kataru.
+political-geographic-object;['kábul', 'kabol', 'kubhá kóphén', 'kóa', 'kóphés', 'hlavní město afghánistánu', 'kabul'];Hlavní město Afghánistánu.
+political-geographic-object;['tirana', 'tiranë', 'albánský kapitálu'];Hlavní a největší město Albánie.
+political-geographic-object;['luanda', 'angolan kapitálu'];Hlavní a největší město Angoly.
+political-geographic-object;['lucemburk', 'gibraltar severu', 'luxembourg', 'luxemburg', 'lëtzebuerg', 'hlavním městem lucemburska', 'luxembourg-ville', 'luxembourg city'];Hlavní město Lucemburska.
+political-geographic-object;['ulánbátar', 'ulaanbaatar', 'ulan bator', 'urga', 'ulanbatar', 'ulanbátar', 'hlavní město mongolska', 'kulun'];Hlavní město Mongolska.
+political-geographic-object;['káthmándú', 'kathmandu', 'káthmandú', 'kátmandú', 'hlavního města nepálu'];Hlavní město Nepálu.
+political-geographic-object;['wellington', 'hlavní město nového zélandu'];Hlavní město Nového Zélandu.
+socially-constructed-person;['lesba', 'lesbička', 'lesbismus', 'lesbizmus', 'lesbičanství', 'lezba', 'sapfismus', 'ženská homosexualita', '⚢', 'gay žena', 'lesbičky', 'tribade'];Homosexuální žena.
+socially-constructed-person;['baskičtina', 'basque', 'basque jazyk', 'euskara', 'euskera'];Jazyk, kterým se hovoří hlavně v Baskicku.
+socially-constructed-person;['nevěsta', 'nevěsty', 'svatební'];Žena, která se chystá vdávat nebo se právě vdala.
+temporal-region;['zima', 'zimní čas', 'hlohová zima', 'austral zimě', 'zimní'];Tradičně čtvrté roční období, vyznačuje se tím, že polokoule, na níž je zima, je nejdál od Slunce, jak to jde, což způsobuje nízké teploty a krátké dny.
+temporal-region;['srpen', 'srpna', 'srpnu'];Osmý měsíc gregoriánského kalendáře, má 31 dní.
+temporal-region;['duben', 'dubna', 'apríl'];Čtvrtý měsíc gregoriánského kalendáře se 30 dny.
+temporal-region;['jaro', 'vesna', 'jaře'];Tradičně první roční období, období růstu a prodlužujícího se denního světla.
+temporal-region;['podzim'];Roční období po létě a před zimou, na severní polokouli tradičně od 21. září do 20. prosince a na jižní od 21. března do 20. června.

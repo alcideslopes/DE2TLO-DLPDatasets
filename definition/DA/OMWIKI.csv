@@ -1,0 +1,14 @@
+activity;['laparoskopi', 'laproskopi', 'minimalt invasiv kirurgi'];En type minimalt invasiv kirurgi, hvor operationen foregår gennem et lille hul i f.eks. maveskindet.
+amount-of-matter;['protein', 'æggehvidestof', 'æggehvide', 'proteiner', 'peptidkæde', 'proteinkemi', 'polyprotein', 'proteinholdigt', 'proteinsyntese'];Et stor molekyle der består af en række aminosyrer
+chemical-object;['protein', 'æggehvidestof', 'æggehvide', 'proteiner', 'peptidkæde', 'proteinkemi', 'polyprotein', 'proteinholdigt', 'proteinsyntese'];Et stor molekyle der består af en række aminosyrer
+functional-matter;['lort', 'poop', 'afføring', 'ekskrement', 'shite', 'turd'];Hvad menneske- eller dyrekroppe udslipper fra tid til anden som en dynge affald der er til overs fra fordøjelse.
+functional-matter;['afføring', 'lort', 'ekskrement', 'fæces', 'fækalier', 'bæ', 'faeces', 'fækalie', 'puha', 'fækalt materiale', 'ekskrementer', 'fugleklatter', 'skarn'];Hvad menneske- eller dyrekroppe udslipper fra tid til anden som en dynge affald der er til overs fra fordøjelse.
+functional-matter;['afføring', 'ekskrement', 'lort', 'ekskrementer', 'ekskretionsorganerne produkt', 'kropsaffaldsprodukter'];Hvad menneske- eller dyrekroppe udslipper fra tid til anden som en dynge affald der er til overs fra fordøjelse.
+language;['dansk', 'da', 'dan', 'dansk sprog', 'dansksproget', 'det danske sprog', 'danske sprog'];Et nordgermansk sprog hovedsageligt talt i Danmark
+language;['tysk', 'højtyske sprog', 'højtyske dialekter', 'det tyske sprog', 'tysk sprog', 'tyskhed', 'tysksproget', 'tysktalende', 'højtysk', 'tysk-sproget', 'tyske sprog', 'tysksprogede'];Et indoeuropæisk sprog som hovedsageligt tales i Tyskland, Østrig, Liechtenstein, Sydtyrol, Schweiz og en lille del af Belgien.
+physical-object;['bolig', 'hjem', 'bopæl', 'hus', 'hellige haller', 'hjemsted', 'privatbolig', 'privaten', 'residens', 'stue', 'beboelseshus', 'boliger', 'privat bolig', 'stedet'];Et mennsekes bolig.
+political-geographic-object;['amsterdam', 'hollands hovedstad', 'hollandske hovedstad'];Nederlandenes hovedstad.
+political-geographic-object;['doha', 'bida', 'el beda', 'hovedstaden i qatar'];Qatars hovedstad.
+political-geographic-object;['luxembourg', 'hovedstad luxembourg', 'luxembourg-ville', 'luxembourg by'];Luxembourgs hovedstad.
+political-geographic-object;['wellington', 'hovedstaden i new zealand'];New Zealands hovedstad.
+temporal-region;['maj', 'majmåned'];Den gregorianske kalenders femte måned med 31 dage.

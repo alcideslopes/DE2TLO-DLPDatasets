@@ -1,0 +1,419 @@
+activity;['ture tekau', 'nga ture kotahi tekau', 'ngā ture tekau', 'tekau commandments'];Ko ngā Ture Tekau, he rārangi whakahau. e ai ki te Paipera, nā te Atua aua ture i hōatu ki a Mohi i a ia e tū ana ki te tihi o te maunga o Hinai. he mea whakairo ki runga papa kōhatu.
+activity;['kauhau i te maunga', 'sermon on te maunga'];Ko te Kauhau i te Maunga he kauhau nā Ihu Karaiti ki ōna ākonga.
+activity;['whakaheke ngaru', 'whakaheke', 'whakahekeheke'];Ko te whakaheke ngaru he tākaro tino tawhito o Te Moana-nui-a-Kiwa.
+agentive-figure;['kotahitanga o ūropi', '🇪🇺', 'eu', 'kotahitanga ūropi'];Ko te Kotahitanga Ūropi he kotahitanga ki Ūropi.
+agentive-figure;['pirihimana'];Ko ngā Pirihimana he rōpū whakatū nā te kāwanatanga o tētahi whenua, tāone rānei, ki te te tiaki i ngā ture.
+agentive-physical-object;['rākau', 'rakau'];Ko te rākau he otaota tautini, tinana mārō hoki.
+agentive-physical-object;['whēkau', 'whekau'];Ko te Whēkau he manu kua ngaro i te mata o te whenua, he manu ngahere nō Aotearoa.
+agentive-physical-object;['calamus'];Ko Calamus he momo o te whānau o ngā Arecaceae.
+agentive-physical-object;['calamus rotang'];Ko Calamus rotang he momo o te puninga huaota Calamus.
+agentive-physical-object;['kōtukutuku', 'fuchsia excorticata', 'kotukutuku'];Ko te Kōtukutuku he rākau whakauru o Aotearoa.
+agentive-physical-object;['pāhautea', 'libocedrus bidwillii', 'pahautea'];Ko te Pāhautea he rākau whakakake o Aotearoa.
+agentive-physical-object;['moa', 'kuranui'];Ko ngā Moa he manu nunui, rite ki te emu, kei Aotearoa anake, engari, kua ngaro noa atu i te whenua.
+agentive-physical-object;['takahē', 'takahe', 'takahea'];Ko te Takahē he manu ngahere nō Aotearoa.
+agentive-physical-object;['weka'];Ko te Weka he manu ngahere nō Aotearoa.
+agentive-physical-object;['kea', 'nestor notabilis', 'keorangi'];Ko te Kea tētahi o ngā momo Kākā o Aotearoa.
+agentive-physical-object;['taika', 'panthera tigris'];Ko te Taika he kararehe nō Āhia, he momo ngeru.
+agentive-physical-object;['pea'];Ko te pea he kararehe nui rawa, he kai kikokiko, he kai hua whenua hoki.
+agentive-physical-object;['tānekaha', 'phyllocladus trichomanoides', 'tanekaha'];Ko te Tānekaha he rākau whakakake o Aotearoa.
+agentive-physical-object;['kuru', 'pōporo', 'pōporohua'];Ko te kuru, te pōporo rānei he rākau nui nō Hawaiki, ko ngā hua he tino kai a ngā tūpuna.
+agentive-physical-object;['tāwhai', 'nothofagus menziesii', 'tawhai'];Ko te Tāwhai he rākau whakakake o Aotearoa.
+agentive-physical-object;['miro', 'prumnopitys ferruginea'];Ko te Miro he rākau whakakake o Aotearoa.
+agentive-physical-object;['kahikatea', 'dacrycarpus dacrydioides'];Ko te Kahikatea he rākau whakakake o Aotearoa.
+agentive-physical-object;['tāwhai pango', 'nothofagus solandri', 'tawhai pango'];Ko te Tāwhai pango he rākau whakakake o Aotearoa.
+agentive-physical-object;['kawaka', 'libocedrus plumosa'];Ko te Kawaka he rākau whakakake o Aotearoa.
+agentive-physical-object;['kiwi'];Ko te Kiwi he manu ngahere nō Aotearoa.
+agentive-physical-object;['maire raunui', 'nestegis cunninghamii'];Ko te Maire raunui he rākau whakakake nui nō te wao o Aotearoa.
+agentive-physical-object;['pea'];Ko te pea he huarākau kaingākau rite i te āporo.
+agentive-physical-object;['huahou', 'calidris canutus'];Ko te Huahou he manu ki tātahi nō Aotearoa, he pīrere.
+agentive-physical-object;['mamaku', 'cyathea medullaris', 'silver fern'];Ko te Mamaku he kaponga tino rahi, he mangu te tīwai me ngā tākaka.
+agentive-physical-object;['kōwhai', 'sophora tetraptera', 'kowhai'];He tikanga anō nō te kupu kōwhai. koia tētahi o ngā kano.
+agentive-physical-object;['aute', 'broussonetia papyrifera'];Ko te Aute he rākau whakauru o Aotearoa, he rākau i heria mai nei i ngā waka e ngā tūpuna, engari kua ngaro kē i ēnei wā.
+agentive-physical-object;['rewarewa', 'knightia excelsa'];Ko te Rewarewa he rākau whakakake o Aotearoa.
+agentive-physical-object;['tītitipounamu', 'titipounamu'];Ko te Tītitipounamu he manu ngahere nō Aotearoa.
+agentive-physical-object;['kāpuka', 'griselinia littoralis', 'kapuka'];Ko te Kāpuka tētahi rākau whakauru nō Aotearoa.
+agentive-physical-object;['maire rauriki', 'nestegis lanceolata'];Ko te Maire rauriki he momo maire, he rākau whakaruruhau o Aotearoa.
+agentive-physical-object;['pukanui', 'meryta sinclairii'];Ko te Pukanui he rākau whakauru o Aotearoa.
+agentive-physical-object;['pāpāuma', 'akakōpuka', 'griselinia lucida', 'papauma'];Ko te Pāpāuma tētahi mauwha nō Aotearoa.
+agentive-physical-object;['poaka', 'himantopus himantopus'];Ko te Poaka he manu waimāori o Aotearoa.
+agentive-physical-object;['rimu', 'dacrydium cupressinum'];Ko te Rimu he rākau whakakake o Aotearoa.
+agentive-physical-object;['hututāwhai', 'hututawai', 'hututawhai', 'nothofagus truncata'];Ko te Hututāwhai he rākau whakakake o Aotearoa.
+agentive-physical-object;['calamus australis'];Ko Calamus australis he momo o te puninga huaota Calamus.
+agentive-physical-object;['kauri', 'agathis australis'];Ko te Kauri he rākau whakakake o Aotearoa.
+agentive-physical-object;['tōtara', 'podocarpus totara', 'totara'];Ko te Tōtara he rākau whakakake o Aotearoa.
+agentive-physical-object;['miromiro'];Ko te Miromiro he manu ngahere nō Te Ika-a-Māui, Aotearoa.
+amount-of-matter;['konutea', 'tingiki', 'zn'];Ko konutea he pūmotu.
+amount-of-matter;['wai', 'h₂o'];Ko wai he matū teretere puata, ā, ka hanga i ngā roto me ngā awa me ngā moana o te ao.
+amount-of-matter;['argon', 'hauhauhā', 'ar'];Ko hauhauhā te pūmotu 18.
+amount-of-matter;['haukura', 'neon', 'ne', 'hauhō'];Ko haukura te pūmotu taungota 10, Takiwā 2, Rōpū 18.
+amount-of-matter;['haumāota', 'hau māota', 'cl'];Ko haumāota te pūmotu 17.
+amount-of-matter;['hauota', 'n'];Ko hauota te pūmotu 7.
+amount-of-matter;['konukura', 'cu'];Ko konukura he pūmotu.
+amount-of-matter;['konukita', 'konupūmura', 'koromiama', 'cr'];Ko konukita he pūmotu.
+amount-of-matter;['konukōreko', 'ni', 'konumāuka'];Ko konukōreko he pūmotu.
+amount-of-matter;['konuoi', 'hg'];Ko te Konuoi he pūmotu.
+amount-of-matter;['konupora', 'mg', 'konuhina'];Ko konupora te pūmotu 12.
+amount-of-matter;['konurehu', 'k'];Ko konurehu te pūmotu 19.
+amount-of-matter;['konuuku', 'be'];Ko konuuku te pūmotu 4.
+amount-of-matter;['pūtūtae-whetū', 'pūtūtaewhetū', 'p'];Ko pūtūtaewhetū he pūmotu.
+amount-of-matter;['hāora', 'o'];Ko hāora te pūmotu 8.
+amount-of-matter;['pūkane', 'br'];Ko pūkane he pūmotu.
+amount-of-matter;['hauwai', 'h', 'hydrogen'];Ko te hauwai te pūmotu nama 1.
+amount-of-matter;['hau kōwhai', 'haukōwhai', 'pūkōwhai', 'flüor', 'f'];Te haukōwhai te pūmotu 9.
+amount-of-matter;['konutai', 'na'];Ko konutai te pūmotu 11.
+amount-of-matter;['matā', 'pb'];Ko matā he pūmotu.
+amount-of-matter;['konu-okehu', 'konuokehu', 'ba'];Ko te Konu-okehu he pūmotu.
+amount-of-matter;['kawata', 'ag', 'kākonu'];Ko te kawata he pūmotu.
+amount-of-matter;['takawai', 'si'];Ko takawai te pūmotu 14.
+amount-of-matter;['pūtiwha', 'b'];Ko pūtiwha te pūmotu 5.
+amount-of-matter;['haumāmā', 'he'];Ko haumāmā te pūmotu 2.
+amount-of-matter;['konupūmā', 'ca'];Ko konupūmā te pūmotu 20.
+amount-of-matter;['waro', 'c'];Ko te waro he pūmotu.
+amount-of-matter;['pungatara', 'ohaki', 'pūngāwhā', 's', 'pungawera', 'whānariki'];Ko pungatara te pūmotu 16.
+amount-of-matter;['konuruke', 'konutuki', 'ra'];Ko konuruke he pūmotu.
+biological-object;['āporo'];He huarākau reka te āporo.
+classification-system;['maramataka'];Mā te Maramataka e wehi ai ngā rā, ngā mārama, ngā tau.
+cognitive-event;['aroha', 'atawhaitanga', 'ngākau aroha', 'tauwhirotanga', 'whakaaroha'];Ko te aroha he whakaaro atawhai, he mahara atawhai o te tangata ki te tangata, ki tētahi atu mea rānei.
+functional-matter;['konukura', 'cu'];Ko konukura he pūmotu.
+functional-matter;['kawata', 'ag', 'kākonu'];Ko te kawata he pūmotu.
+functional-matter;['āporo'];He huarākau reka te āporo.
+geographical-object;['amerika ki te tonga'];He tuhipānui tēnei mō te paparahi.
+geographical-object;['taiwana', 'taiwan'];Ko Taiwana he moutere ki te East China Sea ki Āhia.
+geographical-object;['moutere faroe', 'motu faroe', 'motu o wharo'];Ko ngā Moutere Faroe he whenua ki Ūropi.
+geographical-object;['moutere galápagos'];Ko ngā Moutere Galápagos he kāhui moutere ki Ekuatoa.
+geographical-object;['islas canarias', 'moutere canarias'];Ko Islas Canarias he hapori rangatira kei te tonga o Pāniora.
+geographical-object;['kāhui o ‘enata', "kāhui o 'enata", 'marquesas', 'marquesas islands', 'moutere marquesas', '’enana'];Ko ngā Kāhui o ‘Enata he kāhui moutere i Te Moana-nui-a-Kiwa.
+geographical-object;['moana nui'];He moana nui he kohinga wai totetote e mau ki he nuinga o te wai o te nuku ki roto.
+geographical-object;['ao-o-kiwa'];Ko te Ao-o-Kiwa tētahi rohe whakakotahi i ngā moutere pārūrū o te Moananui-a-Kiwa.
+geographical-object;['moana haina-ki-te-tonga', 'mar de la china meridional', 'mer de chine meridionale', 'mer de chine méridionale', 'moana haina ki te tonga', 'south china sea'];Ko te Moana Haina-ki-te-Tonga he wāhanga o te Moananui-a-Kiwa, arā, tētahi moana taitapa, e toha ana mai Hingapoa me ngā Kuiti Malacca i te tonga ki te Kuiti o Taiwana i te raki.
+geographical-object;['islas baleares'];Ko Islas Baleares he hapori rangatira kei te tonga o Pāniora.
+geographical-object;['tiri o te moana', 'te tiri o te moana'];Ko te Tiri o te Moana te paparahi ki te tonga.
+geographical-object;['tahiti'];Ko Tahiti te motu nui atu o Porinīhia Wīwī, he moutere o roto o te Kāhui o Tahiti i Te Moana-nui-a-Kiwa ki 17°40′S, 149°30′W. E 169,677 te taupori i te kautenui o te tau 2002.
+geographical-object;['motu o man'];.
+geographical-object;['greenland', 'kirānirangi'];Ko te Greenland he whenua ki Amerika-ki-te-Raki.
+geographical-object;['te moana-nui-a-kiwa', 'moana-nui-a-kiwa', 'moana nui a kiwa', 'moananui-a-kiwa', 'moananui a kiwa', 'te moana nui a kiwa', 'te moananui-a-kiwa'];Ko Te Moana-nui-a-Kiwa te moana i whitiwhitia e ngā tūpuna o te Māori me ō rātou uri i ngā moutere arā ko Hawaiki-nui, Hawaiki-roa, Hawaiki-pamaomao.
+information-realization;['te hunga mahi'];Te Hunga Mahi is L’Internationale by Eugène Pottier.
+information-realization;['ngā manaakitanga', 'beatitudes', 'te hākoatanga'];Ko Ngā Manaakitanga he wāhanga o te Kauhau i te Maunga nā Ihu Karaiti.
+information-realization;['kawenata hou', 'kawenata hōu', 'new testament'];Ko te Kawenata Hou tētahi wāhanga o te Paipera.
+language;['reo bengali'];Ko Te Reo Bengali Te Reo Matua O Pākaratēhi.
+language;['reo huitene'];Ko te reo Huitene te reo matua o Huitene, ko Whinirana.
+language;['reo tākei'];Ko te reo Tākei te reo matua o Tākei, he reo o Haipara, ko Kohowo, ko Makerōnia, ko Romeinia..
+language;['reo pākehā', 'reo ingarihi', 'reo pākeha'];Ko te reo Pākehā te reo matua o Ingarangi.
+language;['reo pashto'];Ko te reo Pashto te reo matua o Āwhekenetāna.
+language;['reo kuruti'];Ko te reo Ārapi te reo ko Tākei, ko Īrāki, ko Īrāna, ko Hiria, ko Āmenia, ko Atepaihānia.
+language;['reo hainamana'];Ko te reo Hainamana te reo a te motu o Haina.
+language;['reo ingarihi inamata'];Ko te reo hākoro o te Reo Ingarihi te Reo Ingarihi Inamata.
+language;['reo kōrea', 'te reo kōrea'];Ko te reo Kōrea te reo a te motu o Kōrea-ki-te-tonga, o Kōrea-ki-te-raki.
+language;['hiperu te reo'];Hiperu Ko Hiperu te reo whai mana o Iharaira, me nga Hurai.
+language;['reo initonīhia'];Ko te reo Initonīhia te reo a te motu o Initonīhia.
+language;['austronesian'];Ko te reo Austronesian te kahui reo nunui o te ao, a koia tonu te matapuna o te reo maori.
+language;['reo farsi'];Ko te reo Farsi he reo o Īrāna, ko Āwhekenetāna.
+language;['reo runa simi'];Ko te reo Runa Simi he reo o Āketina, ko Ekuatoa, ko Perū, ko Poriwia.
+language;['reo whitinamu'];Ko te reo Whitināmu te reo matua o Whitinamu.
+language;['reo swahili'];Ko te reo Swahili te reo matua o Tānahia, ko Kēnia, ko Ukānga.
+language;['reo hindi'];Ko te reo reo Hindi te reo matua o Īnia.
+language;['reo māori', 'te reo māori', 'te reo maori', 'rarangi kiwaha', 'reo', 'reo maori', 'rārangi kīwaha', 'te reo'];Ko te reo Māori te reo o te tangata whenua o Aotearoa.
+language;['reo hinerangi', 'reo whinirana'];Ko te reo Whinirana te reo matua o Whinirana.
+language;['reo urdu', 'urdû'];Ko te reo Urdu te reo matua o Pakitāne.
+language;['reo pāniora'];Ko te reo Pāniora te reo a te motu o Pāniora.
+language;['reo ārapi'];Ko te reo Ārapi te reo matua ko Hauri Arāpia, ko Īrāki, ko Īhipa, ko Hōrano, ko Ripia, ko Morocco, ko Moroko, ko Hūmārie, ko Hūtāne, ko Hiria, ko Tunisia, ko Iharaira..
+language;['reo pōrana'];Ko te reo Pōrana te reo a te motu o Pōrana.
+language;['reo tiamana'];Ko te reo Tiamana te reo a te motu o Tiamana.
+locative-role;['kyoto'];Ko Kyoto he tāone nui o Nipono.
+locative-role;['kaunas'];Ko Kaunas te tāone rua o Rituānia.
+locative-role;['nanjing'];Ko Nanjing he tāone o Haina.
+locative-role;['bandung'];Ko Bandung he tāone nui o Initonīhia.
+locative-role;['delhi'];Ko Delhi he tāone nui o Īnia.
+locative-role;['shenyang'];Ko Shenyang he tāone o Haina.
+locative-role;['edirne'];Edirne, he pa i roto i te rohe Europa o Tākei.
+locative-role;['ho chi minh city'];Ko Ho Chi Minh City te tāone nui o Whitināmu.
+locative-role;['daegu'];Ko Daegu he tāone o Kōrea-ki-te-tonga.
+locative-role;['busan'];Ko Busan he tāone o Kōrea-ki-te-tonga.
+locative-role;['lund'];Ko Lund he tāone o Huitene.
+locative-role;['los angeles, karapōnia', 'ngā ānahera'];Ko Los Angeles he tāone o Hononga-o-Amerika.
+locative-role;['fukuoka'];Ko Fukuoka he tāone nui o Nipono.
+locative-role;["xi'an"];Ko Xi'an he tāone o Haina.
+locative-role;['hiroshima'];Ko Hiroshima he tāone nui o Nipono.
+locative-role;['manako'];Ko Manako he whenua ki Ūropi.
+locative-role;['serbia', 'hāpia', 'sāpia', 'србија'];Ko Serbia he whenua ki Ūropi.
+locative-role;['sapporo'];Ko Sapporo he tāone nui o Nipono.
+locative-role;['tianjin'];Ko Tianjin he tāone o Haina.
+locative-role;['trondheim'];Ko Trondheim he tāone o Nōwei.
+locative-role;['mombasa'];Ko Mombasa te tāone rua o Kēnia.
+locative-role;['bergen'];Ko Bergen te tāone rua o Nōwei.
+locative-role;['gothenburg'];Ko Gothenburg te tāone rua o Huitene.
+locative-role;['andalusia'];Ko Andalusia he hapori rangatira kei te tonga o Pāniora.
+locative-role;['rituānia', 'lithuania', 'litovia'];Ko Rituānia he whenua ki Ūropi.
+locative-role;['tabriz'];Ko Tabriz he tāone o Īrāna.
+locative-role;['osaka'];Ko Osaka he tāone nui o Nipono.
+locative-role;['são paulo'];Ko São Paulo he tāone nui o Parīhi.
+locative-role;['chicago', 'chicago metropolitan area'];Ko Chicago he tāone o Hononga-o-Amerika.
+locative-role;['wēra', 'weiri', 'wēri', 'wales'];Ko Wēra he whenua ki te taihauāuru o te Kīngitanga Kotahi, Ūropi.
+locative-role;['tórshavn'];Ko Tórshavn te tāone matua o Motu Faroe.
+locative-role;['valparaíso'];Ko Valparaíso he tāone nui o Hiri.
+locative-role;['rio de janeiro'];Ko Rio de Janeiro he tāone nui o Parīhi.
+locative-role;['mashhad'];Ko Mashhad te tāone rua o Īrāna.
+locative-role;['new york city', 'niu ioka'];Ko New York City he tāone o Hononga-o-Amerika.
+locative-role;['karachi'];Ko Karachi he tāone nui o Pakitāne.
+locative-role;['philadelphia'];Ko Philadelphia he tāone o Hononga-o-Amerika.
+locative-role;['guayaquil', 'santiago de guayaquil'];Ko Guayaquil he tāone nui o Ekuatoa.
+non-physical-collection;['whakapono karaitiana', 'karaitianatanga', 'karaitiana'];Ko te Whakapono Karaitiana he whakapono i ahu mai te Kawenata Hou o te Paipera.
+phenomenon;['ahi', 'mura'];Ko te ahi he whakahāora tere mā te tukanga matū whakawera-ki-waho o pahūnga, e mahi wera, me aho, me ētahi hua o tautohe matū.
+physical-object;['motokā'];He waka wīra te motokā.
+physical-object;['waka rererangi'];He waka rererangi tētahi mīhini hei rere kei te rangi mā te hāpai hau.
+physical-object;['whana'];Ko te whana he rākau whiu pere. ka kumea te aho, ka tukua.
+physical-region;['kōpere', 'aaheahea', 'kahukura', 'kairangi', 'paahoka', 'rore', 'taawhanawhana', 'uenuku', 'āniwaniwa'];Ko te kōpere tētahi o ngā āhuatanga o te rangi, ka ua, ka puta mai ngā hihi o te rā, anō rā, he kōpere.
+political-geographic-object;['romeinia', 'romania', 'romēnia'];Ko Romeinia he whenua ki Ūropi.
+political-geographic-object;['kyoto'];Ko Kyoto he tāone nui o Nipono.
+political-geographic-object;['kaunas'];Ko Kaunas te tāone rua o Rituānia.
+political-geographic-object;['nanjing'];Ko Nanjing he tāone o Haina.
+political-geographic-object;['bandung'];Ko Bandung he tāone nui o Initonīhia.
+political-geographic-object;['delhi'];Ko Delhi he tāone nui o Īnia.
+political-geographic-object;['shenyang'];Ko Shenyang he tāone o Haina.
+political-geographic-object;['edirne'];Edirne, he pa i roto i te rohe Europa o Tākei.
+political-geographic-object;['ho chi minh city'];Ko Ho Chi Minh City te tāone nui o Whitināmu.
+political-geographic-object;['daegu'];Ko Daegu he tāone o Kōrea-ki-te-tonga.
+political-geographic-object;['busan'];Ko Busan he tāone o Kōrea-ki-te-tonga.
+political-geographic-object;['lund'];Ko Lund he tāone o Huitene.
+political-geographic-object;['los angeles, karapōnia', 'ngā ānahera'];Ko Los Angeles he tāone o Hononga-o-Amerika.
+political-geographic-object;['fukuoka'];Ko Fukuoka he tāone nui o Nipono.
+political-geographic-object;["xi'an"];Ko Xi'an he tāone o Haina.
+political-geographic-object;['hiroshima'];Ko Hiroshima he tāone nui o Nipono.
+political-geographic-object;['kōrea-ki-te-raki'];Ko Kōrea-ki-te-raki he whenua ki Āhia.
+political-geographic-object;['nōwei', 'kongeriket noreg', 'kongeriket norge', 'noreg', 'norge', 'norway'];Ko Nōwei he whenua ki Ūropi.
+political-geographic-object;['hōrana', 'holland', 'nederland', 'netherlands', 'the netherlands'];.
+political-geographic-object;['nipono', 'tiapana', 'hapana', 'japan'];Ko Nipono he whenua motu ki Ahia ki te Rāwhiti.
+political-geographic-object;['manako'];Ko Manako he whenua ki Ūropi.
+political-geographic-object;['hāmoa ki te uru', 'hamoa', 'hāmoa', 'reo hamoa', 'reo hāmoa', 'samoa', 'te reo hamoa', 'te reo hāmoa'];Ko Hāmoa he whenua i te Moana-nui-a-Kiwa.
+political-geographic-object;['marēhia', 'mareihia'];Ko Marēhia he whenua nui ki Āhia.
+political-geographic-object;['kini ekuatoria'];Ko Kini Ekuatoria he whenua ki Āwherika.
+political-geographic-object;['ingarangi', 'england', 'ingarani'];Ko Ingarangi he whenua o te Kīngitanga Kotahi.
+political-geographic-object;['porinīhia wīwī', 'porinīhia mau-wiwi', 'porinīhia wiwi'];Ko Porinīhia Wīwī he whakaminenga o nga kahui moutere e rima kei te putahi o te Moananui a Kiwa kei nga pae 7° ki 27° S me nga pae 134° me 155° W. 1,544 sq maero te takiwa, 258,000 nga tangata noho, 130 nga motu a kua 5 nga kahui moutere ara ko te kahui o Tahiti, ko te kahui o Tuamotu, ko te kahui o Mangareva, Ko te kahui o Enana, ko te kahui o Tubuai.
+political-geographic-object;['rakapuō', 'luxembourg'];Ko Rakapuō he whenua ki Ūropi.
+political-geographic-object;['sapporo'];Ko Sapporo he tāone nui o Nipono.
+political-geographic-object;['kīngitanga kotahi', 'ko te kīngatanga kotahi o piritene nui me airangi ki te raki', 'kingitanga kotahi', 'kingitanga whakakotahi', 'kīngitanga whakakotahi', 'royaume uni', 'united kingdom'];Ko te Kīngitanga Kotahi he whakakotahitanga o ngā whenua e kīa nei ko Ingarangi, ko Koterana, ko Wēra, ko Airangi ki te Raki.Pirimia: Theresa May Tāone matua: Rānana Tāone nunui atu: Belfast, Birmingham, Cardiff, Ētinipara, Glasgow, Liverpool, Manchester, Leeds.
+political-geographic-object;['pāniora', 'peina', 'espagne', 'espana', 'paniora', 'spain', 'taone nui o paniora', 'tāone nui o pāniora'];Ko Pāniora, arā te Kīngitanga o Pāniora, tētahi whenua e whakakapi ana i te nuinga o te kuiti o Iberia ki te tonga rāwhiti o Ūropi.
+political-geographic-object;['ukānga', 'uganda'];Ko Ukānga he whenua nui ki te tonga o Āwherika.
+political-geographic-object;['pērara', 'perarūhi'];.
+political-geographic-object;['atepaihānia', 'ahapaiāna'];Ko Atepaihānia he whenua ki Ūropi.
+political-geographic-object;['katatānga', 'kazakhstan'];Ko Katatānga he whenua ki Ūropi.
+political-geographic-object;['mongōria', 'mongolia'];Ko Mongōria he whenua ki Ahia.
+political-geographic-object;['tianjin'];Ko Tianjin he tāone o Haina.
+political-geographic-object;['new jersey'];Ko New Jersey tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['illinois'];Ko Illinois he wāhanga whenua o ngā wāhi ki waenganui i te Hononga-o-Amerika. koia tonu te 21 o ngā wāhanga whenua o Amerika.
+political-geographic-object;['minnesota'];Ko Minnesota tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['missouri'];Ko Missouri tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['michigan'];Ko Michigan tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['nebraska'];Ko Nebraska tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['pehiamu', 'peratiamu', 'belgique', 'belgium'];Ko Pehiamu he whenua ki Ūropi.
+political-geographic-object;['pakitāne', 'pakistan'];Ko Pakitāne he whenua nui ki te tonga o Āhia. he nui rawa ngā reo o reira, nō te mea, he nui ake i te 177,163,231 te taupori o taua whenua.
+political-geographic-object;['pākaratēhi'];Ko Pākaratēhi he whenua nui ki te tonga o Āhia. he nui rawa ngā reo o reira, nō te mea, he nui ake i te 142,319,000 te taupori o taua whenua.
+political-geographic-object;['āwhekenetāna', 'awhekenetana'];Ko Āwhekenetāna he whenua nui ki te tonga o Āhia. he nui rawa ngā reo o reira, nō te mea, he nui ake i te 29,835,392 te taupori o taua whenua.
+political-geographic-object;['ateria', 'austria'];Ko Ateria he whenua ki Ūropi.
+political-geographic-object;['kamapōtia', 'cambodia', 'kamapotia'];Ko Kamapōtia he whenua ki Āhia.
+political-geographic-object;['ahitereiria', 'te pāpaka-a-māui', 'ò-tāi-lī-a', 'ahitireiria', 'australia', 'australie', 'te pāpaka a māui', 'whenua moemoea'];Ko Ahitereiria, te Whenua Moemoeā rānei, te whenua nui rawa o te Ao-o-Kiwa, me te paparahi i te rawa o te ao.
+political-geographic-object;['connecticut'];Ko Connecticut he wāhanga whenua o te rāwhiti mā raki o te Hononga-o-Amerika i te takiwā o New England.
+political-geographic-object;['trondheim'];Ko Trondheim he tāone o Nōwei.
+political-geographic-object;['mombasa'];Ko Mombasa te tāone rua o Kēnia.
+political-geographic-object;['bergen'];Ko Bergen te tāone rua o Nōwei.
+political-geographic-object;['gothenburg'];Ko Gothenburg te tāone rua o Huitene.
+political-geographic-object;['catalonia'];Ko Catalonia he hapori rangatira ki te rāwhiti o Pāniora.
+political-geographic-object;['hōria'];Ko Hōria he whenua ki Ūropi.
+political-geographic-object;['hanekeria', 'hungary'];Ko Hanekeria he whenua ki Ūropi.
+political-geographic-object;['pōrana', 'poland'];Ko Pōrana he whenua ki Ūropi.
+political-geographic-object;['tānahia'];Ko Tānahia he whenua nui ki te tonga o Āwherika.
+political-geographic-object;['whitināmu', 'whitināma', 'witināma', 'viet nam', 'vietnam', 'whitinamu'];Ko Whitināmu he whenua ki Āhia.
+political-geographic-object;['tiamana', 'hāmene', 'allemagne', 'deutschland', 'germany', 'tiamani'];Ko Tiamana, arā te Tūwehe Whakaminenga o Tiamana, tētahi whenua ki te pokapū o Ūropi.
+political-geographic-object;['inia', 'īnia', 'india'];Ko Īnia he whenua nui ki te tonga o Āhia. he nui rawa ngā reo o reira, nō te mea, he nui ake i te 1,210,193,422 te taupori o taua whenua.
+political-geographic-object;['itāria', 'itari', 'italia', 'italie', 'italy', 'itaria'];Ko Itāria, arā te Tūwehe Itāria, tētahi whenua ki te tonga o Ūropi, me ngā moutere e rua nunui rawa o te Moana Rōwhenua a Hihiri me Hārinia.
+political-geographic-object;['hiri', 'chile'];Ko Hiri he whenua ki Amerika ki te Tonga.
+political-geographic-object;['mohapiki'];Ko Mohapiki he whenua ki Āwherika.
+political-geographic-object;['initonīhia', 'indonesia', 'initonihia'];Ko Initonīhia he whenua nui ki Āhia.
+political-geographic-object;['kirihi', 'greece'];Ko Kirihi he whenua ki Ūropi.
+political-geographic-object;['ūkareinga', 'ukraine'];Ko Ūkareinga he whenua ki Ūropi.
+political-geographic-object;['mehiko', 'mexico', 'mexique', 'mēhiko'];Ko te Mehiko he whenua ki Amerika-ki-te-Raki.
+political-geographic-object;['āmenia'];Ko Āmenia he whenua ki Ūropi.
+political-geographic-object;['īrāki', 'iraq'];Ko Īrāki he whenua nui ki te tonga o Āhia. he nui rawa ngā reo o reira, nō te mea, he nui ake i te 30,399,572 te taupori o taua whenua.
+political-geographic-object;['kōrea-ki-te-tonga', 'korea ki te tonga', 'koria', 'kōrea', 'kōria'];Ko Kōrea-ki-te-tonga he whenua ki Āhia.
+political-geographic-object;['kini pihō'];Ko Kini Pihō he whenua ki Āwherika.
+political-geographic-object;['wīwī', 'parani', 'france', 'wiwi'];Ko Wīwī, arā te Tūwehe Wīwī, tētahi whenua e noho ana ki te hauāuru o Ūropi, ahakoa he rohe, he moutere hoki ōna ki ētahi atu paparahi.
+political-geographic-object;['ekuatoa', 'ec', 'ecu', 'ko ekuatoa', 'te whenua tū wehe o ekuatoa'];Ko Ekuatoa he whenua ki Amerika ki te Tonga.
+political-geographic-object;['airangi', 'aerana', 'aerani', 'airani', 'ireland'];. Ko Airangi he whenua ki Ūropi.
+political-geographic-object;['marakāhia', 'matakahaka'];Ko Marakāhia he whenua ki Āwherika.
+political-geographic-object;['huitene', 'huītene', 'wīreni', 'sweden'];. Ko Huitene he whenua ki Ūropi.
+political-geographic-object;['tāone matua'];Ko te Tāone matua o tētahi whenua te tāone nohoia e te kāwanatanga.
+political-geographic-object;['rīkeneteina', 'rikitaina'];Ko Rīkeneteina he whenua ki Ūropi.
+political-geographic-object;['andorra', 'ānatōra'];Ko Andorra he whenua ki Ūropi.
+political-geographic-object;['tennessee'];Ko Tennessee tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['kentucky'];Ko Kentucky he wāhanga whenua o te Hononga-o-Amerika.
+political-geographic-object;['kansas'];Ko Kansas he wāhanga whenua i waenganui tonu o te Hononga-o-Amerika.
+political-geographic-object;['vermont'];Ko Vermont tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['massachusetts'];Ko Massachusetts tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['rhode island'];Ko Rhode Island tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['south dakota'];Ko South Dakota tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['alaska'];Ko Alaska te wāhanga whenua nui o te Hononga-o-Amerika.
+political-geographic-object;['montana'];Ko Montana tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['oregon'];Ko Oregon tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['louisiana'];Ko Louisiana he wāhanga whenua o te tonga o te Hononga-o-Amerika.
+political-geographic-object;['oklahoma'];Ko Oklahoma tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['arkansas'];Ko Arkansas he wāhanga whenua o te tonga-mā-uru o te Hononga-o-Amerika.
+political-geographic-object;['florida'];Ko Florida he wāhanga whenua o te tonga o te Hononga-o-Amerika.
+political-geographic-object;['georgia'];Ko Georgia he wāhanga whenua o te tonga o te Hononga-o-Amerika.
+political-geographic-object;['north carolina'];Ko North Carolina tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['new mexico'];Ko New Mexico tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['arizona'];Ko Arizona /ˌæ.ɹɪˈzoʊ.nə/ he wāhanga whenua nō te tonga mā uru o te Hononga-o-Amerika.
+political-geographic-object;['mississippi'];Ko Mississippi tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['south carolina'];Ko South Carolina tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['virginia'];Ko Virginia tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['idaho'];Ko Idaho he wāhanga whenua o te raki mā uru o te Hononga-o-Amerika.
+political-geographic-object;['alabama'];Ko Alabama he wāhanga whenua o te tonga o te Hononga-o-Amerika.
+political-geographic-object;["hawai'i", 'hawaii'];Ko Hawai'i ara "Ka Pae`aina o Hawai`i Loa" he kahui moutere e noho ana i Te Moana-nui-a-Kiwa.
+political-geographic-object;['nevada'];Ko Nevada tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['karapōnia', 'california'];Ko Karapōnia he wāhanga whenua o te tahatai hauāuru o te Hononga-o-Amerika.
+political-geographic-object;['wyoming'];Ko Wyoming tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['utah'];Ko Utah tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['colorado'];Ko Colorado he wāhanga whenua o te Hongonga-o-Amerika ki te uru.
+political-geographic-object;['north dakota'];Ko North Dakota tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['tabriz'];Ko Tabriz he tāone o Īrāna.
+political-geographic-object;['poho o pita', 'vatican'];Ko Te Poho o Pita he whenua ki Ūropi.
+political-geographic-object;['amsterdam'];Ko Amsterdam te tāone matua o Hōrana.
+political-geographic-object;['osaka'];Ko Osaka he tāone nui o Nipono.
+political-geographic-object;['kēpa weriti', 'te kūrae matomato'];Ko Kēpa Weriti he whenua ki Āwherika.
+political-geographic-object;['tiorangi', 'aihirana'];Ko Tiorangi he whenua ki Ūropi.
+political-geographic-object;['são paulo'];Ko São Paulo he tāone nui o Parīhi.
+political-geographic-object;['rihipone'];Ko Rihipone te tāone matua o Potukara.
+political-geographic-object;['lima'];Ko Lima te tāone matua o Perū.
+political-geographic-object;['dublin', 'tapurini'];Ko Dublin te tāone matua o Airangi.
+political-geographic-object;['sofia'];Ko Sofia te tāone matua o Purukāria.
+political-geographic-object;['bogotá'];Ko Bogotá te tāone matua o Koromōpia.
+political-geographic-object;['prague'];Ko Prague te tāone matua o Tīekia.
+political-geographic-object;['budapest'];Ko Budapest te tāone matua o Hanekeria.
+political-geographic-object;['jakarta', 'tiakāta'];Ko Jakarta te tāone matua o Initonīhia.
+political-geographic-object;['baghdad', 'bagdād'];Ko Baghdad te tāone matua o Īrāki.
+political-geographic-object;['rōma'];Ko Rōma te tāone matua o Itāria.
+political-geographic-object;['bucharest'];Ko Pukarehi te tāone matua o Romeinia.
+political-geographic-object;['hiruharama', 'hiruhārama'];Ko Hiruharama te taone matua o Iharaira.
+political-geographic-object;['kieu'];Ko Kieu te tāone matua o Ūkareinga.
+political-geographic-object;['belgrade'];Ko Belgrade te tāone matua o Serbia.
+political-geographic-object;['yerevan'];Ko Yerevan te tāone matua o Āmenia.
+political-geographic-object;['pearīni', 'berlin', 'pearini'];Ko Pearīni he tāone matua o Tiamana.
+political-geographic-object;['pyongyang'];Ko Pyongyang te tāone matua o Kōrea-ki-te-raki.
+political-geographic-object;['beijing', 'peihinga', 'pīkini'];Ko Beijing te tāone matua o Haina.
+political-geographic-object;['mohikau'];Ko Mohikau te tāone matua o Rūhia.
+political-geographic-object;['ao tomi me pirinihipi'];Ko Ao Tomi me Pirinihipi he whenua ki Āwherika.
+political-geographic-object;['iharaira'];Iharaira Ko te whenua i roto i te tonga-Asia i runga i te taha ki te rawhiti o te moana nui.
+political-geographic-object;['chicago', 'chicago metropolitan area'];Ko Chicago he tāone o Hononga-o-Amerika.
+political-geographic-object;['koterana', 'koterangi', 'kōtarani', 'kotarangi', 'scotland'];Ko Koterana he whenua ki te tokerau o te Kīngitanga Kotahi, Ūropi.
+political-geographic-object;['whinirana', 'hinerangi', 'finland'];. Ko Whinirana he whenua ki Ūropi.
+political-geographic-object;['atlanta, georgia', 'atlanta'];Ko Atlanta he tāone o Hononga-o-Amerika, te tāone matua o Georgia.
+political-geographic-object;['boston'];Ko Boston he tāone o Hononga-o-Amerika, te tāone matua o Massachusetts.
+political-geographic-object;['tórshavn'];Ko Tórshavn te tāone matua o Motu Faroe.
+political-geographic-object;['kabul'];Ko Kabul te tāone matua o Āwhekenetāna.
+political-geographic-object;['tirana'];Ko Tirana te tāone matua o Arapeinia.
+political-geographic-object;['luanda'];Ko Luanda te tāone matua o Anakora.
+political-geographic-object;['whiena', 'wiena'];Ko Whiena te tāone matua o Ateria.
+political-geographic-object;['dhaka'];Ko Dhaka te tāone matua o Pākaratēhi.
+political-geographic-object;['paruhi'];Ko Paruhi te tāone matua o Pehiamu.
+political-geographic-object;['santiago'];Ko Santiago te tāone matua o Hiri.
+political-geographic-object;['nicosia'];Ko Nicosia te tāone matua o Haipara.
+political-geographic-object;['copenhagen'];Ko Copenhagen te tāone matua o Tenemāka.
+political-geographic-object;['rānana'];Ko Rānana te tāone matua o Kīngitanga Kotahi.
+political-geographic-object;['tallinn'];Ko Tallinn te tāone matua o Etonia.
+political-geographic-object;['helsinki', 'helsingfors'];Ko Helsinki te tāone matua o Whinirana.
+political-geographic-object;['parī'];Ko Parī te tāone matua o Wīwī.
+political-geographic-object;['tbilisi'];Ko Tbilisi te tāone matua o Hōria.
+political-geographic-object;['ātene'];Ko Ātene te tāone matua o Kirihi.
+political-geographic-object;['reykjavik', 'reykjavík'];Ko Reykjavík te tāone matua o Tiorangi.
+political-geographic-object;['tehran', 'teherán'];Ko Tehran te tāone matua o Īrāna.
+political-geographic-object;['tokyo', 'tōkio'];Ko Tokyo te tāone matua o Nipono.
+political-geographic-object;['nairobi'];Ko Nairobi te tāone matua o Kēnia.
+political-geographic-object;['riga'];Ko Riga te tāone matua o Rāwhia.
+political-geographic-object;['vaduz'];Ko Vaduz te tāone matua o Rīkeneteina.
+political-geographic-object;['vilnius'];Ko Vilnius te tāone matua o Rituānia.
+political-geographic-object;['rakapuō'];Ko Rakapuō te tāone matua o Rakapuō.
+political-geographic-object;['kuala lumpur'];Ko Kuala Lumpur te tāone matua o Marēhia.
+political-geographic-object;['maputo'];Ko Maputo te tāone matua o Mohapiki.
+political-geographic-object;['ōhoro', 'oslo'];Ko Ōhoro te tāone matua o Nōwei.
+political-geographic-object;['pakangakite'];Ko Pakangakite te tāone matua o Pōrana.
+political-geographic-object;['seoul', 'houra'];Ko Seoul te tāone matua o Kōrea-ki-te-tonga.
+political-geographic-object;['madrid'];Ko Madrid te tāone matua o Pāniora.
+political-geographic-object;['stockholm'];Ko Stockholm te tāone matua o Huitene.
+political-geographic-object;['antananarivo'];Ko Antananarivo te tāone matua o Marakāhia.
+political-geographic-object;['kampala'];Ko Kampala te tāone matua o Ukānga.
+political-geographic-object;['dar es salaam'];Ko Dar es Salaam he tāone nui o Tānahia.
+political-geographic-object;['hanoi'];Ko Hanoi te tāone matua o Whitinamu.
+political-geographic-object;['kānapera', 'canberra'];Ko Kānapere te tāone matua o Ahitereiria.
+political-geographic-object;['baku'];Ko Baku te tāone matua o Atepaihānia.
+political-geographic-object;['minsk'];Ko Minsk te tāone matua o Pērara.
+political-geographic-object;['brasília'];Ko Brasília te tāone matua o Parīhi.
+political-geographic-object;['praia'];Ko Praia te tāone matua o Kēpa Weriti.
+political-geographic-object;['zagreb'];Ko Zagreb te tāone matua o Koroātia.
+political-geographic-object;['quito'];Ko San Francisco de Quito te tāone matua o Ekuatoa.
+political-geographic-object;['bissau'];Ko Bissau te tāone matua o Kini Pihō.
+political-geographic-object;['new delhi'];Ko New Delhi te tāone matua o Īnia.
+political-geographic-object;['valletta'];Ko Valletta te tāone matua o Mārata.
+political-geographic-object;['chișinău', 'chişinău'];Ko Chişinău te tāone matua o Morotawa.
+political-geographic-object;['te whanga-nui-a-tara', 'pōneke', 'poneke', 'te whanganui-a-tara', 'te upoko-o-te-ika', 'te upoko-o-te-ika-a-māui', 'whanganui a tara', 'takiwā o te whanga-nui-a-tara', 'wellington', 'whanga-nui-a-tara', 'whanganui-a-tara', 'whanganui-ā-tara'];Ko Te Whanga-nui-a-Tara te tāone matua o Aotearoa, ki Te-Upoko-O-Te Ika-a-Māui.
+political-geographic-object;['islamabad'];Ko Islamabad te tāone matua o Pakitāne.
+political-geographic-object;['ljubljana'];Ko Ljubljana te tāone matua o Horowinia.
+political-geographic-object;['bern'];Ko Bern te tāone matua o Huiterangi.
+political-geographic-object;['anakara', 'ankara'];Ko Anakara te tāone matua o Whenua Korukoru.
+political-geographic-object;['apia'];Ko Apia te tāone matua o Hāmoa, ki te tai tokerau o te moutere Upolu.
+political-geographic-object;['valparaíso'];Ko Valparaíso he tāone nui o Hiri.
+political-geographic-object;['rio de janeiro'];Ko Rio de Janeiro he tāone nui o Parīhi.
+political-geographic-object;['mashhad'];Ko Mashhad te tāone rua o Īrāna.
+political-geographic-object;['poihākena', 'sydney', 'poihākene', 'pō hākene'];Ko Poihākena he tāone nui i Ahitereiria.
+political-geographic-object;['new york city', 'niu ioka'];Ko New York City he tāone o Hononga-o-Amerika.
+political-geographic-object;['karachi'];Ko Karachi he tāone nui o Pakitāne.
+political-geographic-object;['philadelphia'];Ko Philadelphia he tāone o Hononga-o-Amerika.
+political-geographic-object;['guayaquil', 'santiago de guayaquil'];Ko Guayaquil he tāone nui o Ekuatoa.
+political-geographic-object;['parīhi', 'brazil'];Ko Parīhi he whenua ki Amerika ki te Tonga.
+political-geographic-object;['texas'];Ko Texas tētahi o ngā wāhanga whenua e 50 o te Hononga-o-Amerika.
+political-geographic-object;['phoenix, arizona', 'phoenix'];Ko Phoenix he tāone o Hononga-o-Amerika, te tāone matua o Arizona.
+quality;['whakapono karaitiana', 'karaitianatanga', 'karaitiana'];Ko te Whakapono Karaitiana he whakapono i ahu mai te Kawenata Hou o te Paipera.
+region;['pāuna'];Ko te pāuna te moni o te Kīngitanga Kotahi.
+region;['tāra', 'nzd', 'taara'];Ko te tāra te moni o Aotearoa.
+socially-constructed-person;['titian'];Ko Tiziano Vecelli / Tiziano Vecellio
+socially-constructed-person;['leonardo da vinci'];Ko Leonardo di ser Piero da Vinci he kaipūtaiao, he kaipeita, he kaimātai, he kaiwhakatangitangi, he kaihanga, he tāngata pūkenga, he kaituhi koiora rongonui nō Itāria.
+socially-constructed-person;['rembrandt'];Ko Rembrandt Harmenszoon van Rijn (Hōngongoi 15.
+socially-constructed-person;['abraham lincoln', 'aperehama ringikana'];Ko Aperehama Ringikana te tumuaki tuatekau ma ono o te Hononga-o-Amerika.
+socially-constructed-person;['carl linnaeus'];Ko Carl Linnaeus he rata, he kaimātai kararehe, he kaimātai koiora rongonui nō Huitene.
+socially-constructed-person;['vincent van gogh'];Ko Vincent Willem van Gogh he kaipeita rongonui nō Ūropi.
+socially-constructed-person;['pablo picasso'];Ko Pablo Ruiz Picasso he kaipeita rongonui nō Pāniora.
+socially-constructed-person;['irihāpeti te tuarua', 'irihapeti te tuarua', 'erihapeti ii', 'erihapeti ii o ingarangi', 'erihāpeti ii', 'ko irihapeti te tuarua'];Ko Irihāpeti te Tuarua te Kuīni o Aotearoa, Kīngitanga Kotahi, Ahitereiria, Kānata.
+socially-constructed-person;['george washington'];Ko George Washington te tumuaki tuatahi o te Hononga-o-Amerika.
+socially-constructed-person;['ronald reagan'];Ko Ronald Wilson Reagan te tumuaki whā tekau mā whā o te Hononga-o-Amerika.
+socially-constructed-person;['minita o te karauna', 'minita karauna'];He Minita o te Karauna he Mema Pāremata ki te Rūnanga o te Kāwanatanga.
+socially-constructed-person;['ihu karaiti', 'ihu', 'ihu o nahareta', 'inri'];Ko Ihu Karaiti, arā Ihu o Nahareta, te tino tangata o te Whakapono Karaitiana.
+socially-constructed-person;['vikings'];Ko ngā Vikings he tāngata Norse haere moana, kōrero ana i te reo Norse.
+spatial-feature;['kāmaka', 'kamaka', 'gibraltar'];Ko Kāmaka he whenua ki Ūropi, ki te takutai tonga o Pāniora.
+spatial-feature;['everest'];Ko Everest he maunga teitei rawa, te tino pae maunga kei te Tipete me te Nepōra.
+spatial-feature;['kilimanjaro te maunga'];Ko Mount Kilimanjaro te maunga teitei rawa, te tino pae maunga kei te Tānahia.
+spatial-feature;['mount whitney'];Ko Mount Whitney te maunga teitei rawa, te tino pae maunga kei te Karapōnia, Hononga-o-Amerika.
+subject;['pūtaiao'];Ko te matauranga Pūtaiao te putiki mātauranga o nga mahuatanga katoa o te taiao mai te rangi ki te whenua huri noa.
+subject;['tātai aro whenua', 'papawhenua'];Ko te Tātai aro whenua he mātauranga e pā ana ki ngā kohatu.
+subject;['mātauranga taupuhi kaiao', 'mātai hauropi', 'rangahau taiao'];Ko te Mātauranga taupuhi kaiao he mātauranga e pā ana ki hononga i waenganui o ngā kaiao me ō rātou wāhi e noho ai.
+subject;['mātauranga matū'];Ko te mātauranga matū te mātauranga o ngā pūmotu, o ngā pūhui hoki.
+taxonomic-collective;['fabaceae', 'leguminosae'];Ko ngā Fabaceae he whānau huaota nui rawa, arā ngā tautau huānga o ēra o ā tātou kai, o ngā pīni me ngā pī.
+taxonomic-collective;['houhere', 'hoheria', 'hoheria populnea'];Ko te Houhere he rākau whakaruruhau ririki o Aotearoa, kei Te Ika-a-Māui e tupu ana.
+temporal-region;['tekau tau', 'ngahurutanga'];Ko te tekau tau he wā. tekau tau te roa.
+temporal-region;['14 pipiri', 'pipiri 14'];Ko 14 Pipiri, arā, tētahi o ngā rā o te tau, te kaupapa o tēnei tuhipānui.
+temporal-region;['tau pekerangi', 'leap year', 'tau kuhurangi', 'tau peke', 'tau pihetiri'];Ko te tau pekerangi he kupu i hangaia hei whakaahua i te tau ka kuhuna he rangi anō ki te maramataka.
+temporal-region;['21 pipiri', 'te ihu o hineraumati', 'pipiri 21'];Ko 21 Pipiri, arā, tētahi o ngā rā o te tau, te kaupapa o tēnei tuhipānui.
+temporal-region;['kohi-tātea', 'hānuere', 'hanuere'];Hakihea <-- --> Hui-tanguru Ko Kohi-tātea te marama tuatahi o te tau.
+temporal-region;['tekau tau 1990', 'ngahurutanga 200', 'tekau tau 200'];Ko te Tekau tau 1990 ngā tau atu i te 1990 tae noa ki te 1999.
+temporal-region;['kohi-tātea', 'hānuere', 'hanuere'];Hakihea <-- --> Hui-tanguru Ko Kohi-tātea te marama tuatahi o te tau.
+temporal-region;['kohi-tātea', 'hānuere', 'hanuere'];Hakihea <-- --> Hui-tanguru Ko Kohi-tātea te marama tuatahi o te tau.
+temporal-region;['hakihea', 'tihema', 'tīhema'];Whiringa-ā-rangi <-- --> Kohi-tātea
+temporal-region;['hakihea', 'tihema', 'tīhema'];Whiringa-ā-rangi <-- --> Kohi-tātea
+temporal-region;['haratua', 'mei'];Paenga-whāwhā <-- --> Pipiri
+temporal-region;['hepetema', 'mahuru'];Here-turi-kōkā <-- --> Whiringa-ā-nuku
+temporal-region;['poutū-te-rangi', 'māehe', 'maehe', 'poutu-te-rangi'];Ko Poutū-te-rangi te marama tuatoru o te tau.
+temporal-region;['hui-tanguru', 'pēpuere', 'hui tanguru', 'pepuere', 'pepueri'];Ko Hui tanguru te marama tuarua o te maramataka.
+temporal-region;['here-turi-kōkā', 'ākuhata', 'äkuhata', 'maramawaru', 'akuhata', 'here-tuki-kōkā'];Hōngongoi <--.
+temporal-region;['hūrae', 'hōngongoi', 'hurae'];Pipiri <-- --> Here-turi-kōkā
+temporal-region;['paenga-whāwhā', 'äperira', 'āperire', 'aperira', 'āperira'];Poutū-te-rangi <-- --> Haratua
+temporal-region;['pipiri', 'hune'];Haratua <-- --> Hōngongoi
+temporal-region;['whiringa-ā-rangi', 'noema'];Whiringa-ā-nuku <-- --> Hakihea
+temporal-region;['oketopa', 'whiringa-ā-nuku'];Ko Whiringa-ā-nuku te marama tekau o te tau.
+temporal-region;['tau'];Ko te tau te roa o te takahuri kotahi a Papa-tū-ā-nuku i te rā.

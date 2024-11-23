@@ -1,0 +1,764 @@
+activity;['dövüşmek', 'kavga etmek', 'mücadele'];Fiziksel bir mücadele yapmak.
+activity;['performans', 'gösteri', 'gerçekleştirmek', 'halka sunum'];Topluluk önünde birisinin müzik çalması veya bir eseri, işi, beceriyi ortaya koyması.
+activity;['kapanış', 'veda', 'valedictory adresi', 'valedictory oration'];Bir mektup veya diğer yazılı iletiyi sonlandırırken kullanılan geleneksel nezaket ifadesi.
+activity;['hüküm', 'kazâ', 'yargı', 'karar', 'cümle', 'mahkumiyet', 'hapis cezası', 'mahkum', 'mahkumiyet kararı'];Bir adli davadaki ihtilafı çözümleyen ve tarafların hak ve yükümlülüklerini belirleyen, davanın görüldüğü mahkemenin aldığı resmi ve esas karar.
+activity;['satranç', 'santranç', 'satranc', 'satrancın kökeni', 'satranç hakkında', 'satranç nasıl oynanır', 'satranç oyunu'];Her oyuncunun onaltı taş ile oyuna başladığı, bu taşların belli kurallara göre bir tahta üzerinde sıra ile oynatıldığı ve amacın karşı tarafın şahını almak olduğu, iki oyuncu ile oynanan bir masa oynu.
+activity;['bilgisayar oyunları', 'bilgisayar oyunu', 'video oyunu', 'hayat', 'video oyun', 'video oyunları', 'bilgisayar ve video oyun endüstrisi', 'bilgisayar ve video oyunları', 'pc oyunları', 'vidyo oyunu', 'pc oyun', 'elektronik eğlence', 'interaktif oyun', 'kişisel bilgisayar oyunları', 'kişisel bilgisayar oyunu'];Oyuncunun hata sonucu kayebedileceği, oynama haklarından bir tanesi.
+activity;['konser', 'gösteri', 'performans', 'müzik konserleri', 'müzik konseri', 'canlı konser', 'canlı müzik', 'konser turnesi'];Topluluk önünde birisinin müzik çalması veya bir eseri, işi, beceriyi ortaya koyması.
+activity;['iş', 'çalışma', 'sıkıcı iş'];Yapılacak, bitirilecek bir şey.
+activity;['alaka', 'umur', 'eğlence'];Kişinin iyi hâline veya mutluluğuna etki eden.
+activity;['isyan', 'ayaklanma', 'başkaldırı', 'başkaldırma', 'kalkışma'];Oturmuş bir güce veya keyfi bir otoriteye toplu hâlde karşı çıkma.
+activity;['poker', 'bilgisayarda poker', 'poker oyuncusu', 'poker oyunu'];Bir ıskambil kartı oynu. her oyuncu kendi için para koyar ve oynar, diğer oyunculara kıyasla kartların sırası ve bileşimlerine bağlı olarak kazanan oyuncu belirlenir.
+activity;['himaye', 'koruma'];Nazik destek ve yönlendirme.
+activity;['isyan', 'ayaklanma', 'başkaldırma', 'başkaldırı', 'başkaldırış', 'halk ayaklanmasının', 'isyancılar', 'isyanı'];Oturmuş bir güce veya keyfi bir otoriteye toplu hâlde karşı çıkma.
+activity;['kar', 'kar yağışı', 'kar örtüsü', 'kar örtüsünün'];En sık görülen donmuş su yapışı. yıldız şekilli kristaller veya bunların kümeleri şeklinde olur.
+activity;['dolu', 'dolu nasıl oluşur', 'ateşli', 'dolu fırtınası'];Buzdan toplar veya yumrular şeklinde yağış.
+activity;['mübayaa', 'satın alma', 'satın alım'];Para veya dengi bir araç ile bir şeyin elde edilmesi veya bunun eylemi.
+activity;['itme'];Bir cismin, uygulandığı tarafın aksi yönünde hareket etmesine neden olan kuvvet.
+activity;['yeni terim', 'neolojizmler', 'siyasi terimdir'];Yakın zamanda türetilmiş bir kelime veya terim.
+activity;['cer', 'çekme'];Hareket gücü ile bir nesneyi bir yüzey üzerinde çekmek işi.
+activity;['ceza', 'ceza uygulaması', 'cezai', 'cezalandırma', 'cezalandırmak', 'cezalandırılmasına'];Uygun sayılmayan bir davranış için bir kişi veya gruba arzu edilmeyen bir durum empoze etmek.
+activity;['kiralama', 'kiralama kullanılmıştır'];Malsahibi tarafından bir şeyin kullanımını belli bir süre için, belli bir para karşılığında bir başkasına aktarmak.
+activity;['orta boy', 'ciltçilik', '12mo', 'kitap ciltleme'];Orta boy kağıda karşılık gelen bir kitap boyutu.
+activity;['kazâ', 'yargı', 'eleştiri', 'yargı kararı'];Bir adli davadaki ihtilafı çözümleyen ve tarafların hak ve yükümlülüklerini belirleyen, davanın görüldüğü mahkemenin aldığı resmi ve esas karar.
+activity;['himaye', 'koruma', 'ticaret koruma'];Yabancı rakiplere karşı uygulanan, onların yerli üreticilerle rekabet yeteneğini sınırlayan kısıtlamalar.
+activity;['iş', 'istihdam'];Karşılığında birisin düzenli olarak para aldığı üretim, hizmet veya ticaret faaliyeti.
+activity;['iş', 'i̇ş', 'meslek', 'çalışma', 'iş hat'];Karşılığında birisin düzenli olarak para aldığı üretim, hizmet veya ticaret faaliyeti.
+activity;['perakende satış', 'perakendecilik', 'dükkan', 'dükkân', 'mağaza', 'perakende', 'özel mağazalar', 'oyuncak dükkanında', 'oyuncak mağazası', 'perakende iş', 'perakende sektöründe', 'perakende ticaret', 'perakende çıkış', 'perakendeciler'];Mallarin tüketiciye küçük sayıda ve doğrudan satılması.
+activity;['çisenti', 'serpinti', 'çilenti', 'çiskin', 'çiseleme', 'mizzle'];İnce yağan hafif yağmur.
+activity;['yağmur', 'yağış', 'baran', 'yagmur', 'yağmur nasıl oluşur', 'yağmur fırtına', 'yağmur fırtınası', 'yağış miktarı'];0.5 milimetreden büyük su damlaları şeklinde olan yağış.
+agentive-figure;['ilaç firması', 'ilaç endüstrisi', 'ilaç sanayii', 'ilaç sanayisi', 'ilaç şirketi', 'pharma'];İlaç imalatına yönelik faaliyet.
+agentive-figure;['çıkar grupları', 'çıkar grubu', 'lobi', 'baskı grupları', 'lobici gruplar', 'baskı grubu', 'lobi grubu', 'lobi grupları', 'savunma grubu', 'savunma grupları', 'üçüncü evin'];Kamu görevlilerini etkilemeye veya onlara baskı yapmaya çalışan kişiler sınıfı veya grubu. toplu olarak, lobiciler.
+agentive-figure;['yönetim kurulu', 'yönetim kurulu odası', 'gölge yönetmen olsun', 'kurumsal yönetim kurulu', 'kurumsal yönetmen', 'müdürlük', 'yönetim kurulu üyesi', 'şirket müdürü'];Bir şirketin yönetim kurulunun toplandığı oda.
+agentive-figure;['devlet', 'egemen devlet', 'ulus', 'mülk', 'toprak', 'ülke', 'millet', 'modern devlet', 'devlet kurumu', 'res publica', 'ulusal'];Bir coğrafi alan üzerinde egemenlik sahibi olan bir politik varlık.
+agentive-figure;['devlet', 'egemen devlet', 'ulus', 'mülk', 'toprak', 'ülke', 'millet', 'modern devlet', 'devlet kurumu', 'res publica', 'ulusal'];Bir devletin kontrolü altında olan coğrafi alan.
+agentive-figure;['yahudilik', 'i̇branilik', 'i̇srail dini', 'musevilik', 'musevîlik', 'yahudi', 'musevi geleneği', 'yahudi ailenin', 'yahudi cemaati', 'yahudi din'];Kökeni eski Orta-Doğu'nun İbrani halklarına dayanan, onların dinî yazıtları olan Tevrat ve Eski Ahit'te belgelenmiş bir din.
+agentive-figure;['i̇slam', 'i̇slam dini', 'islam', 'i̇slamlık', 'muhammedîlik', 'i̇slam dîni', 'i̇slâm dini', 'i̇slâm dîni', 'müslümanlık', 'muhammedizm', 'islamiyet', 'islâm', 'islâmiyet', 'i̇slam inancı', 'i̇slami', 'i̇slamiyet', 'i̇slamiyetin doğuşu', 'i̇slamiyetlik', 'i̇slamî', 'i̇slâm', 'i̇slâmiyet', 'i̇slâmî', 'muhammedilik', 'neo islam', 'islamcılar', 'islamcılık', 'islami', "militan islam'ın", 'muhammadanism'];Peygamber Muhammed'in öğretileri üzerine kurulmuş din.
+agentive-figure;['askeriye', 'silahlı kuvvetler', 'askeri', 'silâhlı kuvvetler', 'askerî', 'silahlı hizmetler', 'askeri makinesi', 'askeri şube', 'savaş makinesi', 'silahlı direniş', 'silahlı kuvvet'];Bir devletin askeri birimleri, genelde operasyon ortamlarına göre bölünür, ordu, deniz kuvvetleri, hava kuvvetleri gibi.
+agentive-physical-object;['dizüstü bilgisayar', 'dizüstü', 'diz üstü bilgisayar', 'laptop', 'notebook', 'dizüstü bilgisayarlar'];Kişinin kucağında kullanılabilecek kadar küçük ve hafif olan bir bilgisayar.
+agentive-physical-object;['hayvan', 'animalia', 'hayvanlar', 'animal', 'hayvanlar âlemi', 'hayvanların sınıflandırılması', 'epifauna', 'epifaunal', 'fauna', 'infauna', "metazoan'da", 'olmanın animasyon', 'yaratık'];İstemli hareket edebilen, selülozsuz bir hücre duvarı olan, uyarılara hzlı tepki vermelerini sağlayan özelleşmiş duyu organları olan, bitki ve diğer hayvanlar gibi karmaşık organik maddeleri yiyebilen, tüm canlı organizmalar.
+agentive-physical-object;['köpek', 'canis lupus familiaris', 'köpekler', 'ev köpeği', 'i̇t', 'kuçu kuçu', 'canis familiaris', 'familiaris', 'yerli köpek'];Çoğu zaman Avcılık veya bekçilik için kullanılan, köpekgiller familyasından dört ayaklı evcil hayvan.
+agentive-physical-object;['çiçek', 'çiçekler', '✿'];Kapalı tohumlu bir bitkinin üreme organı. çanak ve taç yapraklarla çevrili stamen ve karpellerden oluşur, bunların tümü bir tabla üzerindedir.
+agentive-physical-object;['dizüstü bilgisayar', 'dizüstü'];Kişinin kucağında kullanılabilecek kadar küçük ve hafif olan bir bilgisayar.
+agentive-physical-object;['kadın', 'dişi', 'bayan', 'dişi bitki', 'dişi canlı', 'dişi hayvan', 'dişi yaratık', '♀', 'dişilik'];Yumurta üreten ve çocuk doğurabilen cinsiyetten bir yetişkin insan.
+agentive-physical-object;['dölüt', 'fetus', 'cenin', 'fötüs', 'rüşeym', 'fetal', 'fetüs'];Gelişiminin ileri aşamalarında olan, yetişkin hayvanın başlıca yapılarına gösteren, doğmamış, veya yumurtadan çıkmamış bir omurgalı.
+agentive-physical-object;['insan', 'homo', 'i̇nsan', 'homo sapiens sapiens', 'homo sapiens', 'i̇nsanlar', 'adem evladı', 'ademoğlu', 'homosapiens', 'i̇nsan oğlu', 'i̇nsanoğlu', 'kimse', 'şahıs', 'adam', 'insan türünün'];İnsan ırkının bir üyesi.
+agentive-physical-object;['kiraz', 'kiraz ağacı'];Kısa ve sert saplı, sert ve pürüzsüz çekirdekli, dışı kırmızı, siyah veya sarı olan küçük bir meyve (Prunus avium ve ona benzer diğer bazı Prunus cinsi meyveler).
+agentive-physical-object;['tembul', 'piper betle', 'betel', 'betel biber', 'betel piper', 'betel yaprak', 'betel yaprakları'];Yaprakları tıbbi amaçla ağızda çiğnenen bir sarmaşık türü (Piper betle).
+agentive-physical-object;['vanilya', 'vanilla', 'vanilla planifolia', 'vanilya planifolia', 'vanilya orkide'];Vanilla cinsinden (özellikle Vanilla planifolia), meyvesinden gıda ve parfüm yapımında kullanılan bir ekstre elde edilen, tırmanıcı bir orkide.
+agentive-physical-object;['geyik', 'maral', 'cervidae', 'geyikgiller', 'kafkas geyiği', 'cervid', 'cervids'];Artiodactyla ordosundaki Cervidae familyasını oluşturan iki parmaklı 41 hayvan türünün genel adı.
+agentive-physical-object;['sığır', 'büyükbaş', 'büyükbaş hayvan', 'bos taurus', 'bos primigenius taurus', 'inek', 'öküz', 'inekler', 'sığırlar', 'yerli sığır'];Sığırgiller familyasının evcilleştirilmiş üyeleri.
+agentive-physical-object;['sığır', 'büyükbaş', 'büyükbaş hayvan', 'bos taurus', 'bos primigenius taurus', 'inek', 'öküz', 'inekler', 'sığırlar', 'yerli sığır'];Sığırgiller altfamilyasına ait herhangi yaş ve cinsiyetten bir hayvan.
+agentive-physical-object;['sığır', 'büyükbaş', 'büyükbaş hayvan', 'bos taurus', 'bos primigenius taurus', 'inek', 'öküz', 'inekler', 'sığırlar', 'yerli sığır'];Sığırgiller familyasının evcilleştirilmiş üyeleri.
+agentive-physical-object;['sığır', 'büyükbaş', 'büyükbaş hayvan', 'bos taurus', 'bos primigenius taurus', 'inek', 'öküz', 'inekler', 'sığırlar', 'yerli sığır'];Sığırgiller altfamilyasına ait herhangi yaş ve cinsiyetten bir hayvan.
+agentive-physical-object;['daktilo', 'daktilo makinesi', 'yazı makinesi', 'daktile', 'daktüle', 'daktülo', 'elektrikli daktilo', 'typebar'];Tuşlara parmakla vurulduğunda harflerin boyalı bir şerit üzerinden kağıda bastırılması yoluyla yazı yazmaya yarayan, mekanik veya elektrikle çalışan makina.
+agentive-physical-object;['kadana', 'katana', 'taslak atı', 'yük beygiri', 'dray atı', 'koşum atı', 'taslak atları', 'taslağı atlar'];Binek atından daha ağır ve güçlü, özellikle ağır yükleri çekmek için yetiştirilmiş bir cins at.
+agentive-physical-object;['kral penguen', 'aptenodytes patagonicus', 'kral pengueni', 'kral penguenler', 'aptenodytes patagonica'];Antarktika kıyıları ve civar adalarda yaşayan büyük bir penguen türü, Aptenodytes patagonicus.
+agentive-physical-object;['goril', 'gorilla', 'gorillini', 'gorilla gorilla', 'goriller', 'gümüşsırt', 'gümüşsırt goril'];Orta Afrika ormanlarında yaşayan ve büyük insansı maymunların (Hominidae) en büyüğü hayvan.
+agentive-physical-object;['yılan', 'serpentes', 'engenek yılanı', 'ophidia', 'yilan', 'yılanlar', 'yılan gibi'];Serpentes alttakımına ait bir sürüngen, tipik olarak uzuvsuz, silindirik bir beden, kaynaşmış gözkapakları ve avını yutabilmek için değilşime uğramış bir çeneye sahiptir.
+agentive-physical-object;['adelie pengueni', 'pygoscelis adeliae', 'adelie', 'adelie penguin'];Pygoscelis adeliae bilimsel isimli, gölerinin çevresi beyaz olan bir penguen türü.
+agentive-physical-object;['çimen', 'çim', 'graminoid'];Tek çenekliler sınıfında yer alan, 10000'den çok türe sahip büyük ve yaygın bir bitki ailesi. çoğu otsu bir kısmı odunludur. Saplar eklemlidir, uzun ve dar yapraklar düğüm noktalarından çıkar. Çiçekleri belirsizdir, küçük bir periyanta sahiptirler ve ya rüzgarla veya kendi kendilerine tozlaşırlar.
+agentive-physical-object;['mühendis tırtıl', 'mühendis tırtılı', 'geometri güve', 'geometrid', 'geometrid güve', 'geometridae güve'];Geometridae familyasından böceklerin tırtılı.
+agentive-physical-object;['mühendis tırtıl', 'mühendis tırtılı', 'geometri güve', 'geometridae güve', 'inchworm', 'lüper', 'solucan ölçüm'];Geometridae familyasından böceklerin tırtılı.
+agentive-physical-object;['at', 'beygir', 'equus caballus', 'at kaç kilodur', 'atlar', 'equus ferus caballus', 'caballus'];İnsan taşımak, yük taşımak veya yük çekmek için kullanılan Equus caballus türünden dört bacaklı büyük hayvan.
+agentive-physical-object;['imparator penguen', 'i̇mparator penguen', 'aptenodytes forsteri', 'i̇mparator pengueni', 'i̇mparator penguenleri'];Antarktika'da yaşayan, boyu 120 cm olan penguen türü (Aptenodytes forsteri).
+agentive-physical-object;['kutup ayısı', 'ursus maritimus', 'ursus maritimus maritimus', 'buz ayısı', 'kutup ayıları', 'thalarctos maritimus'];Kuzey kutup bölgesine has bir büyük ayı türü.
+agentive-physical-object;['bit', 'bitler', 'phthiraptera', 'yavşak', 'bit sirkesi', 'sirke', 'biti', 'biti emme'];Phthiraptera takımına ait, insan, diğer memeliler ve kuşlarda yaşayan, kanatsız bir böcek.
+agentive-physical-object;['ahududu', 'ahududu çalı', 'mavi ahududu'];Rubus idaeus bitkisine ait, küçük, kırmızı, yenir meyve.
+amount-of-matter;['alüminyum', 'al', 'aliminyum', 'aluminyum', 'atom numarası 13'];Atom numarası 13, sembolü Al olan metalik kimyasal element.
+amount-of-matter;['altın', 'altun', 'au', 'atom numarası 79', 'lode altın', 'nabit altın'];Yüksek malî değere sahip, atom numarası 79 ve sembolü Au olan ağır, sarı, metalik bir element.
+amount-of-matter;['arsenik', 'as', 'atom numarası 33'];As sembollü ve 33 atom numaralı, zehirli, metalimsi bir element.
+amount-of-matter;['şarap', 'içki', 'beyaz şarap', 'kirmizi şarap', 'kırmızı şarap', 'iyi şarap', 'vino'];Üzüm suyunu fermante ederek elde edilen alkollü bir içki.
+biological-object;['boşluk', 'kavite', 'bedensel boşluğu', 'cavum'];Vücut içinde bir boşluk.
+biological-object;['tüp', 'boru şeklinde bir yapı'];Tüp biçimli bir malzeme.
+biological-object;['omuz eklemi', 'omuz', 'articulatio humeri', 'glenohumeral eklem'];Gövdenin üst kısmında, kolların bağlandığı vücut bölgesi.
+biological-object;['sakal'];Bazı kuşların (tavuk ve hindi gibi) boynundan sarkan, bazen renkli olabilen, buruşuk deri parçası.
+biological-object;['nektaryum', 'nectary', 'bal bezi', 'extrafloral nectaries', 'nectaries', 'nektar'];Bir çiçekte veya bitkinin başka bir bölümünde nektar salgılayan beze.
+biological-object;['ayak bileği', 'azm-ı kâb', 'aşık kemiği', 'bilek', 'tolga kemiği', 'topuk kemiği', 'articulatio talocruralis', 'ayak bileği eklemi', 'ayak bileği ekleminin'];Bacak kemiklerini ayak bileğine bağlayan ve ayak bileği eklemini oluşturan kemik.
+biological-object;['ayak bileği', 'azm-ı kâb', 'aşık kemiği', 'bilek', 'tolga kemiği', 'topuk kemiği', 'articulatio talocruralis', 'ayak bileği eklemi', 'ayak bileği ekleminin'];Ayak ile bacak arasındaki eklem.
+biological-object;['gerdan', 'gerdan, gıdık'];Büyük baş hayvanlarda boyun altındaki sarkık deri.
+biological-object;['bacak'];Kasıktan ayak bileğine kadar uzanan bir hayvan (ve insan) uzvu.
+biological-object;['bilek', 'el bileği', 'el bileği kemiği', 'karpus', 'articulatio radiocarpea', 'bilek eklemi', 'radyokarpal eklem', 'radyokarpal eklem kırık'];Bileği oluşturan kemikler grubu.
+biological-object;['bilek', 'el bileği', 'el bileği kemiği', 'karpus', 'articulatio radiocarpea', 'bilek eklemi', 'radyokarpal eklem', 'radyokarpal eklem kırık'];Önkol ile el arasındaki eklem.
+biological-object;['yağ doku', 'yağ', 'adipoz doku', 'adipöz doku', 'yağ dokusu', 'adipoz', 'viseral yağ', 'vücut yağ', 'yağdoku', 'yağlı doku'];Yüksek oranda yağ [kimyasal madde] içeren, uzun süreli enerji depolamaya yarayan özelleşmiş bir hayvan dokusu.
+biological-object;['kanat', 'hindwing'];Bir hayvanın (kuş, yarasa, böcek) havada uçmasını sağlayan vücudunun uzvu.
+biological-object;['meatus'];Vücudun içine doğru uzanan tüp şekilli bir geçit veya açıklık.
+biological-object;['göbek', 'karın', 'işkembe'];Bir hayvan veya insanın dışarı çıkmış abdomeni.
+biological-object;['os occipitale', 'oksipital kemik', 'artkafa kemiği', 'azm-ı kafa', 'oksipital'];Kafatasının arkasındaki kemik.
+biological-object;['kahve çekirdeği', 'kahve', 'kahve berry'];Kahve bitkisinin çekirdeklerini sıcak su ile demleyerek elde edilen içecek.
+biological-object;['karpel', 'pistil', 'carpels', 'dişi', 'gynoecium', 'pistils'];Çiçeğin ortasındaki, polenleri alan ve meyveye dönüşebilen dişilik organı.
+biological-object;['ovül', 'tohum taslağı', 'yumurtacık', 'tohumtaslağı', 'embriyo kesesi'];İçinde dişi eşey hücresini barındıran, bir polen tarafından döllendikten sonra tohuma dönüşen bitki yapısı.
+biological-object;['kulak kemikleri', 'kemikçik', 'bonelet', 'kemik parçası', 'ossiculum'];Orta kulağın küçük kemiklerinden biri.
+biological-object;['diz kapağı', 'azm-i rıdfa', 'patella', 'dizkapağı', 'kneepan'];Dizde bulunan ve oradaki eklemi koruyan küçük üçgen şekilli kemik.
+biological-object;['sapçık', 'çiçek sapı'];Bir çiçek durumundaki [çiçek öbeğindeki] her bir çiçeği ana dala bağlayan bir sap.
+biological-object;['temporal kemik', 'şakak kemiği', 'azm-ı sudgî', 'os temporale'];Birlikte kafatasının kenarı ve alt kısmını oluşturan iki kemiğin her biri.
+biological-object;['dil kemiği', 'azm-ı lâmî', 'hiyoit kemiği', 'hiyoid kemik', 'az cornu', 'hyoid', 'os hyoideum'];İnsan boynunda yer alan ve dili destekleyen bir kemik.
+biological-object;['os nasale', 'burun kemiği', 'azm-ı enfî', 'nasal kemik', 'nazal kemik'];Burnun köprüsünü oluşturan, iki küçük ve uzun kemikten her biri.
+biological-object;['yumurta'];Kuşlar, yılanlar, böcekler ve diğer hayvanlar tarafından üretilen ve embriyoyu gelişimi sırasında barındıran, yaklaşık küresel veya elipsoit şekilli bir yapı.
+biological-object;['fontanel', 'bıngıldak'];Bir bebeğin kafasında, kafatasi kemiklerinin tam kaynaşmamamış olduğu, kalın bir zarla kaplı yumuşak bölge.
+biological-object;['kaburga', 'teribe'];Kaburga kafesinin kenarlarını oluşturan uzun ve eğri kemiklerden her biri.
+biological-object;['susamsı kemik', 'aksesuar kemik', 'sesamoid kemik', 'os sesamoideum', 'sesamoiddir', 'sesamoid', 'susamsı'];Tendonun bir eklemin üzerinden geçtiği yerlerde görülen, tendon içinde yer alan bir küçük kemik.
+biological-object;['karpal', 'el bileği kemiği', 'karpal kemik', 'bilek kemiği'];Bilekteki sekiz kemikten herhangi biri.
+biological-object;['parmak'];Cisimleri kavramaya yarayan, eldeki uzun uzantılardan biri.
+biological-object;['pazı', 'biceps', 'biseps', 'musculus biceps brachii', 'pazu', 'biseps kas'];Üst kolda bulunan bir bükücü kas.
+biological-object;['humerus', 'pazu kemiği', 'pazı kemiği', 'azm-i adud', 'karaca kemiği', 'kol kemiği', 'humeri'];kolda omuz ile dirsek arasındaki uzun kemik.
+biological-object;['köprücük kemiği', 'klavikula', 'clavicula', 'azm-i terkova', 'kemiğini', 'köprücük'];Kürek kemiğini göğüs kemiğine bağlayan kemik.
+biological-object;['os sphenoidale', 'azm-i vetedî', 'temel kemik', 'sfenoid kemik', 'sfenoid', 'sphenoid kemik'];Kafatasının tabanında, gözün arkasında yer alan bir kemik.
+biological-object;['bel', 'lumbus'];İnsan ve dört ayaklılarda, sırtın alt kısmında, omurganın iki yanındaki vücut kısımlarının her biri.
+biological-object;['kalça', 'kaba et'];Bacakların üst kısmında vücüdun arka kısmında yer alan, iki etli vücut parçasından her biri.
+biological-object;['östaki borusu', 'işitsel tüp'];İnsan ve diğer kara omurgalılarında, boğazı orta kulağa bağlıyan ve kulak zarının iki tarafındaki basıncın dengelenmesini sağlayan bir kanal.
+biological-object;['kürek kemiği', 'skapula', 'kebze', 'omuz kemiği', 'azm-i kitf', 'yağrın kemiği', 'scapula', 'omuz bıçakları', 'omuz kemik'];Her bir omuzun arka tarafında bulunan geniş ve yassı kemik.
+biological-object;['göz kapağı', 'gözkapağı', 'göz kapakları', 'palpebral'];Gözün üzerine kapanabilen bir deri tabakası.
+biological-object;['damak kemiği', 'azm-i hanek', 'palatin kemik', 'palatine kemik', 'os damaktaki'];Damağı oluşturan ve burun boşluğunun arkasında yer alan iki kemikten her biri.
+biological-object;['paryetal kemik', 'duvar kemiği', 'parietal kemik', 'os parietale', 'kafatası yan kemiği'];Kafatasının kenar ve tepesini oluşturan iki kemikten biri.
+biological-object;['meme', 'göğüs', 'titty'];Cinsel erişkinliğe ulaşmış bir kadının göğüsündeki [boynu ile karnı arasındaki bölgede], içinde süt bezleri olan etli organ.
+biological-object;['yanak'];Yüzün iki tarafında, gözlerle çene arasındaki yumuşak deri. ağız boşluğunun dış yüzü.
+biological-object;['taraf', 'yan'];Bir şey veya kişinin (sağ veya sol, üst veya alt, ön veya arka, vb.) yarısı.
+biological-object;['anüs', 'makat', 'göt deliği', 'şerç', 'anus', 'göt', 'anal sfinkter', 'perianal'];Dışkın içinden geçtiği, sindirim borusunun alt ucundaki açıklık.
+biological-object;['vulva', 'ferç', 'kadın üreme organları', 'genital organlar', 'jenital', 'kadın çatısı', 'kadın üreme sistemi'];Dişi üreme organının dış kısmı. İndsanlarda labialar, klitoris, üretra ağzı ve vajina ağzından oluşur.
+biological-object;['ayva tüyü', 'tüy'];İnsan vücudu üzerinde çocukluktan itibaren gelişen, ince, yumuşak, açık renkli, az belirgin kıllar.
+biological-object;['diş', 'i̇nsan dişi', 'insan dişi', 'dental', 'dişler'];Çoğu omurgalı hayvanın ağzında bulunan, genelde yemek için kullanılan, kalkerli sert yapı.
+biological-object;['dirsek', 'dirsek eklemi', 'articulatio cubiti', 'dirsekler', 'insan dirsek', 'kubitus', 'kübital eklem'];Kol ile önkol arasındaki eklem.
+biological-object;['diz', 'articulatio cins', 'diz eklemi', 'genu', 'insan diz'];İnsanda bacağın orta kısmındaki eklem.
+biological-object;['kalça kemiği', 'azm-ı harkafa', 'oma', 'koksal kemik', 'leğen kemiği', 'os coxa', 'kemik innominat'];Femur ile eklem yapan, geniş, yassı ve düzensiz yapılı, pelvis kemiklerinden biri.
+biological-object;['bira göbeği', 'bira göbek', 'flab', 'santral obezite'];Genelde erkeklerde görülen, bir tüketimine atfedilen, dışa çıkmış bir göbek.
+biological-object;['göğüs omuru', 'torasik vertebra', 'dorsal vertebra', 'torakal vertebra'];Omurganın göğüs bölgesindeki oniki vertebradan biri.
+biological-object;['koksigeal omur', 'koksigeal vertebra', 'kuyruk sokumu omuru', 'coccygeal omur', 'kaudal vertebra'];İnsandan kuyruk kemiğinde bulunan dört omurdan herhangi biri.
+biological-object;['bel omuru', 'bel vertebrası', 'fıkarât-ı kataniye', 'lomber vertebra'];Omurganın bel ksımındaki beş omurdan herhangi biri.
+biological-object;['sakral vertebra', 'sakral omur', 'sağrı kemiği omuru', 'sağrı omuru'];Birbiri ile kaynaşarak kuyruk sokumu kemiğini oluşturan beş omurdan herhangi biri.
+biological-object;['رابط الفقررات', 'boyun omuru', 'boyun vertebrası', 'fıkarât-i rakabiye', 'servikal vertebra', 'boynu kemik'];Boyundaki yedi omurdan herhangi biri.
+biological-object;['boynuz'];Bazı hayvanların kafasından çıkan, keratinden oluşmuş sert uzantı.
+biological-object;['ayak parmağı', 'ayak'];Ayağın ucundaki çıkıntılardan biri.
+biological-object;['gerçek kaburga', 'gerçek ribana'];Sternuma bağlı olan bir kaburga.
+biological-object;['sepal', 'çanak yaprak', 'çanakyaprak', 'sepals'];Bir çiçeğin çanağını oluşturan parçalardan biri.
+biological-object;['os işi', 'oturak kemiği', 'ischlum', 'iskial kemik', 'os ischii'];Leğen kemiğinin kenarlarını oluşturan üç kemikten en altta olanı.
+biological-object;['testis', 'er bezi', 'haya', 'yumurta', 'husye', 'taşak', 'yumurta hücresi', 'yumurtacık', 'badak', 'top', 'erbezi', 'erbezleri', 'taşşak', 'testisler', 'ballock', 'teste'];Hayvan ve bitkilerde, erkek eşey hücresiyle birleşerek bir zigot oluşturabilen dişi eşey hücresi.
+biological-object;['testis', 'er bezi', 'haya', 'yumurta', 'husye', 'taşak', 'yumurta hücresi', 'yumurtacık', 'badak', 'top', 'erbezi', 'erbezleri', 'taşşak', 'testisler', 'ballock', 'teste'];Bazı hayvanlarda bulunan, sperm ve erkek üreme hormonları salgılayan, erkek üreme bezi.
+biological-object;['yüzgeç', 'yüzgeçleri'];Balıkların yüzmk için kullandıkları uzuv.
+biological-object;['taç yaprak', 'petal', 'taçyaprak', 'taçyaprağı', 'yaprakları', 'yapraksız', 'çiçek taç yaprağı'];Bir çiçeğin tacını oluşturan, genelde renkli olan parçaların her biri.
+biological-object;['çiçek', 'çiçekler', '✿'];Kapalı tohumlu bir bitkinin üreme organı. çanak ve taç yapraklarla çevrili stamen ve karpellerden oluşur, bunların tümü bir tabla üzerindedir.
+biological-object;['koltuk altı', 'koltukaltı', 'aksilla', 'axilla', 'aksiller boşluğu', 'aksiller fossa'];Kolun omuzla birleştiği yerin altındaki çukurluk.
+biological-object;['pedünkül', 'sapı'];Bir çiçek durumunu [çiçek öbeğini] tutan, bitkinin sapından farklı olan sap.
+biological-object;['arka ayak bileği', 'iç diz', 'hock', 'hock-joint'];At, domuz, köpek gibi parmakları üzerinde yürüyen dörrt ayaklılardaki tarsal eklem.
+biological-object;['el', 'manus'];Primatlarda (insanlar da dahil olmak üzere) bileğin altında kalan kol kısmı.
+biological-object;['atlas', 'atlas kemiği', 'c1', 'atlas omur'];Omuriliği omurlarından en üsttekisi (birincisi).
+biological-object;['eksen', 'eksen kemiği', 'c2', 'ekseni omur'];Omurganın ikinci servikal vertebrası
+biological-object;['tepecik', 'dişicik başı', 'stigma', 'tarzı'];Çiçekte polenin alındığı pistilin uç kısmı
+biological-object;['elmacık kemiği', 'zigomatik kemik', 'azm-ı vecenî', 'yanak kemiği', 'os zygomaticum', 'zygomatic kemik', 'jugal kemik', 'elmacık kemiğinin', 'jugal', 'yanak'];Göz çukurlarının yanlarından yer alan bir çift kemikten her biri.
+biological-object;['topuk'];Ayağın bacağa dönüştüğü arka kısmı.
+biological-object;['gövde', 'heykel gövdesi', 'vücut'];Boyundan kasıklara kadar uzunan, kol ve bacakları kapsamayan, vücut bölümü.
+biological-object;['ayak bileği', 'azm-ı kâb', 'aşık kemiği', 'bilek', 'tolga kemiği', 'topuk kemiği', 'articulatio talocruralis', 'ayak bileği eklemi', 'ayak bileği ekleminin'];Bacak kemiklerini ayak bileğine bağlayan ve ayak bileği eklemini oluşturan kemik.
+biological-object;['ayak bileği', 'azm-ı kâb', 'aşık kemiği', 'bilek', 'tolga kemiği', 'topuk kemiği', 'articulatio talocruralis', 'ayak bileği eklemi', 'ayak bileği ekleminin'];Ayak ile bacak arasındaki eklem.
+biological-object;['omuz kemeri', 'göğüs kemeri', 'omuz'];Omurgalılarda ön uzuvları tutan kemik veya kıkırdaklı yapı.
+biological-object;['göğüs kafesi', 'eğe kemiği', 'kaburga', 'kostal oluk', 'sahte kaburga', 'yüzen kaburga'];Kaburgalar, göğüs kemiği ve göğüs vertebralarından oluşan, iskeletin göğüs bölgesindeki kısmı.
+biological-object;['göğüs kafesi', 'eğe kemiği', 'kaburga', 'kostal oluk', 'sahte kaburga', 'yüzen kaburga'];Bir ucu boşta bulunan kaburga kemiği.
+biological-object;['kafatası', 'baş kâsesi', 'baş çanağı', 'kafatası eklemleri', 'kafatası kemikleri', 'kafatasına', 'postfrontal', 'supratemporal', 'supratemporal fenestra', 'zamansal fenestra', 'zamansal fenestrae'];Kafayı oluşturan kemiklerin bileşimi.
+biological-object;['burun boşluğu', 'burun boşlukları'];Burnun üstü ve gerisinde yer alan, burun kemiği, sert damak ve yumuşak damak tarafından sınırlandırılan bir boşluk.
+biological-object;['kasık'];İnsanlarda uyluk ile karın arasında bulunan kıvrım .
+biological-object;['kuyruk kemiği', 'kuyruk sokumu', 'azm-i us’us', 'koksiks', 'tailbone'];Omuriliğın ucundaki, birbiri ile kaynaşmış omurlardan oluşan, kuyruk sokumu kemiğine bağlı kemik.
+biological-object;['skrotum', 'testis torbası', 'torba', 'taşak torbası', 'skrotal'];Testislerin içinde bulunduğu deri ve kastan oluşan kese.
+biological-object;['kulak kepçesi', 'pinnae'];Kulağın kafanın dışında kalan görünür bölümü.
+biological-object;['ağız'];Konuşmaya ve yemeye yarayan, insan yüzünün alt kısmında yer alan açıklık.
+biological-object;['yumurta', 'yumurta hücresi', 'yumurtacık', 'ovum', 'yumurta hücreleri'];Hayvan ve bitkilerde, erkek eşey hücresiyle birleşerek bir zigot oluşturabilen dişi eşey hücresi.
+biological-object;['serçe parmak', 'küçük parmak', 'serçe parmağı', 'pembemsi'];Elin en küçük parmağı.
+biological-object;['rumen', 'işkembe', 'göden', 'ilk mide'];Geviş getirenlerin ilk ve en büyük mide bölümü.
+biological-object;['ayak başparmağı', 'halluks'];Ayak parmaklarının en büyüğü.
+biological-object;['sternum', 'göğüs kemiği', 'döş kemiği', 'iman tahtası', 'inan', 'manubria', 'sternal', 'ağız sapı'];Sternuma bağlanan
+biological-object;['sternum', 'göğüs kemiği', 'döş kemiği', 'iman tahtası', 'inan', 'manubria', 'sternal', 'ağız sapı'];Göğsün ortasında, öndeki dar kemik.
+biological-object;['sternum', 'göğüs kemiği', 'döş kemiği', 'iman tahtası', 'inan', 'manubria', 'sternal', 'ağız sapı'];Sternumun geniş üst kısmı.
+biological-object;['aya', 'tüy bayrağı'];Tüy sapının iki tarafından çıkan ramuslardan meydana gelen, tüyün yassı kısmı.
+biological-object;['kıç', 'kalça', 'popo', 'göt', 'kaba et', 'makat', 'kaudal', 'aboral', 'apikal', 'arka uç', 'bazal', 'derriere', 'distal', 'dorsolateral', 'dorsoventral', 'geride', 'ipsilateral', 'keister', 'kontralateral', 'plantar', 'posterior', 'posteriora', 'proksimal', 'sus', 'tooshie', 'ventral', 'ventrolateral', 'yanar', 'çörekler'];İnsan vücüdunda üzerine oturulan, etli kısım.
+biological-object;['kıç', 'kalça', 'popo', 'göt', 'kaba et', 'makat', 'kaudal', 'aboral', 'apikal', 'arka uç', 'bazal', 'derriere', 'distal', 'dorsolateral', 'dorsoventral', 'geride', 'ipsilateral', 'keister', 'kontralateral', 'plantar', 'posterior', 'posteriora', 'proksimal', 'sus', 'tooshie', 'ventral', 'ventrolateral', 'yanar', 'çörekler'];Bacakların üst kısmında vücüdun arka kısmında yer alan, iki etli vücut parçasından her biri.
+biological-object;['kulak memesi', 'kulaklar'];Kulağın alt kısmındaki etli kısım.
+biological-object;['i̇bik', 'ibik', 'tarak'];Bazı kuşların başının üstündeki etli çıkıntı.
+biological-object;['abomazum', 'abomasum deplasmanı', 'şirden', 'şırdan', 'bezli mide', 'abomasum', 'abomasum kayması', 'dördüncü mide'];Geviş getiren hayvanların dördüncü mide bölümü.
+biological-object;['göğüs'];Boynun dibinden abdomenin tepesine kadar uzanan vücut bölümü.
+biological-object;['iskelet', 'i̇skelet', 'i̇skelet sistemi', 'i̇skeletin görevleri', 'iskelet sistemi', 'insan iskeleti', 'systema skeletale'];Canlılara destek veren, bazı canlılarda dahilî olan ve kemiklerden oluşan, bazılarından onları dıştan çevreleyen, bir yapı.
+biological-object;['but', 'sağrı'];Bir insan, primat, veya dört ayaklı, özellikle art ayakları üzerinde oturabilen bir hayvanda, üst uyluk, kalça ve kıçı kapsayan bölge.
+biological-object;['kalp', 'yürek', 'kardiyak', 'i̇ç göçlerin sonuçları', 'kalb', 'sağ kalp', 'sol kalp'];Kanın vücut içinde dolaşımını sağlayan kaslı organ.
+biological-object;['dirsek kemiği', 'azm-ı kabere', 'azm-ı zend', 'ulna'];Ön koldaki iki kemikten daha küçük olanı ve bilekte başparmağın aksi tarafına bağlanan kemik. that extends from the elbow to the wrist on the side opposite to the thumb,
+biological-object;['kaval kemiği', 'azm-i şazye', 'bacakkalemi', 'incik kemiği', 'çağ kemiği', 'tibia', 'kaval'];Bacağın dizden aşağısındaki ön kısmı.
+biological-object;['kaval kemiği', 'azm-i şazye', 'bacakkalemi', 'incik kemiği', 'çağ kemiği', 'tibia', 'kaval'];İnsanda ayağın, dört bacaklılarda arka ayağın, dizin altındaki iki kemikten daha büyük ve güçlü olanı.
+biological-object;['avuç içi', 'aya', 'tenar'];İnsan elinin iç tarafında, bilekten parmak diplerine kadar uzanan, biraz çukur kısım.
+biological-object;['os frontale', 'alın kemiği', 'azm-i cebhî', 'frontal kemik'];Alında bulunan kemik.
+biological-object;['topuk kemiği', 'azm-i akab', 'ökçe kemiği', 'calcaneus', 'os calcaneus', 'kalkaneus', 'heelbone', 'os tarsi fibulare'];İnsan ayağının topuğunu oluşturna büyük kemik.
+biological-object;['femur', 'uyluk kemiği', 'azm-ı fahız', 'uyluk', 'kalça kemiği', 'femoris', 'uyluk kemiğinin'];Memelilerdeki en uzun, hacimli ve dayanıklı kemik. Kalça ile diz arasında yer alır, başlıca butun içinde yer alır.
+biological-object;['mandibula', 'alt çene kemiği', 'azm-ı fekk-i esfel', 'gerdan', 'alt çene', 'çene kemiği', 'dentary', 'submaxilla', 'çene'];Alt çenenin kemiği.
+biological-object;['mandibula', 'alt çene kemiği', 'azm-ı fekk-i esfel', 'gerdan', 'alt çene', 'çene kemiği', 'dentary', 'submaxilla', 'çene'];Hayvanın çene altına karşılık gelen kasaplık kesim.
+biological-object;['orta kulak', 'ortakulak', 'teğmen timpani', 'timpanik kavitenin', 'tympanum'];Kulak zarı ile iç kulak arasında bulunan, kemikçikleri içeren, kokleaya ses taşıyan, şakak kemiği içindeki boşluk.
+biological-object;['yaprak', 'yapraklar', 'yaprağın görevi', 'abaxial', 'adaxial', 'axil', 'axils', 'bazal yaprak', 'tüylü', 'yaprak kılıf', 'yeşillik', 'çentikli'];Bitkilerde başlıca sentez ve solunum organı. genelde yeşil renkli, yassı bir yapıya sahiptir ve bitkinin gövdesine doğrudan veya bir sap ile bağlıdır.
+biological-object;['erkek organ', 'androkeum', 'stamen', 'anter', 'başçık', 'ercik', 'androecium', 'androphore', 'organlarındaki', 'staminate'];Çiçekteki stamenler kümesi.
+biological-object;['erkek organ', 'androkeum', 'stamen', 'anter', 'başçık', 'ercik', 'androecium', 'androphore', 'organlarındaki', 'staminate'];Çiçekli bitkilerde, genelde bir başçık ve bir sapçıktan oluşan erkek organ.
+biological-object;['boyuncuk', 'ginekeum', 'polen borusu', 'carpels', 'dişi', 'gynoecium', 'pistils'];Bir çiçeğin dişi organında tepeciği yumurtalığa bağlayan sap.
+biological-object;['boyuncuk', 'ginekeum', 'polen borusu', 'carpels', 'dişi', 'gynoecium', 'pistils'];Çiçekteki pistiller kümesi.
+biological-object;['burun', 'koku organı'];Nefes almaya ve koklamaya yarayan yüzdeki organ.
+biological-object;['yumurtalık', 'ovaryum', 'epigynous', 'hypogynous', 'perigynium', 'üstün yumurtalık vardır'];İçinde ovül taşıyan, döllenmeden sonra meyve olarak olgunlaşan, çiçeğin dişi organının alt kısmı.
+biological-object;['çekiç', 'azm-ı matraka', 'malleus', 'çekiç kemiği'];Orta kulağın üç kemiğinden, örs ile kulak zarı arasında olan.
+biological-object;['radius', "azm-ı kû'bere", 'döner kemik', 'ön kol kemiği', 'önkol kemiği'];Dirsekten bileğin başparmak tarafına kadar uzanan önkol kemiği.
+biological-object;['fibula', 'baldır kemiği', 'kamış kemiği', 'azm-i kasaba', 'incik kemiği', 'lateral malleolus'];Alt bacaktaki iki kemikten ince olan, tibianın yanında yer alan kemik.
+biological-object;['boyun', 'ense'];İnsan dahil baız hayvanlarda bulunan, kafayı gövdeye bağlayan vücut parçası.
+biological-object;['dış kulak'];Kulak kepçesi ve kulak kanalını içeren, kulak zarına bağlanan, kulağın dış kısmı.
+biological-object;['alın'];Saç çizgisi ile kaşlar arasındaki yüz bölgesi.
+biological-object;['tarsus', 'ayak bileği kemiği', 'tarsal kemikler', 'ayak bileği', 'tarsal kemiklerin'];Ayakta, tibia ve fibula ile metatarsus arasındaki kısım.
+biological-object;['eltarağı', 'metakarp', 'muşt-ül-yed', 'metakarpal'];Elde, parmaklar ile bilek arasında bulunan ve beş kemikten oluşan bölüm.
+biological-object;['göğüs', 'toraks', 'göğüs kafesi', 'koyun', 'kucak', 'pektus', 'torasik'];Boynun dibinden abdomenin tepesine kadar uzanan vücut bölümü.
+biological-object;['uyluk', 'but', 'kaba et', 'kabaeti', 'kabaet'];Kalça ve buttan dize kadar olan vücut kısmı.
+biological-object;['kafatası', 'kranyum', 'kraniumdaki', 'kraniyal kavite', 'neurocranium'];İskelette beyni çevreleyen kısım.
+biological-object;['anter', 'başçık', 'haşefe'];Stamende polen taşıyan kısım.
+biological-object;['boğaz', 'throats', 'yutak'];Boynun ön tarafı.
+biological-object;['sırt'];Vücudun arkası, göğüs ve karnın öbür tarafında, ense ile omurga arasında kalan bölüm.
+biological-object;['çene'];Ağızın altındaki yüzün alt kısmı.
+biological-object;['meyve', 'meyveler', 'meyva', 'meyvelerin özellikleri', 'yemiş'];Bir bitkinin olgulaşmış yumurtalık kısmı, üzerinde çiçek veya filiz kısımları olabilir.
+biological-object;['retikulum', 'börkenek', 'ikinci mide'];Geviş getiren hayvanların midelerinin ikinci bölümü.
+biological-object;['orta parmak'];Parmakların ortada olan, aynı zamanda en uzun boylu olanı.
+biological-object;['kulak'];Duyma organı.
+biological-object;['omurga', 'amudu fıkari', 'amûd-i fıkarî', 'tüy sapı', 'kolumna vertebralis', 'columna vertebralis', 'rachis', 'vertebra'];Kafa ve gövdeyi tutan ve sinirlerin içinden geçtiği bir kanala sahip olan, bir dizi omurdan oluşan vücut parçası.
+biological-object;['omurga', 'amudu fıkari', 'amûd-i fıkarî', 'tüy sapı', 'kolumna vertebralis', 'columna vertebralis', 'rachis', 'vertebra'];Bir kuş tüyünde, deriye gömülü olan kalamusun uzantısı olan, üzerinde raduslar olan, merkez eksen.
+biological-object;['ayaktarağı', 'metatars', 'metatarsal', 'muşt-ul-kadem', 'metatarsal kemikleri', 'metatarsus'];Ayakta, parmaklarla topuk arasındaki kısım, özellikle orada bulunan beş kemik.
+biological-object;['ayaktarağı', 'metatars', 'metatarsal', 'muşt-ul-kadem', 'metatarsal kemikleri', 'metatarsus'];Tarsus kemikleri ile ayak parmakları arasındaki kemiklerden herhangi biri
+biological-object;['elmacık kemiği', 'azm-ı vecenî', 'yanak kemiği', 'zigomatik ark', 'arkus zygomaticus', 'zigoma'];Göz çukurlarının yanlarından yer alan bir çift kemikten her biri.
+biological-object;['meme', 'meme başı', 'meme ucu', 'emzik', 'göğüs ucu şişe emziği', 'pap'];Süt bezelerinin ucunda bulunan, dişi memelilerde içinden süt çıkabilen, uzantı.
+biological-object;['sapçık', 'filament'];Çiçekte anteri tutan, başçığın sapı.
+biological-object;['üzengi kemiği', 'üzengi', 'azm-ı rikâbî', 'stapes'];Orta kulakta bulunan, üzengi şeklinde bir küçük kemik.
+biological-object;['pelvis', 'havsala', 'kalça', 'kalça kuşağı', 'leğen', 'leğen kemiği', 'pelvic girdle', 'pelvik', 'pelvik kemer', 'pelvik kuşak'];Leğen ve uyluk kemiklerinin yana doğru çıkık kısımları ve bunları kaplayan dokular.
+biological-object;['başparmak', 'badem parmak', 'baş parmak', 'kalın başparmak', 'pollex'];Diğer parmaklara karşı dayanarak sıkı şekilde tutmayı sağlayan, el parmaklarının en kısa ve en kalını.
+biological-object;['kırkbayır', 'omasum', 'üçüncü sırada mide'];Geviş getiren memelilerin dört gözlü olan midelerinin üçüncü gözü.
+biological-object;['maksilla', 'üst çene kemiği', 'azm-ı fekk-i ulyâ', 'maxilla', 'maxillae', 'os maksilla', 'osis maksillaris', 'osis maxillaris', 'üst çene', 'maksiller', 'maksiller kemik', 'çene kemiği'];Üst çeneyi oluşturan iki kemikten biri.
+biological-object;['kafa', 'baş', 'sefalik'];İnsan vücudunda beyin, ağız ve başlıca duyu organlarının bulunduğu vücut parçası.
+biological-object;['kök'];Damarlı bir bitkinin su emici ve yere sabitleyici organı. üzerinde yaprak ve çiçek olmaz, ve genelde toprak altındadır.
+biological-object;['sakrum', 'kuyruk sokumu kemiği', 'osm. azm-i acz', 'sağrı kemiği', 'os sacrum', 'sacrum', 'sakral burun'];Omurganın ucunda, pelvik boşluğun üst ve arka tarafında bulunan, iki kalça kemiği arasına bir kama gibi giren, geniş ve üçgen şekilli kemik. üst kısmı son lumbar omura, alt kısmı ise kuyruk kemiğine bağlanır,
+chemical-object;['izotop', 'i̇zotop', 'yerdeş'];Aynı atom sayısına sahip ve farklı sayıda nötron içeren iki veya daha çok atomdan her biri.
+cognitive-event;['şefkat', 'merhamet', 'compassionateness', 'şefkatli'];Bir başkasının acısına büyük bir duyarlılık ile birleşmiş, bu acıyı azaltma arzusu.
+cognitive-event;['hayal kırıklığı', 'düş kırıklığı'];Kuvvetli bir beklenti gerçekleşmeyince duyulan duygu.
+cognitive-event;['acıma', 'merhamet', 'şefkat'];Bir başkasının acısına büyük bir duyarlılık ile birleşmiş, bu acıyı azaltma arzusu.
+cognitive-event;['selamet', 'emniyet', 'güvenlik'];Tehlike, zarar veya riskten uzak olma hâli.
+cognitive-event;['binaenaleyh', 'bu yüzden', 'dolayısıyla', 'bulaştırma', 'dolaylı anlatım', 'ima', 'entailment', 'implicature', 'mantıksal sonucu', 'semantik sonucu', 'semantik sonucudur', 'sözdizimsel sonucu', 'sözdizimsel sonucudur'];[Bir şeyin başka bir şeyin sonucu olduğunu belirten sözcük.]
+cognitive-event;['koku', 'koku algısı', 'koku hissi', 'kokusu'];Burundaki duyu reseptörleri tarafından algılanan özellik.
+cognitive-modal-description;['açı', 'bakış açısı'];Bir şey bakma biçimi.
+cognitive-modal-description;['heterodoks', 'dalalet', 'dalâlet', 'heterodoksizm', 'heterodoksi'];Bir dinin üyesi tarafından savunulan ve o dinin yerleşik inançları ile farklılık gösteren bir öğreti.
+cognitive-state;['iş', 'konu', 'maslahat', 'mesele', 'şey'];Değerlendirilmesi veya hakkında eylem yapılması gereken bir konu, soru, durum, vb.
+course;['âdet döngüsü', 'regl', 'hayız', 'menstrüasyon', 'âdet', 'adet döngüsü', 'menstrüasyon döngüsü', 'regl döngüsü', 'menstrual siklus', 'adet', 'adet dönemi', 'adet dönemleri', 'regl olmaya'];Adet döngüsünde döllenme olmayınca endometriumun vücuttan atıldığı dönem.
+course;['kader', 'yazgı', 'akıbet', 'alınyazısı', "i̇slam'da kader", 'kaderi'];Bazı inanışlara göre, olayların gidişatını önceden değiştirilemez şekilde belirleyen güç veya etmen.
+course;['kısa devre'];Bir elektrik devresinde istenmeyerek meydan gelen, düşük dirençli veya empedanslı bir elektrik temas.
+course;['sel', 'yükselen gelgit'];Yükselen deniz suyu, şiddetli yağmur veya kar erimesinden kaynaklanan, toprağın üzerinde anormal miktarda su birikmesi.
+course;['sonuç', 'akıbet', 'etkisi', 'netice', 'sonucu'];Bağlı olduğu başka bir şeyi izleyen durum.
+course;['tuş'];Hasmın sırtının mindere bastırıldığı güreş hareketi.
+dependent-place;['merkez', 'orta', 'merkezi', 'orta nokta', 'orta noktası'];Bir parçanın iki ucu arasının yarı yol noktası.
+dependent-place;['zıvana', 'yuva'];Tahta veya benzeri bir malzemeden bir parçada, kendisiyle aynı boyutta bir geçmeye sahip bir diğer parçayı içine alacak şekilde yapılmış bir delik.
+dependent-place;['şömine', 'açık şömine', 'ocak', 'ocaklar'];Bir bacanın altında, içinde ateş yakılabilen, duvardaki bir boşluk.
+dependent-place;['ağız'];Konuşmaya ve yemeye yarayan, insan yüzünün alt kısmında yer alan açıklık.
+dependent-place;['sağ'];Kişi ellerini uzatıp avuçlarını dışa çevirdiği zaman, işaret parmağı ve başparmağın "L" harfi şeklinde olmadığı elin bulunduğu vücut tarafı.
+dependent-place;['açı', 'bütünler açılar', 'tümler açılar', 'tümler açı', 'açılar', 'bütünler açı', 'dar açı', '∠', '∡', '∢', 'açısal ölçüm', 'açısı'];Ortak bir nokta kesişen iki ışın, veya üç düzlemin oluşturduğu şekil.
+ecological-collective;['dünya', 'insanlık', 'kişioğlu', 'cihan', 'âlem', 'beşeriyet', 'insan', 'insan ırkı', 'insanlar'];Tüm insanlar.
+ecological-collective;['dünya', 'insanlık', 'kişioğlu', 'cihan', 'âlem', 'beşeriyet', 'insan', 'insan ırkı', 'insanlar'];Üzerindeki insanlar ve cisimler ile gezegenimiz.
+event;['akıntı', 'akım'];Belli bir yönde hareket eden bir hava, su, vb. kitlesi.
+event;['akışkanlar dinamiği', 'akan', 'hidrodinamik'];Hareket hâlinde akışkanlar (sıvılar ve gazları) ile ilgilenen, akışkanlar mekaniğinin bir alt sahası.
+functional-matter;['lenf', 'lenfatik'];Lenfatik sistem tarafından taşınan, renksiz ve akışkan bir vücut sıvısı.
+functional-matter;['serpme', 'serpme sıva', 'çarpma sıva', 'müsvedde', 'pebbledash'];Kireç (veya çimento, veya her ikisi) ile kum karışımı ve bazan küçün çakıllardan oluşan, ve atmak yoluyla uygulanan dış duvar kaplama malzemesi.
+functional-matter;['böğür'];Bir hayvan veya insanda son kaburga ile kalça arasında, yan tarftaki etli kısım.
+functional-matter;['bonfile', 'fileto', 'kontrfile'];Kaburgaların altı ile kuyruk sokumu arasındaki sırt bölgesinden elde edilmiş bir kasaplık kesim.
+functional-matter;['safra', 'öd'];Karaciğer tarafından salgılan, safra kesesinde depolanan ve onikiparmak bağırsağına boşaltılan, kahverengi-sarı veya yeşil sarı renkli ve tadı acı olan, sindirime yardımcı olan sıvı.
+functional-matter;['polen', 'çiçek tozu', 'çiçek', 'çiçek tozları', 'çiçektozu', 'mikrosporogenez', 'polen tahıl'];Çiçekler tarafından üretilen ince toz. Çiçekli bitkilerin anterleri tarafından üretilen polen tanecikleri veya mikrosporların toplu adı.
+functional-matter;['kum'];Gözle görülebilen küçük mineral taneciklerden oluşan gevşek malzeme. tanecikler 1/16 ıla 2 milimetre boyutunda, şekil olarak yaklaşık küresel veya köşeli olabilir.
+functional-matter;['kilüs'];İnce bağırsağın lenf kanallarında bulunan, lenf ve emülsiye yağ damlacıkları içeren, sütümsü bir vücut sıvısı.
+functional-matter;['lata', 'çıta'];Bir binada dikmelere, çatı kirişlerine veya zemin kirişlerine tutturulan, mozaik veya sıvaya taban olmak amacıyla kullanılan ince uzun ahşap şeritler.
+functional-matter;['gastronomi', 'mutfak', 'mutfak kültürü', 'yemek kültürü', 'gastronomik'];Belli bir kültüre ait bir yemek hazırlama gelenek ve uygulamaları kümesi.
+functional-matter;['kimus', 'kimüs', 'chyme'];Mideden onikiparmak bağırsağına aktarılan, kısmen sindirilmiş koyu sıvı.
+functional-matter;['folyo', 'yaprak', 'büyük boy', 'sayfa'];Bir defa katlanmış kağıtlardan (kağıt başına iki yaprak veya dört sayfa) yapılmış bir kitap. dolayısıyla yüksekliği 30 cm'den fazla olan, en büyük cins bir kitap.
+functional-matter;['folyo', 'yaprak', 'büyük boy', 'sayfa'];Bir kitap, dergi vb.'deki bir kağıta tabaka (her bir yüzünde birer tane olmak üzere iki sayfadan oluşur).
+functional-matter;['tutkal', 'yapıştırıcı', 'zamk', 'temas çimento', 'yapıştırıcı madde', 'yapıştırıcı malzeme', 'yapıştırıcılar'];Cisimleri birbirine yapıştırmaya yarayan madde.
+functional-matter;['buz', 'buz hasat'];Donmuş (katı) hâlde su.
+functional-matter;['vitamin', 'vitaminler', 'vitamin türleri', 'vitamanler'];Vücudun gelişmesi ve sağlıklı kalması için gerekli olan, doğal gıdalarda bulunan organik bir bileşik.
+functional-matter;['su', 'sıvı', 'succus'];Hayvan (veya insan) vücudunun, veya parçasının, sıvı veya nemli kısmı.
+functional-matter;['kalamus', 'rectrices', 'remiges', 'tüy tüy', 'uçmayı kolaylaştıran tüy', 'uçuş tüy'];Bir tüy ekseninin, üzerinde ramuslar olmayan ve deriye gömülmüş olan alt kısmı.
+functional-matter;['vitamin', 'vitaminler', 'vitamin türleri', 'vitamanler'];Vücudun gelişmesi ve sağlıklı kalması için gerekli olan, doğal gıdalarda bulunan organik bir bileşik.
+functional-matter;['serebrospinal sıvı', 'beyin-omurilik sıvısı', 'beyin omurilik sıvısı', 'liquor cerebrospinalis', 'nörolenf', 'omurilik sıvısı'];Beyin ve omurilik kanalını, ayrıca nöronlar arasındaki boşlukları dolduran şeffaf, renksiz sıvı.
+functional-matter;['leş', 'karkas'];Çürümenin ileri safhasında olan bir ölü hayvan vücudu.
+functional-matter;['telek', 'kontur tüy', 'pennaceous tüy', 'telek topuzu'];Dalları ince tüylerden oluşan, sert bir orta eksene sahip tüy tipi.
+functional-matter;['şarap', 'içki', 'beyaz şarap', 'kirmizi şarap', 'kırmızı şarap', 'iyi şarap', 'vino'];Üzüm suyunu fermante ederek elde edilen alkollü bir içki.
+functional-matter;['sigara', 'izmarit', 'çilim', 'cıgara', 'tabut çivisi'];Bir sigaranın veya puronun içilmemiş kısmı.
+functional-matter;['çatı çıtası', 'latalar', 'tahta ve çıta', 'çıta'];Damda kullanılan, üzerine kaplamaların tutturulduğu çıtalar.
+functional-matter;['kepek', 'buğday kepeği', 'pirinç kepeği', 'yulaf kepeği'];Tahıl tohumunun sert dış tabakaları.
+functional-matter;['idrar', 'sidik', 'çiş', 'i̇drar', 'su', 'azotlu atık', 'weewee', 'çiş yapmak'];Su, tuz ve üreden oluşan, böbreklerde üretilen, mesanede depolanan ve üretradan atılan, atık sıvı.
+functional-matter;['vanilya', 'vanilya fasulyesi'];Vanilla cinsinden (özellikle Vanilla planifolia), meyvesinden gıda ve parfüm yapımında kullanılan bir ekstre elde edilen, tırmanıcı bir orkide.
+functional-matter;['cephe giydirme', 'dış kaplama', 'siding', 'yanlamalar'];Ev ve diğer binaların yanlarını kaplayan ve koruyan bir yapı malzemesi.
+functional-matter;['taş', 'kayaç', 'kaya', 'kayaçlar', 'taşlar'];Küçük (ve genelde düzensiz şekilli) bir mineral parçası, yaklaşık 20 ila 200 mm büyüklüğünde.
+functional-matter;['ramus', 'barb'];Bir telekte, orta saptan yana doğru uzanan kollardan her biri.
+functional-matter;['yumurta', 'egg', 'tavuksal fırlatgaç', 'tavuk yumurta', 'yumurta üretimi'];Genelde besin kaynağı olarak görülen, evcil kuşların yumurtası (döllenmiş olabilir veya olmayabilir).
+functional-matter;['sümük', 'mukus', 'sumuk', 'burun sümük', 'mukus salgısı', 'müsinöz'];Müköz membranların çepherlerinin visköz salgısı.
+functional-matter;['hav tüyü', 'pluma', 'aşağı', 'tüy aşağı'];Genç kuşlarda çıkan, yumuşak, kabarık, gelişmemiş tüyler.
+functional-matter;['dışkı', 'büyük abdest yapmak', 'kaka yapmak', 'sıçmak', 'bok', 'gayta', 'sıçmık', 'gübre', 'kuş pislikleri', 'pislikleri'];Dışkının anus yoluyla atılması.
+functional-matter;['mutfak', 'aşçılık', 'yemek sanatı', 'sofra', 'mutfak sanatları', 'mutfağı', 'yemek pişirme sanatı'];Belli bir kültüre ait bir yemek hazırlama gelenek ve uygulamaları kümesi.
+functional-matter;['et', 'etler', 'kırmızı et ve beyaz et', 'et bilim', 'işlenmiş et'];Hayvanların (genelde memelilerin) yenebilir kasları.
+functional-matter;['tüy', 'tüy örtüsü', 'radyus', 'barbule', 'filoplume', 'tüyler', 'tüyleri'];Bir tüydeki ramusların üzerindeki ikincil dallar.
+functional-matter;['vücut sıvısı', 'biyolojik sıvı', 'vücut sıvıları'];Vücudun herhangi bir sıvı kısmı, kan, idrar, meni gibi.
+functional-matter;['mutfak', 'aşçılık', 'yemek sanatı', 'sofra', 'mutfak sanatları', 'mutfağı', 'yemek pişirme sanatı'];Belli bir kültüre ait bir yemek hazırlama gelenek ve uygulamaları kümesi.
+functional-matter;['meni', 'atmık', 'su', 'döl', 'sperm', 'er suyu', 'ersuyu', 'mezi', 'boşalmak', 'gelmek'];Erkek hayvanlarda üreme organı tarafından salgılanan ve sperm hücreleri içeren sıvı.
+functional-matter;['buz', 'buz hasat'];Donmuş (katı) hâlde su.
+functional-matter;['tuz', 'yemek tuzu', 'sofra tuzu', 'sodyum klorür', 'sodyum tuzu', 'tuzu'];Kimyasal formülü NaCl (Sodyum Klorür) olan, gıdalara tat vermek veya tadını geliştirmek için kullanılan bir tatlandırıcı.
+genetic-collective;['akraba-i taallukat', 'akrabayı talukat', 'hısım akraba', 'soy sop', 'aile hattı', 'ailenin', 'akrabalar', 'kinfolk', 'phratry'];Birbirine kan, evlilik veya evlat edinme yoluyla bağlı olan, aynı aileden kişiler.
+geographical-object;['pangea', 'pangaea'];Yaklaşık 250 milyon önce, Paleozoik ve Mesozoik çağlarda var olan, günümüz kıtalarının birbirlerinden ayrılmasından evvelki süper kıta.
+geographical-object;['deniz'];Bir kıtanın yakınında yer alan, okyanustan daha küçük bir tuzlu su kitlesi.
+geographical-object;['okyanus', 'deniz', 'okyanuslar'];yeryüzünün karaların dışında tamamını kaplayan su kütlesi, göller ve iç denizler hariç olmak üzere.
+geographical-object;['anakara'];Bir ülke veya bölgenin çoğunu oluşturan geniş ve kesintisiz toprak parçası, onun dışındaki adalar hariç olmak üzere.
+gestalt;['şekil', 'desen'];Bir nesne veya kişinin silueti veya görünür yapısı.
+information-encoding-system;['janr', 'tarz', 'üslup', 'alt-tür', 'alt türler vardır', 'edebi tür', 'yazı stili'];Belli bir biçim, stil veya amaç ile karakterize olan bir sanat eserleri kategorisi.
+information-encoding-system;['jargon', 'argo', 'bilgisayar jargon', 'teknik dili', 'teknik terim', 'teknik terminoloji'];Belli bir faaliyet, meslek, grup veya olay bağlamında kullanılan terminoloji.
+information-encoding-system;['vurgu', "türkçe'de vurgu", 'stres', 'stres aksanı', 'vurguladı hece', 'vurgusuz sesli'];Bir kelime veya cümleyi daha belirgin kılmak için sesi yükseltmek veya tonu değiştirmek.
+information-object;['edat', 'ilgeç'];Kendisini izleyen isim veya isim cümleciğini, cümlenin geri kalanına bağlayan ve ikisi arasındaki bir ilişkiyi ifade eden sözcük veya deyim.
+information-object;['zamir', 'almaş', 'ivazlık', 'adıl', 'zamirler', 'belgisiz zamir', 'i̇şaret zamiri'];Bir isim veya isim tümceciği yerine kullanılan kelime. bir başka kelimeye atfen kullanılan kelime.
+information-object;['etimoloji', 'köken bilim', 'köken bilimi', 'etimolojik', 'köktenbilimci'];Kelimelerin kökenini ve tarihî gelişimini araştıran bilim.
+information-object;['eponim', 'eponimleri', 'eponymous', 'eponymous atası', 'kendi adını taşıyan', 'kendini başlıklı', 'soyuna adını veren kimse'];Bir cisim veya eylemi belirtmek için adı kullanılan, gerçek veya hayali kişi.
+information-object;['özel isim', 'özel ad', 'özel isimler', 'uygun ad', 'uygun isimler'];Belli bir kişi, varlık, yer, grup veya eşyayı benzerlerinden ayırdetmek için kullanılan bir sözcük veya terim.
+information-object;['isim-fiil', 'ad-fiil', 'isim fiil'];Tanımlanmış bir gramatik süreç ile br fiilden türetilmiş isim.
+information-object;['kendin', 'dönüşlü', 'dönüşlü zamir', 'kendini'];Kendi varlığın.
+information-object;['sayı', 'rakam'];[Bir numara veya sıra ifade eden sözcük.]
+information-object;['hiponim', 'hyponym', 'bağımlı kelime', 'hypernym'];Bir esanlamlılar sözlüğünde madde başlığından daha dar bir anlamsal kapsamı olan kelime.
+information-object;['zarf', 'belirteç', 'zarflar'];Bir fiilin, sıfatın, bir diğer zarfın veya ilgeç öbeğinin anlamını zaman, yer, ölçü, nitelik, soru kavramları bakımından etkileyen kelime.
+information-object;['holonim', 'holonym', 'tüm ad'];Bir kelimeyle ilişkili olarak, onun ait olduğu bütünü belirten kelime.
+information-object;['sözcük türü', 'sözcük sınıfı', 'form sınıfı', 'kelime sınıfı', 'konuşma parçası', 'part-of-konuşma', 'sözcüksel kategoriler'];Bir kelimenin belli bir dildeki sözdizimsel (sentaktik) işlevine bağlı olarak ait olduğu kategori.
+information-object;['biyografi', 'hayat', 'biyografi yazarı', 'biyografik', 'biyografya', 'yaşamöyküsü', 'hayat hikayesi'];Bir kişinin varlığının özünde bir parçası olan bir şey, mesleği, ailesi, bir yakını, vb. gibi.
+information-object;['önek', 'ön ek', 'prefiks'];Bir kelimenin başına konan bir anlambirim.
+information-object;['sonek', 'biten', 'desinence'];Kelimenin sonuna gelen bir anlambirim.
+information-object;['milli bayrak', 'bandıra', 'ulusal bayrak', 'ülke bayrağı', 'ulusal bayrağı', 'bandıralarını', 'savaşı standart'];Bir geminin milliyetini belli etmek için kullanılan esas bayrak veya sancak.
+information-object;['koşaç', 'ø', 'i̇snat edadı', 'bağlama fiil', 'fiil bağlama', 'kopula'];Cümlede yüklemi özneye bağlayan kelime veya kelime eki.
+information-object;['çoğul', 'çokluk'];Aynı tipten birkaç cisim için kullanılan gramatik sayı.
+information-object;['eponim', 'eponimleri', 'eponymous', 'eponymous atası', 'kendi adını taşıyan', 'kendini başlıklı', 'soyuna adını veren kimse'];Bir cisim veya eylemi belirtmek için adı kullanılan, gerçek veya hayali kişi.
+information-object;['do', 'doh'];Majör skaladaki birinci ve sekizinci notaya karşılık gelen, solfejde kullanılan bir hece.
+information-object;['zıt anlamlı', 'antonim', 'karşıtanlamlı', 'karşıt anlamlı', 'karşıt anlamlı sözcük', 'zıt', 'zıt kelime'];Bir kelime veya terimin tam, veya nerdeyse tam, tersi anlamına sahip bir diğer kelime veya terim.
+information-realization;['argo', 'jargon', 'altdil', 'meslek dili', 'argot', 'cryptolect', 'dil', 'olamaz'];Belli bir faaliyet, meslek, grup veya olay bağlamında kullanılan terminoloji.
+information-realization;['argo', 'jargon', 'altdil', 'meslek dili', 'argot', 'cryptolect', 'dil', 'olamaz'];Farklı gruplarca kullanılan, gruptakilerin konuşmalarının başkalarınca anlaşılmaması için kullanılan gizli veya özel dil.
+information-realization;['atasözü', 'atassözü nedi', 'atasözleri', 'atasözü nasıl açıklanır', 'darb-ı mesel', 'seyrani'];Yaygın olarak bilinen, kısa ve öz biçimde bir bilgelik veya düstur veren, yerleşmiş bir deyim.
+information-realization;['kiralama'];Belirlenmiş bir ücret karşılığında bir malın kullanımı veya içinde oturulmasına izin veren bir mukavele.
+information-realization;['kitap', 'kitaplar', 'bilim kitapları'];İçinde yazı veya resim bulunan, bir kenarından ciltli bir kağıt destesi.
+information-realization;['parça', 'beste', 'kompozisyon', 'müzikal kompozisyon', 'müzik kompozisyonu', 'müzik parçası', 'müzikal parça vardır', 'opus'];Bir müzik eseri.
+information-realization;['form'];Kullanıcı tarafından doldurulacak boşlukları olan bir belge.
+information-realization;['barış antlaşması', 'barış', 'sulh', 'barış anlaşması', 'barış antlaşmaları'];Savaş hâlinde olmama durumu.
+information-realization;['i̇llüstrasyon', 'resim', 'illüstrasyon', 'çizim', 'i̇llustrasyon', 'i̇llüstratör', 'i̇lustrasyon', 'resimleme', 'resimlemeci', 'resimlemecilik', 'resimli', 'resimli kitaplar'];Bir kişi veya bir cismin ayrıntılı bir görsel temsili.
+information-realization;['görüntü', 'resim', 'görsel', 'resimsel'];Bir kişi veya bir cismin ayrıntılı bir görsel temsili.
+information-realization;['söz', 'atasözü', 'anlatım', 'deyim', 'ifade', 'söyleme', 'özdeyiş', 'ifadesi', 'söyleyerek', 'tabir'];Yaygın olarak bilinen, kısa ve öz biçimde bir bilgelik veya düstur veren, yerleşmiş bir deyim.
+information-realization;['ünlem', 'nida', 'ünlemler'];Bir duygu ifade etmek için kullanılan bir kelime.
+information-realization;['örtmece', 'hüsnütabir', 'edebikelam', 'hüsnükelam', 'çarpıtmalardan', 'örtülü'];Bir şeyi olduğundan daha güzel göstermeye yarayan bir kelime veya ifade şekli.
+information-realization;['dikey kesit', 'yükseklik'];Bir bina veya başka bir cismin bir yüzünün ufka dik bir düzlem üzerine izdüşümü.
+information-realization;['argo', 'argo terim', 'argo ifade'];Eğitimli standart dilden daha düşük sayılan, son derece gayrı resmi bir dil. yeni kelimelerden, yeni anlamlarda kullanılan eski kelimlerin veya daha üst sosyal seviyede kişilerce tabu sayılacak kelimelerden oluşur.
+information-realization;['konu', 'melodik tema', 'müzikal tema', 'tema'];Bir kelime veya tümcecikte ifade edilen fikirlerin toplu halde ait olduğu genel kategori.
+information-realization;['kat planı', 'floorplan', 'kat planları'];Bir binanın düenini gösteren, genelde ölçekli yapılmış bir çizim.
+information-realization;['iş', 'çalışma', 'iş parçası'];Yapılan şey.
+language;['cherokee dili', 'çerokice'];Kuzey Amerika'da, Oklahoma ve Kuzey Karolina'da konuşulan bir İroqu dili.
+locative-role;['kesit', 'düzlemi bölüm'];Bir cismin ana eksenlerinden birine dik bir düzlemde kesilmiş gibi gösteren bir görüntü.
+locative-role;['saha', 'kır', 'oyun alanı', 'oyun sahası', 'spor alanı', 'spor sahası', 'atletizm', 'alan oynarken', 'playfield', 'spor zemin'];Orman ve yerleşim alanı olmayan bir arazi.
+locative-role;['bahçe'];Çiçek ve diğer bitkilerin yetiştirildiği ve çoğu zaman çimenlik bir bölgesi olan, bir eve yakın toprak parçası.
+locative-role;['konum', 'mevki', 'vaziyet', 'yer', 'coğrafi konumu', 'topografik noktası'];Uzay içinde belli bir nokta veya bölge.
+locative-role;['kesit', 'enine kesit'];Bir cismin ana eksenlerinden birine dik bir düzlemde kesilmiş gibi gösteren bir görüntü.
+locative-role;['kırsal', 'kırsal alan', 'taşra', 'kırsal bölge'];Bir şehir veya kasabadan farklı olarak, kırsal özellikli bir bölge.
+locative-role;['hükümranlık alanı', 'mülk', 'toprak', 'arazi'];Belli bir ülke veya hükümdar tarafından kontrol edilen bir bölge.
+locative-role;['çevre', 'ortam', 'dolayı', 'etraf', 'muhit', 'periferi', 'yakınlar', 'yağlık', 'çizgi', 'kuşatmak', 'ortam değişkeni'];Kişileri, sosyal grupları ve diğer canlıları etkileyen tüm doğal ve yapay ortamların kümesi.
+locative-role;['çevre', 'ortam', 'dolayı', 'etraf', 'muhit', 'periferi', 'yakınlar', 'yağlık', 'çizgi', 'kuşatmak', 'ortam değişkeni'];Belli bir organizmayı veya belli bir organizma grubunu çevreleyen ve etki eden, fiziksel, kimyasal ve canlı unusrlar kompleksi.
+non-agentive-physical-object;['baksır şortu', 'boxer şort', 'boksörler', 'boxershorts', 'underdrawers'];Erkekler tarafından giyilen, şorta benzer bir iç çamaşırı.
+non-agentive-physical-object;['broş', 'iğne', 'kravat iğnesi', 'şiş'];Bir kumaşa iğne ile tutturulan bir takı.
+non-agentive-physical-object;['örs'];Üzerinde metal cisimlere vurularak onların şekillenmesi için kullanılan ağır demir blok.
+non-agentive-physical-object;['demirbaş', 'sabit eşya'];Bir evin parçası sayılan ve onunla beraber satılan (veya kiralanan), sabit bir alet veya diğer mal unsuru.
+non-agentive-physical-object;['eşofman', 'egzersiz elbise', 'terlemeleri'];Teri emici bir alt ve üstten oluşan spor giysisi.
+non-agentive-physical-object;['halat', 'ip', 'halatlar'];Birkaç telin birbirine sarılması ile elde edilen, esnek, dayanıklı, kalın ve uzun malzeme.
+non-agentive-physical-object;['arka kapı', 'arka girişinde'];Bir yapının gerisinde yer alan kapı.
+non-agentive-physical-object;['kaporta', 'tuzak kapı', 'kapı', 'trapdoor'];Bir gemi veya denizaltının güverteleri arasındaki dar geçit.
+non-agentive-physical-object;['yol', 'cadde', 'güzergah', 'rota', 'kara yolu', 'karayolları', 'karayolu', 'caddeleri'];Bir yerden diğerine üzerinde bir taşıt aracı ile gitmeye yarayan uzun, sert bir zemin parçası.
+non-agentive-physical-object;['giyim', 'giysi', 'giyim kuşam', 'üst', 'giyecek', 'giyim-kuşam', 'kılık kıyafet', 'kılık ve kıyafet', 'kıyafet', 'çamaşır', 'giyilebilir', 'giyim makalede', 'habiliment', 'kıyafetleri', 'womenswear'];Vücut üzerine giyilmek için tasarlanmıs tüm örtücü nesneler.
+non-agentive-physical-object;['boyunduruk', 'lento', 'üst pervaz', 'üstlük'];Duvardaki bir açıklığın üzerinde, örneğin bir kapı veya pencerinin dikmeleri arasında, yer alan, ve üstteki duvarı tutan yatay bir kiriş.
+non-agentive-physical-object;['çözgü', 'arış'];Dokunmuş bir kumaşın uzunluğu boyunca giden iplikler.
+non-agentive-physical-object;['sutyen', 'sütyen', 'saç bandı', 'bandeau'];Göğüsleri tutmak ve yükseltmek amaçlı bir kadın iç çamaşırı.
+non-physical-collection;['âdet', 'kişisel bir şekilde'];Alışılagelmiş davranışlar.
+non-physical-collection;['kelime bilgisi', 'söz varlığı', 'kelime dağarcığı', 'kelime hazinesi', 'sözcük dağarcığı', 'vocabulary', 'kelime', 'zihinsel sözlüğü'];Bir dilin, teknik sahanın veya özelleşmiş bir konunun eklime ve terimlerinin listesi. Genelde alfabetik düzenlenmiş olur, kısa tanımlar ve yabancı dilde çeviriler de içerebilir.
+non-physical-collection;['yan anlam', 'önemini'];Bir kelime veya anlatımın belirgin veya birincil anlamına ek olarak onun ilişkili veya ikincil anlamı.
+non-physical-collection;['tarih', 'história'];Olayların zaman bağlı değişiminin bilimsel incelemesi ve elde edilen bu bilginin eğitim amacıyla aktarılması.
+non-physical-collection;['kölelik karşıtı', 'köleliğin kaldırılması', 'kölelik karşıtlığı', 'kaldırma akımı', 'kölelik karşıtlığına'];Köleliğe karşı olan.
+non-physical-collection;['irredantizm', 'i̇rredantizm', 'i̇rredantist', 'i̇rredentizm', 'kurtarımcılık', 'irridentism'];Ortak etnisite veya tarihî nedenler ile yabancı toprakların ele geçirilmesini savunan siyasi doktrin.
+non-physical-collection;['i̇slam', 'i̇slam dini', 'islam', 'i̇slamlık', 'muhammedîlik', 'i̇slam dîni', 'i̇slâm dini', 'i̇slâm dîni', 'müslümanlık', 'muhammedizm', 'islamiyet', 'islâm', 'islâmiyet', 'i̇slam inancı', 'i̇slami', 'i̇slamiyet', 'i̇slamiyetin doğuşu', 'i̇slamiyetlik', 'i̇slamî', 'i̇slâm', 'i̇slâmiyet', 'i̇slâmî', 'muhammedilik', 'neo islam', 'islamcılar', 'islamcılık', 'islami', "militan islam'ın", 'muhammadanism'];Peygamber Muhammed'in öğretileri üzerine kurulmuş din.
+non-physical-collection;['hristiyanlık', 'hiristiyan', 'hiristiyanlik', 'hiristiyanlık', 'hristiyan', 'hristiyanlar', 'hri̇styanlik', 'hrıstiyan', 'hıristiyan', 'hıristiyanlar', 'hıristiyanlık', 'hırıstiyan', 'i̇sevi', 'i̇sevilik', 'köktenci hıristiyanlık', 'nasranilik', 'hırıstiyanlık', 'hıristiyan din'];Yeni Ahit'te sunulduğu biçimiyle Nasıralı İsa'nın hayatı ve öğretileri üzerine kurulmuş Tektanrılı din.
+non-physical-place;['konum', 'mevki', 'vaziyet', 'yer', 'coğrafi konumu', 'topografik noktası'];Uzay içinde belli bir nokta veya bölge.
+organized-collection;['akım'];Olaylar dizisi veya eğilimi.
+parameter;['yüzde', 'yüzdelik', 'yüzde işareti', 'centum başına', 'pct', 'yüzdesi'];100 üzerinden ifade edilen bir oran.
+parameter;['ortalama', 'aritmetik ortalamasıdır'];Matematikte, bir sayılar grubunun en ortadaki değeri.
+parameter;['yetişkinlik'];(Bir insan veya hayvan için) tam büyüklüğe ve güce ulaşmış olma hâli.
+parameter;['aritmetik ortalama', 'beklenen değer', 'ortalama', 'beklenen değer operatörü', 'matematiksel beklenti', 'beklenen değeri', 'beklenti değeri', 'ilk andan'];Matematikte, bir sayılar grubunun en ortadaki değeri.
+phenomenon;['ışık', 'işık', 'görünür ışınlar', 'isik', 'işık dalgaları', 'işığın kırılması', 'görülebilir ışık', 'görünür radyasyon', 'görünür ışık', 'ışık dalgaları', 'ışık kaynağı', 'ışık yansıma', 'ışık yansıması'];Işık üreten doğal veya yapay nesne.
+phenomenon;['ışık', 'işık', 'görünür ışınlar', 'isik', 'işık dalgaları', 'işığın kırılması', 'görülebilir ışık', 'görünür radyasyon', 'görünür ışık', 'ışık dalgaları', 'ışık kaynağı', 'ışık yansıma', 'ışık yansıması'];Görsel bir duyu yaratan elektromanyetik radyasyon.
+phenomenon;['elektrik akımı', 'akım', 'cereyan', 'akım şiddeti', 'akan elektirik', 'elektriksel akım', 'elektrik akımları', 'elektrik akımını', 'geleneksel akım'];Bir potansiyel farkının neden olduğu, bir geçirgen ortam içinden elektronların hareketi.
+phenomenon;['hıçkırık', 'hıçkırmak', 'singultus'];Diyaframda bir kasılma, veya bundan kaynaklanan ses.
+phenomenon;['boran', 'gök gürültürülü fırtına', 'gök gürültülü, şimşekli ve yağmurlu fırtına', 'gök gürültülü şimşekli ve yağmurlu fırtına'];Yükselen hava akımlarından oluşan, gök gürlemesi, yıldırım ve genelde çiddetli yağmur veya dolu ile karakterize, bir fırtına türü.
+phenomenon;['oraj', 'sağanak', 'boran', 'gök gürültürülü fırtına', 'gök gürültülü fırtına', '☈', 'fırtına', 'elektrik fırtınası', 'şiddetli fırtına', 'şimşekli fırtına'];Yükselen hava akımlarından oluşan, gök gürlemesi, yıldırım ve genelde çiddetli yağmur veya dolu ile karakterize, bir fırtına türü.
+phenomenon;['menoraji', 'hayız', 'menstrüasyon', 'regl', 'âdet', 'aşırı âdet kanaması', 'hypermenorrhea'];Adet döngüsünde döllenme olmayınca endometriumun vücuttan atıldığı dönem.
+phenomenon;['vücut fonksiyonu', 'vücut süreci', 'bedensel fonksiyon', 'bedensel süreci', 'vücutta işlem'];Vücutta olan bir fizyolojik faaliyet.
+phenomenon;['kar', 'kar yağışı', 'kar örtüsü', 'kar örtüsünün'];En sık görülen donmuş su yapışı. yıldız şekilli kristaller veya bunların kümeleri şeklinde olur.
+phenomenon;['dolu', 'dolu nasıl oluşur', 'ateşli', 'dolu fırtınası'];Buzdan toplar veya yumrular şeklinde yağış.
+phenomenon;['çürük', 'yenirce', 'diş çürümesi', 'kavite', 'oyuk', 'diş çürüğü', 'diş çürükleri', 'karsinojenik'];Dişte çürümeden meydana gelmiş boşluk veya çukur.
+phenomenon;['çürük', 'yenirce', 'diş çürümesi', 'kavite', 'oyuk', 'diş çürüğü', 'diş çürükleri', 'karsinojenik'];Dişin sert dokusunun yumuşamasına ve organik kısmının imha olmasına neden olan bir diş enfeksiyonu.
+phenomenon;['boşaltım', 'çıkarmak', 'ıtrah etmek', 'atılma', 'atılır', 'dışkılamanın', 'işeme', 'salgılamak'];Bir canlıda metabolik faaliyet sonucu meydana gelen artıklarının vücut tarafından atılma eylemi.
+phenomenon;['i̇şeme', 'idrar', 'sidik', 'çiş', 'işeme', 'idrar püskürtme'];Su, tuz ve üreden oluşan, böbreklerde üretilen, mesanede depolanan ve üretradan atılan, atık sıvı.
+phenomenon;['dışkılama', 'büyük abdest yapmak', 'kaka yapmak', 'sıçmak', 'arınmak', 'bağırsak hareketi', 'defecated', 'shitting', 'tuvaletimi'];Dışkının anus yoluyla atılması.
+phenomenon;['traksiyon', 'çekme', 'yapışkan sürtünme'];Bir tekerlek vb.'nin sürtünmeden dolayı bir yüzeye tutunması.
+phenomenon;['âdet', 'regl', 'hayız', 'menstrüasyon', 'aybaşı', 'adet kanaması', 'aybaşı kanaması', 'menstruasyon', 'menstural siklus', 'mensturasyon', 'menstürasyon', 'âdet dönemi', 'âdet kanaması', 'adet', 'catamenia'];Adet döngüsünde döllenme olmayınca endometriumun vücuttan atıldığı dönem.
+phenomenon;['yaşam', 'hayat', 'ömür'];Canlı ve işlevsel bir hayvan veya bitkiyi ölü bir bedenden ayıran vasıf.
+phenomenon;['çisenti', 'serpinti', 'çilenti', 'çiskin', 'çiseleme', 'mizzle'];İnce yağan hafif yağmur.
+phenomenon;['yağmur', 'yağış', 'baran', 'yagmur', 'yağmur nasıl oluşur', 'yağmur fırtına', 'yağmur fırtınası', 'yağış miktarı'];0.5 milimetreden büyük su damlaları şeklinde olan yağış.
+physical-body;['evren', 'cosmos', 'kainat', 'acun', 'kozmos', 'kâinat', 'boşluk', 'evrenimiz', 'sistem', 'uzay', 'yin ve yang', 'kozmoz', 'fiziksel dünya'];Her yerde var olan herşey.
+physical-body;['dünya', 'yerküre', 'yeryüzü', 'yer', 'acun', 'yerdiz', 'yertinç', '♁', 'dünya gezegeni', 'küre-i ârz', 'mavi gezegen', 'sol 3', 'sol d', 'sol iii', 'tellus', 'terra', 'terra mater', '🌏', 'arz', 'batonik', 'dünya teorileri', 'dünya yarıçapı', 'dünyanın katmanları', 'dünyanın yörüngesi', 'dünyâ', 'koytak'];Merkezden itibaren sayılmak üzere, güneş sistemimizin üçüncü gezegeni.
+physical-body;['leş', 'karkas'];Çürümenin ileri safhasında olan bir ölü hayvan vücudu.
+physical-object;['baksır şortu', 'boxer şort', 'boksörler', 'boxershorts', 'underdrawers'];Erkekler tarafından giyilen, şorta benzer bir iç çamaşırı.
+physical-object;['otomobil', 'araba', 'oto', 'automobile'];Kara ulaşimı için kullanılan, dört tekerlekli ve motorlu bir taşıt.
+physical-object;['korkuluk'];Dikey destekler üzerinde yer alan, destek veya bariyer olarak kullanılan yatay bir çubuk.
+physical-object;['hatıl', 'putrel', 'kiriş', 'çelik kiriş'];Bir bina veya yapıdaki esas yatay destek olarak kullanılan çelik, ahşap veya betonarme kiriş.
+physical-object;['bastika', 'kurt ağzı', 'fairlead'];Bir halat veya zincirin doğru yönde kayması, veya onun sürtünme veya dolanmasını engellemek için kullanılan, bir halka, kanca veya benzeri araç.
+physical-object;['cüzdan', 'portföy', 'notecase'];Kağıt para, kimlik kartı, kredi kartı, vb. taşımak için kullanılan, katlanabilir, yassı, cebe sığan bir çanta.
+physical-object;['duvar saati'];Duvara yerleştirilmiş bir saat.
+physical-object;['kuka', 'lobut', 'bowling pin'];Bovling kulvarının ucuna yerleştirilen, bovling topu ile vurulup devrilmesine çalışılan nesne.
+physical-object;['kalbur'];Büyük tanecikleri küçüklerden ayırmak için kullanılan, iri delikli veya tellerinin örgüsü aralıklı olan bir süzgeç.
+physical-object;['kafile', 'katar', 'kervan', 'konvoy', 'dişli', 'dişli sistemi', 'dişli tren', 'güç aktarma', 'güç tren', 'nihai tahrik'];Birbirini izleyen bir grup hayvan, taşıt veya insan.
+physical-object;['yemlik', 'oluk', 'çukur'];Hayvanlara su veya yem verilen, ince, dar, üstü açık kap.
+physical-object;['yemlik', 'oluk', 'çukur'];Hayvanların içinden yem yediği oluk.
+physical-object;['eşik plakası', 'eşik plaka'];Bir duvar veya yapıda, dikey elemanların bağlandığı alt yatay eleman.
+physical-object;['koruma', 'saye', 'sâye', 'koruyucu kapak'];Zarar ve tehlikeye karşı birisi veya birşeyi koruyan şey.
+physical-object;['kaplama', 'cephe giydirme', 'dış kaplama'];Ev ve diğer binaların yanlarını kaplayan ve koruyan bir yapı malzemesi.
+physical-object;['su taşıtı', 'tekne', 'gemi', 'deniz gemi'];[Su ulaşımı için tasarlanmış her türlü araç için kullanılan genel bir terim.]
+physical-object;['makas', '✁', '✂', '✃', '✄'];İnce malzemeleri kesmek için kullanılan, bir eksende birbiri etrafında dönen iki bıçaktan oluşan, tutacakları birleştirilince bıçakları birbiri üzerinde kayan bir araç.
+physical-object;['çakmak', 'lamba', 'ışık'];Işık üretmek için bir araç.
+physical-object;['alarm', 'alarm sistemi', 'alarmlar', 'uyarı cihazı'];Tehlike oluşturmaya yakın bir olay veya duruma dikkat çekmek için verilen sinyal.
+physical-object;['beşikçatı', 'eyer çatı', 'beşik çatı'];Mahya aşığından başlayarak yalnız iki yana eğimi olan, uçlarda üçgen bir cephe duvarı ile biten çatı.
+physical-object;['spor salonu', 'jimnastik salonu', 'cimnastik salonu'];Kapalı mekân sporları için tasarlanmış bina.
+physical-object;['ekspres tren', 'ekspres'];Sadece önemli istasyonlarda duran tren.
+physical-object;['koçboynuzu'];Bir gemi veya karada, boynuz gibi iki yatay çıkıntısı olan ve bunlar etrafında ipin hızla sarılabildiği ve kolayca da serbest bırakılabildiği bir bağlama aracı.
+physical-object;['pencere', 'dayanmalık', 'pervaz'];Genelde şeffaf cam ile kaplı olan, bir bina veya taşıtın içine dışardaki ışığın girmesini sağlayan bir açıklık.
+physical-object;['pencere', 'dayanmalık', 'pervaz'];Bir pencerenin tabanını oluşturan yatay tabla.
+physical-object;['çatı penceresi', 'arnavut bacası', 'pencereleri', 'taban direği', 'çatı'];Eğik bir dam üzerine yapılmış dikey bir pencere.
+physical-object;['pense', 'kargaburun', 'ayarlı pense', 'kerpeten', 'pense çifti', 'plyers'];Sapa göre 45-60 derece açıya sahip tırtıklı çeneleri olan, alt çenenin bir oyuk boyunca üst çene altında hereket ederek farklı açıklıklar meydana getirebildiği bir cins ayarlı pense.
+physical-object;['pense', 'kargaburun', 'ayarlı pense', 'kerpeten', 'pense çifti', 'plyers'];Kullanıcının el gücünü artıran bir sıkıştırma aracı
+physical-object;['anahtar', 'anahtarları'];Somun ve cıvataları döndürmek veya boruları sıkıştırmak için kullanılan bir el aleti.
+physical-object;['lamba', 'ışık', 'elektrik lambası'];Işık üretmek için bir araç.
+physical-object;['fuaye', 'lobi', 'dalan', 'gezinek', 'antre', 'eyvan', 'giriş holü', 'vestibül'];Binaya dışarıdan girilen yerdeki oda.
+physical-object;['fuaye', 'lobi', 'dalan', 'gezinek', 'antre', 'eyvan', 'giriş holü', 'vestibül'];Tiyatro, sinema, konser salonu, ve benzerinde bulunan, gösteri yerinin yanı başındaki, dinlenme, beslenme amaçlı, geniş oda veya bir odalar grubu.
+physical-object;['ingiliz anahtarı', 'stillson anahtarı'];Muslukçular ve boru tesisatçıları tarafından kullanılan, birbirine vidalanmış boruları sıkıştırmak veya gevşetmeye yarayan, boruyu kavramaya yarayan tırtıklı bir ağzı olan, ve genişliği ayarlanabilen, kol üzerine kuvvet uygulandığı zaman ağız kısmı sıkışacak şekilde tasarlanmış bir anahtar.
+physical-object;['pedal', 'ayaklık', 'ayak pedalı', 'ayağı kolu'];Bir makina veya mekanizmayı (bir bisiklet veya piyano gibi) kontrol etmek için kullanılan, ayakla işletilen bir manivela.
+physical-object;['tren', 'katar', 'şimendifer', 'trenler', 'demiryolu tren', 'demiryolu treni', 'tren seti', 'yolcu demiryolu', 'yolcu trenleri'];Ray üstünde giden, kendi yürür, birbirine bağlı bir grup taşıt.
+physical-object;['ayaklık', 'tabure', 'ayak dayayacak yer', 'tuffet'];Üzerine ayak koymak için yapılmış mobilya veya destek.
+physical-object;['video kaset kaydedici', 'video', 'video kayıt cihazı', 'videoteyp', 'video tape recorder', 'vtr', 'vcr', 'video kaset kaydediciler', 'video kasetleri'];Bir televizyon programından veya bir video kameradan görüntü ve ses kaydedebilen, ve bunları daha sonra televizyondan seyretmeyi sağlayan araç.
+physical-object;['amortisör', 'amortisörler'];Ani sadme darbelerini dengelemek ve söndürmek, kinetik enerjiyi dağıtmak için tasarlanmış bir mekanik araç. genelde bir yay ve bir sönümleyiciden oluşur.
+physical-object;['göz kapağı', 'gözkapağı', 'göz kapakları', 'palpebral'];Gözün üzerine kapanabilen bir deri tabakası.
+physical-object;['mezura', 'şerit metre', 'metre', 'çelik şerit metre', 'mezro', 'tapeline'];Üzeri işaretli, sarılabilir esnek bir şeritten oluşan, bir ölçme aracı.
+physical-object;['çaydanlık örtüsü', 'cozy', 'rahat', 'çay rahat'];Bir çaydanlık içindeki içeceği sıcak tutmaya yarayan örtü.
+physical-object;['tava', 'kızartma tavası', 'tavalar'];Nispeten yassı, sapı olan, kenarları yukarı kalkık, içinde kızartma yapmak için kullanılan mutfak aracı.
+physical-object;['konut', 'ev', 'lojman', 'mesken', 'ikametgâh', 'baba evi', 'yuva', 'yer', 'özel konut'];Bir insanın içine yaşadığı, oturma yeri.
+physical-object;['okul', 'okul binası'];Çocuk veya genç kişilerin eğitim gördüğü bir bina veya kurum.
+physical-object;['tahterevalli', 'tahtaravalli', 'tahteravalli', 'tahterevallinin', 'teeterboard', 'devirme masası', 'hoplatmak kurulu', 'sendelemek', 'teetertotter'];Ortasından dengelenmiş, iki ucunda oturma yerleri olan, bir çubuk. bir kişi yükselirken diğerinin alçaldığı bir oyun için kullanılır.
+physical-object;['erkek geçme parçası', 'geçme', 'kiniş', 'zıvana dili', 'zıvana'];Bir zıvananın içine sokulmak için yapılmış, etrafındaki tahta kesilmek sonucu geriye bir çıkıntı şeklinde kalmış, bir çerçevenin parçalarını birleştirmeye yarayan yapı elemanı.
+physical-object;['dalgakıran', 'mendirek', 'küpeşte', 'set', 'breakwall', 'deniz duvar', 'iskelesi', 'köstebek', 'kıyı duvarları', 'mahmuz', 'malecón'];Bir geminin güvertesini dalgalardan korumak için etrafında yer alan bariyer.
+physical-object;['ispit', 'konuşmacı', 'konuştu', 'tekerlek konuştu'];Tekerleğin göbeğini jantına bağlayan çubuklardan biri.
+physical-object;['sınıf', 'derslik', 'dershane'];Okulda, içinde ders verilen bir oda.
+physical-object;['yönetim kurulu odası', 'boardroom', 'meclis salonu'];Bir şirketin yönetim kurulunun toplandığı oda.
+physical-object;['sele', 'bisiklet koltuk'];Bisiklet, motosiklet gibi tek kişilik vasıtalardaki arkalıksız oturma yeri.
+physical-object;['eşofman', 'egzersiz elbise', 'terlemeleri'];Teri emici bir alt ve üstten oluşan spor giysisi.
+physical-object;['cüzdan'];Para taşımak için kullanılan küçük çanta.
+physical-object;['adam', 'taş'];Masa oyunlarında kullanılan bir parçanın genel adı.
+physical-object;['rozet'];Üzerinde bir resim, logo veya mesaj bulunan, genelde yuvarlak olan, süs veya siyasi aidiyet göstermek amaçlı olarak kullanılan, giysilere bir iğne veya toka ile tutturulan bir aksesuar.
+physical-object;['çekçek', 'ricksha', 'rickshaws'];Bir veya iki koltuklu, yanlarında iki tekerleği olan, koşan bir insan tarafından çekilen taşıt aracı.
+physical-object;['baston', 'bastonlar'];Yürürken üzerine dayanılan sopa.
+physical-object;['elek', 'süzgeç', 'eleme'];Bir katı maddeyi bir sıvıdan ayırmak için kullanılan küçük delikli gereç.
+physical-object;['baba', 'bita', 'bite', 'bitt', 'iskele babası'];Bir geminin güvertesine tutturulmuş, geminin halatlarının bağlandığı, sağlam, madeni veya tahta dikey direk.
+physical-object;['baba', 'bita', 'bite', 'bitt', 'iskele babası'];Bir geminin güvertesine tutturulmuş, geminin halatlarının bağlandığı, sağlam, madeni veya tahta dikey direk.
+physical-object;['sacayak', 'nihale', 'sacayağı', 'sac ayak', 'sac ayağı', 'üç ayak', 'üçayak'];Sıcak kapları tutmak ve masayı korumak için (bazen kısa bacakları olan) bir nesne.
+physical-object;['duvar latası', 'duvar plakası', 'üst plaka', 'duvar tabağı'];Bir duvarın tepesine yerleştirilmiş, damın yükünü tutuan ve ağırlığını dağıtan bir yatay çatı eleman.
+physical-object;['duvar latası', 'duvar plakası', 'üst plaka', 'duvar tabağı'];Duvar kasası kaldırılıp yerleştirilmeden önce, duvar dikmelerinin tepesine yerleştirilen, bir üst katın zemininin, veya tavan ve damın üzerine yerleştiği, duvarın üst yatay plakası.
+physical-object;['söve', 'kasa dikmesi', 'kenar pervazı', 'pervaz'];Bir kapı çerçevesi, pecere çerçevesi, şömine veya bir duvardaki başka bir açıklığın yanlarını oluşturan dikey parçalar.
+physical-object;['babafingo', 'direk', 'ana direği', 'mizana direği'];Bir gemi üzerine kurulmuş, ahşap veya çelikten yapılmış, yelken, bayrak, projektör, veya iletişim araçlarını taşımaya yarayan direk.
+physical-object;['ataş', 'tutturgaç', 'ataç', 'gem klip'];Tel veya plastikten yapılmış, kağıt yaprakları birlikte tutmaya yarayan araç.
+physical-object;['alyan anahtarı', 'altıgen anahtar', 'alyan'];Altıgen kesitli ucu ile sapı birbirine dik açıda olan bir tornavida tipi.
+physical-object;['ingiliz anahtarı', 'boru anahtarı', 'tüp anahtarı'];Muslukçular ve boru tesisatçıları tarafından kullanılan, birbirine vidalanmış boruları sıkıştırmak veya gevşetmeye yarayan, boruyu kavramaya yarayan tırtıklı bir ağzı olan, ve genişliği ayarlanabilen, kol üzerine kuvvet uygulandığı zaman ağız kısmı sıkışacak şekilde tasarlanmış bir anahtar.
+physical-object;['fol'];Bir kuşun yuvasına yumurtlamasını teşvik etmek için oraya konan, doğal veya yapay yumurta.
+physical-object;['dümen köşkü', 'pilothouse', 'wheelhouse'];Balıkçı teknesi gibi küçük bir gemilerin güvertesinde yer alan, geminin yönetildiği kapalı bir mekân.
+physical-object;['ibrik', 'sürahi', 'i̇brik', 'olpe'];Vazo şekilli, kulbu ve emziği olan, içecek servisi yapmak için kullanılan bir kap.
+physical-object;['projektör', 'gösterici', 'yansıtım aygıtı', 'görüntü projektör'];Bir yüzey üzerine bir görüntü yansıtan optik gereç.
+physical-object;['ışık', 'işık', 'görünür ışınlar', 'isik', 'işık dalgaları', 'işığın kırılması', 'görülebilir ışık', 'görünür radyasyon', 'görünür ışık', 'ışık dalgaları', 'ışık kaynağı', 'ışık yansıma', 'ışık yansıması'];Işık üreten doğal veya yapay nesne.
+physical-object;['ışık', 'işık', 'görünür ışınlar', 'isik', 'işık dalgaları', 'işığın kırılması', 'görülebilir ışık', 'görünür radyasyon', 'görünür ışık', 'ışık dalgaları', 'ışık kaynağı', 'ışık yansıma', 'ışık yansıması'];Görsel bir duyu yaratan elektromanyetik radyasyon.
+physical-object;['valf', 'supap', 'vana', 'valfler'];Bir geçit veya borudan bir akışkanın akışını kontrol eden gereç.
+physical-object;['mobilya', 'möble', 'ev mobilya', 'mobilya makale', 'mobilya parçası', 'mobilya tasarımı'];Yaşanan bir mekanda kullanılan, işlevsel veya dekoratif amaçlı, taşınabilir nesne (masa, iskemle, lamba gibi).
+physical-object;['kevgir', 'süzgeç'];Gıdalardaki sıvıyı süzmeye yarayan, kase biçimli ve delikli bir mutfak aracı.
+physical-object;['raylı taşıt', 'raylı araç', 'demiryolu aracı', 'demiryolu'];Demiryolu üzernde hareket eden motorlu veya motorsuz bir vasıta.
+physical-object;['altgergi', 'baba', 'bağ kirişi', 'bırakma kirişi', 'beko kayması', 'kral sonrası', 'kral yazılan', 'kral yazılan kafes', 'kral yazılan truss'];Mahya kirişini alt gergiye bağlayan, çatı makasındaki dikey kerestelerden her biri.
+physical-object;['altgergi', 'baba', 'bağ kirişi', 'bırakma kirişi', 'beko kayması', 'kral sonrası', 'kral yazılan', 'kral yazılan kafes', 'kral yazılan truss'];Çatı makası üçgeninde iki üstbaşlığı alt uçlarından birbirine bağlayan yatay yapı elemanı.
+physical-object;['giyim', 'giysi', 'giyim kuşam', 'üst', 'giyecek', 'giyim-kuşam', 'kılık kıyafet', 'kılık ve kıyafet', 'kıyafet', 'çamaşır', 'giyilebilir', 'giyim makalede', 'habiliment', 'kıyafetleri', 'womenswear'];Vücut üzerine giyilmek için tasarlanmıs tüm örtücü nesneler.
+physical-object;['bayrak'];Golf oynunda, hedef deliğin uzaktan görülmesini sağlayan, deliğin içine yerleştirilen, tepesinde bayrak olan çubuk.
+physical-object;['şifonyer', 'çekmeceli dolap'];Üstüste birkaç çekmecesi olan, başlıca temiz çamaşır konmak için kullanılan bir mobilya.
+physical-object;['el burgusu', 'helezon', 'wimble'];Tahtada delik delmeye yarayan, vida uçlu madenî bir el aleti.
+physical-object;['lento', 'boyunduruk', 'üst pervaz', 'üstlük', 'lentoları'];Duvardaki bir açıklığın üzerinde, örneğin bir kapı veya pencerinin dikmeleri arasında, yer alan, ve üstteki duvarı tutan yatay bir kiriş.
+physical-object;['üzengi', 'üzengi demiri'];At binicileri ayağını tutan, eğere bir kayışla tutturulmu halka.
+physical-object;['mertek', 'bağlama merteği', 'yanlama'];Üzerine çatı kaplamasının tutturulduğu, mahya aşığı ile damlalık aşığı arasında uzanan eğik yapı elemanı.
+physical-object;['mertek', 'bağlama merteği', 'yanlama'];Bir damı tutan, damın mahyasından duvarların tepesine kadar uzanan, damı ve onunla ilişkili yükleri kaldıran, birbirine paralel eğik kirişlerden her biri. bir çatı makasının eğik elemanlarından her biri, aşıkları taşır.
+physical-object;['wok', 'çin tavası'];Çin ve Güneydoğu Asya mutfağında kullanılan, yarımküre şeklinde bir pişirme kabı.
+physical-object;['ayarlı pense', 'pense', 'kayma ortak pense'];Ağız açıklığını artırmak için ekseni kaydırılabilen bir tip pense.
+physical-object;['ayarlı pense', 'pense', 'kayma ortak pense'];Sapa göre 45-60 derece açıya sahip tırtıklı çeneleri olan, alt çenenin bir oyuk boyunca üst çene altında hereket ederek farklı açıklıklar meydana getirebildiği bir cins ayarlı pense.
+physical-object;['araç', 'taşıt', 'vasıta'];Ulaşım aracı olarak kullanılabilen bir nesne.
+physical-object;['çamurluk', 'de tekerlek edilir'];Bir taşıt aracının tekerleklerinin üst kısmında bulunan, su ve çamur sıçramasını engelleyen parça.
+physical-object;['ana direk', 'grandi'];Birden fazla direği olan bir yelkenlideki ana ve en yüksek direk.
+physical-object;['zemin kat', 'birinci kat'];Bir binada toprak seviyesine en yakın olan kat.
+physical-object;['tekne', 'deplasman gövde', 'gövde', 'kalıp derinliği', 'kalıp genişliği'];Bir geminin kısmen su altında olan ve geminin geri kalanını destekleyen, içi boş ve alttaki kısmı.
+physical-object;['iskelet', 'iskelet çerçeve', 'underframe', 'yekpare', 'çerçeve'];Bir bina veya başka bir yapıya destek veren çatı.
+physical-object;['babafingo', 'direk', 'ana direği', 'mizana direği'];Bir gemi üzerine kurulmuş, ahşap veya çelikten yapılmış, yelken, bayrak, projektör, veya iletişim araçlarını taşımaya yarayan direk.
+physical-object;['üstgeçit', 'köprü', 'üst geçit', 'üst geçitler', 'üstgeçidin rampa'];Başka bir yolun veya demir yolunun üstünden geçen bir yol, demiryolu, yaya yolu, vs.
+physical-object;['dümen yelpazesi', 'dümen palası'];Bir gemi dümeninin suyun içinde olan yassı kısmı.
+physical-object;['kalkan', 'beşikçatı', 'kalkan duvarı', 'pencere kalkanı', 'üçgen çatı', 'beşik', 'kalkan duvar'];Tepede birleşen iki eğik dam arasında kalan üçgen yüzeyli dış duvar yüzü.
+physical-object;['kalkan', 'beşikçatı', 'kalkan duvarı', 'pencere kalkanı', 'üçgen çatı', 'beşik', 'kalkan duvar'];Mahya aşığından başlayarak yalnız iki yana eğimi olan, uçlarda üçgen bir cephe duvarı ile biten çatı.
+physical-object;['pim', 'pimli'];Silindirik bir kilidin içindeki çubuklardan bir tanesi, sadece doğru anahtarın mekanizmayı döndürmesini sağlar.
+physical-object;['kiriş', 'balar', 'putrel'];Duvardan duvara, duvardan dikmeye, veya dikmeden dikmeye giden, bir tavan, dam veya zemini desteklmeye yarayan yatay destek elemanı.
+physical-object;['demir testeresi', 'hack gördüm', 'metal testere'];Metal kesmek için kullanılan, bıçak kısmı gergin tutulmuş bir testere.
+physical-object;['sutyen', 'sütyen', 'saç bandı', 'bandeau'];Göğüsleri tutmak ve yükseltmek amaçlı bir kadın iç çamaşırı.
+physical-region;['gölge', 'saye', 'sâye', 'shadowiness'];Işığın (özellikle güneş ışığının) önünün kesildiği yerde meydana gelen karanlık.
+physical-region;['gölge', 'saye', 'sâye', 'gölgeler'];Işığın (özellikle güneş ışığının) önünün kesildiği yerde meydana gelen karanlık.
+political-geographic-object;['nijerya', 'nijerya federal cumhuriyeti', 'nigeria', 'nijeryalı'];Batısında Benin, doğusunda Çad ve Kamerun, Kuzeyinde Nijer, güneyinde Gine Körfezi bulunan, Batı Afrika ülkesi.
+political-geographic-object;['mississippi', 'missisippi', 'mississippi, abd', 'mississippi, amerika', 'mississippi eyaleti', 'magnolia devlet'];Amerika Birleşik Devletleri'nin güneyinde bulunan, başkenti Jackson olan, ülkenin 20. eyaleti.
+political-geographic-object;['bölge', 'i̇lçe', 'müstemleke', 'toprak', 'özel bölge', 'ilçe', 'semt', 'yöre', 'i̇lçedir', 'toprak hakimiyet'];Bir dış devletin kontrolü altında olan, ama kontrolde olan ülkenin bir ili veya eyaleti olma hakkını elde etmemiş bir coğrafi bölge.
+political-geographic-object;['anavatan', 'vatan', 'menşe ülke'];Kişinin doğduğu ülke.
+political-geographic-object;['ülke', 'devlet', 'memleket', "meksika'nın idari bölümleri", 'el', 'eyalet', 'il', 'devletler', 'ülkeler', 'meksika devlet', 'meksika eyaletinden'];Bir coğrafi alan üzerinde egemenlik sahibi olan bir politik varlık.
+qualitative-role;['kira'];Bir malın münhasır kullanımı için düzenli aralıklarla yapılan ödeme.
+qualitative-role;['şey', 'nesne'];Kendi başına var olan bir varlık, bir özellik, veya bir kavram.
+qualitative-role;['ödül', 'mükâfat', 'mükafat'];Bir yarışmayı kazanana verilen kıymetli şey.
+qualitative-role;['hâlihazır', 'şimdiki zaman', 'bugünkü'];Şu anda var olan veya gerçekleşen. geçmiş ile gelecek arasında bulunan.
+quality;['biçim', 'tarz', 'şekil', 'modudur', 'şekilde'];Bir şeyi yapma veya gerçekleştirme yolu.
+quality;['mesafe', 'uzaklık', 'uzunluk', 'öklid mesafesi', 'mesafeleri'];İki nokta arasındaki boşluk miktarı.
+quality;['fiziksel özellik', 'fiziki özellik', 'fiziksel özellikleri'];Bir maddenin, kimyasal bileşiminde bir değişiklik meydana gelmeden değişmeyen bir özelliği.
+quality;['ek'];Bir şeyin eksiğini gidermek için ona katılan şey.
+quality;['renk', 'kara', 'siyah', 'renkler', 'ana ve ara renkler', 'renk bilimi'];Yansıttıkları, geçirdikleri veya yaydıkları ışıktan kaynaklanan ve bu ışığın dalga boyuna bağlı olarak görsel bir duyuma neden olması ile ilişkili, cisimlerin bir niteliği.
+quality;['âdet', 'kişisel bir şekilde'];Alışılagelmiş davranışlar.
+quality;['meziyet'];Takdire değer bir özellik veya nitelik.
+quality;['şey', 'nesne'];Kendi başına var olan bir varlık, bir özellik, veya bir kavram.
+quality;['eda', 'hava', 'tavır', 'ifadesi', 'yüz ifadeleri', 'yüz ifadesi'];Belli bir ruh halini gösteren ifade veya görüntü.
+quality;['merhamet'];Bir başkasının acısına büyük bir duyarlılık ile birleşmiş, bu acıyı azaltma arzusu.
+quality;['i̇slam', 'i̇slam dini', 'islam', 'i̇slamlık', 'muhammedîlik', 'i̇slam dîni', 'i̇slâm dini', 'i̇slâm dîni', 'müslümanlık', 'muhammedizm', 'islamiyet', 'islâm', 'islâmiyet', 'i̇slam inancı', 'i̇slami', 'i̇slamiyet', 'i̇slamiyetin doğuşu', 'i̇slamiyetlik', 'i̇slamî', 'i̇slâm', 'i̇slâmiyet', 'i̇slâmî', 'muhammedilik', 'neo islam', 'islamcılar', 'islamcılık', 'islami', "militan islam'ın", 'muhammadanism'];Peygamber Muhammed'in öğretileri üzerine kurulmuş din.
+quality;['cinsiyet', 'biyolojik cinsiyet', 'toplumsal cinsiyet', 'cins', 'cinslik', 'eşey', 'eşeyli', 'eşeysiz', 'cinsellik', 'cinsiyet ifadesi'];Organizmaların üreme fonksiyonu veya organlarına göre içine yerleştirilebileceği iki ana bölümden (erkek veya dişi) biri.
+quality;['gaddar', 'zalim', 'cruelness', 'zulüm'];Başkasının acısına aldırmayan ve hatta bundan zevk duyan.
+quality;['şeref', 'onur', 'kıvanç'];Kişinin toplumdaki yerini ve öz-değerine etkileyen, onun saygınlığı ve toplumsal kıymeti.
+quality;['yan anlam', 'önemini'];Bir kelime veya anlatımın belirgin veya birincil anlamına ek olarak onun ilişkili veya ikincil anlamı.
+quality;['octavo', 'küçük boy', '8vo', 'eightvo'];Tam boyutları onu yapmak için kullanılan kağıda bağlı olan, 7-10 inç (17-25 cm) yüksekliğinde ve 4,5-6 inç (11-15 cm) genişliğinde, özgün kağıdı üç kere katlayarak sekiz yaprak oluşturarak elde edilen bir kağıt.
+quality;['quarto', 'orta boy', '4to', 'dört yapraklı'];Standart boyda bazı kağıtların (15"-20" x 20"- 25") (381-508 x 508-635 mm) iki kere katlanması sonucu dört yaprak (sekiz yüz) oluşmasıyla elde edilen bir kağıt boyu (7,5"-10" x 10"-12,5") (190-254 x 254-312 mm).
+quality;['hristiyanlık', 'hiristiyan', 'hiristiyanlik', 'hiristiyanlık', 'hristiyan', 'hristiyanlar', 'hri̇styanlik', 'hrıstiyan', 'hıristiyan', 'hıristiyanlar', 'hıristiyanlık', 'hırıstiyan', 'i̇sevi', 'i̇sevilik', 'köktenci hıristiyanlık', 'nasranilik', 'hırıstiyanlık', 'hıristiyan din'];Yeni Ahit'te sunulduğu biçimiyle Nasıralı İsa'nın hayatı ve öğretileri üzerine kurulmuş Tektanrılı din.
+region;['gözyaşı', 'yaş', 'gözyaşı damlası'];Gözün gözyaşı bezesi tarafından salgılanan, normal işlevi gözü temizlemek ve kayganlaştırmak olan, şeffaf ve tuzlu sıvı. göz irite olduğunda, veya esneme, gülme veya ağlama gibi durumlarda üretimi artar.
+region;['döviz', 'para birimi'];Ticari işlemi kolaylaştırmak amacıyla kullanılan (para gibi) bir meta birimi.
+region;['ay', 'takvim ayı'];Bir yılın bölünmüş olduğu, tarihsel olarak ayın (dünyanın uydusu) evrelerine dayanan, zaman aralıklarından biri. Gergoryen takvimde oniki ay vardır.
+region;['zerre', 'azlclk', 'smidge', 'smidgen', 'smidgeon'];Küçük veya zorlukla görülebilen bir miktar.
+region;['curie', 'mikrocurie', 'μci', 'ci', 'picocurie'];Bir Curie'nin milyonda birine eşit bir radyoaktivite birimi.
+region;['porsiyon', 'yardım'];Herhangi bir yemekten bir kimseye verilen belirli miktar.
+region;['5', 'beş', '⑤', '❺', '➄', '➎', '５', 'beşlik', 'küçük phoebe', 'penc'];Dört ile altı arasında yer alan, Arap sayısı olarak 5, Roma sayı olarak V ile gösterilen sayal sayı.
+region;['3', 'üç', 'hüç', '३', '৩', '③', '❸', '➂', '➌', '三', '３', 'deuce-ace', 'iii', 'ternion', 'üç mısralı kıta', 'üçlü'];İki ile dört arasında yer alan, Arap sayısı olarak 3, Roma sayısı olarak III olarak gösterilen sayal sayı.
+region;['2', 'iki', '2 rakamı', 'i̇ki', '②', '❷', '➁', '➋', 'ii', 'kuşak'];İkinci doğal sayı (2).
+region;['8', 'sekiz', '⑧', '❽', '➇', '➑', '８', 'decatur eighter', 'eighter', 'octad', 'octonary', 'ogdoad', 'viii'];Yediden sonra, dokuzdan önce gelen, roma rakamlarıyla VIII, arab rakamlarıyla 8 ile gösterilen sayal sayı.
+region;['4', 'dört', '④', '❹', '➃', '➍', '４', 'dörtlü', 'kuaterniyon', 'kuaterniyonlar', 'little joe', 'quatern', 'quaternity', 'tetractys'];Üç ile beş arasında yer alan, Arap sayıları ile 4 olarak, Roma sayıları ile IV olarak gösterilen sayal sayı.
+region;['atom numarası', 'atom sayısı', 'atom numaraları', 'proton sayısı'];Bir atomun çekirdeğinde bulunun proton sayısı.
+region;['1', 'bir', 'i', '①', '❶', '➀', '➊', '〡', '１', 'altı misli', 'as', 'başlığın', 'birlik', 'n-tuple'];Sıfır ile iki arasında yer alan, Arap sayısı olarak 1, Romen sayısı olarak I ile gösterilen sayal sayı.
+regulation;['asılanma', 'intifa', 'istifade', 'yararlanma', 'kullanım'];Bir mülkten kâr veya fayda elde etme hakkı.
+relation;['semantik ilişki', 'anlamsal ilişkisi'];Kelime anlamları arasındaki ilişki.
+relation;['tekil', 'numarası anlaşması', 'paucal'];Tek bir cisim için kullanılan dilbilgisel sayı.
+relation;['aksine', 'ama', 'ancak', 'bağlaç', 'buna rağmen', 'fakat', 'gene de', 'lakin', 'oysa', 'yine de', 'gramer birlikte'];[Takip eden cümleciğin evvelki inanışa ters olduğunu ima eden kelime].
+relation;['aksine', 'ama', 'ancak', 'bağlaç', 'buna rağmen', 'fakat', 'gene de', 'lakin', 'oysa', 'yine de', 'gramer birlikte'];Aynı özelliğe sahip iki sözcük veya cümleciği birbirine bağlayan bir sözcük veya terim.
+relation;['hipernim', 'herangi', 'hypernym', 'hypernymy'];Verilen bir kelimeden daha geniş veya kapsamlı bir anlamı olan kelime.
+relevant-part;['yan', 'yönü'];Benzer veya ilişkiliö am ayrık unsurlardan biri.
+relevant-part;['gerdan', 'gerdan, gıdık'];Büyük baş hayvanlarda boyun altındaki sarkık deri.
+relevant-part;['keçi sakalı', 'keçi sakal'];Sadece çenenin ucunda büyüyecek şekilde tıraş edilmiş sakal.
+relevant-part;['bıyık'];Burun ile üst dudak arasında büyüyen kıl kümesi.
+relevant-part;['kıl'];İnsan veya hayvan derisinden çıkan ve vücudun belli kısımlarını örten ipliksi yapılardan her biri.
+relevant-part;['kalamus', 'rectrices', 'remiges', 'tüy tüy', 'uçmayı kolaylaştıran tüy', 'uçuş tüy'];Bir tüy ekseninin, üzerinde ramuslar olmayan ve deriye gömülmüş olan alt kısmı.
+relevant-part;['kirpik'];Gözün etrafında, gözkapağı üzerinde büyüyen kılların her biri.
+relevant-part;['kirpik'];Göz kapağı üzerinde büyüyen kıllar topluluğu.
+relevant-part;['periyant', 'periant', 'çiçek örtüsü', 'perigone', 'perigonium', 'çiçek zarfı'];Çiçeğin taç ve çanak yaprakları, toplu hâlde, özelikle bu ikisi ayırdedilemez durumdayken.
+relevant-part;['telek', 'kontur tüy', 'pennaceous tüy', 'telek topuzu'];Dalları ince tüylerden oluşan, sert bir orta eksene sahip tüy tipi.
+relevant-part;['göbek', 'bellybutton', 'omphaloslu', 'omphaloslu hipotezi', 'omphalus'];Göbek bağının düştüğü yerde kalan yara izi.
+relevant-part;['hav tüyü', 'pluma', 'aşağı', 'tüy aşağı'];Genç kuşlarda çıkan, yumuşak, kabarık, gelişmemiş tüyler.
+relevant-part;['kaş', 'kaşlar', 'supercilium'];Gözyuvasının tepesindeki kemik çıkıntısı seviyesinde büyüyen kıl kümesi.
+relevant-part;['göbek'];Bir tekerlekte, dingil etrafında (veya onunla beraber) dönen, ispitlerin bağlandığı orta kısmı.
+relevant-part;['sakal', 'bıyık', "beş o'clock gölge", 'bıyıkları', 'vibrissaenin', 'yüz mantar'];İnsanlarda yanak ve çene üzerinde büyüyen yüz kılları.
+relevant-part;['sakal', 'bıyık', "beş o'clock gölge", 'bıyıkları', 'vibrissaenin', 'yüz mantar'];Burun ile üst dudak arasında büyüyen kıl kümesi.
+relevant-part;['tüy', 'tüy örtüsü', 'radyus', 'barbule', 'filoplume', 'tüyler', 'tüyleri'];Bir tüydeki ramusların üzerindeki ikincil dallar.
+relevant-part;['peridermis', 'ağaç kabuğu', 'kabuğu', 'periderm'];Ağacın gövdesinin ve dallarının dış kaplaması.
+set;['tanım kümesi', 'bir işlevin tanım bölgesi'];Matematikte, bir fonksiyonun tanımlı olduğu değerler kümesi.
+simple-collection;['parti', 'cemaat'];Toplu halde bahsedilen bir grup nesne.
+simple-collection;['klasik mitoloji', 'greko-romen mitoloji', 'klasik mitolojide', 'yunan-roma mitolojisi'];Yunanlı ve Romalıların ortak mitoloji sistemi (Roma mitolojisini büyük bölümü Yunanlılardan alınmıştı).
+simple-collection;['evren', 'cosmos', 'kainat', 'acun', 'kozmos', 'kâinat', 'boşluk', 'evrenimiz', 'sistem', 'uzay', 'yin ve yang', 'kozmoz', 'fiziksel dünya'];Her yerde var olan herşey.
+simple-collective;['halk', 'folk', 'kamu', 'populus', 'insanlar'];Bir millet, sınıf, millet, grup, ülke veya belli bir aile oluşturan veya ona ait olan bir insanlar grubu.
+simple-collective;['balık sürüsü', 'okul', 'okul balık'];Aynı türe ait olan ve beraber yüzen, çok sayılı bir balık (veya diğer deniz hayvanı, yunus ve balina gibi) grubu.
+simple-planned-collective;['hizmet vermek'];Belli bir mevki, yer veya işlevle ilgili iş yapmak.
+situation;['selamlaşma', 'hitap', 'tebrik', 'selamlama'];Bir mektup veya diğer yazılı iletiye başlarken kullanılan geleneksel ifade.
+situation;['hıçkırık', 'hıçkırmak', 'singultus'];Diyaframda bir kasılma, veya bundan kaynaklanan ses.
+situation;['ek açıklama', 'not', 'dipnot', 'haşiye', 'hāşiye', 'sonnot', 'sonnotlar'];Bir metne eklenen eleştirel veya açıklayıcı not.
+situation;['ek açıklama', 'not', 'dipnot', 'haşiye', 'hāşiye', 'sonnot', 'sonnotlar'];Bir yorum veya talimat.
+situation;['durum', 'hâl', 'keyfiyet', 'mevki', 'pozisyon', 'vaziyet'];Şartlar ve hâle bağlı olan konum veya statü.
+situation;['gereksinim', 'ihtiyaç'];Bir ihtiyacı karşılamak için gereken şey.
+situation;['kiralama'];Belirlenmiş bir ücret karşılığında bir malın kullanımı veya içinde oturulmasına izin veren bir mukavele.
+situation;['neden', 'sebep'];Bir şeyin varlığı veya olmasının gerekçesi.
+situation;['halluks valgus', 'bunyonektomi', 'bunyon'];Bir bunyonun cerrahi olarak giderilmesi.
+situation;['sonuç', 'akıbet', 'etkisi', 'netice', 'sonucu'];Bağlı olduğu başka bir şeyi izleyen durum.
+situation;['problem'];Öğrenciler tarafından çözülmesi amacıyla verilmiş soru.
+situation;['sorun', 'problem'];Zorluklar kaynağı.
+situation;['şey', 'nesne'];Kendi başına var olan bir varlık, bir özellik, veya bir kavram.
+situation;['sorun', 'problem'];Çözülmesi veya ilgilenilmesi gereken bir zorluk.
+situation;['ızdırap', 'dert', 'keder'];Acı, eziyet, üzüntü veya aşırı acı.
+situation;['cevap', 'yanıt'];Bir soru, talep, eleştiri veya suçlamaya karşılık olarak verilen (sözlü veya yazılı) ifade.
+situation;['şey', 'nesne'];Kendi başına var olan bir varlık, bir özellik, veya bir kavram.
+situation;['service', 'servis', 'hizmet etmek'];Tenis, voleybol gibi oyunlarda topu oyuna sokma eylemi.
+situation;['barış antlaşması', 'barış', 'sulh', 'barış anlaşması', 'barış antlaşmaları'];Savaş hâlinde olmama durumu.
+situation;['klişe', 'basmakalıp', 'bayağılık', 'klişeleşmiş', 'sıradan'];Çok sık kullanılan veya ilk kullanıldığı bağlam dışında kullanıldığı için ilk etkisini veya anlamını kaybetmiş olan bir deyiş.
+situation;['hata', 'kusur', 'yanılgı', 'yanılma', 'uygunsuz', 'yanlış', 'yanlışlık', 'gaf'];İstenmeyerek yapılmış, doğru olmayan davranış.
+situation;['menoraji', 'hayız', 'menstrüasyon', 'regl', 'âdet', 'aşırı âdet kanaması', 'hypermenorrhea'];Adet döngüsünde döllenme olmayınca endometriumun vücuttan atıldığı dönem.
+situation;['tümör', 'neoplazma', 'kitle', 'ur', 'ikincil neoplazm', 'ikincil neoplazma', 'neoplastik', 'solid tümörler', 'tümör hücre', 'tümörler'];Elle hissedilebilen veya gözle görülür, anormal, yumru şekilli yapı.
+situation;['üfürüm', 'hırıltı', 'kalp mırıldanıyor', 'kalp üfürümü', 'kâlp hırıltısı'];Patolojik ve türbülanslı kan akışından kaynaklanan, duyulur düzeyli kalp sesi.
+situation;['hastalık', 'sayrılık', 'hastalıklar', 'bozukluk', 'maraz', 'maraza', 'marazlık', 'marazi', 'morbidite oranı', 'tıbbi durumdur'];Karakteristik belirti ve işaretler kümesine sahip, kişinin esenliğine zarar verici, tanımlı bir patolojik süreç.
+situation;['lyme hastalığı', 'borreliosis', 'borreliyozu', 'lyme artriti'];Kene tarafından taşınan, Borrelia cinsi bir bakteri enfeksiyonu.
+situation;['defa', 'kere', 'kez', 'sefer'];Bir olay ve olgunun her bir tekrarlanışı.
+situation;['haksız fiil', 'sivil yanlış', 'yanlış sivil'];Zarara yol açan ve kamu hukuku ile çözüm bulan (genelde tazminat ödeme yoluyla), amaçlı veya ihmalden kayanklanan bir hatalı davranış.
+situation;['bağımlılık', 'düşkünlük', 'iptila', 'tiryakilik', 'uyuşturucu bağımlılığı'];Bir uyuşturucu veya alkol gibi alışkanlık yaratan bir maddeye olan bağımlılık.
+situation;['pornografi', 'porno', 'erotizm', 'seks filmi', 'krotik', 'erotik', 'pornografik', 'xxx', 'dürtüsel', 'erişkin içerik', 'kösnüllük', 'lezbiyen pornografisi', 'pornografik video', 'erotik konulu eserler', 'müstehcen', 'yetişkin film endüstrisine'];Amacı cinsel tahrik olan, cinsel bir etkinliğin açık gösterimi.
+situation;['hastalık', 'sayrılık', 'huzursuzluk'];Karakteristik belirti ve işaretler kümesine sahip, kişinin esenliğine zarar verici, tanımlı bir patolojik süreç.
+situation;['anestezi', 'anesteziyoloji', 'anestezibilim', 'anestezioloji', 'genel anestezi'];Anestezi veya anestezik kullanımının uygulaması, incelemesi veya bilmi.
+situation;['hemipleji', 'hemiparezi', 'yarım felç', 'kısmi felç', 'tek taraflı felç'];Hastanın vücudunun yarısının hereketsiz hale geldiği durum.
+situation;['koruma'];Bir kişi veya örgüt tarafından zarar uğratılmamayı garantilemek için ona yapılan ödeme.
+situation;['konum'];Bir şeyin çevresine göre yerleştiriliş biçimi.
+situation;['kaygı', 'endişe'];Bir nesne veya kişiye ihtimam, endişe veya şefkat ifadesi.
+situation;['açıklama notu', 'açımlama', 'şerh', 'annotating', 'açıklama', 'açıklamalı'];Bir metne eklenen açıklama.
+situation;['onarım', 'tamir'];Bir şeyi yeniden çalışır hâle getirme eylemi.
+situation;['yaşam', 'varlık', 'dirim', 'hayat', 'ömür'];Var olama hâli.
+situation;['alın yazısı', 'alınyazısı', 'kader', 'yazgı', 'baht', 'kısmet', 'şans'];Kader [geleceği belirleyen güç veya etmen] tarafından önceden belirlenmiş olan bir sonuç, durum veya olay.
+situation;['kinetosis', 'kinetozis', 'hareket hastalığı', 'taşıt tutması', 'deniz tutması', 'seyahat hastalığı', 'uçak tutması', 'uçuş tutması', 'yol tutması'];Gemi veya araba gibi hareket hâlinde bir taşıtta bulunmaktan kaynaklanan mide bulantısı veya baş dönmesi.
+situation;['i̇stihdam', 'iş', 'istihdam', 'işverenler', 'kullanmak', 'personel', 'sözleşmeli işçi'];Karşılığında birisin düzenli olarak para aldığı üretim, hizmet veya ticaret faaliyeti.
+situation;['selamet', 'güvenlik'];Tehlike, zarar veya riskten uzak olma hâli.
+situation;['selamet', 'güvenlik'];Tehlike, zarar veya riskten uzak olma hâli.
+situation;['konotasyon', 'yan anlam', 'tâlî mânâ', 'konnotasyon', 'aşırılık', 'çağrışım'];Bir kelime veya anlatımın belirgin veya birincil anlamına ek olarak onun ilişkili veya ikincil anlamı.
+situation;['alın yazısı', 'alınyazısı', 'kader', 'yazgı', 'baht', 'kısmet', 'şans'];Kader [geleceği belirleyen güç veya etmen] tarafından önceden belirlenmiş olan bir sonuç, durum veya olay.
+social-role;['ekonomik değer', 'değer', 'eder', 'fiyat', 'paha', 'kıymet', 'değerini'];Bir şeyin adil bir karşılığı olan (para, mal veya hizmet) miktarı.
+social-role;['döviz', 'para birimi'];Ticari işlemi kolaylaştırmak amacıyla kullanılan (para gibi) bir meta birimi.
+socially-constructed-person;['goblin', 'hobgoblin', 'küçük şeytan', 'cin', 'goblinler', 'gulyabaniler', 'ocak'];İngiliz ve İskoç folklorunda yer alan, yaramaz bir yaratık.
+socially-constructed-person;['afet', 'bomba', 'fıstık', 'piliç', 'bebek'];Bir erkeğe veya çoğu erkeğe çinsel anlamda çekici gelen bir kadın.
+socially-constructed-person;['torun', 'erkek torun', 'kız torun', 'torunu', 'büyük torunu'];Çocuğunun kız çocuğu.
+socially-constructed-person;['torun', 'erkek torun', 'kız torun', 'torunu', 'büyük torunu'];Çocuğunun erkek çocuğu.
+socially-constructed-person;['torun', 'erkek torun', 'kız torun', 'torunu', 'büyük torunu'];Çocuğunun çocuğu.
+socially-constructed-person;['üvey çocuk', 'üvey kız', 'üvey babası', 'kötü kalpli üvey anne', 'stepfamily', 'üvey annesi'];Kişinin eşi ve onun daha önceki eşinin çocuğu.
+socially-constructed-person;['buluntu çocuk', 'sokak çocuğu', 'terkedilmiş bebek'];Terkedilmiş bir çocuk.
+socially-constructed-person;['evlatlık', 'süt çocuk', 'çocuk teşvik'];Biyolojik ebeveyni olmayan veya onu nüfusuna geçirmemiş kişilerce büyütülen çocuk.
+socially-constructed-person;['üvey kız', 'üvey babası', 'kötü kalpli üvey anne', 'stepfamily', 'üvey annesi'];Kişinin eşi ve onun daha önceki eşinin kız çocuğu.
+socially-constructed-person;['ebeveyn', 'anababa', 'biyolojik ebeveyn'];Bir veya daha cok yavrusu olan kişi.
+socially-constructed-person;['aktris'];Bir film veya tiyatro oynunda belli bir rol oynayan kadın oyuncu.
+socially-constructed-person;['kızı', 'kız', 'kız evlat'];Bir hayvanın (insan da dahil olmak üzere) dişi yavrusu.
+socially-constructed-person;['kız kardeş', 'abla', 'kardeşi'];Birisi ile aynı ebeveyne sahip dişi kişi.
+socially-constructed-person;['geyik', 'kerata', 'aldatmak'];Kendisine sadık olmayan bir kadınla evli bir erkek, özellikle durumdan haberdar değilse ve razı değilse.
+socially-constructed-person;['koca', 'eş', 'zevç', 'evli bir adam'];Bir evlilikteki erkek eş.
+socially-constructed-person;['karı', 'eş', 'kadın eş', 'refika', 'zevce', 'evli kadın'];Bir evli kadın.
+socially-constructed-person;['itfaiyeci', 'itfaiye', 'i̇tfaiye ve itfaiye teşkilatı', 'i̇tfaiyeci', 'i̇tfaye', 'gönüllü itfaiyeci', 'itfaiye hizmetleri', 'yangın şirket'];Yangın söndürmek için yetiştirilmiş kişi.
+socially-constructed-person;['büyükbaba', 'dede veya nine', 'anneanne', 'babaanne', 'büyüknine', 'büyükbaba veya büyükanne', 'anne tarafından dedesi'];Birisinin annesinin annesi.
+socially-constructed-person;['büyükbaba', 'dede veya nine', 'anneanne', 'babaanne', 'büyüknine', 'büyükbaba veya büyükanne', 'anne tarafından dedesi'];Birisinin babasının annesi.
+socially-constructed-person;['büyükbaba', 'dede veya nine', 'anneanne', 'babaanne', 'büyüknine', 'büyükbaba veya büyükanne', 'anne tarafından dedesi'];Birisinin büyükanne veya büyükbabasının annesi.
+socially-constructed-person;['sonradan görme', 'zıpçıktı', 'hacıağa', 'türedi', 'türedi zengin', 'yeni zengin', 'yerden bitme', 'nouveau-riche', 'köhne'];Daha üst bir sosyal sınıfa yükselmiş, tırmanmış veya terfi edilmiş olan, özellikle bunu servet, hak veya siyasi otorite elde etme yoluyla elde etmiş olan, ama bu yeni sosyal sınıf tarafından kabul görmemiş olan kişi.
+socially-constructed-person;['sonradan görme', 'zıpçıktı', 'hacıağa', 'türedi', 'türedi zengin', 'yeni zengin', 'yerden bitme', 'nouveau-riche', 'köhne'];Yakın zamanda servetine kavuşmuş olan, ve bu yüzden zengin yetiştirilmiş kişilerin inceliğine sahip olmaz olarak algılanan kişi.
+socially-constructed-person;['sapkınlık', 'dini serseri', 'imansız', 'sapkın', 'sapkınlar', 'sapkınlıkları'];Yerleşik inanç ve geleneklerle aşırı farklılık gösteren bir inanç veya teori.
+socially-constructed-person;['köle'];Bir başkasının mülkünde olan ve zorla (genelde parasız) çalıştırılan bir kişi.
+socially-constructed-person;['muhbir', 'bilgi uçurma', 'kaynak', 'memba', 'haber kaynağı', 'muhbiri', 'polis muhbiri'];Resmi makamları uygunsuz veya kanunsuz faaliyetlerden haberdar eden kişi.
+socially-constructed-person;['dalkavuk', 'yalaka', 'yaltakçı', 'yağcı', 'dalkavukluk etmek'];Kişisel menfaat elde etmek için iltifat eden kişi.
+socially-constructed-person;['garson', 'sofracı', 'servisçi', 'garsonluk'];Yemek yenen bir yerde (lokanta, yemekhane gibi) yiyecek ve içecek ikram eden veya dağıtan kişi.
+socially-constructed-person;['garson', 'sofracı', 'servisçi', 'garsonluk'];Lokanta, kahve vb.'de müşterilere hizmet eden kişi.
+socially-constructed-person;['aşağılayıcı söz', 'kaybeden', 'mağlup', 'yenik', 'aşağılayıcı', 'başarısız kişi'];Yerici, küçültücü, onur kırıcı kelime veya ifade.
+socially-constructed-person;['adaş', 'adaşı'];Birisi ile aynı ad ve/veya soyada sahip olan ama akraba olmayan kimse.
+socially-constructed-person;['kardeş', 'abi', 'ağabey', 'erkek kardeş', 'kardeşlik', 'kız kardeş', 'abla', 'gardaş', 'kardaş', 'karındaş', 'uhuvvet', 'brothers'];Kendisi ile aynı anne ve babaya sahip kişi.
+socially-constructed-person;['eş', 'koca', 'karı', 'evli kişi', 'hayat arkadaşı', 'ortak'];Bir evlilikteki erkek eş.
+socially-constructed-person;['ana'];Yaşlı veya yaşlıca bir kadına hitap şekli.
+socially-constructed-person;['ünlü', 'yıldız', 'popstar', 'televizyon kişiliği', 'ünlü kişi', 'ünlüler'];Kayda değer veya popüler bir kişi, genelde bir oyuncu veya spor.
+socially-constructed-person;['sütanne', 'sütnine', 'sütana', 'süt ana', 'süt anası', 'süt anne', 'süt annelik', 'sütannelik', 'ıslak hemşire', 'amah', 'emzirmek', 'wetnurse'];Bir başka kadının çocuğuna süt vermek için tutulmuş [işe alınmış] kadın.
+socially-constructed-person;['gelin', 'gelinler', 'gelinlik'];Evlenecek olan veya yeni evlenmiş kadın.
+socially-constructed-person;['anne', 'rahibe', 'ana', 'sör', 'rahibeler'];En az bir çocuğu olan bir kadın.
+socially-constructed-person;['anne', 'rahibe', 'ana', 'sör', 'rahibeler'];Bir manastırda ibadet ve tasavvur ile geçirmeyi seçmiş sofu kimse.
+socially-constructed-person;['anne', 'annelik', 'ana', 'analık', 'valide', 'annelerimiz', 'annenin önemi', 'dişi ebeveyn'];Bir kadın ebeveyne (biyolojik anne veya ebeveyn sorumlulukları taşıyan bir kadına) hitap şekli.
+socially-constructed-person;['çocuk', 'reşit olmayan kimse', 'küçük', 'küçük balık', 'reşit', 'yavru', 'çocuğun'];Ergenlik çağına gelmemiş bir insan.
+socially-constructed-person;['kız', 'fille', 'genç kadın', 'genç kız', 'küçük hanım'];Genç bir dişi insan, genelde çocuk veya ergen yaşta.
+socially-constructed-person;['yedek', 'dublör', 'yedeği'];Bir oyuncunun yokluğu hâlinde onun yerini alabilen oyuncu.
+socially-constructed-person;['kadın', 'erişkin kadın'];Yumurta üreten ve çocuk doğurabilen cinsiyetten bir yetişkin insan.
+socially-constructed-person;['erkek', 'adam', 'cinsel olgun', 'cinsel olgunlaşma', 'cinsel olgunluğa', 'yetişkin erkek'];Bir yumurtayı dölleyerek yavru yapan cinsiyetten yetişkin bir insan.
+socially-constructed-person;['vaftiz babası', 'kirve', 'vaftiz baba'];Bir bebeğin vaftiz töreninde hazır bulunan ve çocuğun Hıristiyan geleneklerine göre yetiştirilmesine yardımcı olacağına söz veren erkek.
+socially-constructed-person;['vaftiz anası'];Bir bebeğin vaftiz töreninde hazır bulunan ve çocuğun Hıristiyan geleneklerine göre yetiştirilmesine yardımcı olacağına söz veren kadın.
+socially-constructed-person;['iş adamı', 'i̇ş insanı', 'iş insanı', 'işadamı', 'iş kadını', 'işkadını', 'satıcı', 'i̇ş adamı', 'i̇ş kadını', 'i̇şadamı', 'amerikalı işadamı', 'burjuva', 'iş kişi', 'iş kişidir', 'işadamları'];Ticaret yapan ve ticari bir kuruluşta çalışan kişi.
+socially-constructed-person;['afet', 'bomba', 'fıstık', 'piliç', 'zamparalık etmek'];Bir erkeğe veya çoğu erkeğe çinsel anlamda çekici gelen bir kadın.
+socially-constructed-person;['allah', 'allah-u teâla', 'allah-u teâlâ', 'allah-û teâla', 'allah c.c.', 'allâh', 'allâh’û-celle-celâle’hû', 'allâh’ûr-râhman’ûr-râhîym', 'cenab-ı hak', 'cenâb-ı hak', 'cenâb-ı hakk', 'hakk teâlâ', 'hz. allah', 'hâkk', "i̇slam'da tanrı", 'olah', 'الله'];İslamî bağlamda, Tanrı.
+socially-constructed-person;['kuzen', 'böle', 'kuzin', 'ikinci kuzeni', 'ilk kuzeni', 'ilk kuzenleri', 'kuzen-almanca', 'kuzeni', 'kuzeni kez kaldırıldı', 'tam kuzeni', 'çift ilk kuzeni', 'çift kuzeni', 'üçüncü kuzeni'];Birisinin anne veya babasının kardeşinin çocuğu.
+socially-constructed-person;['logos', 'oğul', 'deyi', 'logolar', 'oğlu'];Birisinin erkek çocuğu.
+socially-constructed-person;['büyükanne', 'nine', 'anneanne'];Birisinin annesi veya babasının annesi.
+socially-constructed-person;['hala', 'hala veya teyze', 'aunty', 'teyze', 'teyzeciğim'];Babanın kız kardeşi.
+socially-constructed-person;['üvey oğul', 'üvey babası', 'kötü kalpli üvey anne', 'stepfamily', 'üvey annesi', 'üvey oğlu'];Kişinin eşi ve onun daha önceki eşinin oğlu.
+space-region;['konum', 'mevki', 'vaziyet', 'yer', 'coğrafi konumu', 'topografik noktası'];Uzay içinde belli bir nokta veya bölge.
+space-region;['gamze'];Bazı insanların yanaklarında doğal olarak bulunan, özellikle gülümsediklerinde daha iyi görülen küçük çukur.
+space-region;['damla'];Düşmek üzere olan bir damlanın şekli, alt tarafı yuvarlak, üst tarafı incelmiş.
+spatial-feature;['güverte', 'alt güverte', 'rıhtım güverte', 'spar deck', 'topside', 'yatak desteden'];Bir geminin yatay kesimleri veya bölmelerinin her birini örten zemin kaplaması.
+spatial-feature;['çukur', 'creux'];İki dalga veya tepe arasında uzun ve dar girinti.
+spatial-feature;['buz yalağı', 'buzyalağı', 'buzul cirque', 'cirque', 'corrie', 'cwm'];Buzul erozyonu ile meydana gelen, dağ kenarının sarp duvarlarına sahip, bir vadinin ucunda meydana gelen kavisli çukurluk.
+spatial-feature;['yan', 'yüz', 'tarafı'];Bir cismin önü, arkası, üstü veya altı olmayan bir yan yüzeyi.
+spatial-feature;['ağız'];Konuşmaya ve yemeye yarayan, insan yüzünün alt kısmında yer alan açıklık.
+spatial-feature;['pupa', 'kıç', 'bölümünden sonra'];Bir geminin arka tarafı.
+spatial-feature;['sancak', 'iskele', 'liman', 'sancak tarafında'];Bir teknenin sağ tarafı, teknenin önüne bakarken.
+spatial-feature;['ana güverte', 'baş güverte', 'ikinci güverte'];Geminin uzunlugu boyunca onu kaplayan, suya geçirmez, üst güverte.
+status;['ekzogami', 'dışevlilik', 'aile dışından evlilik', 'exogamous'];Kişinin ait olduğu topluluğun dışından birisiyle evlenme adeti.
+status;['akraba evliliği', 'içevlilik', 'endogami', 'akraba evliliği sakıncaları', 'endogamous', 'inmarriage'];Gelenek veya kanun gereği, belli bir grup içinde evlenme.
+status;['vurgu', "türkçe'de vurgu", 'stres', 'stres aksanı', 'vurguladı hece', 'vurgusuz sesli'];Bir kelime veya cümleyi daha belirgin kılmak için sesi yükseltmek veya tonu değiştirmek.
+subject;['matematiksel analiz', 'analiz', 'matematiksel çözümleme', 'klasik analiz'];Fonksiyon, dizi, seri, limit, türev ve entegralleri inceleyen matematik dalı.
+subject;['jeoloji', 'jeolojik', 'jeolog', 'yer bilimi', 'yerbilim', 'yerbilimci', 'yerbilimleri'];Kayaçları inceleyerek dünyanın tarihi ve canlılarını araştıran bilim.
+subject;['kladistik', 'kladistik analizi', 'apomorph', 'cladisticsle', 'düğüm tabanlı takson', 'groundplan', 'kardeş cinsi', 'nesillerin', 'plesiomorphic'];Organizmaları, morfolojik benzerliklerine göre değil, bir evrimsel ağaçtaki dallanmalarına göre düzenleyen bir bilimsel sınıflandırma felsefesi.
+subject;['yer bilimleri', 'yer bilimi', 'dünya bilimi', 'yerküre bilimleri', 'yerbilimleri'];Jeoloji veya meteoroloji gibi, Dünya gezegeni ile ilgili bilimler.
+subject;['hidrostatik', 'akışkanlar statiği', 'hidrostatik basınç', 'hidrostatik denklem'];Hareketsiz akışkanları inceleyen, akışkanlar mekaniğinin bir alt sahası.
+subject;['hidrolik', 'akışkanlar mekaniği', 'hidrolik ana bilim dalı', 'hidrolik anabilim dalı', 'hidrolik mühendisi', 'akışkan fiziği', 'hidrolik basınç', 'sıvı dinamikçiye', 'sıvı mekaniği'];Akışkanların nasıl hareket ettiğini inceleyen bilim.
+subject;['astrometri', 'gökölçüm', 'gök ölçümü', 'gökölçümü', 'astrometrik'];Uzaydaki cisimlerin konum ve hareketlerinin ölçümünün bilmi.
+subject;['genetik', 'genetik bilimci', 'genetik ve gen', 'genetikçi', 'i̇rsiyet', 'kalıtsal', 'kalıtım', 'kalıtım bilimi', 'genetik bilimi', 'genetik olarak'];Biyolojik kalıtımı inceleyen bilim.
+subject;['botanik', 'bitki bilimi', 'bitkibilim', 'bitki bilimci', 'bitkibilimci', 'botanikçi', 'botanist', 'bitki bilimleri', 'bitki biyolojisi', 'tıbbi botanik'];Bitkiler ve bitki bilmi ile ilgili bir biyoloji dalı.
+subject;['embriyoloji'];Organizmaların oluşumu ve erken gelişimini inceleyen biyoloji dalı.
+subject;['gerontoloji', 'yaşlılık hekimliği', 'geriyatri', 'jeriyatri', 'geriatri', 'jerontoloji', 'biogerontologist', 'geriatrik', 'gerontolog', 'yaşlanma araştırma', 'yaşlılık hastalıkları bilimi'];Yaşlı insanların karmaşık sorunları ile ilgilenen bir tıp dalı.
+subject;['anesteziyoloji', 'anestezi bilimi', 'anesteziyolog'];Anestezi veya anestezik kullanımının uygulaması, incelemesi veya bilmi.
+subject;['immünoloji', 'i̇mmünoloji', 'bağışıklık', 'bağışıklık bilimi', 'i̇mmunoloji', 'immunobiology', 'immünolog', 'immünolojik', 'klinik immünoloji'];Üst hayvanlar ve insanların enfeksiyonlarına karşı doğal ve edinilmiş direnç ile ilgilenen biyoloji dalı.
+subject;['podiyatri', 'ayak bakımı', 'pedikür', 'pedikürcülük', 'podiatric', 'podiatric tıp'];Ayak (ve eskiden el) hastalıklarının tanısı ve tedavisi ile ilgili tıbbın dalı.
+subject;['diş hekimliği', 'diş hekimi', 'dişçilik', 'diş hekimliği eğitimi', 'ağız sağlığı', 'diş bilimi', 'diş kliniği', 'odontolojisti'];Dişler, ağız boşluğu ve ilişkili yapılarla ilgili hastalıkların tanısı, tedavisi ve onlardan korunmayla ilgili tıp dalı.
+subject;['anatomi', 'teþhirci', 'anatomik', 'anatomist', 'genel anatomisi'];Hayvan ve bitkilerin fizik yapısını araştıran bilim dalı.
+subject;['elektronik', 'elektronik cihaz', 'elektrik-elektronik', 'elektronik alet', 'elektronik cihazlar', 'elektronik sistem', 'elektronik teknolojisi'];Elektrik akımını kontrol ederek çalışan cihazların kullanımı ve araştırması.
+subject;['astronomi', 'astronomik', 'gök bilimi', 'astonomy', 'astronomi bilimi', 'astro\xadnom', 'felekiyat', 'gökbilim', 'gökbilimi', "hey'et", 'uzay bilimciliği', 'uzay bilimi', 'uranology'];Evrenin bileşenlerinden dünya civarına gelen ışınların gözlemlenmesi ve yorumu, ve uzaydaki cisimlerle ilgili bilim dalı
+subject;['kriyojenik', 'düşük sıcaklıklar fiziği', 'kiyojeni', 'kriyojeni', 'cryogenically', 'cryogeny'];Çok düşük sıcaklıkların (150 °C, –238 °F veya 123 K'nin altı) elde edilmesi ve bu sıcaklıklarda malzemelerin davranışlarını inceleyen bilim.
+subject;['fizyoloji', 'fizyolojik', 'fizyolog', 'i̇şlev bilimi', 'i̇şlevbilim', 'hayvan fizyolojisi'];Canlılar ve parçalarının fonksiyonlarının biyolojik incelemesi.
+subject;['kimya', 'kimya bilimi', 'kimyasallar', 'kimyevi', 'kimyâ', 'maddebilim', 'kimya bilimleri', 'uygulamalı kimya'];Maddenin özellikleri, bileşimi ve yapısının, maddenin bileşimi ve yapısındaki değişimlerin, ve bunlarla ilişkili enerji değişimlerinin araştırıldığı bilim dalı.
+subject;['uygulamalı matematik', 'matematik mühendisliği', 'uygulamalı matematikçi'];Matematiğin diğer sahalara uygulanmasında kullanılan yönetmlerle ilgili matematik dalı.
+subject;['mimarlık', 'mimari', 'mimarinin türleri', 'mimarî'];Estetik ve işlevsel kısıtlar dahilinde, yapıları, veya büyük yapı topluluklarını, tasarlama ve inşa etmenin sanatı ve bilmi.
+subject;['kozmoloji', 'kozmolojik', 'kozmolojileri'];Evrenin kökeni ve gelişimini araştıran bilim.
+subject;['fizik', 'doğa felsefesi', 'doğam', 'fiziki', 'fiziksel', 'doğabilim', 'fizik bilimi', 'fiziğin dalları', 'doğal filozoflar'];Temel ilkeler ve kanunlar kullanılarak doğanın temel bir biçimde anlaşılmasını amaçlayan bilim dalı.
+subject;['biyoloji', 'biyolojik', 'canlı bilimi', 'canlıbilim', 'yaşambilim', 'biology', 'biyolog', 'dirimbilim', 'dirimbilimi', 'biyolojik bilimler', 'biyolojik bilim'];Yaşam ve canlı organizmaların araştırması ile ilgili, doğal bilimlerin bir dalı.
+subject;['kriminoloji', 'kriminolog', 'suc bilimi', 'suç bilimi', 'kriminolojik', 'krimonolojik', 'kriminologlar'];Suç, yasa dışı davranış ve yasaların uygulanması konularını inceleyen bilim.
+subject;['dilbilim', 'dil bilimi', 'lengüistik', 'lisâniyat', 'dil bilim', 'lisaniyat', 'dil bilgini', 'dil bilimci', 'dilbilimci', 'dilbilimi', 'lenguistik', 'lengüist', 'linguistik', 'dilsel', 'dilbilimciler', 'sözlü iletişim'];İnsan dillerinin bilimsel araştırması.
+subject;['biyoklimatoloji', 'biyoklimatolojisi'];İklimin fauna ve flora ile ilişkisinin bilimi.
+subject;['semantik', 'anlambilim', 'anlam bilimi', 'anlamsal'];Dilde anlam konusunu araştıran bilim dalı.
+subject;['akustik', 'yankılanım', 'yankı bilim', 'acoustician', 'akustik veri'];Sesin üretimi, aktarımı ve etkilerinin bilimi.
+substance-role;['doğa', 'sistem', 'sınır'];Hava, kara su ve insan dışındaki canlıların da dahil olduğu, tüm doğal sistemler kümesi.
+substance-role;['serpme', 'serpme sıva', 'çarpma sıva', 'müsvedde', 'pebbledash'];Kireç (veya çimento, veya her ikisi) ile kum karışımı ve bazan küçün çakıllardan oluşan, ve atmak yoluyla uygulanan dış duvar kaplama malzemesi.
+system-as-description;['ekonomi', 'ekonomik sistemler', 'iktisat', 'denlik', 'ekonomik', 'ekonomik sistem', 'ekonomik aktivite', 'ekonomik faaliyet', 'ekonomik faaliyetler', 'kaynak kullanım bilimi', 'kaynak kullanımı', 'iktisad', 'iktisadi', 'iktisât', 'i̇ktisad', 'i̇ktisadi', 'i̇ktisat', 'i̇ktisât', 'i̇ktîsat'];Bir toplumun kaynaklarını kullanarak varlık ürettiği etkinlikler ve idare sistemi.
+task;['madde bağımlılığı', 'bağımlılık', 'düşkünlük', 'iptila', 'tiryakilik', 'ilaç bağımlılığı', 'uyuşturucu', 'uyuşturucu karşıtı', 'uyuşturucu önleme', 'yasadışı uyuşturucu kullanımı'];Bir uyuşturucu veya alkol gibi alışkanlık yaratan bir maddeye olan bağımlılık.
+task;['teritori', 'bölgecilik'];Bir hayvan veya hayvanlar grubunun (genelde aynı türden başka hayvanlara karşı) koruduğu bölge.
+taxonomic-collection;['eril'];Bazı dillerde kullanılan, erkeklere has gramatik cins.
+taxonomic-collection;['dilbilgisel cinsiyet', 'gramatik cinsiyet', 'dişil', 'gramatik cins', 'nötr', 'nötr cins', 'cins', 'cinsiyet', 'doğal cinsiyet', 'gramer cinsiyet', 'nötr cinsiyet'];Bazı dillerde kullanılan, kelimeler arasındaki uyum kurallarının bağlı olduğu, keyfi olarak belirlenmiş bir kelime kategorisi.
+taxonomic-collection;['dilbilgisel cinsiyet', 'gramatik cinsiyet', 'dişil', 'gramatik cins', 'nötr', 'nötr cins', 'cins', 'cinsiyet', 'doğal cinsiyet', 'gramer cinsiyet', 'nötr cinsiyet'];Dişi gramer cinsine ait olan.
+taxonomic-collection;['dilbilgisel cinsiyet', 'gramatik cinsiyet', 'dişil', 'gramatik cins', 'nötr', 'nötr cins', 'cins', 'cinsiyet', 'doğal cinsiyet', 'gramer cinsiyet', 'nötr cinsiyet'];Bazı dillerde bulunan, ne eril ne dişil olan kelime cinsi.
+taxonomic-collection;['haber kipi', 'zaman', 'bildirme kipi', 'haber kipleri', 'gergin', 'gramer gergin', 'zamanları', 'zamanların'];Bir cümledeki eylemin geçtiği anı belirten gramer kurgusu.
+taxonomic-collection;['geçişmesiz fiil', 'geçişsiz', 'geçişsiz fiil', 'geçişsiz fiil formu'];Kendi nesnesi olmayan bir eylem fiili.
+taxonomic-collection;['geçişli fiil', 'geçişli fiiil', 'geçişli eylem', 'geçişli', 'geçişli fiil formu', 'geçişli fiiller'];Edilgen cümlelerde (açık veya imalı şekilde) nesnesi olan ve dolayısıyla edilgen cümlelerde de kullanılabilen bir fiil.
+taxonomic-collection;['şimdiki zaman', 'şimdiki', 'günümüz'];Şu anı veya süren durumları tarif etmekte kullanılan gramer zamanı.
+taxonomic-collection;['sözcük türü', 'sözcük sınıfı', 'form sınıfı', 'kelime sınıfı', 'konuşma parçası', 'part-of-konuşma', 'sözcüksel kategoriler'];Bir kelimenin belli bir dildeki sözdizimsel (sentaktik) işlevine bağlı olarak ait olduğu kategori.
+taxonomic-collection;['mastar', 'i̇sim-fiil', 'ad-eylem', 'i̇sim fiil', 'mastar eki'];Bir fiilin çekimsiz hâli.
+taxonomic-collection;['sıfat', 'ön ad', 'sıfatlar', 'önad', 'sıfatlarda pekiştirme', 'formu', 'niteleme sıfatı', 'yüklem sıfat', 'özniteliksel sıfat'];bir isim veya zamirin anlamını değiştiren veya onu tarif eden kelime.
+taxonomic-collective;['form', 'suş', 'strain', 'var', 'var.'];Botanikte, bir türe ait olan ve benzerlerinden önemsiz derecede farklılık gösteren bir canlı grubu.
+taxonomic-collective;['balık', 'pisces', 'deniz balıkları', 'ichthyofauna', 'yüzgeçli'];Suda yaşayan, yüzgeçlerle hareket eden, solungaçlarla soluyan, soğuk kanlı ve omurgalı bir hayvan (Pisces).
+temporal-region;['devir', 'dönem', 'periyot'];Tarihte kendine özgü olarak görülen bir zaman süresi.
+temporal-region;['devir', 'dönem', 'periyot', 'jeolojik dönemde', 'jeolojik zaman ölçeği'];Tarihte kendine özgü olarak görülen bir zaman süresi.
+temporal-region;['normal yıl', '365 gün', 'ortak bir yıl'];365 günden oluşan bir takvim yılı.
+temporal-region;['hâlihazır', 'şimdi', 'şu an', 'günümüzde'];Şu anki zaman veya dönem.
+temporal-region;['artık yıl', 'artık gün', '366 gün', 'artıkyıl yıl', 'interkalar yıl', 'yıl sıçrama'];365 değil, 366 günü olan bir yıl.
+temporal-region;['ay', 'takvim ayı'];Bir yılın bölünmüş olduğu, tarihsel olarak ayın (dünyanın uydusu) evrelerine dayanan, zaman aralıklarından biri. Gergoryen takvimde oniki ay vardır.
+temporal-region;['zaman', 'vakit', 'an', 'şimdi', 'zaman,süre', 'süre', 'zaman aralığı'];Belli bir noktadaki olayların sırasını belirleyen fiziksel evrenin boyutlarından biri.
+temporal-region;['eylül', 'verim ayı', 'öğrüm'];Siódmy miesiąć kalendarza mający 30 dni.
+temporal-region;['kasım', 'teşrinisani', 'bölen ayı'];Jedenasty miesiąć kalendarza mający 30 dni.
+temporal-region;['ekim', 'teşrinievvel', 'teşrini evvel', 'ekim ayı'];Gregoryen takvimin onuncu ayı (31 gün çeker).
+temporal-region;['yıl', 'ay yılı', 'kozmik yıl', 'megaannum', 'mevsim yılı', 'sene', 'ma'];Dünyanın Güneş etrafında bir devir tamamlaması için geçen zaman (Refereans noktasına bağlı olarak 365,24 ila 365.26 gün).
+temporal-region;['gündüz', 'gün'];Güneşin doğumu ile batımı arasındaki, günışığı olan zaman.
+temporal-region;['güneş yılı', 'yıl', 'tropikal yıl', 'astronomik yıl', 'göksel yıl', 'ma'];Dünyanın Güneş etrafında bir devir tamamlaması için geçen zaman (Refereans noktasına bağlı olarak 365,24 ila 365.26 gün).
+theory;['genel görelilik', 'genel görelilik kuramı', 'genel görecelik', 'genel görelelik', 'genel görelik kuramı', 'genel izafiyet', 'genel i̇zafiyet teorisi', 'genel relativite', 'i̇zafiyet teorisi', 'umumî izafiyet', "einstein'ın görelilik genel teorisi", 'göreliliğin genel teorisi'];Newton yerçekim kuramını düzelten ve geliştiren, özellikle yıldızlar ve gezegenler düzeyinde etkisi belli olan, yerçekiminin temel fizik kuramı.

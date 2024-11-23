@@ -1,0 +1,441 @@
+activity;['spondeus', 'spondius'];pes disyllabus artis metricae Latinae et Graecae. constat serie duarum longarum syllabarum
+activity;['ballatio', 'balet', 'pantomimus', 'ballet', 'balleta', 'pantomimus ballationis'];Ludus scaenicus
+activity;['steganographia'];Ars, qua nuntius, imago vel pellicua in alio nuntio, imagine, pellicula absconditur
+activity;['primus minister'];Primus minister Britanniarum Regni
+activity;['iconismus resonantia magnetica factus', 'tomographia resonantia magnetica facta', 'inspectio irm', 'inspectio trm', 'irm'];Technologia iconismi medicalis
+activity;['positronibus emissis tomographia', 'inspectio pet', 'pet'];Technologia iconismi medicalis
+agentive-figure;['ecclesia', 'denominatio religiosa'];Credentes autem civitatis, qui profitentur fidem in Christo Iesu
+agentive-figure;['saktismus', 'shaktismus'];traditio Hindusticia
+agentive-figure;['sivaismus', 'shaivismus'];traditio Hinduistica
+agentive-figure;['unicornis', 'ūnicornis', 'monoceros'];Animal fabulosum
+agentive-figure;['communitas oeconomica europaea', 'unio europaea', '🇪🇺', 'ue', 'unionis europaeae'];Consociatio plurimarum Europae civitatum
+agentive-figure;['religio islamica', 'islamus', 'islam', 'islamica', 'islamicus', 'mahometanismus', 'mahometanus', 'religio mahometana'];religio monotheistica
+agentive-figure;['secta sunnitica', 'sunnitae', 'sunni'];prima secta Islami
+agentive-figure;['secta siitica', "shi'a", 'siit', 'siitae'];secunda secta Islami
+agentive-figure;['societas iesu', 'societas jesu', 'iesuita', 'iesuitae', 'societatis iesu', 'ordo iesuitarum', 's.i.', 's.j.'];Iesuita, coniuncta
+agentive-figure;['germania nazistica', 'tertium imperium', 'imperium germanicum'];Civitas totalitaria Germanica annis 1933-1945
+agentive-physical-object;['quercus', 'rōbur', 'robor', 'robur'];Genus Plantarum
+agentive-physical-object;['animalia', 'animal', 'animales', 'regnum animale'];taxon
+agentive-physical-object;['vespula vulgaris'];species
+agentive-physical-object;['galagidae'];taxon
+agentive-physical-object;['coragyps atratus'];species
+agentive-physical-object;['homo', 'gens humana', 'homo sapiens', 'homo sapiens sapiens'];Sola generis Hominis species viva, familiae Homindarum et ordinis Primatum
+agentive-physical-object;['homo', 'gens humana', 'homo sapiens', 'homo sapiens sapiens'];subspecies
+agentive-physical-object;['bryophyta sensu lato'];Herbae terrestres sine textura vasculari
+agentive-physical-object;['verbena', 'lustrago', 'verbenaca'];Planta
+agentive-physical-object;['eumeninae'];taxon
+agentive-physical-object;['chlorophthalmidae'];taxon
+agentive-physical-object;['hirudo', 'hirudinea', 'hirūdō', 'sanguisūga'];taxon
+agentive-physical-object;['cervus elaphus', 'cervus'];Species animalium
+agentive-physical-object;['aquilegia vulgaris'];species
+agentive-physical-object;['musca domestica'];species
+agentive-physical-object;['bufo bufo'];taxon
+agentive-physical-object;['lithocarpus densiflorus', 'notholithocarpus', 'notholithocarpus densiflorus'];taxon
+agentive-physical-object;['feles', 'felis silvestris catus', 'felis catus', 'cattus', 'catus', 'feles domesticus', 'felis', 'murilegus'];Feles domesticus, parvus carnivorus e familia Felidarum
+agentive-physical-object;['hind'];Praenomen femininum
+agentive-physical-object;['pediculus humanus'];species
+agentive-physical-object;['scomber scombrus'];taxon
+agentive-physical-object;['accipitriformes'];taxon
+agentive-physical-object;['pediculus humanus capitis'];subspecies
+agentive-physical-object;['hirudo medicinalis'];species
+agentive-physical-object;['boselaphus tragocamelus'];species
+agentive-physical-object;['castor', 'fīber'];Genus animalium
+agentive-physical-object;['cephalopoda'];taxon
+agentive-physical-object;['syzygium aromaticum', 'caryophyllum'];species
+agentive-physical-object;['polystichum acrostichoides'];species
+agentive-physical-object;['campanula rotundifolia', 'campanula rotundifolia l. subsp. polymorpha tacik'];Jarva želnata
+agentive-physical-object;['pulvis quiya', 'capsicum annuum ‘cayenne’', 'capsicum annuum var. acuminatum', 'quiyae pulvis'];tritura
+agentive-physical-object;['brassica oleracea grex gongylodes', 'brassica oleracea var. gongylodes', 'kohlrabi'];pagina discretiva Vicimediorum
+agentive-physical-object;['artemisia maritima'];species
+agentive-physical-object;['begonia socotrana'];Species angiospermarum
+agentive-physical-object;['lepisma saccharina'];species
+agentive-physical-object;['anisoptera', 'libellula'];taxon
+agentive-physical-object;['schinus terebinthifolia', 'schinus terebinthifolius'];Species plantarum
+agentive-physical-object;['poecilia reticulata'];species
+agentive-physical-object;['piranha'];grex paraphyleticus
+agentive-physical-object;['vespa'];Insecta ordinum
+agentive-physical-object;['phoenix dactylifera', 'palmula'];Species plantarum
+agentive-physical-object;['phoradendron leucarpum'];species
+agentive-physical-object;['ficus sycomorus'];Species plantarum
+agentive-physical-object;['carthamus tinctorius', 'cnecos'];Plant species
+agentive-physical-object;['durio', 'durio zibethinus', 'doriones', 'durianum'];Fructus
+agentive-physical-object;['saccharomyces cerevisiae', 's. cerevisiae'];Species fungorum
+amount-of-matter;['magnesium', 'mg'];elementum chemicum metallicum cuius numerus atomicus duodecim est
+amount-of-matter;['cocktail'];potio mixta
+amount-of-matter;['plumbum', 'pb'];compositum chemicum
+amount-of-matter;['thorium'];Compositum chemicum
+amount-of-matter;['seaborgium'];Elementum chemicum cui symbolum Sg et numerus atomicus 106 sunt
+amount-of-matter;['potassa'];Compositum chemicum
+amount-of-matter;['proteinum', 'polypeptidum', 'peptidum'];Quodlibet e permultis compositis organicis molecularum polymericarum acidorum aminicorum
+amount-of-matter;['uraqua', 'arak', 'araqe'];temetum
+amount-of-matter;['caryophylii floris aetheroleum'];compositum chemicum
+amount-of-matter;['dry martini', 'martini'];potio mixta
+amount-of-matter;['vinum ex oryza', 'vinum iaponicum', 'saké'];temetum
+amount-of-matter;['sēbum'];Compositum chemicum
+amount-of-matter;['daiquiri'];potio mixta
+amount-of-matter;['grog'];potio mixta
+amount-of-matter;['elixir'];temetum
+biological-object;['plica vocalis'];Una ex tunicis mucosis plicatis geminatis quae trans laryngem tensae sunt ad libram
+biological-object;['patella'];Os
+biological-object;['musculus biceps brachii', 'musculus biceps bracchii'];Musculus
+biological-object;['stigma', 'stylus'];Pars Floris
+chemical-object;['ion', 'anion', 'cathion'];in chemia, atomi vel moleculae electrice oneratae, propter augentem, aut diminuentem electronum suorum dotationem, quae in principio neutra est
+chemical-object;['proteinum', 'polypeptidum', 'peptidum'];Quodlibet e permultis compositis organicis molecularum polymericarum acidorum aminicorum
+classification-system;['calendarium islamicum', 'dulchada', 'giumada posterior', 'giumada prior', 'rabia posterior', 'rabia prior', 'ragiebus', 'sapharus', 'siabanus', 'sievalus'];calendarium lunare
+cognitive-event;['conscientia'];ratio cognitiva moralis
+event;['knell'];Nomen gentilicium
+functional-matter;['barbital'];Compositum chemicum
+functional-matter;['quinina'];Medicamentum
+functional-matter;['vegetarismus', 'vegetarianismus'];usus carnis animalium non edendae
+functional-matter;['linoleum'];Materiale ex plastica massa, solebat tamquam tegens tabulatum servire
+functional-matter;['liquamen e capsicis'];conditura
+functional-matter;['cocktail'];potio mixta
+functional-matter;['caseus', 'formaas', 'formaticum'];Lacticinium
+functional-matter;['uraqua', 'arak', 'araqe'];temetum
+functional-matter;['lasagne', 'laganum', 'pasta segmentata'];pasta
+functional-matter;['chebeb', 'alchiebabat', 'alchubebe'];ferculum
+functional-matter;['milagutanni', 'mulligatawny', 'mulligatawny paste'];ferculum
+functional-matter;['ius', 'embamma', 'sucus', 'sūcus', 'conditura'];Cibus liquidus
+functional-matter;['dry martini', 'martini'];potio mixta
+functional-matter;['thunnini', 'thunnus'];taxon
+functional-matter;['vinum ex oryza', 'vinum iaponicum', 'saké'];temetum
+functional-matter;['sēbum'];Compositum chemicum
+functional-matter;['cephalosporinum', 'cefoxitinum'];Compositum chemicum
+functional-matter;['daiquiri'];potio mixta
+functional-matter;['grog'];potio mixta
+functional-matter;['sprattus sprattus', 'maena'];species
+functional-matter;['elixir'];temetum
+functional-matter;['soia', 'liquamen e soia', 'liquamen soiense'];condimentum
+functional-matter;['globulus', 'globus'];cuppedia
+functional-matter;['porcellina'];caro
+genetic-collective;['dynastia'];Successio principum eiusdem stirpis sive familiae
+genetic-collective;['windsorani'];Domus regnatrix
+geographical-object;['sequana', 'sequanus'];Flumen in Francia
+geographical-object;['canariae insulae', 'fortunatae insulae', 'canariae', 'insulae canariae'];Septem insulae Hispaniae
+geographical-object;['insulae malvinae', 'falklandia', 'falkland', 'malvinae', 'malvinicae insulae'];Territorium Britannicum
+geographical-object;['paeninsula balcanica', 'balcania', 'balcani', 'haemimontus'];Regio, paeninsula
+geographical-object;['nova caledonia'];categoria Vicimediorum
+geographical-object;['martinica'];Praefectura Franciae
+geographical-object;['guadalupia', 'guadalupa', 'guadalupum'];regio et praefectura transmarina Franciae
+geographical-object;['lacus huronum', 'lacus huronorum'];Lacus in Canada
+geographical-object;['lacus erieus', 'lacus eriarum'];Lacus in Canada
+geographical-object;['maiorica', 'balearis maior', 'balearis major', 'majorica'];Baliaris Maior, sive Maiorica, insula Hispaniae est, maxima Gymnesia, in Balearibus insulis sita. Caput Palma est, quod quoque Ciutat (Civitas) dicitur.
+geographical-object;['esonia', 'hokkaido', 'esonis', 'hoccaido', 'hokkaidoensis', 'hokkaidoënsis', 'hokkaidō'];Insula Iaponiae
+geographical-object;['andiatrocus lacus', 'lacus ontario', 'lacus ontarius'];Lacus in Canada
+information-object;['ә'];littera abecedarii Cyrillici
+information-object;['consonans lingualis ingressiva'];consonans rara imprimis in usu nonnullarum linguarum Africae
+information-object;['doctoratus'];Gradus academicus
+information-object;['cappa'];Littera Graeca
+information-object;['my', 'μ', 'μῦ'];Littera Graeca
+information-object;['mem'];littera tertia decima abecedarii Hebraici
+information-object;['nun'];littera quarta decima abecedarii Hebraici
+information-object;['alpha', 'α', 'άλφα'];Littera Graeca
+information-object;['phi', 'φ', 'φεῖ', 'φῖ'];Littera Graeca
+information-object;['chi', 'hi', 'χ', 'χι'];Littera Graeca
+information-object;['psi', 'ψ', 'ψι'];Littera Graeca
+information-object;['beta', 'bēta', 'β', 'βῆτα'];Littera Graeca
+information-object;['bet'];littera secunda abecedarii Hebraici
+information-object;['epsilon', 'έψιλον', 'ε'];Littera Graeca
+information-object;['zeta', 'zēta', 'ζ', 'ζῆτα'];Littera Graeca
+information-object;['eta', 'heta', 'η', 'ἦτα'];Littera Graeca
+information-object;['omega', 'ω', 'ωμέγα'];Littera Graeca
+information-object;['h'];littera abecedarii Latini canonici
+information-object;['z', 'zēta'];littera abecedarii Latini canonici
+information-realization;['ilias'];Carmen epicum
+information-realization;['epistula encyclica', 'encyclica epistula', 'encyclicae', 'epistola encyclica', 'epistulae encyclicae'];Epistulae papae quae portantur in sensu stricto ad episcopum aut ad generalem Ecclesiae Catholicae Romanae populum
+information-realization;['ave maria'];Prex Christiana Catholica
+information-realization;['syllabarium'];Scriptura per syllabas
+information-realization;['liber numeri', 'numeri', 'numerī'];Quartus liber Bibliae, compositum 36 capitula
+information-realization;['biblia', 'biblia sacra'];Scriptura Sancta Christianorum
+language;['linguae omoticae'];Familia linguistica
+language;['lingua danica', 'da', 'dan', 'danice'];Lingua
+language;['lingua afganica', 'afganice', 'afghanice', 'lingua afghanica', 'lingua pastua', 'lingua pastuvica', 'pashto', 'pashtu', 'lingua pašto'];Lingua
+language;['lingua tadzikica', 'lingua tadiciana', 'lingua tadzikistanica', 'lingua tojiki', 'tadzikistanice'];lingua Indoeuropaea
+language;['lingua sinica', 'linguae sinicae', 'lingua chinensis', 'sinice'];lingua
+language;['lingua amharica'];Lingua
+language;['lingua neograeca', 'lingua graeca nova', 'lingua graeca vulgaris', 'lingua graeca moderna', 'lingua graeca hodierna', 'neograeca', 'neograece'];lingua
+language;['lingua gujaratensis', 'gujarati', 'lingua gujarati'];Lingua
+language;['lingua persica', 'lingua persica moderna', 'persice'];lingua
+language;['lingua estonica', 'estonice'];Lingua
+language;['lingua hungarica', 'hungarice', 'lingua ungarica'];Lingua
+language;['lingua lettonica', 'latviane', 'lettice', 'lettonice', 'lingua latviana'];Lingua
+language;['lingua bohemica', 'boemice', 'bohemice', 'lingua cecha', 'lingua cechica'];Lingua
+language;['russica', 'lingua russica', 'lingua rossica', 'russe', 'russice'];Lingua
+language;['dialecti theodiscae altae', 'lingua theodisca', 'lingua germana', 'lingua germanica moderna', 'germanica', 'germanice', 'lingua germanica', 'lingua theodisca superior', 'theod.', 'theodisca', 'theodisce'];Lingua
+locative-role;['florentia', 'florencia', 'florentia tuscorum', 'florentina colonia', 'fluentia'];Italiae municipium
+locative-role;['mandalay', 'mandale'];urbs
+locative-role;['worcester'];Nomen gentilicium
+locative-role;['shenyang', 'moukden', 'seniangum'];Urbs Sericae
+locative-role;['norimberga', 'nürnberg'];urbs Bavariæ, Germaniæ
+locative-role;['pusanum', 'busan'];Urbs Coreae
+locative-role;['stutgardia', 'stuttgart', 'stuttgartum'];Urbs in Germania atque caput rei publicae foederalis Germaniae Badeniae-Virtembergiae
+locative-role;['vratislavia', 'bratislavia', 'wratislavia', 'breslau', 'budorgis', 'wrocław'];Urbs Polonica
+locative-role;['brightonia', 'bristelmestuna', 'brighton'];Urbs Sussexiae
+locative-role;['traiectum ad rhenum', 'trajectum ad rhenum', 'ultraiectum', 'ultrajectum', 'utrecht'];Municipio Nederlandiae
+locative-role;['pisae', 'pisa', 'alfea', 'alphea', 'peithesa'];Italiae municipium
+locative-role;['patavium', 'padova', 'padua', 'patavia'];Italiae municipium
+locative-role;['assindia', 'essendia', 'essen'];Urbs Germaniae
+locative-role;['colonia agrippina', 'colonia claudia ara agrippinensium', 'colōnia agrippīna', 'oppidum ubiorum', 'köln'];urbs Germaniae
+locative-role;['monoecus', 'principatus monoeci', 'principality of monaco', 'principat de mónegue', 'principato di monaco', 'principatu de múnegu', 'principatus monoecus', 'principatvs monoeci', 'principatvs monoecvs', 'principauté du monaco'];Civitas in Europa
+locative-role;['meduana', 'mayenne'];Praefectura Franciae
+locative-role;['normannia superior', 'haute-normandie'];Regio Franciae
+locative-role;['liber comitatus', 'franche-comté'];Regio Franciae
+locative-role;['burgundia'];Regio Franciae
+locative-role;['britannia minor', 'armorica', 'aremorica', 'britannia-minor'];regio Franciae
+locative-role;['andecavensis', 'andegavensis ager', 'anjou', 'ducatus andegavensis'];provincia
+locative-role;['centrum', 'centrum et vallis ligeris', 'centre', 'centrum-vallis ligeris'];Regio Franciae
+locative-role;['pictaviensis et carantoni', 'pictaviensis', 'pictavia', 'pictavia et carantoni', 'pictaviensis-carantoni', 'poitou-charentes'];Regio Franciae
+locative-role;['pictaviensis et carantoni', 'pictaviensis', 'pictavia', 'pictavia et carantoni', 'pictaviensis-carantoni', 'poitou-charentes'];provincia
+locative-role;['tianjin', 'tiandzinia'];Urbs et provincia Sericae
+locative-role;['arvernia', 'auvergne'];Regio Franciae
+locative-role;['septentrio et fretum', 'septentrio-fretum', 'nord-pas-de-calais'];Regio Franciae
+locative-role;['linguadocia et ruscino', 'occitania et ruscino', 'septimania', 'languedoc-roussillon', 'languedoc-roussilon', 'occitania-ruscino'];Regio Franciae
+locative-role;['meridianum et pyrenaei', 'meridianum et pyrenaeus', 'meridianum-pyrenaei', 'midi-pyrénées'];Regio Franciae
+locative-role;['lemovicensis', 'limousin'];Regio Franciae
+locative-role;['insula franciae', 'regio metropolitana parisiensis', 'île-de-france'];Regio Franciae
+locative-role;['campania et arduenna', 'campania-arduenna', 'champagne-ardenne'];Regio Franciae
+locative-role;['picardia', 'picardie'];Regio Franciae
+locative-role;['aquitania'];Regio Franciae
+locative-role;['genua', 'genua superba', 'ianua', 'janua', 'janua ligurum'];Italiae municipium
+locative-role;['necropolis saqqāra', 'saqqāra'];Locus archaeologicus Aegypti
+locative-role;['pagi ligeris', 'pays de la loire'];Regio Franciae
+locative-role;['lotharingia', 'lorraine', 'lotharii regnum', 'lothringen'];Regio Franciae
+locative-role;['light'];nomen gentilicium
+locative-role;['dusseldorpium', 'dusselledorpum', 'dussellodorvum', 'düsseldorf'];urbs Germaniae, caput Rhenaniae Septentrionalis-Vestfaliae
+locative-role;['martinica'];Praefectura Franciae
+locative-role;['lanzhou'];Urbs Sericae
+locative-role;['mediolanum', 'mediolanium', 'milano', 'milanum'];Italiae municipium
+locative-role;['vallis paradisi', 'valparaiso', 'portus vallis paradisi'];Urbs Chiliae
+locative-role;['sfax', 'thaenae', 'sphax'];urbs Tunesiae
+non-physical-collection;['exsistentialista', 'existentialista', 'exsistentialismus'];Philosophia
+non-physical-collection;['humanismus', 'humanismus saecularis', 'humanista'];cosmotheoria
+non-physical-collection;['egalitarismus', 'aequalitarismus', 'isotetismus', 'ratio aequabilitatis'];doctrina socialis aequalitatem inter homines proclamans
+non-physical-collection;['theismus'];Opinio saltem unam deitatem exsistere
+non-physical-collection;['post hoc', 'post hoc ergo propter hoc'];fallacia
+non-physical-collection;['sintoismus', 'shinto', 'shintoismus'];religio Iaponiae
+non-physical-collection;['religio islamica', 'islamus', 'islam', 'islamica', 'islamicus', 'mahometanismus', 'mahometanus', 'religio mahometana'];religio monotheistica
+non-physical-collection;['visnuismus', 'vaishnavismus'];traditio Hinduistica
+parameter;['celeritas lucis', 'velocitas lucis', '299792458', 'celeritas luminis', 'velocitas luminis'];velocitas qua lux in vacuo progreditur
+phenomenon;['heterophylophilia', 'heterosexualitas'];Propensio sexualis mulieris quae rem veneream in viros et viri qui eam rem in mulieres appetet
+phenomenon;['homosexualitas', 'homophylophilia', 'homosexualis', 'lesbiana', 'pamphylophilia', 'pansexualitas'];Propensio sexualis mulieris quae rem veneream in mulieres et viri qui eam rem in viros appetet
+phenomenon;['diphylophilia', 'bisexualitas'];Propensio sexualis illorum qui rem veneream et in viros et in mulieres appetent
+physical-body;['universum', 'cosmos'];Res quae omnem materiam et spatium continet
+physical-body;['mercurius'];Planeta
+physical-object;['birota', 'bicycle'];Vehiculum binis rotis praeditum et ab homine motum
+physical-object;['aratrum'];Instrumentum in agricultura adhibitum ut solum colatur ad semen sparsum vel plantas positas
+physical-object;['turris aquaria'];aedificium altum cum lacu aquario
+physical-object;['scutum', 'clipeus', 'parma'];gradio, clava, sagitta, lapide, feriendo et cetera defendere arma.
+physical-object;['birota', 'bicycle'];Vehiculum binis rotis praeditum et ab homine motum
+political-geographic-object;['romania', 'dacoromania'];Civitas Europae
+political-geographic-object;['florentia', 'florencia', 'florentia tuscorum', 'florentina colonia', 'fluentia'];Italiae municipium
+political-geographic-object;['mandalay', 'mandale'];urbs
+political-geographic-object;['worcester'];Nomen gentilicium
+political-geographic-object;['shenyang', 'moukden', 'seniangum'];Urbs Sericae
+political-geographic-object;['norimberga', 'nürnberg'];urbs Bavariæ, Germaniæ
+political-geographic-object;['pusanum', 'busan'];Urbs Coreae
+political-geographic-object;['stutgardia', 'stuttgart', 'stuttgartum'];Urbs in Germania atque caput rei publicae foederalis Germaniae Badeniae-Virtembergiae
+political-geographic-object;['vratislavia', 'bratislavia', 'wratislavia', 'breslau', 'budorgis', 'wrocław'];Urbs Polonica
+political-geographic-object;['brightonia', 'bristelmestuna', 'brighton'];Urbs Sussexiae
+political-geographic-object;['traiectum ad rhenum', 'trajectum ad rhenum', 'ultraiectum', 'ultrajectum', 'utrecht'];Municipio Nederlandiae
+political-geographic-object;['pisae', 'pisa', 'alfea', 'alphea', 'peithesa'];Italiae municipium
+political-geographic-object;['patavium', 'padova', 'padua', 'patavia'];Italiae municipium
+political-geographic-object;['assindia', 'essendia', 'essen'];Urbs Germaniae
+political-geographic-object;['colonia agrippina', 'colonia claudia ara agrippinensium', 'colōnia agrippīna', 'oppidum ubiorum', 'köln'];urbs Germaniae
+political-geographic-object;['norvegia', 'kongeriket noreg', 'kongeriket norge', 'nerigon', 'noreg', 'norge', 'norvegicus'];Civitas Europae
+political-geographic-object;['nederlandia', 'regnum batavum', 'regnum nederlandicum'];Civitas Europae
+political-geographic-object;['monoecus', 'principatus monoeci', 'principality of monaco', 'principat de mónegue', 'principato di monaco', 'principatu de múnegu', 'principatus monoecus', 'principatvs monoeci', 'principatvs monoecvs', 'principauté du monaco'];Civitas in Europa
+political-geographic-object;['gibutum', 'dzibutum'];Civitas
+political-geographic-object;['namibia'];Civitas Africae austrinae
+political-geographic-object;['emiratus arabici coniuncti', 'emiratus arabici uniti', 'emiratus arabi uniti', 'emiratus coniuncti arabi', 'emiratus uniti arabi', 'emiratus uniti arabici', 'foederatae phylarchiae arabicae', 'phylarchiarum arabicarum confoederatio', 'principatus arabici foederati'];Civitas sui iuris
+political-geographic-object;['luxemburgum', 'luciliburgum', 'luxemburgia'];Civitas Europae
+political-geographic-object;['cornubia'];Comitatus Angliae
+political-geographic-object;['britanniarum regnum', 'regnum unitum', 'coniunctum britanniae magnae et hiberniae septentrionalis regnum', 'britannia magna', 'regnum britanniarum', 'regnum unitum britanniae et hiberniae septentrionalis'];Civitas Europae
+political-geographic-object;['hispania', 'hesperia', 'hispani', 'regnum hispania'];Civitas Europae
+political-geographic-object;['tadzikistania', 'tadicistania', 'tadzicia'];civitas Asiae
+political-geographic-object;['zimbabua', 'simbaoe', 'zimbabuia', 'zimbabwe'];Civitas mediterranea Africae
+political-geographic-object;['mogolia', 'mongolia', 'mongoli'];patria in Asia Orientali
+political-geographic-object;['tianjin', 'tiandzinia'];Urbs et provincia Sericae
+political-geographic-object;['belgica', 'belgia', 'belgium', 'belga'];Civitas Europae
+political-geographic-object;['bangladesa', 'bangladesia', 'bangladesha', 'bangladesh', 'bengalia'];civitas Asiae
+political-geographic-object;['austria'];Civitas Europae
+political-geographic-object;['laotia', 'laonia', 'laos', 'laosia', 'laosium'];Res publica in Asia austro-orientali
+political-geographic-object;['birmania', 'birmanensis', 'myanmar'];Res publica in Asia austro-orientali
+political-geographic-object;['castries'];Urbs Sanctae Luciae
+political-geographic-object;['gansu'];Provincia Sericae
+political-geographic-object;['costarica', 'ora dives', 'crc', 'res publica costaricensis', 'costa rica', 'costa richa', 'ora opulenta'];Civitas
+political-geographic-object;['hungaria', 'hungarianus', 'hungaricus', 'ungaria'];Civitas Europae
+political-geographic-object;['germania', 'res publica foederata germaniae', 'de', 'deutschland', 'germaniae', 'index lacuum', 'index lacuum germaniae', 'res publica fœderata germaniæ', 'respublica foederalis germanica', 'theotiscia'];Civitas Europae
+political-geographic-object;['surinamia'];Civitas in America Australis
+political-geographic-object;['graecia', 'graecus', 'græcia', 'ελληνική δημοκρατία'];Civitas Europae
+political-geographic-object;['iraquia', 'iraca', 'mesopotamia', 'iracia', 'irac', 'iracum', 'iracus', 'irakia', 'iraq'];Civitas
+political-geographic-object;['francia', 'francogallia', 'gallia', 'france', 'francicus', 'regnum franciae'];Civitas Europae
+political-geographic-object;['aequatoria', 'ec', 'ecu', 'res publica aequatoriae', 'aequatorialis respublica', 'ecuador'];Civitas sui iuris Americae Australis
+political-geographic-object;['genua', 'genua superba', 'ianua', 'janua', 'janua ligurum'];Italiae municipium
+political-geographic-object;['andorra'];Civitas in Europa
+political-geographic-object;['necropolis saqqāra', 'saqqāra'];Locus archaeologicus Aegypti
+political-geographic-object;['latium', 'latina'];regio historica
+political-geographic-object;['dusseldorpium', 'dusselledorpum', 'dussellodorvum', 'düsseldorf'];urbs Germaniae, caput Rhenaniae Septentrionalis-Vestfaliae
+political-geographic-object;['praga', 'prag', 'praha', 'pragae', 'augusta bracarensis'];Urbs Cechiae
+political-geographic-object;['roma', 'urbs', 'urbs aeterna'];Italiae municipium
+political-geographic-object;['brisbane', 'brisbana'];Urbs Australiae
+political-geographic-object;['hierosolyma', 'aelia capitolina', 'hierusalem', 'colonia aelia capitolina', 'iebus', 'moria', 'salem', 'sion', 'hierosolima', 'ierosolyma', 'ierusalem', 'jerusalem'];est urbs Levantis
+political-geographic-object;['kiovia', 'київ', 'chiovia', 'kiev', 'kiiovia', 'kyiv'];Caput et maxima Ucrainae urbs
+political-geographic-object;['pyeongyang', 'pyeongyangum', 'pyongyang', 'pyungyang'];Urbs Coreae
+political-geographic-object;['thailandia', 'siamia', 'terra thailandica', 'thaiai'];Civitas Asiae
+political-geographic-object;['burkina faso', 'burcina faso', 'burcina', 'burkina', 'volta superior'];Civitas
+political-geographic-object;['liguria'];provincia post-Diocletiana
+political-geographic-object;['finnia', 'fennia', 'finlandia', 'fenni', 'finni', 'finnlandia', 'finnonia'];Civitas Europae
+political-geographic-object;['bruxellae', 'bruxella', 'bruxellae, belgium'];Caput Belgicae
+political-geographic-object;['roseau'];Urbs Dominicae
+political-geographic-object;['helsingia', 'helsinkium', 'helsingfors', 'helsingforsia', 'helsinki'];Urbs et caput Finniae
+political-geographic-object;['indianapolis', 'indianapolis, indianae'];Caput Indianae terrae
+political-geographic-object;['rangunum', 'yangon', 'iangon'];Urbs Birmaniae
+political-geographic-object;['caracae', 'caracas'];Urbs Venetiolae
+political-geographic-object;['lanzhou'];Urbs Sericae
+political-geographic-object;['camberra', 'canberra'];Urbs Australiae
+political-geographic-object;['baku', 'bacua'];urbs
+political-geographic-object;['banjul', 'baniulum', 'bathurstopolis', 'baniul'];Urbs Gambiae
+political-geographic-object;['almata'];Urbs Casachiae
+political-geographic-object;['mediolanum', 'mediolanium', 'milano', 'milanum'];Italiae municipium
+political-geographic-object;['taipeium', 'taipeia', 'taipei'];Urbs Formosae
+political-geographic-object;['ima tellus', 'basseterre'];Urbs insulae Sancti Christophori
+political-geographic-object;['taskentum', 'lithopolis', 'tashkent'];Urbs Uzbeciae
+political-geographic-object;['melburnia', 'melbournum', 'melbourne', 'melburna'];Urbs Australiae
+political-geographic-object;['vallis paradisi', 'valparaiso', 'portus vallis paradisi'];Urbs Chiliae
+political-geographic-object;['brasilia', 'brasil', 'brasilis', 'republica brasiliae'];Civitas in America Australis
+political-geographic-object;['sfax', 'thaenae', 'sphax'];urbs Tunesiae
+political-geographic-object;['adelaidis', 'adelaidopolis', 'adélaïde', 'adelaida', 'adelhaidis'];Urbs Australiae
+political-geographic-object;['perthia', 'perth'];Urbs Australiae
+political-geographic-object;['praefectura'];Divisio administrativa
+political-geographic-object;['attica', 'aegaleo', 'aegaleus'];Regio (peripheria) Graeciae
+quality;['caritas'];Virtus
+quality;['doctoratus'];Gradus academicus
+quality;['theismus'];Opinio saltem unam deitatem exsistere
+quality;['sintoismus', 'shinto', 'shintoismus'];religio Iaponiae
+quality;['religio islamica', 'islamus', 'islam', 'islamica', 'islamicus', 'mahometanismus', 'mahometanus', 'religio mahometana'];religio monotheistica
+quality;['massa', 'pondus et massa'];quantitas materiae
+quality;['visnuismus', 'vaishnavismus'];traditio Hinduistica
+region;['quantitas imaginaria', 'numerus complexus', 'numerus imaginarius', '√—1'];Numerus, cuius potestas quadrata est negativus numerus
+region;['coulomb', 'c'];Unitas SI oneris electrici mensura
+region;['ӭ̄'];littera abecedarii Cyrillici
+region;['septem', '7', 'vii', 'septimus'];Numerus naturalis
+regulation;['libertas cogitandi', 'libertas animi', 'libertas mentis', 'libertas sentiendi'];ius humanum
+simple-collection;['universum', 'cosmos'];Res quae omnem materiam et spatium continet
+situation;['liber albus'];pagina discretiva Vicimediorum
+situation;['hagga', 'peregrinatio meccana', 'hajj'];annua peregrinatio Islamica ad Meccam facta, una ex quinque columnis Islamicis
+situation;['ulcus', 'vomica'];Pagina discretiva
+situation;['doctoratus'];Gradus academicus
+situation;['alphabetum graecum', 'abecedarium graecum', 'abecedaria epichoria'];abecedarium lingua Graeca usum
+socially-constructed-person;['thomas a becket', 'thomas becket', 'thomas cantuariensis'];archiepiscopus Cantuariensis, cancellarius Regni Angliae et sanctus
+socially-constructed-person;['eduardus iv', 'eduardus iv angliae', 'eduardus iv angliae rex'];Rex Angliae
+socially-constructed-person;['voltarius', 'franciscus maria arouet', 'voltaire'];Auctor Francogallicus
+socially-constructed-person;['dante gabriel rossetti', 'rossetti', 'dantes gabriel rossetti'];Pagina discretiva
+socially-constructed-person;['mahatma gandhi', 'gandhi', 'mahatma', 'mohandas karamchand gandhi'];Politica et religionis Dux Indian
+socially-constructed-person;['winston churchill', 'vinstonis churchill'];Politicus
+socially-constructed-person;['georgius vi', 'georgius vi regni uniti', 'georgius vi regni uniti rex'];Rex Britanniarum
+socially-constructed-person;['aeschylus', 'aeschylus tragicus', 'aeschylus atheniensis'];poëta tragicus Graecus
+socially-constructed-person;['mahometus', 'machometus', 'mahomet', 'mahometes', 'mahommetus', 'mahumetus', 'mahummetus', 'maomethes', 'mohammad', 'muhammad', 'muhammed'];Auctorem publici consilii et Arabum qui conditor religionis Islamicae
+socially-constructed-person;['carolus magnus', 'karolus magnus', 'karolus imp. avg.', 'karolus imperator augustus'];Rex Francorum
+socially-constructed-person;['hermes', 'ἑρμῆς'];In mythologia Graeca, nuntius legatusque deorum et ipse deus mercatorum, furum, oratorum, nuntiorum
+socially-constructed-person;['cronus', 'chronus', 'cronos', 'kronos', 'krónos', 'κρόνος'];in mythologia Graeca est dux Titanum, posterorum Gaiae et Urani
+socially-constructed-person;['astarte'];Dea Phoenicia
+socially-constructed-person;['arianrhod'];Praenomen femininum
+socially-constructed-person;['abrahamus lincoln', 'abraham lincoln'];Sextus decimus Praeses Civitatum Foederatarum
+socially-constructed-person;['elizabeth ii', 'elisabetha ii', 'elizabeth ii regni uniti', 'elizabeth ii regni uniti regina'];Regina
+socially-constructed-person;['augustus', 'imperator caesar divi f. augustus', 'imperator caesar divi filius augustus', 'c. iulius caesar octavianus augustus', 'caesar augustus', 'g. iulius caesar octavianus augustus', 'gaius iulius caesar octavianus', 'gaius iulius caesar octavianus augustus', 'imp. caesar divi f.', 'octavianus', 'octavianus augustus'];Princeps civitatis
+socially-constructed-person;['prodigiosus', 'queer'];Homo qui aut non heterophylophilus aut non cisgener est
+socially-constructed-person;['parens'];Mater vel pater
+socially-constructed-person;['tribas', 'lesbiana', 'mulier gynaecophila', 'mulier homophylophila'];Mulier homophylophila
+socially-constructed-person;['medicamentarius', 'medicamentaria'];peritus qui medicamenta vendit
+socially-constructed-person;['iuris peritus', 'iuris perita', 'juris perita', 'juris peritus'];academicus in rebus legum versatus
+socially-constructed-person;['populi creoli', 'creoli', 'creolus'];greges ethnici orti in tempore colonialismi
+socially-constructed-person;['compater', 'compater/commater', 'commater', 'matrina', 'patrina', 'patrinus', 'mater lustrica', 'pater lustricus', 'sponsor', 'susceptor', 'susceptrix'];Vir (compater) vel femina (commater) qui in caerimonia (saepe baptismi) se infanti in vita adesse promittit
+socially-constructed-person;['transsexualitas', 'dysphoria generis', 'transexualitas', 'transexualismus', 'transsexualismus', 'incongruentia generis', 'transexualis', 'transsexualis'];Identitas generis ac sexus attributus non congruentes
+socially-constructed-person;['proles eorundem parentum', 'frater vel soror', 'frater uterinus'];Unus inter liberos eorundem parentium vel eiusdem parentis
+socially-constructed-person;['pocahontas'];Inda Americana colonos quae anglicos adiuvit saeculo XVII.
+socially-constructed-person;['marcus tullius cicero', 'cic', 'cic.', 'cicero', 'm. tullius cicero'];fuit orator, philosophus, poeta, rhetor, vir rei publicae peritissimus
+socially-constructed-person;['aetas minor', 'subaetas', 'minor'];status legalis hominis non adulti
+socially-constructed-person;['astarte'];Dea Phoenicia
+socially-constructed-person;['pedilusor', 'pedilustrix'];Athleta qui pediludio ludit
+socially-constructed-person;['presbyter', 'presbyterus', 'presbiter'];sacerdos Christianus
+socially-constructed-person;['slavi', 'sclavi'];Eurasiae Populos
+socially-constructed-person;['musicographus', 'compositor', 'compositor carminum', 'compositrix'];Qui musicam creat aut ipsi aut aliis canendam
+socially-constructed-person;['desiderius erasmus roterodamus', 'desiderius erasmus', 'erasmus', 'erasmus roterodamus'];Humanista et theologus batavus
+socially-constructed-person;['mars thincsus', 'mārs', 'týr'];deus belli Germanicus
+socially-constructed-person;['deus pater'];Prima persona in Trinitate
+socially-constructed-person;['thomas aquinas', 'thomas de aquino', 'doctor angelicus', 'aquino', 'sanctus thoma aquinatis', 'sanctus thomas aquinas', 'thoma de aquino', 'thomas von aquin'];fuit presbyter in Ordine Praedicatorum, philosophus, theologus scholasticus
+socially-constructed-person;['leonidas i'];rex Spartae
+socially-constructed-person;['eduardus iv', 'eduardus iv angliae', 'eduardus iv angliae rex'];Rex Angliae
+socially-constructed-person;['architectus', 'aedifex', 'architecta'];Munus
+socially-constructed-person;['usor', 'utilitor', 'usor computatralis', 'usor interretialis', 'ustrix', 'ustrix computatralis', 'ustrix interretialis'];Homo qui computatro vel reti computatrali utitur
+socially-constructed-person;['wright'];Nomen gentilicium
+socially-constructed-person;['herodotus halicarnassensis', 'herodotus'];fuit rerum gestarum scriptor Graecus
+socially-constructed-person;['patruus', 'avunculus/patruus', 'thius', 'avunculus'];Frater matris (avunculus) vel patris (patruus)
+socially-constructed-person;['familia consanguinea colateralis ordinaria', 'cosinus', 'cosinus/cosina', 'amitina', 'amitinus', 'consubrina', 'consubrinus', 'frater patruelis', 'soror patruelis', 'consobrina', 'consobrinus', 'patruelis', 'cosina'];Familia consanguinea colateralis ordinaria
+socially-constructed-person;['maria', 'virgo maria', 'beāta virgō marīa', 'b.m.s.v.', 'b.m.v.', 'dei genetrix', 'festa mariae', 'maria virgo', 'mariana', 'sancta maria', 'theotocos', 'theotocus', 'theotokos'];Mater Iesu
+socially-constructed-person;['primus minister'];Primus minister Britanniarum Regni
+socially-constructed-person;['doyen'];Nomen gentilicium
+socially-constructed-person;['amita', 'amita/matertera', 'matertera'];Soror patris (amita) vel matris (matertera)
+socially-constructed-person;['familia privigna', 'privignus', 'familia recomposita'];Familia ubi saltem una inter proles et parentem et vitricum novercamve habet
+socially-constructed-person;['nerthus'];dea Germanica
+spatial-feature;['urales', 'montes uralenses', 'uralense iugum', 'montes urales', 'uralenses montes'];Montes Asiae
+subject;['scientia', 'homo scientiae', 'homo scientificus', 'ratio scientifica'];Tractus, transferre et totum scientiae
+subject;['phonetica'];studium orationis humanae et sonituum eius
+subject;['phonologia'];pars linguisticae, quae munera vocum in variis linguis explicat
+substance-role;['papaina'];Compositum chemicum
+task;['potentia'];Mathematica operatio de multiplicatione repetita.
+taxonomic-collection;['vocativus', 'casus vocātīvus', 'casus vocativus'];casus grammaticus
+taxonomic-collection;['ablativus', 'casus ablativus', 'ablativus instrumentalis', 'ablativus separativus'];casus grammaticus
+taxonomic-collection;['locativus', 'casus locativus'];casus grammaticus
+taxonomic-collection;['accusativus', 'casus generalis', 'casus obliquus', 'casus accusativus'];casus grammaticus
+taxonomic-collection;['nominativus', 'casus rectus', 'casus nominativus'];casus grammaticus
+taxonomic-collection;['dativus', 'casus dativus'];casus grammaticus
+taxonomic-collective;['familia', 'subfamilia', 'superfamilia'];rank taxinomicum
+taxonomic-collective;['subspecies', 'phyle', 'ssp.', 'subsp.'];rank taxinomicum
+taxonomic-collective;['subgenere'];rank taxinomicum
+taxonomic-collective;['ordo', 'subordo', 'infraordo', 'superordo'];Rank taxinomicum
+taxonomic-collective;['genus', 'genera', 'subgenus'];Categoria taxonomica
+taxonomic-collective;['species'];rank taxinomicum
+taxonomic-collective;['vespidae'];taxon
+taxonomic-collective;['hordeum'];Genus plantarum
+taxonomic-collective;['cyperaceae'];taxon
+taxonomic-collective;['crocodilia', 'crocodylia', 'eusuchia', 'eusuchium'];taxon
+taxonomic-collective;['oligochaeta'];taxon
+taxonomic-collective;['abutilon'];taxon
+taxonomic-collective;['pythonidae'];taxon
+taxonomic-collective;['bryozoa'];taxon
+taxonomic-collective;['avena'];Genus plantarum
+taxonomic-collective;['aspleniaceae', 'aspleniales'];taxon
+taxonomic-collective;['acanthocephala'];taxon
+taxonomic-collective;['charales'];categoria Vicimediorum
+taxonomic-collective;['polypodiales'];taxon
+taxonomic-collective;['heteroptera'];taxon
+taxonomic-collective;['crocodylidae', 'crocodilidae', 'crocodilinae', 'crocodylinae', 'mekosuchinae'];taxon
+taxonomic-collective;['danaus'];taxon
+taxonomic-collective;['hirudo'];taxon
+taxonomic-collective;['felis'];taxon
+taxonomic-collective;['rana'];taxon
+taxonomic-collective;['foeniculum'];Genus plantarum
+technique;['methodus scientifica', 'methodus scientificus'];methodus scientiae observationibus empiricis experimentisque meliorandae
+temporal-region;['thermidorus'];Mensis calendarii republicani Francici
+temporal-region;['pluviosus', 'pluviôse'];Mensis calendarii republicani Francici
+temporal-region;['vendemiarius', 'vendemiaire'];Mensis calendarii republicani Francici
+temporal-region;['nivosus', 'nivose'];Mensis calendarii republicani Francici
+temporal-region;['iurassicum', 'aevum iurassicum'];Aevum geologicum
+temporal-region;['quaternarium', 'quaternaria'];Aevum geologicum
+temporal-region;['prairialis', 'prairial', 'mensis pratorum'];Mensis calendarii republicani Francici
+temporal-region;['brumarius', 'brumaire'];Mensis calendarii republicani Francici
+temporal-region;['ventosus', 'ventôse'];Mensis calendarii republicani Francici
+temporal-region;['messidorus', 'messidor', 'messifer'];Mensis calendarii republicani Francici
+temporal-region;['tempus'];quantitas physica fundamentalis adhibita, ut eventus in seriem ordinentur
+temporal-region;['giumada prior'];quintus mensis calendarii Islamici
+temporal-region;['muhairamus', 'muharram'];primus mensis calendarii Islamici
+temporal-region;['ramadanus', 'ramadan', 'romandanus'];nonus mensis calendarii Islamici
+temporal-region;['sapharus', 'safar', 'safarus'];secundus mensis calendarii Islamici
+temporal-region;['ragiebus', 'rajab'];septimus mensis calendarii Islamici
+temporal-region;['giumada posterior'];sextus mensis calendarii Islamici
+temporal-region;['sievalus'];decimus mensis calendarii Islamici
+temporal-region;['frimarius', 'frimaire'];Mensis calendarii republicani Francici
+temporal-region;['fructidorus', 'fructidor', 'fructifer'];Mensis calendarii republicani Francici
+theory;['coniectura', 'coniectūra'];Enuntiatum mathematicum de quo nescimus utrum verum an falsum sit
+theory;['supersymmetria'];coniectura est qui in physica particularum minimarum omnis bosonica coniuncta cum fermionica particula est atque ambae eamdem massam habent

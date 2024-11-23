@@ -1,0 +1,34 @@
+agentive-figure;['organizacija', 'formiranje', 'osnivanje', 'osnutak', 'uspostava', 'uspostavljanje', 'ustanovljavanje', 'ustanovljenje', 'organizacije'];Društvena skupina uspostavljena radi koordiniranog ostvarivanja zacrtanih namjera, zadataka ili ciljeva
+agentive-figure;['država', 'suverena država', 'zemlji', 'nacija', 'narod', 'puk', 'pučanstvo', 'stanovništvo', 'zemlja', 'deklarativnoj teoriji državnosti', 'države', 'nacije', 'nacionalno', 'političko tijelo', 'političkog društva', 'res publica', 'suverenih država'];Ljudi koji čine populaciju neke zemlje ili pripadnike neke nacije
+agentive-physical-object;['čovjekoliki majmuni', 'hominoidea', 'hominoidi', 'čovjekoliki majmun', 'opice', 'majmuna', 'majmun', 'hominoids'];Pripadnik natporodice Hominoidea (čovjekoliki majmuni). srednje velike do velike životinje, imaju pokretljiva ramena, sinuse, nemaju rep, dobri su penjači (osim gorila i ljudi). imaju razvijen mozak i kompleksno ponašanje. svejedi su, nastanjuju tropske šume, a rasprostranjeni su u Africi i Aziji (ne uključujući rasprostranjenost ljudi). uključuje gibone, gorile, čimpanze, orangutane i ljude
+agentive-physical-object;['plamenjača duhana', 'peronospora tabacina', 'plava plijesan gljivice'];Vrsta peronospore koja napada lišće duhana stvarajući plavo-zeleni pokrov
+agentive-physical-object;['kit', 'kitova', 'cetacea', 'kitova sisavac'];Pripadnik reda Cetacea (kitovi). veliki sisavac potpuno prilagođeni životu u vodi, prednji udovi su preobraženi u peraje, a stražnji su reducirani, ima debeli sloj potkožnog masnog tkiva i promijenjen dišni i krvožilni sustav. većina ih živi u moru. hrane se raznoliko (od planktona do tuljana) i rasprostranjeni su kozmopolitski. žive u skupinama od 10- 50 jedinki s razvijenim međuodnosima, i uglavnom imaju po jedno mladunče
+amount-of-matter;['punč'];Vruće ili hladno alkoholno piće koje se priprema od ruma, vina, čaja, šećera i limuna ili naranče
+amount-of-matter;['kuhano vino', 'gløgg'];Kuhani alkoholni napitak napravljen od vina s dodatkom šećera i raznih začina (poput klinčića, cimeta ili limunovog soka)
+biological-object;['ljudska probava', 'probavnog trakta', 'probavni trakt', 'crijeva', 'gi trakta', 'alimentarni trakt', 'gastrointestinalni trakt', 'gi trakt', 'probavni sistem', 'probavni sustav', 'crijevnu sluznicu', 'digestivnom traktu', 'gastro-intestinalni', 'ljudskog probavnog trakta', 'probavni cijev', 'probavni kanal', 'probavnih organa', 'probavnog', 'probavnog sustava', 'probavnom lumen'];Cjevasti sustav mišića i sluznih membrana od usta do anusa koji služi probavi
+dependent-place;['procjep', 'provrt', 'pukotina', 'rascjep', 'rupa', 'usjeklina', 'zasjeklina', 'scissure'];Dugačak i uzak otvor
+functional-matter;['punč'];Vruće ili hladno alkoholno piće koje se priprema od ruma, vina, čaja, šećera i limuna ili naranče
+functional-matter;['lijek', 'droga', 'medikament'];Aktivna tvar kojom se suzbija ili ublažava bolest
+functional-matter;['kuhano vino', 'gløgg'];Kuhani alkoholni napitak napravljen od vina s dodatkom šećera i raznih začina (poput klinčića, cimeta ili limunovog soka)
+information-realization;['tekst', 'teksta', 'pisana građa', 'tekstovna građa', 'tekstualni stvar'];Ono što je napisano kao cjelina, što je organizirano u riječima
+non-agentive-physical-object;['željeznička pruga', 'tračnica', 'šine', 'pruge', 'željezničke pruge', 'pruga', 'tračnice', 'održavanje način', 'stalni način', 'trajno način'];Put napravljen od paralelnih željeznih šipki koji pružaju podlogu za kretanje vozila
+non-agentive-physical-object;['barjak', 'stijeg', 'zastava', 'guidon', 'zastavnik'];Amblem načinjen od platna na kojem se nalaze simboli neke države, zajednice ili udruženja
+physical-object;['zatvor', 'zatočeništvo', 'zatvori', 'odgojnu ustanovu', 'zatvorima', 'kazniona', 'kaznionica', 'tamnica', 'srednje sigurnost', 'zatvore', 'zatvoren'];Kaznena ustanova gdje se zadržavaju kažnjenici tijekom suđenja ili tijekom izdržavanja kazne
+physical-object;['lopatica', 'spatula', 'hrana turner'];Pribor za kuhanje kojim se okreće ili poslužuje hrana
+physical-object;['malj', 'bat', 'kovački malj', 'maljem', 'težak kovački čekić'];Drveno ili željezno oruđe s valjkastim i dugim drškom kojim se nešto nabija, razbija ili snažno udara kako bi se dobio željeni oblik
+physical-object;['dom', 'stan', 'boravište', 'kuća', 'nastamba', 'prebivalište', 'mjesto', 'privatnoj rezidenciji', 'stambena zgrada', 'stanova'];Mjesto prebivanja ili stanovanja
+physical-object;['ražanj', 'ražnjić'];Zašiljeni štap na koji se natiče i na kojem se okreće meso ili životinja kraj vatre kad se peče
+physical-object;['roleta', 'zavjesa', 'šaloporka', 'šaluzina', 'škura', 'prozor slijepi', 'sjenila', 'žaluzine'];Neprozirna (obično čvrsta) površina koja prekriva prozor i ne propušta svjetlost
+physical-object;['oprema', 'pribor', 'rekviziti'];Skup različitih oruđa ili sredstava sa specifičnom namjenom pri obavljanju nekog posla
+quality;['kretljivost', 'pokretnost', 'pomičnost', 'movableness', 'pokretljivost'];Odlika entiteta koji se može premještati u prostoru ili mijenjati položaj svojih dijelova
+quality;['beznačajnost', 'nevažnost'];Odlika manjka vrijednosti, kvalitete ili utjecaja po tijek događaja, mišljenje ili uvjerenje drugih
+quality;['nepokretnost', 'nepomičnost', 'ukipljenost', 'ukočenost'];Odlika entiteta koji se ne može kretati, pomicati ili promijeniti raspored dijelova
+quality;['altruizam', 'nesebičnost', 'altruista', 'altruistični'];Osobina koja proizlazi iz brige za stanje ili dobrobit drugih i stavljanja interesa drugih na prvo mjesto
+region;['centner', 'kvintal', 'metrička centa', 'doppelzentner', 'metrički centa', 'zentner'];Jedinica mase koja iznosi 100 kilograma
+situation;['putovanje', 'put'];Kretanje s jednog mjesta na drugo
+situation;['nepostojanje', 'ništavilo', 'nepostojanja'];Svojstvo onoga što nije, onoga čega nema
+socially-constructed-person;['brat', 'drug', 'kompa', 'kompanjon', 'kompić', 'partner', 'sudrug', 'suradnik', 'viši suradnik'];Bliski prijatelj s kojim se provodi vrijeme i sudjeluje u raznim društvenim aktivnostima
+space-region;['punč'];Vruće ili hladno alkoholno piće koje se priprema od ruma, vina, čaja, šećera i limuna ili naranče
+subject;['kozmografija', 'cosmographer', 'cosmographiji'];Naziv za srednjovjekovnu astronomiju i geografiju kojoj je opisivanje bitno svojstvo. mješavina je antičkih znanja i biblijskih tumačenja
+task;['pokušaj', 'nastojanje', 'poduhvat', 'pothvat', 'pokušati'];Čin ili aktivnost kojom se želi postići neki cilj
+taxonomic-collective;['odjeljak'];(biologija) sistematska (taksonomska) kategorija u klasifikaciji živog svijeta. sadrži razrede kao neposredne taksone. koristi se u sistematici biljaka. pandan koljenu

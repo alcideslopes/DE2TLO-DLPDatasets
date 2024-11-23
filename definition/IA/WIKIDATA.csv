@@ -1,0 +1,178 @@
+activity;['spondeo'];un pede composte per duo syllabas longe o per duo syllabas accentuate
+activity;['amphibracho'];pede composte de un syllaba longe inter duo breve
+activity;['profession', 'mestiero', 'occupation'];Vocation fundate sur un formation specialisate
+activity;['heterosexismo', 'heterosexualismo'];Systema de preoccupationes in favor de relationes inter personas de sexos opposite
+activity;['racismo', 'racialismo'];Ideologia discriminatori contra gruppamentos ethno-social arbitrari
+activity;['occupation', 'affaires', 'negotios', 'activitate'];Qualcunque activitate de un persona (hobby, profession, passatempore, sport professional…)
+activity;['specialitate medical'];Medico specialisate in un disciplina del medicina
+agentive-figure;['divan'];Lista de un projecto de Wikimedia
+agentive-figure;['stato', 'stato soveran', 'nation'];Organisation politic e juridic de un territorio delimitate
+agentive-figure;['hercules'];Heroe del cultura grecoroman.
+agentive-figure;['partito republican'];partito politic del Statos Unite
+agentive-physical-object;['animal', 'animalia'];Regno de organismos multicellular
+agentive-physical-object;['fungo', 'fungi', 'fungus', 'regno fungi'];Regno de organismos
+agentive-physical-object;['eukaryota', 'eucaryote', 'eucaria', 'eucarya', 'eukaryote'];Organismos con cellulas que ha nucleos includite in membranas
+agentive-physical-object;['invertebrata', 'invertebrato', 'invertebrate'];Gruppo de animales
+agentive-physical-object;['homo', 'esser human', 'homine', 'homo sapiens sapiens', 'humano', 'homo sapiens', 'persona', 'esseres human', 'gente', 'human'];Persona qua membro del genere human. nomine commun de Homo sapiens (Q15978631), unic specie existente del genere Homo
+agentive-physical-object;['champignon'];Sporocarpio epigee e carnose de un fungo
+agentive-physical-object;['hominoidea', 'hominoide'];superfamilia de primates
+agentive-physical-object;['pastor german'];Racia de can
+agentive-physical-object;['cibolla', 'allium cepa', 'cepa'];planta del genere Allium
+agentive-physical-object;['merla', 'turdus merula'];specie de ave
+agentive-physical-object;['faisan', 'faisan commun', 'phasianus colchicus'];Specie de ave
+agentive-physical-object;['artiodactyla', 'artiodactylos'];Ordine de mammiferos
+agentive-physical-object;['bonobo', 'pan paniscus'];specie de primate
+amount-of-matter;['chromo', 'chromium', 'cr'];Elemento chimic con numero atomci 24
+amount-of-matter;['natrium', 'sodium', 'na'];Elemento chimic
+amount-of-matter;['seaborgium'];Elemento chimic de symbolo Sg e numero atomic 106
+amount-of-matter;['proteina'];Molecula biologic que consiste de un catena de residuos amino acide
+amount-of-matter;['halogenos', 'elementos de gruppo 17', 'elemento de gruppo 17'];Gruppo de elementos chimic
+biological-object;['systema nervose central', 'systema central de nervos'];Parte del systema nervose
+biological-object;['fructo'];Parte de un planta que contine le semines
+chemical-object;['proteina'];Molecula biologic que consiste de un catena de residuos amino acide
+classification-system;['spatiotempore', 'spatio-tempore', 'continuo spatiotemporal'];Modello mathematic que combina spatio e tempore
+cognitive-event;['felicitate', ':)'];Stato mental o emotional de ben-esser characterisate per emotiones agradabile
+ecological-collective;['foreste', 'wälder', 'silva', 'foresta'];un ecosystema componite de arbores, alsi de arbustos e animales
+functional-matter;['opium'];droga psychoactive, producto de un specie de papavere
+functional-matter;['faba'];Grana edibile de Fabaceae
+functional-matter;['magma'];le petra fundite e calide in partes del mantello terrestre superior e del crusta terrestre inferior
+geographical-object;['mar caspie', 'caspio', 'mar caspian'];Grande laco de Eurasia
+geographical-object;['congo', 'fluvio congo'];Fluvio in Africa
+geographical-object;['rheno', 'fluvio rheno', 'rhine'];fluvio in Europa
+geographical-object;['curso de aqua'];Canal superficial o subterranee in le qual se escola un fluxo de aqua continue o temporari
+geographical-object;['nove guinea'];insula in le Oceano Pacific
+geographical-object;['peninsula de yucatán', 'peninsula de yucatan'];peninsula in America del Nord
+geographical-object;['elba', 'fluvio elba'];fluvio in Europa Central
+geographical-object;['fluvio delaware'];Fluvio in le Statos Unite de America
+geographical-object;['krakatoa', 'krakatau'];insula vulcanic in Indonesia
+geographical-object;['ruhr', 'fluvio ruhr'];Fluvio in Germania
+geographical-object;['chios', 'insula chios'];Insula grec
+geographical-object;['danubio', 'fluvio danubio'];Fluvio in Europa
+geographical-object;['majorca', 'insula majorca'];Insula in le Mediterraneo
+information-object;['portmanteau', 'parola portmanteau', 'parola valise'];parola combinante partes de parolas differente
+information-realization;['publication'];Resultato del acto de publicar. copia imprimite
+language;['norvegiano'];Lingua national de Norvegia
+language;['danese', 'lingua danese', 'da', 'dan'];Lingua national de Danmark
+language;['ro'];Lingua construite
+language;['interlingua', 'ia', 'interlingua de iala', 'pioneros de interlingua'];Lingua auxiliar international naturalistic basate super le vocabulos commun al major linguas europee e super un grammatica anglo-romance simple, initialmente publicate in 1951 per International Auxiliary Language Association
+language;['latino', 'lingua latin', 'latin', 'latino classic'];Lingua indoeuropee
+language;['albanese', 'lingua albanese'];Lingua indoeuropee
+language;['swaghili', 'swahili', 'kiswahili'];Lingua bantu
+language;['lingua espaniol', 'espaniol', 'castiliano', 'lingua castilian'];Lingua romanic originari de Espania
+language;['arabe', 'lingua arabe', 'arabic', 'lingua arabic'];Lingua semitic
+language;['lingua russe', 'russo'];Lingua slave
+language;['germano', 'lingua german'];Lingua germanic occidental
+language;['nederlandese', 'lingua nederlandese', 'hollandese', 'lingua hollandese'];Lingua germanic
+locative-role;['florentia', 'firenze'];Municipalitate italian
+locative-role;['pisa'];Municipalitate italian
+locative-role;['franche-comté'];Region de Francia
+locative-role;['britannia', 'region britannia'];Region de Francia
+locative-role;['provincia ulster', 'ulster'];Provincia traditional de Irlanda
+locative-role;['region centro', 'centre'];Region de Francia
+locative-role;['linguadoc-rossellon', 'languedoc-roussillon'];Region de Francia
+locative-role;['andalusia', 'andalucia'];Communitate autonome de Espania
+locative-role;['genua'];Municipalitate italian
+locative-role;['lorena', 'lorraine'];Region de Francia
+locative-role;['milano'];Municipalitate italian
+locative-role;['new york', 'nove york', 'citate de new york', 'citate de nove york', 'new york city', 'nyc'];Citate del Statos Unite
+locative-role;['philadelphia', 'philadelphia, pennsylvania'];Citate del stato de Pennsylvania, SUA
+locative-role;['america central'];region geographic
+phenomenon;['radiation gamma', 'radios gamma', 'radio gamma'];radiation electromagnetic penetrante
+phenomenon;['photosynthese', 'photosyntese', 'photosynthesis'];Le processo per le qual le plantas produce compostos organic simple ex aqua absorbite per le radices o altere organos e anhydrido carbonic absorbite per le stomas, utilisante energia luminose e liberante oxygeno e aqua como subproductos
+phenomenon;['tusse', 'tussinte'];Reflex ut clarar le glottis
+physical-object;['plana'];Utensile pro carpenteria
+physical-object;['cavallo', 'cavallero'];pecia de chacos
+physical-object;['turre', 'roc'];Pecia de chacos
+physical-object;['dama'];pecia de chacos
+physical-object;['rege'];pecia de chacos
+political-geographic-object;['yugoslavia'];Pais anterior de Europa
+political-geographic-object;['florentia', 'firenze'];Municipalitate italian
+political-geographic-object;['pisa'];Municipalitate italian
+political-geographic-object;['pais basse', 'nederlandia', 'nederland', 'paises basse', 'hollanda'];Pais constituente del Regno del Paises Basse
+political-geographic-object;['anglaterra', 'anglia'];Pais constitutive del Regno Unite
+political-geographic-object;['suissa', 'switza', 'confederation helvetic', 'helvetia', 'ch', 'confederation suisse', 'confederation switze'];Republica federal in Europa occidental
+political-geographic-object;['tonga'];Lista de un projecto de Wikimedia
+political-geographic-object;['genua'];Municipalitate italian
+political-geographic-object;['tennessee', 'stato tennessee'];Stato del Statos Unite de America
+political-geographic-object;['mississippi'];Stato del Statos Unite de America
+political-geographic-object;['virginia'];Stato del Statos Unite de America
+political-geographic-object;['california', 'stato california'];Stato del Statos Unite
+political-geographic-object;['bihar'];Stato de India
+political-geographic-object;['praga', 'praha'];capital del Republica Chec
+political-geographic-object;['bagdad'];Capital de Irak
+political-geographic-object;['roma'];Municipalitate italian
+political-geographic-object;['kiev', 'київ'];Capital e le plus grande citate de Ukraina
+political-geographic-object;['manhattan', 'new york'];insula e borough del citate de Nove York
+political-geographic-object;['brussel', 'bruxelles'];Municipalitate, capital de Belgica
+political-geographic-object;['vilnius'];Capital de Lituania
+political-geographic-object;['luxemburg'];Capital del granducato de Luxemburg
+political-geographic-object;['kigali'];capital de Ruanda
+political-geographic-object;['cairo'];Capital de Egypto
+political-geographic-object;['milano'];Municipalitate italian
+political-geographic-object;['new york', 'nove york', 'citate de new york', 'citate de nove york', 'new york city', 'nyc'];Citate del Statos Unite
+political-geographic-object;['philadelphia', 'philadelphia, pennsylvania'];Citate del stato de Pennsylvania, SUA
+political-geographic-object;['toronto'];Le plus grande citate in Canada
+region;['0', 'zero'];numero integre ante un
+region;['numero complexe'];Un numero exprimite per a+bi con le parte real a e le parte imaginari b
+region;['joule'];Unitate de energia in le Systema International de Unitates
+region;['cento', '100'];Numero natural
+region;['septe', '7'];Numero natural
+relation;['sud-est'];Direction intercardinal
+set;['subgruppo'];Un subinsimul de un grupo, que mesme es etiam un gruppo
+situation;['frigido', 'nasopharyngitis', 'rheuma', 'rhinopharyngitis'];Maladia respiratori viral
+situation;['tusse', 'tussinte'];Reflex ut clarar le glottis
+situation;['cremation'];disposition final de un cadavere per ardimento
+situation;['connotation'];significato implicite como distinguite del significato litteral
+social-relationship;['politica'];Omne lo que concerne le activitates e le modalitates de governamento
+socially-constructed-person;['henrico vi de anglaterra'];rege de Anglaterra
+socially-constructed-person;['papa gregorio xiii', 'gregorio xiii'];Papa del Ecclesia Catholic
+socially-constructed-person;['frédéric chopin', 'frederic chopin'];Compositor polonese
+socially-constructed-person;['rossetti', 'dante gabriel rossetti'];Pagina de disambiguation
+socially-constructed-person;['mahomet', 'mohammed', 'muhammad'];Propheta de islam
+socially-constructed-person;['fungo', 'fungi', 'fungus', 'regno fungi'];Regno de organismos
+socially-constructed-person;['john locke'];Philosopho anglese
+socially-constructed-person;['jean-jacques rousseau'];Philosopho genevese
+socially-constructed-person;['ludwig wittgenstein'];Philosopho austriac–britannic
+socially-constructed-person;['cornuto'];Lista de un projecto de Wikimedia
+socially-constructed-person;['puera', 'pupa'];Juvene esser human feminin
+socially-constructed-person;['propheta'];Persona qui professa parlar per inspiration divin
+socially-constructed-person;['biochimista', 'biochimico'];scientifico specialisante in biochimia
+socially-constructed-person;['john von neumann'];Illustre mathematico del seculo 20
+spatial-feature;['krakatoa', 'krakatau'];insula vulcanic in Indonesia
+spatial-feature;['etna', 'monte etna'];vulcano sicilian
+subject;['phonetica'];le branca del linguistica que se occupa o tracta del sonos
+subject;['psychiatria'];Specialitate medical dedicate al studio e tractamento de maladias mental
+subject;['metaphysica'];Philosophia del principios transcendente del natura sensibile e le fundamentos del esser in general
+subject;['phonologia'];le studio de patronos de sono in un lingua
+taxonomic-collective;['tribo'];Rango taxinomic
+taxonomic-collective;['classe'];Rango taxinomic
+taxonomic-collective;['specie', 'species'];Rango taxinomic
+taxonomic-collective;['clado'];Taxon generalmente sin rango. gruppo monophyletic
+taxonomic-collective;['leguminosas', 'fabaceae', 'leguminosae'];familia de plantas
+taxonomic-collective;['hominide', 'hominidae'];familia de primates
+taxonomic-collective;['charales'];categoria Wikimedia
+taxonomic-collective;['felis', 'catto'];Genere de felinos
+taxonomic-collective;['phoca'];Genere de mammiferos
+temporal-region;['1 de julio', '07-01'];Data
+temporal-region;['1 de januario', '01-01'];Data
+temporal-region;['2 de februario', '02-02'];Data
+temporal-region;['1 de novembre', '11-01'];Data
+temporal-region;['25 de decembre', 'natal', '12-25'];Data
+temporal-region;['19 de martio', '03-19'];Data
+temporal-region;['14 de april', '04-14'];Data
+temporal-region;['24 de octobre', '10-24'];Data
+temporal-region;['12 de octobre', '10-12'];Data
+temporal-region;['4 de julio', '07-04'];Data
+temporal-region;['24 de maio', '05-24'];Data
+temporal-region;['17 de septembre', '09-17'];Data
+temporal-region;['1 de augusto', '08-01'];Data
+temporal-region;['14 de junio', '06-14'];Data
+temporal-region;['29 de junio', '06-29'];Data
+temporal-region;['29 de septembre', '09-29'];Data
+temporal-region;['21 de junio', '06-21'];Data
+temporal-region;['1 de maio', '05-01'];Data
+temporal-region;['2 de martio', '03-02'];Data
+temporal-region;['29 de februario', '02-29'];Data
+temporal-region;['23 de junio', '06-23'];Data
+temporal-region;['primavera', 'ver'];station del anno
+temporal-region;['epiphania', '6 de januario', '01-06'];Data

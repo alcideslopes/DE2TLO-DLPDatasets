@@ -1,0 +1,686 @@
+abstract-region;['terfyn', 'terfan', 'cyfyngu ar bwynt', 'pwynt o gasglu'];term mathemategol
+activity;['gwrthdaro', 'gwahaniaeth barn'];Anghytundeb neu anghydfod o fewn grŵp
+activity;['coetiau', 'coets', 'choetennau', 'pedol', 'pedolau', 'pwll pedol'];gêm daflu
+activity;['brwydr', 'cad', 'brwydrau', 'frwydr', 'gwrthdaro', 'ymgysylltu', 'ymgysylltu milwrol', 'ymladd', 'ysgarmesoedd'];Ymosodiad gan fyddin, sy'n rhan o ryfel ehangach
+activity;['gymnasteg', 'mabolgampau', 'gymnastwyr'];chwaraeon
+activity;['addysg', 'addysgu', 'didactics', 'addysgol', 'addysgwr', 'addysgwyr', 'addysgydd', 'gweithgaredd addysgol', 'hyfforddiant', 'system addysg', 'system addysgol'];Dysgu, lle mae gwybodaeth a sgiliau yn cael eu trosglwyddo trwy addysgu
+activity;['ffeirio', 'economi ffeirio', 'cyfnewid', 'gyfnewid', "i'w gyfnewid", 'masnach ffeirio', 'system ffeirio'];Cyfnewid nwyddau
+activity;['cyfodi', 'gwrthryfel', 'gwrthryfelwyr', 'insurgence', 'insurgencies'];codi mewn terfysg neu gwrthryfeliad
+activity;['pŵl', 'biliards poced', 'pwll'];Casgliad o chwaraeon ciw
+activity;['hiliaeth', 'gwahaniaethu ar sail hil', 'ragfarn hiliol', 'rhagfarn hiliol', 'goruchafiaeth hiliol', 'gwahaniaethu ethnig', 'oruchafiaeth hiliol'];Ffurf hil neu wahaniaethu ar sail ethnigrwydd
+activity;['monetization', 'monetize'];Tudalen wahaniaethu Wikimedia
+activity;['ymfudo', 'allfudo', 'ymfudwyr', 'allfudiad', 'ymfudiad', 'ymfudwr', 'expatriation', 'mudo dynol', 'ymfudodd'];Gadael gwlad neu ranbarth eich hun gyda'r bwriad o setlo'n barhaol mewn un arall
+activity;['cerddoriaeth leisiol'];genre o gerddoriaeth yn cael ei berfformio gan un neu fwy o gantorion
+activity;['pync-roc', 'roc pync', 'pync', 'pync roc', 'adfywiad pync', 'band pync', 'band pync roc', 'gerddoriaeth pync', 'punkrock'];Genre cerddorol
+activity;['rhestr', 'chyfrif', 'cyfrif', 'system rhifolyn'];Rhestr orchymyn o'r holl eitemau mewn casgliad
+activity;['datrefedigaethu', 'dad-drefedigaethu', 'dadwladychu', 'dadwladychiad'];Dadwneud gwladychiaeth
+activity;['ymddiwylliannu', 'mabwysiadu diwylliant', 'enculturation', 'acculturation'];Proses o newid diwylliannol a seicolegol
+activity;['tenor', 'heldentenor', 'llais tenor', 'tenor dramatig', 'tenor telynegol', 'tenoriaid'];Llais gwrywaidd canu clasurol
+activity;['bas', 'bas llais', 'basso', 'basso buffo'];Math o lais canu clasurol
+activity;['addysg', 'addysgu', 'didactics', 'addysgol', 'addysgwr', 'addysgwyr', 'addysgydd', 'gweithgaredd addysgol', 'hyfforddiant', 'system addysg', 'system addysgol'];Dysgu, lle mae gwybodaeth a sgiliau yn cael eu trosglwyddo trwy addysgu
+activity;['adleoli'];Proses o adael lleoliad sefydlog (fel preswylfa neu fusnes) a setlo mewn un gwahanol
+agentive-figure;['cwmni cyfyngedig', 'ltd', 'cwmnïau cyfyngedig', 'gwmni cyfyngedig', 'gwmni cyfyngedig preifat', 'gwmnïau cyfyngedig', 'ld.'];tudalen wahaniaethu Wikimedia
+agentive-figure;['esyllt', 'iseult', 'isolde'];Cariad Trystan
+agentive-figure;['organ awdurdod'];Endid sy'n gweithredu mewn synnwyr cyfreithiol
+agentive-figure;['big band', 'band mawr', 'bandiau mawr', 'gerddorfa jazz', 'mawr-band'];grŵp cerddoriaeth jas
+agentive-figure;['y blaid ffederal', 'americanaidd federalist parti', 'blaid federalist', 'federalist parti', 'ffederal parti', 'unol daleithiau federalist blaid'];plaid cyntaf UDA
+agentive-figure;['coleg catholig', 'coleg diwinyddol', 'athrofa', 'coleg beiblaidd', 'goleg diwinyddol', 'seminarians', 'seminary diwinyddol', 'seminarïau', 'ysgol diwinyddiaeth'];coleg sy'n arbenigo mewn addysg grefyddol Gristionogol
+agentive-figure;['coleg catholig', 'coleg diwinyddol', 'athrofa', 'coleg beiblaidd', 'goleg diwinyddol', 'seminarians', 'seminary diwinyddol', 'seminarïau', 'ysgol diwinyddiaeth'];coleg yn Ffrainc
+agentive-figure;['undeb ewropeaidd', 'y gymuned ewropeaidd', 'yr undeb ewropeaidd', 'ue', 'gymuned economaidd ewropeaidd', 'gymuned ewropeaidd', 'yr ue', '🇪🇺', 'cymuned economaidd ewropeaidd', 'cymuned ewropeaidd', 'eu', 'undeb ewrop', 'yr undeb ewropiaidd', 'eec', 'farchnad gyffredin', 'ce', 'e.u', 'ewropeaidd yr undeb', 'farchnad gyffredin ewropeaidd'];Undeb o wladwriaethau Ewropeaidd
+agentive-figure;['awyrlu', 'llu awyr', 'lu awyr', 'lluoedd awyr'];Un o dair cangen byddin gwlad
+agentive-figure;['plaid weriniaethol', 'y blaid weriniaethol', 'plaid gweriniaethol', "plaid gweriniaethol o'r unol daleithiau", "plaid gweriniaethol o'r unol daleithiau america", 'plaid gweriniaethol yr unol daleithiau', 'plaid weriniaethol yr unol daleithiau', 'gop', 'weriniaethol y blaid'];plaid wleidyddol yn yr Unol Daleithiau
+agentive-figure;['yr eglwys esgobol', 'eglwys esgobol brotestanaidd', 'protestannaidd eglwys esgobol'];Enwad Anglicanaidd UDA
+agentive-physical-object;['pwmpen', 'maro', 'cucurbita pepo', 'cucurbita maxima', 'pwmpen hydref', 'pwmpenni', 'winwydden pwmpen'];Ffrwyth
+agentive-physical-object;['derwen', 'derw', 'quercus', 'dderwen', 'y dderwen', 'dderw americanaidd', 'derw americanaidd', 'derw coed', 'goed derw'];genws o blanhigion. math o goeden
+agentive-physical-object;['cap cennog blewog', 'pholiota squarrosa', 'cennog pholiota'];Math o ffwng
+agentive-physical-object;['styffylwr', 'staplwr', 'stapler', 'staplydd', 'stwfflwr', 'stwfflydd', 'styffylydd', 'styffylu peiriant'];Offer swyddfa, a meddygol, i ddal dalennau at ei gilydd neu yn erbyn pared, neu uno organnau
+agentive-physical-object;['planhigion castan dŵr'];Tudalen wahaniaethu Wikimedia
+agentive-physical-object;['lemon', 'lemwn', 'limwn', 'citrus limon', 'lemon coed', 'lemonau'];Ffrwyth
+agentive-physical-object;['daucus carota', 'moronen', 'llys meddyglyn', 'meddyglyn', 'moronen coch', 'moronen wyllt', 'moronen y maes', 'nyth aderyn', 'hedyn moronen', 'moronen yr ardd', 'moron gwyllt', 'y frenhines anne yn les'];rhywogaeth o blanhigyn
+agentive-physical-object;['titwod cynffonhir', 'swidw gynffon-hir', 'swigw hirgwt', 'titw cynffon-hir', 'aegithalidae', 'bushtit', 'llwyn titw'];Teulu o adar
+agentive-physical-object;['gwyach ylfinfraith', 'podilymbus podiceps', 'gwyachod gylfinfrith', 'brith-filio gwyachod', 'podiceps podilymbus'];Rhywogaeth o adar
+agentive-physical-object;['iâr ddŵr america', 'porphyrio martinica', 'gallinula martinica', 'fulica martinica', 'americanaidd gallinule', 'porphyrula martinica'];Rhywogaeth o adar
+agentive-physical-object;['caliergon giganteum', 'gwernfwsogl anferth', 'arctig mwsogl', 'ceirw mwsogl', 'cen ceirw', 'cladonia rangiferina', 'mwsogl ceirw'];Rhywogaeth o fwsogl
+agentive-physical-object;['pwdl', 'poodles', 'pwdl ci', 'standard pwdl'];brîd o gi
+agentive-physical-object;['cordog', 'chordate', 'chordata', 'cordat', 'cordatau'];Ffylwm o anifeiliaid
+agentive-physical-object;['passeri', 'adar canu', 'aderyn canu', 'adar cân', 'songbird'];Is-Urdd o adar
+agentive-physical-object;['homo', 'bod dynol', 'homo sapiens sapiens', 'homo sapiens', 'person', 'bodau dynol', 'dynolryw', 'fodau dynol', 'hominina', 'pobol', 'dynol', 'dyn', 'dynol yn cael ei', 'rhywogaeth ddynol', 'y dynol'];Rhywogaeth o deulu Hominidae, rhywogaeth unigryw o''r genws Homo
+agentive-physical-object;['gwybedogion', 'muscicapidae', 'gwybedog hen fyd', 'gwybedog gwir'];Teulu o adar
+agentive-physical-object;['rhydiwr', 'aderyn hirgoes', 'aderyn rhydiol', 'rhydydd', 'rhydyddion', 'adar hirgoes', 'adar y glannau', 'hirgoes adar'];Isurdd o adar
+agentive-physical-object;['aderyn paradwys', 'paradisaeidae', 'paradisaedae', 'adar-o-baradwys', 'adar o baradwys', 'adar o paradise'];Teulu o adar
+agentive-physical-object;['helygen', 'helyg', 'salix', 'coed helyg'];Genws (grwp) o blanhigion
+agentive-physical-object;['cogau', 'cog', 'cuculus canorus', 'cuculidae', 'gog'];Teulu o adar
+agentive-physical-object;['thraupidae', 'thraupinae', 'catamblyrhynchinae', 'tanager'];Is deulu o adar
+agentive-physical-object;['ehedydd', 'alaudidae'];Teulu o adar
+agentive-physical-object;["llysiau'r afu", 'llys yr afu', 'llys yr iau', "llysiau'r iau", 'marchantiophyta', 'hepaticae', 'hepatig'];grwp o banhigion anflodeuol bach, o'r rhaniad Marchantiophyta
+agentive-physical-object;['dendrocolaptidae', 'woodcreeper', 'coed-dringwr bach', 'dendrocolaptinae', 'woodhewer'];Teulu o adar
+agentive-physical-object;['pedrynnod plymio', 'pelecanoides', 'pelecanoididae', 'deifio drycin', 'drycin deifio', 'plymio-drycin'];Teulu o adar
+agentive-physical-object;['eryr', 'eryrod', 'accipitridae', 'aderyn o jove', 'hebog-eryr'];Teulu o adar
+agentive-physical-object;['caracara', 'caracarinae'];Isdeulu o adar
+agentive-physical-object;['dringwyr coed', 'certhiidae', 'dringwr bach'];Teulu o adar
+agentive-physical-object;['alstroemeria'];Genws o blanhigion blodeuol, brodorol i Dde America
+agentive-physical-object;['seriemaid', 'cariamidae', 'chunga', 'chunga burmeisteri', 'seriema'];Teulu o adar
+agentive-physical-object;['pachycephalinae', 'thickhead'];Isdeulu o adar
+agentive-physical-object;['cornbigau', 'bucerotidae', 'hornbills', 'hornbill'];Teulu o adar
+agentive-physical-object;['picidae', 'cnocellod', 'cnocell', 'cnocell y coed', 'gnocell y coed', 'peckerwood'];Teulu o adar
+agentive-physical-object;['coblynnod coed', 'hemiprocnidae', 'coed cyflym', 'cribog cyflym'];Teulu o adar
+agentive-physical-object;['iâr ddŵr', 'iârddŵr', 'moorhen', 'iar ddwr', 'gallinula chloropus', 'iâr'];Rhywogaeth o adar
+agentive-physical-object;['piod môr', 'haematopus', 'haematopodidae', 'pioden y môr', 'wystrys catcher'];Teulu o adar
+agentive-physical-object;['cigfachwyr', 'strepera', 'cracticidae', 'currawong', 'gloch bioden'];Teulu o adar
+agentive-physical-object;['armadilo', 'armellog', 'dasypodidae', 'cingulata', 'dulog', 'armadillos'];Mamal â phlatiau esgyrnog yn amddiffyn ei ben a'i gorff
+agentive-physical-object;['jac-y-do', 'jac y do', 'coloeus monedula', 'jac-do', 'corvus monedula', 'daw'];Rhywogaeth o adar
+agentive-physical-object;['llyffant y twyni', 'epidalea calamita', 'bufo calamita', 'twyni'];Rhywogaeth o lyffantod
+agentive-physical-object;['cap inc aflêr', 'coprinus comatus', 'cap shaggy', 'madarch shaggymane', 'shaggymane'];Rhywogaeth o ffwng
+agentive-physical-object;['gwennol y bondo', 'gwennol y muriau', 'delichon urbica', 'gwennol y fondo', 'bondo', 'delichon', 'house martin'];Rhywogaeth o adar
+agentive-physical-object;['fireo unig', 'vireo solitarius', 'blue-headed vireo', 'glas-headed vireo', 'vireo solitarius solitarius'];Rhywogaeth o adar
+agentive-physical-object;['cardinalinae', 'cardinal cyffredin', 'cardinaliaid', 'cardinalidae', 'cardinal', 'y cardinaliaid', 'cardinalis cardinalis', 'cardinal grosbeak', 'richmondena cardinalis'];Teulu o adar
+agentive-physical-object;['hind'];Enw personol benywaidd
+agentive-physical-object;['bras coed', 'spizella arborea'];Rhywogaeth o adar
+agentive-physical-object;['gwanwr america', 'gwanwyr', 'anhingidae', 'gwanwr', 'anhinga anhinga', 'anhinga', 'darters', 'gwibiwr', 'snakebird'];Teulu o adar
+agentive-physical-object;['struthioniformes', 'ratitae', 'anifeiliaid di-gêl', 'adar di-gêl', 'adar hedfan', 'aderyn hedfan', 'anifeiliaid di-gêl adar', 'hedfan'];Uwch-urdd o adar
+agentive-physical-object;['trogoniformes', 'trogoniaid', 'trogon', 'trogonidae'];Teulu o adar
+agentive-physical-object;['trogoniformes', 'trogoniaid', 'trogon', 'trogonidae'];Urdd o adar
+agentive-physical-object;['chwiwell', 'anas penelope'];Rhywogaeth o adar
+agentive-physical-object;['adar drudwy', 'sturnus vulgaris', 'drudwy', 'drudwen'];Teulu o adar
+agentive-physical-object;['grugiar ddu'];Rhywogaeth o adar
+agentive-physical-object;['sgimwyr', 'rynchopidae', 'sgimwr', 'sgimiwr'];Teulu o adar
+agentive-physical-object;['ffacbysen y gwanwyn', 'ffugbysen wyllt', 'vicia sativa', 'vicia lathyroides', 'sativa'];rhywogaeth o blanhigyn
+agentive-physical-object;['aepyornis', 'aepyornis maximus', 'aepyornithidae', 'adar eliffant'];genws o adar
+agentive-physical-object;['aepyornis', 'aepyornis maximus', 'aepyornithidae', 'adar eliffant'];Rhywogaeth o adar
+agentive-physical-object;['accipitriformes', 'yr eryrod', 'accipitriformes gorchymyn'];Urdd o adar
+agentive-physical-object;['crëyr mawr glas', 'ardea herodias', 'ardea herodius', 'crehyrod glas mawr', 'great blue heron', 'mawr glas glas'];Rhywogaeth o adar
+agentive-physical-object;['fwlturiaid y byd newydd', 'cathartidae', 'fwltur byd newydd', 'cathartid'];Teulu o adar
+agentive-physical-object;['cnocell fwyaf america', 'campephilus principalis', 'ifori-bilio gnocell y coed', 'ivorybill'];Rhywogaeth o adar
+agentive-physical-object;['musophagiformes', 'twracoaid', 'musophagidae', 'y twracoaid', 'turaco', 'touraco', 'turacou', 'turakoo'];Teulu o adar
+agentive-physical-object;['cea', 'nestor notabilis', 'kea'];Rhywogaeth o adar
+agentive-physical-object;['cornchwiglen', 'cornicyllod', 'cornchwiglod', 'gornchwiglen', 'gwyrdd cwtiad', 'peewit'];Rhywogaeth o adar
+agentive-physical-object;['iâr y coed', 'grifola frondosa', 'iar y coed', 'hen-of-the-coed', "iâr o'r goedwig", 'maitake', 'polyporus frondosus'];math o ffyngau
+agentive-physical-object;['ciconia pig esgid', 'balaeniceps rex', 'shoebill', 'balaenicipididae', 'shoebird'];Rhywogaeth o adar
+agentive-physical-object;['pryfyn y gweryd', 'tabanidae', 'robin y diawl gwyllt', 'robin gwrw', 'robin y gyrrwr', 'cleg', 'clegg', 'dipio ceffyl', 'hedfan ceffyl', 'horsefly'];Pryf sydd yn heintio gwartheg ac anifeiliaid mawr eraill, yn boenus, trwy dreiddio o dan y croen.
+agentive-physical-object;['mulfran', 'mulfrain', 'phalacrocoracidae', 'phalacrocorax carbo', 'shag'];Teulu o adar
+agentive-physical-object;['rhedwr y moelydd', 'rhedwyr', 'burhinidae', 'stone curlews', 'burhinus oedicnemus', 'garreg y gylfinir', 'stone gylfinir', 'trwchus-pen-glin'];Teulu o adar
+agentive-physical-object;['ceiliog y waun', 'ceiliog y gwerni', 'otis tarda', 'bustard great', 'bustard mawr'];Rhywogaeth o adar
+agentive-physical-object;['anthocerotophyta', 'cornlysiau', 'cyrnddail', 'hornworts'];Grwp o blanhigion
+agentive-physical-object;['himantopus', 'himantopus stilts', 'hir-coesau', 'longlegs', 'stiltbird', 'stilts', 'stilts cwtiad'];genws o adar
+agentive-physical-object;['cambig', 'recurvirostra avosetta'];Rhywogaeth o adar
+agentive-physical-object;['rholyddion daear', 'brachypteraciidae', 'rholydd daear', 'roller ddaear', 'tir-rholer'];Teulu o adar
+agentive-physical-object;['troellwyr', 'gwalch y nos', 'nyddwr', 'troellwr', 'caprimulgidae', 'chordeiles minor', 'cudyll-droellwr', 'cudylldroellwr', 'cudylldroellwyr', 'troellwr mawr', 'caprimulgid', 'goatsucker'];Teulu o adar
+agentive-physical-object;['socan eira', 'turdus pilaris', 'fieldfare'];Rhywogaeth o adar
+agentive-physical-object;['bobolinc', 'dolichonyx oryzivorus', 'bobolink'];Rhywogaeth o adar
+agentive-physical-object;['bwlbwliaid', 'pycnonotidae', 'bwlbwliad', 'bulbul'];Teulu o adar
+agentive-physical-object;['tylluan', 'strigiformes', 'gwdihw', 'gwdihŵ', 'tylluanod', 'y gwir dylluan', 'aderyn o minerva', 'aderyn y nos', 'dylluan'];Math o adar (rhywogaeth)
+agentive-physical-object;['ciwi', 'kiwi', 'apterygiformes', 'ciwïod', 'apteryx', 'kiwis'];Urdd o adar
+agentive-physical-object;['rholyddion', 'coraciidae', 'rholeri', 'rholio'];Teulu o adar
+agentive-physical-object;['paun, peunes', 'pavo cristatus', 'glas peafowl'];Rhywogaeth o adar
+agentive-physical-object;['passeriformes', 'aderyn clwydol', 'aderyn golfanaidd', 'passerine', 'golfanod', 'passeriform adar'];Urdd o adar
+agentive-physical-object;['llydandroed llwyd', 'phalaropus fulicarius', 'coch phalarope', 'grey phalarope', 'phalarope red'];Rhywogaeth o adar
+agentive-physical-object;['grugiar goch', 'lagopus lagopus scotica', 'lagopus scoticus', 'moorbird', 'moorfowl', 'moorgame', 'rhos-adar', 'rugiar goch', 'y rugiar goch'];Rhywiogaeth o adar
+agentive-physical-object;['bacteria', 'bacteriwm', 'eubacteria', 'facteriol', 'bacteriol'];Teyrnas o prokaryotes
+agentive-physical-object;['telor', 'teloriaid', 'old world telor', 'telor gwir', 'telor hen fyd', 'teloriaid hen fyd'];Teulu o adar
+agentive-physical-object;['gwylan benddu', 'gwylan chwerthinog', 'larus ridibundus', 'chroicocephalus ridibundus', 'larus atricilla', 'leucophaeus atricilla', 'chwerthin gwylan', 'laughing gwylan', 'pewit gwylan'];Rhywogaeth o adar
+agentive-physical-object;['llwyd y gwrych', 'llwyd gwrych yr alban', 'llwyd y berth', 'gwrych aderyn y to', 'prunella modularis'];Rhywogaeth o adar
+agentive-physical-object;['gwyach', 'gwyachod', 'podicipediformes', 'podicipedidae', 'pocipedidae'];Urdd o adar
+agentive-physical-object;['coch dan adain', 'coch dan-aden', 'turdus iliacus'];Rhywogaeth o adar
+agentive-physical-object;['telor yr hesg', 'acrocephalus schoenobaenus', 'hesg', 'hesg adar'];Rhywogaeth o adar
+agentive-physical-object;['aderyn y to', 'passer domesticus', 'saesneg aderyn y to'];Rhywogaeth o adar bychan
+agentive-physical-object;['llinos', 'carduelis cannabina', 'ewrasiaidd llinos', 'lintwhite'];Rhywogaeth o adar
+agentive-physical-object;['pengwin brefog', 'spheniscus demersus', 'pengwin jackass'];Rhywogaeth o adar
+agentive-physical-object;['corsoflieir', 'corsofliâr', 'turnicidae', 'botwm-sofliar', 'botwm quail', 'buttonquail', 'hemipode', 'sofliar bustard'];Teulu o adar
+agentive-physical-object;['pila gwyrdd', 'carduelis spinus', 'spinus spinus'];Rhywogaeth o adar
+agentive-physical-object;['trochwyr', 'cinclidae', 'dŵr mynydd'];Teulu o adar
+agentive-physical-object;['brychion', 'bronfraith', 'brych', 'fronfraith', 'llindag'];Teulu o adar
+agentive-physical-object;['hirgoes', 'hirgoes y penrhyn', 'himantopus himantopus', 'black-winged stilts', 'brith stilts', 'du-adenydd stilts'];Rhywogaeth o adar
+agentive-physical-object;['pibydd crwydrol', 'heteroscelus incanus', 'polynesaidd tattler'];Rhywogaeth o adar
+agentive-physical-object;['todiaid', 'todus', 'todi', 'todidae', 'tody'];Teulu o adar
+agentive-physical-object;['motmotiaid', 'momotidae', 'motmot', 'momot'];Teulu o adar
+agentive-physical-object;['jacamarod', 'galbulidae', 'jacamar'];Teulu o adar
+agentive-physical-object;['gwybed-ddalwyr', 'polioptilidae', 'gwybed-ddaliwr', 'gnatcatcher'];Teulu o adar
+agentive-physical-object;['aderyn', 'adar', 'aves', 'bird', 'avafauna', 'avifauna', 'clwydo'];Dosbarth o detrapodau
+agentive-physical-object;['hirgoes torchog', 'cladorhynchus leucocephalus', 'bandiau stilts', 'cladorhyncus leucocephalum', 'resog stilts'];Rhywogaeth o adar
+agentive-physical-object;['cocatŵ pinc', 'cacatua leadbeateri', 'kakatoe leadbeateri', 'pinc cockatoo'];Rhywogaeth o adar
+agentive-physical-object;['cocatŵod', 'cocatŵ', 'cacatuidae', 'cockatoo', 'cockatoos'];Teulu o adar
+agentive-physical-object;['caws cesar', 'amanita caesarea', 'amanita caesaria', 'amanita croen neidr', 'amanita cesarea', "brenhinol amanita'r", "cesar amanita'r"];math o ffwng
+amount-of-matter;['dŵr', 'dwfr', 'h₂o', 'dwr', 'water', 'dŵr hylif', 'dŵr hylifol', 'h2o'];Yr hylif mwya cyffredin ar y ddaear
+amount-of-matter;['propylthiowracil', '2-thio-4-oxo-6-propyl-1,3-pyrimidine', '2-thio-6-propyl-1,3-pyrimidin-4-one', '4-propyl-2-thiouracil', '6-propyl-2-thiouracil', '6-propylthiouracil', '6-thio-4-propyluracil', 'thyreostat', '2,3-dihydro-6-propyl-2-thioxo-4(1h)-pyrimidinone', '6-propyl-2-thio-2,4(1h,3h)pyrimidinedione', '6-propyl-2-thioxo-2,3-dihydropyrimidin-4(1h)-one', 'propylthiouracil'];cyfansoddyn cemegol
+amount-of-matter;['hydrogen', 'ulai', 'h', 'heidrogen', 'dihydrogen', 'hydrogen moleciwlaidd', 'moleciwl hydrogen', 'nwy hydrogen', 'rhif atomig 1'];elfen gemegol gyda'r symbol H a'r rhif atomig 1
+amount-of-matter;['aur', 'au', 'gold', 'aur brodorol', 'aur wythïen', 'rhif atomig 79'];Elfen gemegol gyda'r rhif atomig o 79
+amount-of-matter;['llaeth', 'llefrith', 'lefrith', 'laeth buwch', 'protein llaeth', 'solidau llaeth'];Hylif gwyn a gynhyrchir gan famolion benyw
+amount-of-matter;['alb', 'serwm albwmin'];Genyn codio-protien yn y rhywogaeth Homo sapiens
+amount-of-matter;['carbon', 'ulwyn', 'c', 'atom carbon', 'carbonaidd', 'carbons', 'rhif atomig 6'];elfen gemegol gyda'r rhif atomig 6
+amount-of-matter;['tg', 'thyroglobulin'];Genyn codio-protien yn y rhywogaeth Homo sapiens
+amount-of-matter;['carbon monocsid', 'co', 'monocsid carbon', 'nwy carbon monocsid'];nwy gwenwynig
+amount-of-matter;['oxyde de cuivre', 'copr ocsid'];Tudalen wahaniaethu Wikimedia
+amount-of-matter;['llaeth', 'llefrith', 'lefrith', 'laeth buwch', 'protein llaeth', 'solidau llaeth'];Hylif gwyn a gynhyrchir gan famolion benyw
+biological-object;['mastgell', 'mastgelloedd', 'cell mast', 'celloedd mast', 'labrocyte', 'mastocyte'];Math o gell
+biological-object;['tegyll', 'tagell', 'lamela', 'lamella'];rhan o'r fadarchen sydd oddi tan y capan
+biological-object;['afal', 'malus domestica', 'afallen', 'coeden afalau', 'afalau', 'green apple'];Ffrwyth
+biological-object;['ffrwyth', 'frwyth', 'ffrwythau', 'pod hadau'];Rhan o blanhigyn blodeuol
+causal-role;['diheintydd', 'antimicrobiano', 'germicide', 'gwrthficrobaidd', 'antimicrobic', 'asiant gwrthficrobaidd', 'ddiheintio', 'diheintyddion', 'gwrth-ficrobaidd', 'gwrthficrobau', 'sanitizer'];tudalen wahaniaethu Wikimedia
+causal-role;['agt', 'angiotensin', 'angiotensinogen', 'angiotonin', 'hypertensin'];Genyn codio-protien yn y rhywogaeth Homo sapiens
+chemical-object;['ïon hydrogen', 'ïonau hydrogen'];Tudalen wahaniaethu Wikimedia
+chemical-object;['alb', 'serwm albwmin'];Genyn codio-protien yn y rhywogaeth Homo sapiens
+chemical-object;['tg', 'thyroglobulin'];Genyn codio-protien yn y rhywogaeth Homo sapiens
+classification-system;['strwythur data', 'strwythurau data'];Ffordd benodol o storio a threfnu data mewn cyfrifiadur
+cognitive-event;['trichotillomania'];Cyflwr lle mae person yn teimlo’r angen i dynnu eu gwallt
+cognitive-modal-description;['barn y byd', 'weltanschauung', 'byd-olwg', 'byd barn', 'fyd-olwg'];Ymagwedd athronyddol neu ddiwinyddol tuag at ei le yn y byd a / neu gymdeithas
+commerce-role;['cynwydd', 'nwydd', 'nwyddau', 'nwyddau economaidd', 'cynwyddau', 'da', 'fasnachu yn dda'];Peth diriaethol ac anniriaethol, ac eithrio gwasanaethau caeth llafur, sy'n bodloni dymuniadau dynol ac sy'n darparu cyfleustodau
+commerce-role;['cynnyrch', 'nwyddau', 'cynhyrchion', 'nwydd'];Unrhyw beth y gellir ei gynnig i farchnad a allai fodloni angen
+course;['damwain car', 'damwain cerbyd', 'damwain modur', 'damwain auto', 'damwain automobile', 'damwain cerbyd modur', 'damwain ffordd', 'damwain traffig', 'damweiniau automobile', 'damweiniau car', 'damweiniau cerbydau modur', 'damweiniau traffig', 'ddamweiniau car', 'dorri i fyny', 'gwrthdrawiad traffig', 'troseddwyr bender'];damwain draffig yn cynnwys o leiaf un car
+course;['bag1'];Genyn codio-protien yn y rhywogaeth Homo sapiens
+course;['esgoriad ffolennol', 'cyflwyniad ffolennol', 'genedigaeth ffolennol'];Geni babi pen ôl yn gyntaf
+course;['y cylch busnes', 'cylch busnes', 'cylch economaidd', 'gylchred fasnach'];Tudalen wahaniaethu Wikimedia
+course;['canlyniad', 'ganlyniad', 'effaith'];Canlyniad terfynol cyfres o weithredoedd neu ddigwyddiadau
+ecological-collective;['coedwig', 'wälder', 'goedwig', 'fforest', 'coed', 'coediog', 'coedwig gonifferaidd', 'coedwigoedd'];Cyfenw
+event;['gemau olympaidd y gaeaf', 'olympaidd y gaeaf'];Digwyddiad chwaraeon rhyngwladol mawr
+event;['knell', 'cnul'];Cyfenw
+functional-matter;['hangeul', 'hangul', 'alffabet coreaidd', 'chosongul', "chosŏn'gŭl", 'tsiòson-gwl'];Alffabet Coreaidd
+functional-matter;['hagis', 'haggis'];pwdin sawrus sy'n cael ei gysylltu yn bennaf â'r Alban
+functional-matter;['anesthetig', 'anaestheteg', 'anesthetig asiant'];cyffur sy'n lleihau poen ac yn gyrru'r claf i gysgu
+functional-matter;['toes', 'does'];Past a ddefnyddir i bobi bara a pharatoi bwydydd eraill
+functional-matter;['gcg', 'glwcagon'];Genyn codio-protien yn y rhywogaeth Homo sapiens
+functional-matter;['rho', 'rhodopsin', 'gweledol porffor', 'porffor retina'];Genyn codio-protien yn y rhywogaeth Homo sapiens
+functional-matter;['cardbord', 'cardfwrdd', 'carbord', 'bwrdd cyfansoddiad'];Papur gwydn i greu blychan
+functional-matter;['pwdin', 'melysfwyd', 'afters', 'pwdinau'];Melysfwyd i fwyta ar ôl cinio
+functional-matter;['plat', 'meinwe plasminogen activator', 'activase', 'alteplase'];Genyn codio-protien yn y rhywogaeth Homo sapiens
+functional-matter;['llaeth', 'llefrith', 'lefrith', 'laeth buwch', 'protein llaeth', 'solidau llaeth'];Hylif gwyn a gynhyrchir gan famolion benyw
+functional-matter;['cyffur gwrthlid ansteroidol', 'nsaid', 'cyffur gwrthlidiol', 'cyffur gwrthlidiol ansteroidol', 'meddyginiaeth gwrthlid ansteroidol', 'nad ydynt yn steroidau gwrthlidiol cyffuriau', 'nonsteroidal gwrth-llidiol cyffuriau', 'cyffuriau antiinflammatory nonsteroidal', 'gyffuriau antiinflammatory nonsteroidal', 'nonsteroidal cyffuriau gwrthlidiol', 'nonsteroidal gwrth-llidiol'];Dosbarth (y cyffur)
+functional-matter;['aciclovir', 'acyclovir', 'zovirax', 'acycloguanosine'];Cyfansoddyn cemegol
+functional-matter;['ocr', 'melyn tywyll', 'ochraceous', 'ocr coch'];disgrifiad o liw sy'n nodweddiadol o'r Ddaear
+functional-matter;['afal', 'malus domestica', 'afallen', 'coeden afalau', 'afalau', 'green apple'];Ffrwyth
+functional-matter;['siocled', 'siocledi'];Bwyd a wneir o ffa cacao
+functional-matter;['defnydd adeiladu', 'deunydd adeiladu', 'cynhyrchion adeiladu', 'deunyddiau adeiladu'];defnydd a ddefnyddir ar gyfer adeiladu
+functional-matter;['llaeth', 'llefrith', 'lefrith', 'laeth buwch', 'protein llaeth', 'solidau llaeth'];Hylif gwyn a gynhyrchir gan famolion benyw
+functional-matter;['waffl', 'malu awyr', 'wafflau', 'waffle'];bwyd yn seiliedig ar toes neu cytew, wedi'i coginio rhwng dau blât patrymog, ffurfiedig
+functional-matter;['lemon meringue pie'];tudalen wahaniaethu Wikimedia
+functional-matter;['camembert'];Caws Ffrengig
+functional-matter;['pasta', 'saws pasta', 'ymborth past'];Math o does, a bwyd traddodiadol yn yr Eidal
+functional-matter;['meddyginiaeth', 'cyffur meddygol', 'cyffuriau fferyllol', 'meddyginiaethau', 'cyffuriau meddyginiaethol', 'fferyllol', 'medicament'];Sylwedd cemegol a ddefnyddir mewn diagnosis, iachâd, triniaeth, neu atal clefyd
+functional-matter;['sglodion', 'tsips', 'sglodion ffrengig', 'ffrengig-ffrio tatws', 'ffrio ffrengig', 'sglodion cyrliog', "tatws wedi'u ffrio ffrangeg"];Darnau o daten wedi eu ffrio''n ddwfn
+functional-matter;['impost', 'springer'];Tudalen wahaniaethu Wikimedia
+functional-matter;['sorod', 'scoria', 'slag'];Sylwedd cemegol
+functional-matter;['brechdan'];Dwy dafell o fara â llenwad rhyngddynt
+functional-matter;['halen', 'halen bwrdd', 'chynhyrchu halen', 'halen cyffredin', 'halen sodiwm'];Cyfansoddyn cemegol
+geographical-object;['llyn', 'llyn dŵr croyw', 'llyn naturiol', 'llyn ysbeidiol', 'llynnoedd'];Corff o ddŵr croyw, eitha llonydd
+geographical-object;['lagŵn', 'morlyn', 'laguna', 'lagune'];Corff bas o ddwr wedi ei rannu oddi ar corff fwy o ddwr, fel rheol dwr hallt.
+geographical-object;['ynysoedd ryūkyū', 'ynysoedd ryukyu', 'ynysoedd loo choo', 'ynysoedd riwciw'];cadwyn o ynysoedd Siapan tuag at cyfeiriad Taiwan
+geographical-object;['afon seine'];Afon yn Ffrainc
+geographical-object;['ynysoedd ffaröe', 'føroyar', 'ynysoedd ffaro', 'faeroes', 'foroyar', 'ynysoedd faroe', 'ynysoedd ffaroe', 'ynysoedd ffarö', 'ynysoedd y ffaroe', 'tîm pêl-droed cenedlaethol ynysoedd faroe'];Ynysfor a gwlad yng Ngogledd Ewrop
+geographical-object;['ynysoedd gilbert', 'gilbert islands', 'gilberts', 'kings-mill islands', 'kingsmill', 'tungaru'];Cadwyn o ynysoedd yn Cefnfor Tawel, prif gadwyn gweriniaeth Ciribati
+geographical-object;['ynysoedd heledd', 'hebrides', 'ynysoedd y gorllewin', 'ynysoedd yr hebrides'];Ynysfor yn yr Alban
+geographical-object;['afon congo', 'afon y congo', 'congo afon', 'zaire afon'];afon yng nghanolbarth Affrica
+geographical-object;['afon tiber', 'tevere', 'tiber'];Afon yn yr Eidal
+geographical-object;['ynysig', 'motu', 'ynys', 'ynysoedd'];ynys fechan
+geographical-object;['ynysoedd balearig', 'ynysoedd baleares'];Ynysoedd yn y Môr Canoldir
+geographical-object;['ynysoedd erch', 'ynysoedd orkney', 'orcni', 'orkney', 'ynysoedd orcni', 'orkney islands'];Ynysfor yn y Môr y Gogledd
+geographical-object;['caledonia newydd', 'new caledonia'];tudalen categori Wikimedia
+geographical-object;['martinique', 'martiniciaid'];Département Ffrainc
+geographical-object;['nantucket, massachusetts', 'nantucket', 'nantucket county, massachusetts'];sir yn nhalaith Massachusetts, Unol Daleithiau America
+geographical-object;['afon tafwys', 'thames', 'tafwys'];Afon yn Lloegr
+geographical-object;['culfor dover', 'culfor dofr', 'culfor calais', 'pas de calais'];culfor ym man culaf y Môr Udd
+information-encoding-system;['areithyddiaeth', 'ynganu'];Tudalen wahaniaethu Wikimedia
+information-encoding-system;['kenning', 'kennings'];Ymadrodd Norwyeg
+information-encoding-system;['barddoniaeth', 'prydyddiaeth', 'barddoniaeth cariad', 'barddonol', 'cerddi', 'ffurf farddonol', 'poesy'];Math o lenyddiaeth
+information-encoding-system;['jargon', 'derminoleg dechnegol', 'hiaith technegol', 'iaith dechnegol', 'jargon cyfrifiadurol', 'yn o gelf'];Terminoleg a ddiffinnir yn arbennig mewn perthynas â gweithgaredd, proffesiwn, grŵp neu ddigwyddiad penodol
+information-object;['hagiograffeg', 'buchedd', 'hagiography', 'hagiographic', 'hagiographical', 'hagiographies'];bywgraffiadau’r seintiau
+information-object;['enw masnachu', 'brand', 'enw brand', 'brand-enw', 'brandiau', 'ddynodiad', 'delwedd brand', 'enw masnach', 'enw masnachol', 'enwau brand', 'enwau masnach', 'hunaniaeth brand', 'marchnata brand', 'tradename'];Enw arferol y cwmni
+information-object;['enw masnachu', 'brand', 'enw brand', 'brand-enw', 'brandiau', 'ddynodiad', 'delwedd brand', 'enw masnach', 'enw masnachol', 'enwau brand', 'enwau masnach', 'hunaniaeth brand', 'marchnata brand', 'tradename'];Enw arferol y cwmni
+information-object;['enw cyn priodi', 'enw priod', 'enwau priod a cyn priodi'];Enw teuluol a ddefnyddir gan fenyw cyn priodi
+information-object;['medal anrhydedd', 'medal of honor', 'medal of honor cyngresol'];yr addurn milwrol uchaf a ddyfarnwyd gan yr Unol Daleithiau.
+information-object;['swastica', '卐', 'swastika', 'croes gam', 'croes grwca', 'gammadion', 'hakenkreuz', 'svastika', 'swastikas'];croes gyda'r breichiau wedi eu plygu ar ongl sgwâr. Symbol mewn Bwdiaeth, Hindwaeth a Natsiaeth
+information-realization;['cytundeb', 'anghonfensiynol', 'arferol', 'chonfensiynau cymdeithasol', 'confensiwn cymdeithasol', 'confensiynol', 'gonfensiwn', 'gonfensiynau cymdeithasol'];Set o safonau a gytunwyd, a nodwyd, neu a dderbynnir yn gyffredinol
+information-realization;['llyfr', 'llyfrau'];cyfrwng ar gyfer cofnodi gwybodaeth ar ffurf ysgrifennu neu ddelweddau
+information-realization;['dyddiadur', 'dyddlyfr'];Cofnod ysgrifenedig gyda chofnodion wedi'u trefnu yn ôl y dyddiad
+information-realization;['gweithred', 'gweithred gludo', 'weithred'];Math o offeryn cyfreithiol
+information-realization;['deuawd'];cyfansoddiad neu drefniant cerddorol ar gyfer dau berfformiwr
+information-realization;['goleuad', 'bach'];Dull o weithio mewn celf
+information-realization;['cais', 'cymhwysiad meddalwedd', 'ceisiadau rhaglen', 'cymwysiadau cyfrifiadurol', 'rhaglen cais'];Meddalwedd cyfrifiadurol a gynlluniwyd i berfformio grŵp o swyddogaethau, tasgau neu weithgareddau wedi'u cydlynu er budd y defnyddiwr
+information-realization;['geiriadur', 'geiriaduron'];casgliad o eiriau a’u hystyron
+information-realization;['chwedl', 'apologue', 'chwedlau'];stori fer ddychmygol gyda moeswers ynddi (fable yn Saesneg)
+information-realization;['hafalnod', 'hafaliad', 'arwydd cyfartal'];Symbol mathemategol i ddynodi fod un rhan yn union yr un faint a rhan arall
+information-realization;['mesur', 'bil', 'llofnodi i mewn gyfraith'];deddf arfaethedig
+information-realization;['cytundeb heddwch', 'cytundebau heddwch', 'heddwch cytundeb'];cytundeb rhwng dau neu fwy o barthau gelyniaethus sy'n dod a rhyfel i ben yn ffurfiol
+information-realization;['fersiwn, rhifyn neu gyfieithiad'];(defnyddir gyda P31, enghraifft o'r canlynol)
+information-realization;['haiku', 'haikus'];ffurf o farddoniaeth Siapanëeg
+information-realization;['llenyddiaeth', 'llenyddol', 'llen', 'llên', 'celfyddydau llenyddol', 'gwaith llenyddol', 'llenyddiaethau'];Cynnyrch llenyddol
+information-realization;['poliffoni', 'polyffoni', 'canu poliffonaidd', 'canu poliffonig', 'poliffonig', 'bolyffonig', 'cerddoriaeth ar y cyd', 'cerddoriaeth bolyffonig', 'gerddoriaeth bolyffonig'];Canu, cerddproaeth harmoni aml lais
+information-realization;['samba', 'samba cerddoriaeth'];math o gerddoriaeth o Frasil
+information-realization;['reggae', 'cerddoriaeth rege', 'cerddoriaeth reggae', 'rege'];math o gerddoriaeth
+information-realization;['llyfr gweddi gyffredin', "lliver gweddi gyffredin a gwenidogaeth y sacrametae, ac eraill gynneddfeu a' ceremoniae yn eccles loecr", 'llyfr gweddi cyffredin'];llyfr (gwaith)
+information-realization;['llyfr numeri', 'numeri'];Yr bedwerydd llyfr yn Beibl, cyfansawdd yn 36 pennodau
+language;['ieithoedd iroquaidd', 'ieithoedd iroquoiaidd', 'ieithoedd irocaidd', 'ieithoedd irocwoiaidd', 'iroquoian', 'iaith iroquoian', 'ieithoedd iroquoian', 'iroquoian iaith'];teulu ieithoedd brodorol o Nogledd-Nwyrain America
+language;['ieithoedd wralaidd', 'iaith wralaidd', 'wralaidd'];Teulu ieithyddol
+language;['ieithoedd athabasgaidd', 'ieithoedd athabascaidd', 'athabascan', 'athabascans', 'iaith athabaskan', 'iaith athapasgaidd', 'ieithoedd athabascan', 'ieithoedd athabaskan'];teulu iaith frodorol yng Ngogledd America
+language;['iaith naturiol', 'ieithoedd naturiol'];Iaith nad yw wedi'i ei chreu'n ffurfiol
+language;['ieithoedd affro-asiaidd', 'hamito-semitaidd', 'ieithoedd affro-asiatig', 'ieithoedd afro-asiaidd', 'ieithoedd afro-asiatig', 'afroasiatic', 'affro-asiaidd', 'affro-asiaidd ieithoedd', 'afrasian', 'afrasian iaith', 'hamito-semitig', 'iaith affro-asiaidd', 'iaith afroasiatic', 'ieithoedd afroasiatic'];Teulu ieithyddol
+language;['iaith', 'ieithoedd', 'amrywiaeth ieithyddol', 'cyfathrebu ieithyddol', 'iaith ddynol'];System gyfathrebu a enwir yn aml gan y lle neu'r bobl sy'n ei siarad
+language;['saesneg', 'iaith saesneg', 'english', 'english language', 'ingles', 'yr iaith fain', 'cyfrwng saesneg'];iaith Germaniaidd o Loegr
+language;['cyrdeg', 'cwrdeg', 'kurdish'];Iaith Indo-Iraneg
+language;['ieithoedd brodorol yr amerig', 'ieithoedd brodorol de america', 'americanaidd-indiaidd iaith', 'amerind', 'amerindiaidd iaith', 'ieithoedd americanaidd brodorol', 'ieithoedd brodorol yr americas', 'ieithoedd indiaid america'];ieithoedd sy'n siarad gan y pobl brodorol yr Amerig
+language;['tsieineeg', 'tsieinëeg', 'tseinaeg', 'tsieinaeg', 'tsieinëaeg', 'tsieinïeg', 'tsienëeg', 'iaith tseiniaidd', 'tseiniaidd', 'tseiniaidd-iaith'];Teulu o ieithoedd
+language;['cobol'];Iaith raglennu seiliedig ar wrthrychau
+language;['pensaernïaeth gothig', 'pensaerniaeth gothig', 'bensaernïaeth gothig', 'arddull gothig', 'eglwysi cadeiriol gothig', 'gothig'];Arddull pensaernïol canoloesol
+language;['gwyddeleg canol', 'iaith wyddeleg canol'];Iaith Wyddeleg yn yr 10fed i 12fed ganrif
+language;['crî', 'iaith cree', 'cr', 'cree'];iaith Algoncaidd sy'n siarad yng Nghanada
+language;['saesneg americanaidd', 'saesneg', 'en-us', 'saesneg yn yr unol daleithiau', 'daleithiau saesneg', 'americanaidd iaith'];Yr iaith Saesneg yn yr Unol Daleithiau America
+language;['ieithoedd awstronesaidd', 'iaith awstronesaidd', 'iaith awstronesiaidd', 'awstronesaidd', 'awstronesaidd iaith'];Teulu ieithyddol
+language;['ieithoedd indo-ewropeaidd', 'indo-ewropeaidd', 'ieithoedd indo ewropeaidd', 'indo-ewropeg', "teulu'r ieithoedd indo-ewropeaidd", 'iaith indo-ewropeaidd', 'indo-ewropeaidd iaith', 'indo-hethiad', 'teulu ieithyddol indo-ewropeaidd'];Teulu ieithyddol
+language;['chmereg', 'iaith khmer'];Iaith swyddogol Cambodia
+language;['fietnameg', 'tiếng việt', 'annamite', 'iaith fietnameg'];Iaith Fietnam
+language;['hawäieg', 'hawaieg', 'hawaiieg', 'hawäiieg', 'iaith hawaii'];Iaith bolynesaidd, iaith cyd-swyddogol y dalaith americanaidd Hawaii
+language;['latfieg', 'lv', 'iaith latfieg', 'latfeg', 'iaith latfia', 'latfia', 'lettish'];Iaith Baltig, swyddogol yn Latfia a'r Undeb Ewropeaidd
+legal-possession-entity;['ystad', 'stâd', 'erw', 'ystad glanio', 'berchennog glanio', 'demên', 'eiddo tiriog', 'parth ffiwdal', 'stad wledig'];ardal sy’n cynnwys adeiladau a thiroedd helaeth
+locative-role;['weald', 'weald uchel', 'high weald', 'low weald', 'weald isel', 'weald sussex', 'y weald'];ardal yn Ne-ddwyrain Lloegr
+locative-role;['fflorens', 'firenze'];Tref yn yr Eidal
+locative-role;['kaunas', 'cawnas', 'kovna', 'kovno'];Y ddinas ail-fwyaf yn Lithwania
+locative-role;['mecca', 'meca'];Saudi Arabia Dinas a phrifddinas talaith blentyndod
+locative-role;['reading', 'reading, berkshire'];Tref yn Berkshire, Lloegr
+locative-role;['mayenne'];Département Ffrainc
+locative-role;['llydaw', 'bretagne', 'breizh', 'rhanbarth llydaw', 'breiz'];Gwlad yn Ewrop
+locative-role;['lerpwl', 'liverpool', 'llynlleifiad'];Dinas yng Nglannau Merswy, Lloegr
+locative-role;['safle bws', 'arosfannau bws', 'arosfannau bysiau'];Lle dynodedig lle mae bysiau'n stopio i deithwyr fynd neu adael
+locative-role;['newcastle upon tyne', 'newcastle-upon-tyne', 'newcastle'];Dinas yn Lloegr
+locative-role;['auvergne'];Ardal weinyddol yn Ocsitania a Ffrainc
+locative-role;['andalucía', 'andalucia', 'andalusia', 'andalwsia'];Un o gymunedau ymreolaethol Sbaen
+locative-role;['limousin'];Cyn ardal weinyddol yn Ocsitania a Ffrainc
+locative-role;['sheffield'];dinas yn Ne Swydd Efrog
+locative-role;['stratford-upon-avon', 'stratford-on-avon'];Tref yng Nghorllewin-Canolbarth Lloegr
+locative-role;['sachsen', 'saxony', 'freistaat sachsen', 'sacsoni'];Un o daleithiau'r Almaen heddiw
+locative-role;['martinique', 'martiniciaid'];Département Ffrainc
+locative-role;['sgwâr', 'sgwâr cyhoeddus', 'sgwâr y ddinas', 'sgwâr y dref'];Man gyhoeddus agored
+locative-role;['bari'];dinas yn yr Eidal
+locative-role;['aqaba', 'acaba', "al-'aqabah", 'akaba', 'al aqabah'];Dinas Gwlad Iorddonen
+locative-role;['valparaíso', 'valparaiso'];dinas yn Tsile
+locative-role;['gwaith haearn', 'felin haearn', 'haearn', 'siderurgy'];safle lle mae haearn yn cael ei doddi
+locative-role;['man geni', 'geni'];Lle ganed person
+locative-role;["l'aquila", 'aquila degli abruzzi'];dinas yn yr Eidal
+non-agentive-physical-object;['carthffosiaeth', 'carthffos', 'ceuffos'];system carthffosiaeth i drosglwyddo a gwaredu gwastraff dynol
+non-agentive-physical-object;['patrwm', 'patrwm geometrig', 'phatrymau geometrig'];Rheoleidd-dra amlwg yn y byd neu mewn dyluniad o waith dyn
+non-agentive-physical-object;['grisiau pysgod', 'ysgol bysgod', 'pas pysgod', 'llwybr pysgod', 'ysgol pysgod', 'ysgolion pysgod'];Strwythur i alluogi pysgod a rhywogaethau eraill i deithio ar hyd afon lle ceir rhwystrau naturiol neu artiffisial yn eu ffordd
+non-agentive-physical-object;['crys polo', 'crys chwaraeon', 'crys golff', 'crysau polo'];crys llewys byr ar gyfer chwaraeon, hamdden a gwaith
+non-physical-collection;['syniad'];Gwybodaeth elfennol
+non-physical-collection;['pensaernïaeth normanaidd', 'pensaerniaeth normanaidd', 'norman pensaernïaeth'];Arddull pensaernïol
+non-physical-collection;['pensaernïaeth gothig', 'pensaerniaeth gothig', 'bensaernïaeth gothig', 'arddull gothig', 'eglwysi cadeiriol gothig', 'gothig'];Arddull pensaernïol canoloesol
+non-physical-collection;['pensaernïaeth duduraidd', 'pensaerniaeth duduraidd', 'bensaernïaeth arddull duduraidd', 'tudor pensaernïaeth'];Arddull pensaernïol oes y Tuduriaid
+non-physical-collection;['pensaernïaeth glasurol', 'pensaernaieth glasurol', 'pensaerniaeth clasurol', 'pensaernïaeth clasurol', 'bensaernïaeth glasurol', 'groeg-rufeinig pensaernïaeth'];Arddull pensaernïol
+non-physical-collection;['naturiolaeth', 'naturiolaeth athronyddol', 'naturiolaeth methodolegol'];Yr athroniaeth mai rheolau naturiol sy'n rheoli'r bydysawd
+non-physical-collection;['siartiaeth', 'mudiad y siartwyr', 'siartwyr', 'siartaeth', 'siartwr', 'y siartwyr', 'gwrthryfel y siartwyr'];idioleg
+non-physical-place;['bedd', 'beddrod', 'angladdol', 'beddrodau', 'gravesite'];man claddu corff marw
+organized-collection;['llyfrgell gyhoeddus', 'llyfrgelloedd cyhoeddus'];Llyfrgell sydd ar agor i'r cyhoedd
+organized-collective;['grŵp', 'grwpiau cymdeithasol', 'grŵp cymdeithasol', 'grŵp gymdeithasol', 'grw p cymdeithasol'];Cymdeithaseg
+parametrized-collection;['fersiwn, rhifyn neu gyfieithiad'];(defnyddir gyda P31, enghraifft o'r canlynol)
+phenomenon;['hangeul', 'hangul', 'alffabet coreaidd', 'chosongul', "chosŏn'gŭl", 'tsiòson-gwl'];Alffabet Coreaidd
+phenomenon;['deurywioldeb', 'deurywiol', 'deurywiolion', 'bi-rywiol'];Atyniad rhywiol a / neu rhamantus i bobl o'r ddau yr un rhyw a rhyw eraill
+phenomenon;['heneiddio', 'broses heneiddio', 'dauddegau', 'nonagenarian', 'octogenarian', 'senescence', 'senescence cellog', 'senescent', 'septuagenarian', 'thirtysomething'];Y broses o fynd yn hen
+phenomenon;['bywyd', 'yr 7 nodweddion o pethau byw'];Mater sy'n gallu echdynnu ynni o'r amgylchedd i'w ddyblygu
+phenomenon;['nwy', 'cyflwr nwyol', 'nwyol', 'nwyon'];Un o dair cyflwr clasurol mater
+physical-body;['ïon hydrogen', 'ïonau hydrogen'];Tudalen wahaniaethu Wikimedia
+physical-body;['bydysawd', 'y bydysawd', 'macrocosm', 'byd', 'byd ffisegol', 'cosmos', 'universes'];Cyfanswm y gofod a'r holl gynnwys
+physical-body;['y ddaear', 'byd', 'daear', 'ddaear', 'y byd', 'age of the earth'];Y drydedd blaned o''r Haul yng Nghysawd yr Haul
+physical-body;['ewropa', 'europa'];un o leuadau'r blaned Iau
+physical-object;['gwarbac', 'backpack', 'cefn', 'haversack', 'sach deithio', 'bagiau cefn', 'packsack', 'yn ôl pecyn'];Bag i cario rhywbeth ar eich cefn
+physical-object;['bar llorweddol', 'bar sengl', 'bar gymnasteg', 'bar uchel'];bar gymnasteg sengl
+physical-object;['caregl', 'cwpan cymun', 'gobled'];cwpan a ddefnyddir mewn seremonïau crefyddol
+physical-object;['llong fasnach', 'llong fasnachol', 'lori', 'merchantman'];Llong y gellir ei hurio
+physical-object;['campfa', 'gymnasiwm', 'neuadd ymarfer corff', 'y gampfa', 'campfeydd', 'gampfa'];lleoliad, ystafell ar gyfer ymarfer corff
+physical-object;['tŵr llundain', 'twr llundain'];Castell yn Llundain
+physical-object;['lyra', 'telyn gron', 'liră', 'lire', 'lyres'];Offeryn cerddorol
+physical-object;['ceffyl pwmel', 'ceffyl gymnasteg', 'ceffyl ochr', 'pommel ceffyl'];cyfarpar a champ gymnasteg i ddynion
+physical-object;['ffermdy'];Prif dŷ fferm
+physical-object;['doorjamb', 'doorpost', 'jamb drws', 'ystlysbyst'];tudalen wahaniaethu Wikimedia
+physical-object;['castell', 'caer', 'cestyll', 'castell canoloesol', 'château-gaer', 'gastell canoloesol'];math o strwythur caerog a adeiladwyd gan uchelwyr yn Ewrop, Asia a'r Dwyrain Canol yn ystod yr Oesoedd Canol
+physical-object;['bobsled', 'bobsledder', 'bobsledding', 'bobsleigh'];Chwaraeon gaeaf, lle mae timau o ddau neu bedwar yn llithro lawr trac iâ cul ar gar llusg
+physical-object;['cored', 'gored'];Rhwystr ar draws afon er mwyn rheoli ond nid ataf, llif y dwr
+physical-object;['sither', 'zither', 'sidder', 'zithern'];Offeryn cerddorol, tannau, dwyrain Ewrop a'r Almaen
+physical-object;['pin cau', 'pin diogelwch', 'pin clo', 'safety pin', 'diogelwch pin'];pin i ddal defnydd neu ddillad at ei gilydd
+physical-object;['siwtces', 'ces dillad', 'cês dillad', 'gês', 'teithio bag'];Math o bagiau
+physical-object;['cwt nissen', 'nissen cwt', 'cwt quonset', 'quonset cwt'];math o adeilad parod
+physical-object;['amddifad', 'plentyn amddifad', 'amddifad rhyfel', 'plant amddifad'];plentyn heb rieni
+physical-object;['luge'];Chwaraeon gaeaf, lle mae unigolyn neu tîm o ddau yn llithro, traed-gyntaf, lawr trac iâ cul ar gar llusg
+physical-object;['telesgop gregoraidd', 'adlewyrchydd cassegrain', 'cassegrainian telesgop', 'gregoraidd telesgop', 'telesgop cassegrain'];Math o delesgop
+physical-object;['llong gargo', 'llong cargo', 'llongau cargo', 'llongau masnach'];Llong a wnaed yn arbennig i gario llwythi a defnyddiau o un porthladd i''r llall
+physical-object;['stwffwl', 'stapl', 'staplen', 'stêpl'];Dyfais ar gfyer cyfuno gwahanol ddarnau o bapur, pren neu gardfwrdd, neu, garreg
+physical-object;['crys polo', 'crys chwaraeon', 'crys golff', 'crysau polo'];crys llewys byr ar gyfer chwaraeon, hamdden a gwaith
+physical-object;['obo', 'hautbois', 'hautboy'];offeryn cerdd chwythbren
+physical-object;['dwfe', 'duvet', 'carthen blu', 'comforter', 'continental quilt', 'cwilt cyfandurol', 'doona', 'gyfandirol cwilt'];Gwasarn, math o garthen
+physical-object;['telyn', 'telynor', 'y delyn', 'telynau'];Offeryn cerdd cenedlaethol Cymru
+physical-object;['pont humber'];Pont ar Afon Humber, Gogledd-ddwyrain Lloegr
+physical-object;['pin bawd', 'pìn bawd', 'pin bys a bawd', 'tac', 'thumbtack', 'dynnu pin', 'pushpin', 'thumbtacks'];Teclyn fel hoelen bychan i ddal deunydd i fwrdd meddal
+physical-object;['prifysgol rhydychen'];Prifysgol yn Rhydychen, Lloegr
+physical-object;['clip papur', 'clipyn papur', 'clip drysor'];Dyfais metal i ddal papur at ei gilydd
+physical-object;['pladur', 'bladur'];Erfyn amaethyddol a ddefnyddir am ladd gwair a medi cnydau
+physical-object;['thermomedr', 'tymeriadur', 'synhwyrydd tymheredd', 'thermomedrau'];Sut mae thermomedr yn ei weithio?
+physical-object;['eglwys', 'bangeibr', 'llan', 'adeilad eglwys', 'adeilad yr eglwys'];Addoldy Cristnogol
+physical-object;['barrau cyfochrog', 'barrau cyflin', 'barrau cyflun', 'barrau paralel', 'bariau'];camp mewn gymnasteg
+physical-object;['siopau cadwyn', 'siop gadwyn', 'siop gadwen', 'cadwyni bwyty'];nifer o siopau cysylltiedig dan ambarel un cwmni
+physical-object;['trawst', 'trawst cydbwysedd', 'trawst gymnasteg', 'y trawst'];camp a cyfarpar gymnasteg
+physical-object;['bagiau'];Câs neu gynhwysydd ar gyfer storio eitemau teithwyr
+physical-object;['neddyf', 'fwyell gam', 'adze', 'adz', 'adzes'];Offeryn awch hynafol
+physical-object;['haearn gwrymiog', 'haearn rhychog', 'haearn rhychiog', 'haearn rhychiog galfanedig', 'metel rhychiog'];math o ddefnydd adeiladu
+plan;['regimen'];Tudalen wahaniaethu Wikimedia
+political-geographic-object;['fflorens', 'firenze'];Tref yn yr Eidal
+political-geographic-object;['kaunas', 'cawnas', 'kovna', 'kovno'];Y ddinas ail-fwyaf yn Lithwania
+political-geographic-object;['mecca', 'meca'];Saudi Arabia Dinas a phrifddinas talaith blentyndod
+political-geographic-object;['reading', 'reading, berkshire'];Tref yn Berkshire, Lloegr
+political-geographic-object;['antigwa a barbiwda', 'antigwa a barbuda', 'antigua a barbuda', 'antiga a barbwda', 'antigua and barbuda'];gwlad ym Môr y Caribî
+political-geographic-object;['gogledd swydd efrog', 'gogledd efrog', 'north yorkshire', 'swydd gogledd efrog'];Swydd seremonïol yn Lloegr
+political-geographic-object;['berkshire', 'swydd berks', 'swydd berkshire'];swydd serimonïol yn Lloegr
+political-geographic-object;['lloegr', 'loegr', 'seisnig'];Gwlad yng ngogledd Ewrop
+political-geographic-object;['cernyw', 'cornwall', 'cornwall council', 'nghernyw'];Gwlad a Sir Seremoniol
+political-geographic-object;['y deyrnas unedig', 'teyrnas unedig prydain fawr a gogledd iwerddon', 'y deyrnas unigol', 'prydain fawr', 'y du', 'du', 'prydain', 'd.u.', 'dg', 'gwledydd prydain', 'teyrnas gyfunol', 'teyrnas gyfunol prydain fawr a gogledd iwerddon', 'teyrnas unedig', 'y dg', 'deyrnas gyfunol', 'deyrnas unedig', 'prydain fawr a gogledd iwerddon', 'teyrnas undedig prydain fawr a gogledd iwerddon', 'united kingdom', 'united kingdom of great britain and northern ireland', 'y deyrnas gyfun', 'y deyrnas gyfunol'];Gwladwriaeth sofran yn Ewrop
+political-geographic-object;['sawdi arabia', 'saudi arabia', 'sawdi-arabia', 'teyrnas sawdi arabia', 'arabia sawdïaidd', 'saudi', 'teyrnas saudi arabia'];Gwlad yn Asia
+political-geographic-object;['lerpwl', 'liverpool', 'llynlleifiad'];Dinas yng Nglannau Merswy, Lloegr
+political-geographic-object;['swydd gaerlŷr', 'leicestershire'];swydd serimonïol yn Lloegr
+political-geographic-object;['gorllewin swydd efrog', 'gorllewin efrog', 'swydd gorllewin efrog', 'west yorkshire'];Sir fetropolitaidd a swydd seremonïol yn Lloegr
+political-geographic-object;['new jersey', 'jersey newydd', 'nj', 'wladwriaeth ardd'];talaith yn Unol Daleithiau America
+political-geographic-object;['illinois', 'il', 'land of lincoln', 'paith y wladwriaeth'];talaith yn Unol Daleithiau America
+political-geographic-object;['minnesota', 'north star wladwriaeth', 'wladwriaeth gopher'];talaith yn Unol Daleithiau America
+political-geographic-object;['missouri', 'dangos me wladwriaeth'];talaith yn Unol Daleithiau America
+political-geographic-object;['michigan', 'great lakes wladwriaeth', 'rhanbarth great lakes', 'wolverine wladwriaeth'];talaith yn Unol Daleithiau America
+political-geographic-object;['nebraska', 'cornhusker wladwriaeth'];talaith yn Unol Daleithiau America
+political-geographic-object;['gwlad belg', 'belg', 'belgium', 'wlad belg', 'belgique', 'teyrnas gwlad belg'];Wlad yn Ewrop
+political-geographic-object;['umbria', 'wmbria'];rhanbarth yr Eidal
+political-geographic-object;['abruzzo', 'abruzzi', 'abruzzi e molise'];rhanbarth yr Eidal
+political-geographic-object;['connecticut', 'cyfansoddiad y wladwriaeth', 'nytmeg wladwriaeth'];talaith yn Unol Daleithiau America
+political-geographic-object;['sichuan', 'szechuan', 'szechwan', 'szechwan talaith'];talaith Tsieina
+political-geographic-object;['newcastle upon tyne', 'newcastle-upon-tyne', 'newcastle'];Dinas yn Lloegr
+political-geographic-object;['gansu', 'gansu talaith', 'kansu'];talaith Tsieina
+political-geographic-object;['yunnan', 'yunnan dalaith'];talaith Tsieina
+political-geographic-object;['toscana', 'tuscany', 'twscani', 'twsgani', 'tysgani'];rhanbarth yr Eidal
+political-geographic-object;['friuli-venezia giulia'];rhanbarth yr Eidal
+political-geographic-object;['puglia', 'apulia'];rhanbarth yr Eidal
+political-geographic-object;['lombardia', 'lombardi', 'lombardy'];rhanbarth yr Eidal
+political-geographic-object;['emilia-romagna'];rhanbarth yr Eidal
+political-geographic-object;['trentino-alto adige', 'de tirol', 'südtirol', 'trentino-alto adige/südtirol'];rhanbarth yr Eidal
+political-geographic-object;['veneto', 'feneto', 'rhanbarth veneto', 'venezia-euganea'];rhanbarth yr Eidal
+political-geographic-object;['catalwnia', 'catalonia', 'catalunya', 'catalonha', 'cataluña'];Gwladwriaeth a gyhoeddodd ei hannibyniaeth
+political-geographic-object;['basilicata', 'lucania'];rhanbarth yr Eidal
+political-geographic-object;['molise'];rhanbarth yr Eidal
+political-geographic-object;['apartheid'];System gwahanu hil a orfodir trwy ddeddfwriaeth yn Ne Affrica
+political-geographic-object;['hwngari', 'hungary', 'hwngaria', 'gweriniaeth hwngari', 'magyarorszag'];gweriniaeth yng nghanol Ewrop
+political-geographic-object;['gwlad pwyl', 'pwyl', 'gwlad pŵyl', 'poland', 'pwyldir', 'gweriniaeth gwlad pwyl', 'polska'];gweriniaeth a gwlad sofran yng nghanol Ewrop
+political-geographic-object;['gini', 'guinée', 'guinea', 'guiné', 'guinéa', 'gwini', 'ffrangeg guinea', 'gweriniaeth gini'];gwlad yn Affrica
+political-geographic-object;['fietnam', 'fiet nam', 'viet nam', 'fiet-nam', 'gweriniaeth sosialaidd fietnam', 'vietnam', 'annam', 'gweriniaeth sosialaidd o fietnam'];Gwlad yn ne-ddwyrain Asia
+political-geographic-object;['wcráin', 'ukrain', 'yr wcráin', 'wcrain', 'iwcrain', 'ukraine', 'yr wcrain', 'ukrayina'];Gwlad yn nwyrain Ewrop
+political-geographic-object;['de corea', 'gweriniaeth corea', 'de korea', 'gweriniaeth korea'];Gwlad yn nwyrain Asia
+political-geographic-object;["côte d'ivoire", 'arfordir ifori', 'côte d’ivoire', "cote d'ivoire", 'ivory coast', 'iforiaid', 'traeth ifori', 'y traeth ifori', 'yr arfordir ifori', "gweriniaeth o cote d'ivoire"];gwlad yn Affrica
+political-geographic-object;['camerŵn', 'y camerŵn', 'cameroun', 'cameroon', 'camerwn', 'gweriniaeth camerŵn'];gwlad yn Affrica
+political-geographic-object;['guinea-bissau', 'gini bisaw', 'guiné-bissau', 'gini-bisaw', 'gini-bissau', 'guinéa-bissau', 'gwini-bisau', 'guine-bissau', 'gweriniaeth gini bissau', 'portiwgaleg guinea'];gwlad yn Affrica
+political-geographic-object;['senegal', 'sénégal', 'gweriniaeth senegal', 'république du sénégal', 'sn', '🇸🇳', 'gweriniaeth o senegal'];Gweriniaeth yn Affrica
+political-geographic-object;['ffrainc', 'ffrengig', 'france', 'gweriniaeth ffrainc', 'ffrangeg gweriniaeth'];Gwlad yng ngorllewin Ewrop
+political-geographic-object;['ecwador', 'ecuador', 'ecu', 'ec', 'gweriniaeth ecwador', 'ecwadoriaid', 'gweriniaeth o ecuador'];Gwlad yng ngogledd-orllewin De America
+political-geographic-object;['gweriniaeth iwerddon', 'iwerddon', 'iwerddon rydd', 'éire', 'gwyddelig', 'ireland', 'republic of ireland', 'siart senglau gwyddelig', 'yr iwerddon', 'eire', 'iwerddon gweriniaeth'];Gweriniaeth Iwerddon
+political-geographic-object;['tennessee', 'gwirfoddolwyr y wladwriaeth', 'tn'];talaith yn Unol Daleithiau America
+political-geographic-object;['kentucky', 'bluegrass wladwriaeth', 'kentuckian', 'ky'];talaith yn Unol Daleithiau America
+political-geographic-object;['kansas', 'ks', 'wladwriaeth sunflower'];talaith yn Unol Daleithiau America
+political-geographic-object;['vermont', 'vermonter', 'vt', 'wladwriaeth green mountain'];talaith yn Unol Daleithiau America
+political-geographic-object;['massachusetts', 'bay wladwriaeth', 'colony hen'];talaith yn Unol Daleithiau America
+political-geographic-object;['rhode island', 'ynys rhode', 'ocean wladwriaeth', 'rhody little', 'ri'];talaith yn Unol Daleithiau America
+political-geographic-object;['de dakota', 'south dakota', 'mount rushmore wladwriaeth', 'sd', 'wladwriaeth coyote'];talaith yn Unol Daleithiau America
+political-geographic-object;['alaska', 'alasga', 'ak', 'frontier diwethaf'];talaith yn Unol Daleithiau America
+political-geographic-object;['montana', 'treasure wladwriaeth'];talaith yn Unol Daleithiau America
+political-geographic-object;['oregon', 'beaver wladwriaeth'];talaith yn Unol Daleithiau America
+political-geographic-object;['louisiana', 'pelican wladwriaeth'];talaith yn Unol Daleithiau America
+political-geographic-object;['arkansas', 'land of cyfle'];talaith yn Unol Daleithiau America
+political-geographic-object;['florida', 'fflorida', 'everglade wladwriaeth', 'fl', 'y wladwriaeth sunshine'];talaith yn Unol Daleithiau America
+political-geographic-object;['georgia', 'empire state y de', 'wladwriaeth peach'];talaith yn Unol Daleithiau America
+political-geographic-object;['gogledd carolina', 'north carolina', 'nc', 'old north state', 'wladwriaeth sawdl tar'];talaith yn Unol Daleithiau America
+political-geographic-object;['mecsico newydd', 'new mexico', 'land of enchantment'];talaith yn Unol Daleithiau America
+political-geographic-object;['arizona', 'arisona', 'grand canyon y wladwriaeth'];talaith yn Unol Daleithiau America
+political-geographic-object;['mississippi', 'wladwriaeth magnolia'];talaith yn Unol Daleithiau America
+political-geographic-object;['de carolina', 'south carolina', 'palmetto wladwriaeth'];talaith yn Unol Daleithiau America
+political-geographic-object;['virginia', 'dominion hen', 'old dominion wladwriaeth'];talaith yn Unol Daleithiau America
+political-geographic-object;['idaho', 'gem y wladwriaeth'];talaith yn Unol Daleithiau America
+political-geographic-object;['hawaii', "hawai'i", 'hawai', 'hawaï', 'hawäi', 'aloha wladwriaeth'];talaith yn Unol Daleithiau America
+political-geographic-object;['nevada', 'arian y wladwriaeth', 'nv', 'wladwriaeth brwydr ganwyd', 'wladwriaeth sagebrush'];talaith yn Unol Daleithiau America
+political-geographic-object;['califfornia', 'california', 'calif', 'wladwriaeth golden'];talaith yn Unol Daleithiau America
+political-geographic-object;['wyoming', 'wladwriaeth cydraddoldeb', 'wy'];talaith yn Unol Daleithiau America
+political-geographic-object;['utah', 'mormon wladwriaeth', 'wladwriaeth beehive'];talaith yn Unol Daleithiau America
+political-geographic-object;['colorado', 'wladwriaeth centennial'];talaith yn Unol Daleithiau America
+political-geographic-object;['gogledd dakota', 'north dakota', 'wladwriaeth ardd heddwch'];talaith yn Unol Daleithiau America
+political-geographic-object;['sheffield'];dinas yn Ne Swydd Efrog
+political-geographic-object;['stratford-upon-avon', 'stratford-on-avon'];Tref yng Nghorllewin-Canolbarth Lloegr
+political-geographic-object;['lazio', 'latium', 'latiwn'];rhanbarth yr Eidal
+political-geographic-object;['gwlad iorddonen', 'yr iorddonen', 'iorddonen', 'gwlad yr iorddonen', 'iorddoniaid', 'hashemite teyrnas jordan'];Gwlad sofran
+political-geographic-object;['cabo verde', 'cape verde', 'penrhyn verde', 'gweriniaeth cabo verde', 'y penrhyn gwyrdd', 'cap ferde', 'ynysoedd penrhyn verde', 'gweriniaeth o cape verde'];Gwlad sofran yn Affrica
+political-geographic-object;['trinidad a tobago', 'trinidad a thobago', 'trinidad and tobago', 'gweriniaeth o trinidad a tobago', 'trinidadian'];Gwlad ynysol yn y Môr y Caribî
+political-geographic-object;['gwlad yr iâ', 'gwlad yr ia', 'is', 'iceland', 'wlad yr iâ', 'ynys-yr-iâ', 'ynys yr iâ', 'weriniaeth gwlad yr iâ'];ynys a gweriniaeth sofran yng Ngogledd Ewrop
+political-geographic-object;['rhufain', 'roma', 'brifddinas yr eidal', 'city tragwyddol', 'cyfalaf eidaleg'];dinas yn yr Eidal
+political-geographic-object;['brisbane', 'brisbane, queensland'];Dinas yng ngogledd-ddwyrain Awstralia
+political-geographic-object;['bari'];dinas yn yr Eidal
+political-geographic-object;['beijing', 'peking', 'pecin', 'cyfalaf o tsieina goch', 'peiping'];Prifddinas Gweriniaeth Pobl Tseina
+political-geographic-object;['aqaba', 'acaba', "al-'aqabah", 'akaba', 'al aqabah'];Dinas Gwlad Iorddonen
+political-geographic-object;['manhattan', 'ynys manhattan', 'manhattan sgist'];bwrdeistref Dinas Efrog Newydd
+political-geographic-object;['yr alban', 'alban', 'albanaidd', 'sgotland'];Gwlad yng ngogledd Ewrop, rhan o''r Deyrnas Unedig
+political-geographic-object;['tbilisi', 'tiflis'];prifddinas Georgia
+political-geographic-object;['oslo', 'christiana', 'christiania', 'cyfalaf o norwy'];Prifddinas Norwy
+political-geographic-object;['stockholm', 'cyfalaf o sweden'];prifddinas Sweden
+political-geographic-object;['tiwnis', 'tunis', 'cyfalaf o tunisia'];Prifddinas Tiwnisia
+political-geographic-object;['baku', 'cyfalaf o azerbaijan'];Prifddinas Aserbaijan
+political-geographic-object;['banjul', 'cyfalaf o gambia'];Prifddinas Y Gambia
+political-geographic-object;['wellington', 'cyfalaf o seland newydd'];Prifddinas Seland Newydd
+political-geographic-object;['valparaíso', 'valparaiso'];dinas yn Tsile
+political-geographic-object;['mamwlad', 'hemland', 'motherland', 'thad', 'tir brodorol', 'wlad tarddiad'];Cysyniad o'r lle y mae grŵp ethnig yn dal hanes hir a chymdeithas ddiwylliannol ddwfn
+political-geographic-object;["l'aquila", 'aquila degli abruzzi'];dinas yn yr Eidal
+political-geographic-object;['piemonte', 'piedmont'];rhanbarth yr Eidal
+political-geographic-object;['texas', 'tecsas', 'tx', 'unigol-star wladwriaeth'];talaith yn Unol Daleithiau America
+political-geographic-object;['den haag', 'the hague', 'y hague', 'yr hâg', '’s-gravenhage', "'s gravenhage", "mae'r hague"];dinas yn yr Iseldiroedd
+qualitative-role;['trosglwyddiad', 'taliad', 'taliadau'];Trosglwyddo arian gan weithiwr tramor i'w wlad gartref
+quality;['man geni', 'nevus', 'nevi'];Brycheuyn neu farc ar groen a geir ers ddydd yr enedigaeth
+quality;['porffor', 'glasgoch', 'piws', 'purpleness'];Lliw
+quality;['arian', 'arian llwyd', 'lludw llwyd'];Lliw
+quality;['llwyd', 'grayness', 'greyness'];Lliw
+quality;['egocentrism', 'egocentric', 'hunan-canolbwynt,', 'hunan-concern'];Tudalen wahaniaethu Wikimedia
+quality;['pensaernïaeth faróc', 'pensaerniaeth faroc', 'baroqueness', 'baróc', 'bensaernïaeth baróc'];Arddull bensaernïol
+quality;['glas', 'cleisiau'];Lliw
+quality;['feto', 'veto', 'pleidlais atal', 'feto arlywyddol', 'feto suspensive', 'pŵer feto', 'roi feto'];dyfais gyfansoddiadol i roi stop ar fesur seneddol. Ymadrodd sy'n dweud nad oes hawl gan berson neu gorff wneud rhywbeth
+quality;['gwyrdd', 'gwyrddlas', 'viridity'];Lliw
+quality;['melyn', 'yellowness'];Lliw
+region;['owns', 'oz.'];Uned o fass
+region;['metr sgwâr', 'm', 'm2', 'm^2', '㎡', 'centimetr sgwâr', 'centare'];Arwynebedd safonol
+region;['centimetr ciwb', 'milliliter', 'centimetr ciwbig', 'ml', 'cc'];Uned (cyfaint)
+region;['rhif baryon'];Un rhan o dair o'r gwahaniaeth rhwng nifer y cwarciau a hen bethau mewn system
+region;['llathen', 'llath', 'iard', 'cyflymder'];Uned (hyd)
+region;['tunnell', 'gg', 'kt', 'mg', 't', 'tunnell fetrig', 'gigaton', 'gigatonne', 'megatonne'];Uned fetrig o fass
+region;['metr', 'm', 'medr', 'metre'];Hyd safonol
+region;['metical mosambic', 'metical'];arian cyfred
+region;['doler newydd taiwan', 'nt$', 'twd', 'taiwan doler'];arian cyfred Taiwan
+region;['cystadleuaeth chwaraeon', 'gêm'];Cystadleuaeth o fewn fframwaith rheolau sefydlog camp
+regulation;['rheol'];Rheoleiddio egwyddor pobl, gan gynnwys cyfreithiau, cyfarwyddiadau, canllawiau, confensiynau cymdeithasol
+regulation;['hawliau dynol', 'hawl dynol', 'iawnderau dynol', 'dynol-hawliau', 'hawl ddynol', 'hawliau dynol cyffredinol', 'hawliau dynol groes', 'troseddau hawliau dynol'];Hawliau sylfaenol annymunol y mae gan unigolyn hawl iddyn nhw
+regulation;['cyfle cyfartal'];Trin pawb yn debyg
+relevant-part;['y gwregys asteroid', 'gwregys asteroid', 'asteroid belt prif', 'asteroid brif-belt', 'maes asteroid', 'prif-belt'];Rhanbarth o'r system Solar, wedi'i leoli rhwng orbitau Mawrth a Iau
+simple-collection;['pisces'];Cytser
+simple-collection;['bydysawd', 'y bydysawd', 'macrocosm', 'byd', 'byd ffisegol', 'cosmos', 'universes'];Cyfanswm y gofod a'r holl gynnwys
+simple-planned-collective;['deddfwrfa', 'corff deddfwriaethol', 'ddeddfwrfa', 'henaduriaeth', 'bresbyteraidd ffurflywodraeth', 'classis', 'cynulliad deddfwriaethol', 'deddfwrfeydd', 'deddfwriaethol', 'gangen deddfwriaethol', 'gweinidog presbyteraidd', 'gyfraith gwneuthurwyr', 'pŵer deddfwriaethol'];Cynulliad sydd a'r hawl i newid deddfau
+simple-planned-collective;['cyfadran', 'gyfadran'];Rhan o brifysgol
+situation;['cytundeb', 'anghonfensiynol', 'arferol', 'chonfensiynau cymdeithasol', 'confensiwn cymdeithasol', 'confensiynol', 'gonfensiwn', 'gonfensiynau cymdeithasol'];Set o safonau a gytunwyd, a nodwyd, neu a dderbynnir yn gyffredinol
+situation;['gwrthddywediad', 'anghyson o', 'gwrthddywediadau'];Anghydnawsedd rhesymegol rhwng dau neu fwy o gynigion
+situation;['cyflwr'];Cyflwr neu amgylchiadau peth gwrthrych neu ddigwyddiad
+situation;['ffibrosis systig', 'clefyd fibrocystic y pancreas', 'ffibrosis y pancreas', 'mucoviscidosis'];Afiechyd sy'n ymwneud mwcws
+situation;['periodontitis', 'afiechyd periodontitis', 'clefyd periodontol'];Afiechyd dynol
+situation;['estrongasedd', 'estrongasineb', 'estrongasäwr', 'senoffobia', 'xenophobic'];Yn anfodlon ar yr hyn a ystyrir yn dramor neu'n rhyfedd
+situation;['llyfryddiaeth', 'bibliografía'];rhestr o lyfrau neu ddogfennau sy'n berthnasol i bwnc neu awdur penodol
+situation;['canlyniad', 'ganlyniad', 'effaith'];Canlyniad terfynol cyfres o weithredoedd neu ddigwyddiadau
+situation;['hajj', 'hadj', 'haj', 'bererindod i mecca'];Bererindod Islamaidd i Fecca
+situation;['anorecsia', 'colli archwaeth'];Symtom meddygol
+situation;['ffelwniaeth', 'ffeloniaeth', 'felonies', 'troseddwyr'];Trosedd difrifol
+situation;['diffyg maeth', 'clefydau diffyg', 'diffygion maethol', 'dioddef o ddiffyg maeth', 'maeth gwael', 'newyn yn y byd'];Afiechyd dynol
+situation;['rhagfynegiad', 'rhagweld', 'rhagfynegiadau', 'rhagfynegol', 'rhagolygon'];datganiad am ddigwyddiad ansicr
+situation;['cynsail', 'dybiaeth', 'premiss', 'rhagosodiad'];Datganiad y bydd dadleuon dadl yn cymell neu'n cyfiawnhau casgliad
+situation;['cytundeb heddwch', 'cytundebau heddwch', 'heddwch cytundeb'];cytundeb rhwng dau neu fwy o barthau gelyniaethus sy'n dod a rhyfel i ben yn ffurfiol
+situation;['isbwysedd', 'pwysedd gwaed isel'];Pwysedd gwaed is nag arfer
+situation;['microcephaly', 'microceffali', 'microcephalic', 'microcephalus', 'nanocephaly'];Afiechyd bodau dynol
+situation;['fisa', 'teitheb', 'fisa cludo', 'fisa gludo', 'fisa myfyriwr', 'fisa twristiaid', 'fisa ymadael'];Dogfen swyddogol
+situation;['herpes syml', 'herpes simplecs'];Clefyd a achosir gan firws o'r enw herpes simplex
+situation;['torasgwrn', 'asgwrn wedi torri', 'torri esgyrn'];Cyflwr meddygol ble ceir difrod i asgwrn
+situation;['canser y fron', 'cancr y fron'];Canser thorasig sy'n tarddu yn y chwarren laeth
+situation;['osteoarthritis', 'arthritis dirywiol', 'arthrosis', 'clefyd dirywiol y cyd', 'osteoarthrosis'];Math o arthritis
+situation;['tarwden y traed', 'pedis tinea'];Clefyd y traed
+situation;['methiant y galon', 'diffyg y galon', 'methiant y fentrigl chwith', 'methiant y galon cronig'];Cyflwr lle nad yw'r galon yn gallu pwmpio gwaed yn ddigonol
+situation;['hypothermia'];Y broses pan fo'r corff dynol yn oeri'n sylweddol
+situation;['hil-laddiad', 'hil laddiad', 'difodi hiliol', 'hil-laddiadau', 'hil-leiddiol', 'llofruddiaeth hil'];Dinistrio systematig o popeth, neu ran sylweddol o grŵp hiliol, ethnig, crefyddol neu genedlaethol
+situation;['tynnu sylw'];y broses o symud neu newid meddyliau grwp o bobl
+situation;['teithio'];Symudiad o pobl rhwng lleoliadau daearyddol cymharol bell
+situation;['medal anrhydedd', 'medal of honor', 'medal of honor cyngresol'];yr addurn milwrol uchaf a ddyfarnwyd gan yr Unol Daleithiau.
+situation;['acne', 'acni', 'plorynnod', 'vulgaris acne'];Afiechyd ar y chwarren sebwm
+situation;['cyflafan', 'lladdfa', 'llofrudd', 'llofruddiaeth torfol', 'gyflafan', 'gweithredu màs', 'lladd màs', 'llofruddiaeth dorfol', 'llofruddiaethau torfol', 'massacres', 'saethu màs'];Gweithred o lofruddio nifer fawr o bobl
+situation;['ffrwythlondeb', 'ffrwythlon'];Y gallu i epilio
+situation;['y dioddefaint', 'y pasiwn', 'dioddefaint crist'];Y cyfnod ar ddiwedd bywyd yr Iesu
+situation;['cyflafan', 'lladdfa', 'llofrudd', 'llofruddiaeth torfol', 'gyflafan', 'gweithredu màs', 'lladd màs', 'llofruddiaeth dorfol', 'llofruddiaethau torfol', 'massacres', 'saethu màs'];Gweithred o lofruddio nifer fawr o bobl
+socially-constructed-person;['ffransis o assisi', 'sant ffransis o assisi', 'giovanni di bernardone', 'st ffransis o assisi'];sant Catholig, a sylfaenydd Urdd Sant Ffransis
+socially-constructed-person;['edward ii, brenin lloegr', 'edward ii', 'edward ii o loegr'];Brenin Lloegr a anwyd yng Nghaernarfon
+socially-constructed-person;['harri vii, brenin lloegr', 'harri vii', 'harri tudur', 'harri 7', 'harri 7fed', 'harri vii o loegr', 'henry tudor'];Brenin Lloegr, 1485–1509
+socially-constructed-person;['catrin o aragón', 'catrin o aragon', 'catalina de aragón y castilla', 'catherine of aragon', 'catherine o aragon'];Gwraig gyntaf Harri VIII, brenin Lloegr
+socially-constructed-person;['dante gabriel rossetti', 'rossetti'];Tudalen wahaniaethu Wikimedia
+socially-constructed-person;['edward vii', 'edward vii, brenin y deyrnas unedig', 'iorwerth vii', "edward vii o'r deyrnas unedig", 'albert edward'];brenin y Deyrnas Unedig ac ymerawdwr India (1901–1910)
+socially-constructed-person;['mahatma gandhi', 'gandhi', 'mohandas gandhi', 'mohandas karamchand gandhi', 'mohandas gandhi karamchand'];Arweinydd gwleidyddol a chrefyddol Indiaidd
+socially-constructed-person;['myrddin', 'merlin', 'myrddin emrys', 'myrddin wyllt'];cymeriad chwedlonol, a bardd
+socially-constructed-person;['artemis', 'cynthia'];Duwies Roegaidd
+socially-constructed-person;['arianrhod', 'arianrod', 'arianrhod ferch don', 'arianrhod ferch dôn', 'arianrod ferch dôn'];Enw personol benywaidd
+socially-constructed-person;['leonardo da vinci', 'da vinci.', 'da vinci', 'leonardo'];arlunydd a pholymath Eidalaidd
+socially-constructed-person;['catrin fawr', 'catherine', 'catherine fawr', 'catherine ii o rwsia', 'catrin ii, tsarina rwsia', 'catrin ii, ymerawdres rwsia', 'catrin ii o rwsia', 'catrin ii', 'catherine ii'];ymerodres Rwsia
+socially-constructed-person;['bertrand russell', 'bertrand arthur william russell', 'earl russell'];athronydd o Gymru, logician, mathemategydd, hanesydd, llenor, beirniad cymdeithasol, actifydd gwleidyddol a enillydd gwobr Nobel
+socially-constructed-person;['ulysses s. grant', 'hiram ulysses grant', 'llywydd grant', 'ulysses grant', 'ulysses grant simpson'];18fed arlywydd Unol Daleithiau America
+socially-constructed-person;['elisabeth ii, brenhines y deyrnas unedig', 'elisabeth ii', 'elizabeth ii', 'elizabeth yr ail', "elisabeth ii o'r deyrnas unedig", 'elisabeth ii o loegr', 'elizabeth ii, brenhines y deyrnas unedig', "elizabeth ii o'r deyrnas unedig"];Brenhines y Deyrnas Unedig, Canada, Awstralia, Seland Newydd a 12 gwledydd arall. Pennaeth y Gymanwlad
+socially-constructed-person;['bill clinton', 'arlywydd clinton', 'william jefferson clinton'];42ain arlywydd Unol Daleithiau America
+socially-constructed-person;['siartiaeth', 'mudiad y siartwyr', 'siartwyr', 'siartaeth', 'siartwr', 'y siartwyr', 'gwrthryfel y siartwyr'];idioleg
+socially-constructed-person;['amddifad', 'plentyn amddifad', 'amddifad rhyfel', 'plant amddifad'];plentyn heb rieni
+socially-constructed-person;['gangster', 'mobster', 'gangsters'];Aelod o gang troseddol
+socially-constructed-person;['diva', 'prima donna', 'divas', 'donna prima', 'primadonna'];Cantores glodfawr
+socially-constructed-person;['diva', 'prima donna', 'divas', 'donna prima', 'primadonna'];y brif gantores fenywaidd mewn cwmni opera
+socially-constructed-person;['mynach', 'mynachaidd', 'mynachod'];Galwedigaeth grefyddol
+socially-constructed-person;['cynghorydd', 'aelod o gyngor', 'councilmember', 'y cynghorydd'];Cynrychiolydd etholedig llywodraeth leol
+socially-constructed-person;['nomad', 'nomadiaid', 'nomadig', 'bobl grwydrol', 'crwydrol', 'lled-grwydrol', 'llwyth crwydrol', 'llwythau crwydrol', 'lwythau crwydrol', 'nomadiaeth'];Aelod o gymuned o bobl sy'n byw mewn gwahanol leoliadau, gan symud o un lle i'r llall
+socially-constructed-person;['delaware county, pennsylvania', 'delaware county'];sir yn nhalaith Pennsylvania, Unol Daleithiau America
+socially-constructed-person;['asiaid', 'asiaidd'];Tudalen wahaniaethu Wikimedia
+socially-constructed-person;['cymro', 'cymry', 'cymraes', 'gymreig', 'gymry'];Cenedl sy''n frodorol o Gymru
+socially-constructed-person;['sant padrig', 'padrig', 'padrig sant', 'san padrig', 'sant patrick', 'patrick', 'st patrick'];Nawddsant Iwerddon a Nigeria, a anwyd yng Nghymru
+socially-constructed-person;['person dadleoledig', 'person heb ddinasyddiaeth', "person sydd wedi'i ddadleoli", "pobl wedi'u dadleoli", 'dp', 'pobl heb ddinasyddiaeth', 'statelessness'];Person sydd wedi cael ei symud yn orfodol o'u cartref neu ranbarth cartref
+socially-constructed-person;['mathemategydd', 'mathemategwyr'];Person efo llawer o gwybodaeth am mathemateg
+socially-constructed-person;['gofodwr', 'gofodwraig', 'gofodwyr', 'cosmonaut', 'spaceman'];Person wedi'i hyfforddi'n broffesiynol i deithio i'r gofod
+socially-constructed-person;['gwryw', 'gwrywol', 'dynion', 'person gwrywaidd'];Rhyw (ar gyfer anifail neu blanhigyn, nid person)
+socially-constructed-person;['estron', 'estron preswyl', 'estroniaid anghyfreithlon', 'estroniaid preswyl', 'noncitizen', 'outlander'];Person mewn gwlad heb dinasyddiaeth
+socially-constructed-person;['sant', 'santes', 'catholig sant', 'saint', 'seintiau cristnogol'];Person sanctaidd
+socially-constructed-person;['arlunydd', 'artist', 'arlunwyr', 'paentiwr', 'artistiaid', 'berson creadigol'];unigolyn sydd yn creu, ymarfer neu weithredu unrhyw fath o gelf
+socially-constructed-person;['gwyddonydd', 'gwyddonwyr', 'gwyddonydd ymchwil'];Person sydd wedi astudio gwyddoniaeth
+socially-constructed-person;['athro prifysgol', 'athro llawn'];Swydd a safle
+socially-constructed-person;['barnwr', 'cyfiawnder', 'iudex', 'ynadon'];Swyddog sy'n gyfrifol am lys barn
+socially-constructed-person;['ffisegydd', 'ffisegwyr'];gwyddonydd ym maes ffiseg
+socially-constructed-person;['gof', 'gofaint', 'siop gof'];Unigolyn sy'n creu cynnyrch haearn gyr neu ddur drwy ofannu, forthwylo, plygu a thorri
+socially-constructed-person;['bardd', 'prydydd', 'prydyddes', 'beirdd', 'poetess'];Un sy''n cyfansoddi barddoniaeth
+socially-constructed-person;['gof aur', 'eurof', 'aur-weithiwr', 'goldsmithing', 'goldworker', 'gwaith aur'];Gweithiwr metel sy'n arbenigo mewn gweithio gydag aur a metelau gwerthfawr eraill
+socially-constructed-person;['ffoadur', 'ffoaduriaid', 'ceiswyr lloches', 'ceisiwr lloches', 'ymgeisiwr lloches', 'ymgeiswyr lloches', 'cheiswyr lloches', 'ffoaduriaid gwleidyddol', 'ffoaduriaid rhyfel', 'statws ffoadur'];Math o berson wedi'i dadleoli
+socially-constructed-person;['banerwr', 'cludwr baner', 'dygiedydd lliw', 'flagbearer', 'safon-dygiedydd'];Person sy'n cludo baner mewn gallu swyddogol
+socially-constructed-person;['rheolwr gwesty', 'gwestywr', 'hotelkeeper', 'hotelman', 'rheoli gwesty', 'rheoli lletygarwch'];Unigolyn sy'n rheoli gwesty
+socially-constructed-person;['morwr', 'morwyr', 'morwr masnachol'];Person sy'n gweithio ar longau
+socially-constructed-person;['sant siôr', 'siôr', 'san siôr', 'siors', 'siorys', 'saint george', 'st george'];Sant a merthyr Cristnogol
+socially-constructed-person;['esop', 'aesop'];Chwedleuwr yn yr Hen Roeg
+socially-constructed-person;['sant pedr', 'simon pedr', 'pedr sant', 'saint peter', 'sant pedr yr apostol', 'st peter'];Apostol a'r pab cyntaf
+socially-constructed-person;['euclid', 'ewclid', 'euclid o alexandria', 'euclides', 'eukleides'];mathemategydd Groegaidd
+socially-constructed-person;['ffraid', 'brigid o iwerddon', 'brigit', 'brîd', 'naomh bhríde', 'santes ffraid', 'bridget', 'brigid', 'saint bride', 'saint bridget', 'saint brigid', 'st bride', 'st bridget', 'st brigid'];Santes, abades ac un o nawddseintiau Iwerddon
+socially-constructed-person;['clovis i', 'clovis'];Brenin cyntaf y Franks (c 466-511)
+socially-constructed-person;['swyddog cyffredinol', 'cadfridogion', 'cyffredinol llawn', 'swyddogion cyffredinol'];rheng filwrol
+socially-constructed-person;['gwrthwynebydd cydwybodol', 'gwrthwynebwr cydwybodol', 'gwrthwynebwyr cydwybodol', 'wrthwynebiad cydwybodol', 'wrthwynebydd cydwybodol'];Person nad yw'n dymuno ymuno a byddin
+socially-constructed-person;['hyfforddwr'];Proffesiwn
+socially-constructed-person;['albert einstein', 'einstein'];Ffisegydd damcaniaethol a anwyd yn yr Almaen
+socially-constructed-person;['daniel morgan'];Arloeswr, milwr a gwleidydd Americanaidd o dras Gymreig
+socially-constructed-person;['ystadegydd', 'actiwari', 'ystadegwyr'];Person sy'n gweithio ym maes ystadegau
+socially-constructed-person;['dynwaredwr', 'ddynwaredwr', 'dynwared'];unigolyn sydd yn dynwared neu efelychu ymddygiad neu weithredoedd rhywun arall
+socially-constructed-person;['cogydd', 'cogyddes', 'coginio archeb byr', 'gogyddes'];Galwedigaeth yn coginio bwyd
+socially-constructed-person;['saer maen', 'seiri maen', 'stonecutter'];Crefftwr
+socially-constructed-person;['heusor', 'bugeilio cŵn', 'cŵn bugeilio', 'herder', 'herdsman', 'porthmyn'];un sy'n edrych ar ôl anifeiliaid crwydrol
+socially-constructed-person;['wright'];Cyfenw
+socially-constructed-person;['pregethwr', 'bregethwyr', 'dyn pregethwr', 'sermoniser', 'sermonizer'];Un sy''n pregethu
+socially-constructed-person;['harpsicordydd', 'harpsichordist'];Un sydd yn canu'r harpsicord
+socially-constructed-person;['nofelydd', 'nofelwyr'];Un sy''n ysgrifennu nofelau
+socially-constructed-person;['dramodydd', 'dramodwr', 'dramodwyr', 'ysgrifennu dramâu'];Un sy'n ysgrifennu dramau
+socially-constructed-person;['peiriannydd ceir', 'auto-mechanic', 'car-mechanic', 'mecanig moduron', 'mwnci saim', 'peiriannydd automobile', 'trwsio auto', 'trwsio modurol'];galwedigaeth
+socially-constructed-person;['cefnder', 'gefnder dileu unwaith', 'cefndryd cyntaf', 'gefnder', 'gefnder-almaenwr', 'gefnder cyntaf', 'gefnder dwbl', 'gefnder dwbl cyntaf', 'gefnder llawn', 'gefnder trydydd', 'gyfyrder', 'gyfyrder dileu unwaith'];mab i fodryb neu ewythr
+socially-constructed-person;['curadur', 'curadur amgueddfa', 'curaduron'];Unigolyn sy'n gyfrifol am drefnu arddangosfa
+socially-constructed-person;['maer', 'faeryddiaeth', 'maeres', 'meiri', 'rheolwr ddinas', 'rheolwr y dref'];Pennaeth awdurdod neu cyngor lleol
+socially-constructed-person;['llywodraethwr', 'etholiad gubernatorial', 'gubernatorial', 'llywodraethwr milwrol', 'llywodraethwyr'];Swyddog o fewn llywodraeth
+socially-constructed-person;['arweinydd', 'cyfarwyddwr cerdd'];Un sy''n arwain cerddorfa
+socially-constructed-person;['arglwydd y sêl gyfrin', 'arglwydd geidwad y sêl gyfrin'];Swydd yn llywodraeth y DU
+socially-constructed-person;['banerwr', 'cludwr baner', 'dygiedydd lliw', 'flagbearer', 'safon-dygiedydd'];Person sy'n cludo baner mewn gallu swyddogol
+socially-constructed-person;['abad', 'archimandrite', 'abadau', 'archmandrite'];Person crefyddol
+spatial-feature;['llwyfandir', 'plateau', 'llwyfandir uchel', 'llwyfandiroedd', 'tableland'];Tirwedd uchel gwastad
+spatial-feature;['ffin', 'terfyn', 'ffin ryngwladol', 'gosod ffiniau', 'borders', 'ffin genedlaethol', 'ffiniol', 'gosod etholaethau', 'gosod ffiniau ffin', 'llinell derfyn', 'mesuraf', 'traws-ffiniol'];Ffin ddaearyddol endidau gwleidyddol neu awdurdodaethau cyfreithiol
+spatial-feature;['mynydd everest', 'mynydd chomolungma', 'everest', 'mount everest', 'mynydd eferest', 'qomolangma', 'sagarmatha', 'mt. everest'];Mynydd uchaf y Ddaear, rhan o'r Himalaya rhwng Nepal a Tsieina
+subject;['pensaernïaeth neoglasurol', 'pensaerniaeth neoglasurol', 'arddull neo-glasurol', 'neo-glasurol pensaernïaeth', 'adeilad neo-glasurol', 'neo-glasurol pensaer'];Arddull pensaernïol
+subject;['oncoleg', 'gofal canser', 'oncoleg meddygol', 'oncolegwyr', 'oncolegydd'];Cangen o feddygaeth
+subject;['endocrinoleg'];Arbenigedd meddygol
+subject;['topoleg', 'dadansoddiad situs', 'topolegol', 'topologically', 'topologist'];Isadran o fewn mathemateg
+subject;['seicoleg', 'seicolegol', 'seicolegydd', 'gwyddoniaeth seicolegol', 'seicoleg dynol'];Astudiaeth o swyddogaethau ac ymddygiadau meddyliol
+subject;['palaeohinsoddeg', 'palaeoclimatology', 'paleoclimatology', 'palaeoclimatologist', 'paleoclimate', 'paleoclimatologist'];Astudiaeth
+subject;['llên gwerin', 'chwedl werin', 'chwedlau gwerin', 'llen gwerin', 'llên-gwerin', 'doethineb gwerin', 'storïau gwerin'];Yn cynnwys chwedlau, cerddoriaeth, hanes llafar, proverbiaid, jôcs, crefyddau poblogaidd, ac ati.
+substance-role;['f3', 'thromboplastin', 'ffactor iii', 'ffactor meinwe', 'thrombokinase'];Genyn codio-protien yn y rhywogaeth Homo sapiens
+substance-role;['f2', 'thrombin'];Genyn codio-protien yn y rhywogaeth Homo sapiens
+substance-role;['plg', 'plasmin', 'fibrinolysin'];Genyn codio-protien yn y rhywogaeth Homo sapiens
+substance-role;['ensym', 'ensymau', 'biocatalysts', 'enzymatic', 'holoenzyme'];Moleciwl biolegol
+substance-role;['cat', 'catalase'];Genyn codio-protien yn y rhywogaeth Homo sapiens
+system-as-description;['arwahanu hiliol', 'gwahanu ysgol', 'rhwystr lliw'];Gwahanu pobol
+system-as-description;['barnwriaeth', 'farnwriaeth', 'system farnwrol', 'barnweiniaeth', 'barnwrol', 'gangen barnwrol', 'judicatory'];system o lysoedd sy'n dehongli ac yn cymhwyso'r gyfraith. Un o bileri gwladwriaeth.
+taxonomic-collective;['is-deulu', 'subfamily', 'subfamilies'];Safle tacsonomegol o dan y teulu
+taxonomic-collective;['llwyth', 'subtribe'];Safle o fewn y tacson sydd rhwng y teulu a''r genws
+taxonomic-collective;['teulu', 'teulu tacsonomig'];Teulu tacson
+taxonomic-collective;['isrywogaeth', 'hil', 'is-rywogaeth', 'isrywogaeth enwebu', 'ssp hadau'];Rheng tacson (is na rhywogaeth)
+taxonomic-collective;['urdd', 'gorchymyn', 'infraorder', 'parvorder', 'suborder'];Safle'r tacson o fewn y rheng
+taxonomic-collective;['genws', 'tylwyth', 'genera', 'genus', 'enw genws'];Safle tacson
+taxonomic-collective;['rhywogaeth', 'rhywiogaeth', 'rhywogaethau', 'teiprywogaeth', 'cysyniad o rywogaethau ffylogenetig', 'rhywogaethau biolegol'];Rheng tacson
+taxonomic-collective;['rheidae', 'rheaod', 'rhea', 'rheiformes', 'teulu rheidae'];Teulu o adar
+taxonomic-collective;['tylluanod', 'strigidae', 'tylluan', 'dylluan nodweddiadol', 'teulu strigidae'];Teulu o adar
+taxonomic-collective;['cytras', 'clade'];Safle o fewn y tacson
+taxonomic-collective;['tacson', 'categori tacsonomig', 'grŵp tacsonomig', 'taxa'];Grŵp o organebau a ystyrir yn uned
+taxonomic-collective;['breision', 'emberizidae', 'emberizidae subfamily', 'emberizinae subfamily'];Teulu o adar
+taxonomic-collective;['falconiformes', 'falconiformes gorchymyn'];Urdd o adar
+taxonomic-collective;['psittacoidea', 'parot gwir', 'parrots gwir', 'psittacidae', 'teulu psittacidae'];Uwch-urdd o adar
+taxonomic-collective;['plantaginaceae', 'teulu llyriad', 'teulu plantaginaceae'];teulu o blanhigion
+taxonomic-collective;['corvidae', 'brain', 'sgrechod', 'corvid', 'teulu corvidae'];Teulu o adar
+taxonomic-collective;['cwrasowiaid', 'cracidae', 'teulu cracidae'];Teulu o adar
+taxonomic-collective;['colomennod', 'colomen', 'columbidae', 'columbiformes', 'teulu columbidae'];Teulu o adar
+taxonomic-collective;['huganod', 'sulidae', 'hugan', 'teulu sulidae'];Teulu o adar
+taxonomic-collective;['lari', 'suborder lari'];Is-urdd o adar
+taxonomic-collective;['teloriaid yr hen fyd', 'sylviidae', 'teulu sylviidae'];Teulu o adar
+taxonomic-collective;['gaviiformes', 'gaviiformes gorchymyn'];Urdd o adar dyfrol
+taxonomic-collective;['tyranni', 'is-oscine', 'suborder tyranni', 'suboscine'];Is-Urdd o adar
+taxonomic-collective;['teloriaid', 'paruliadae', 'parulidae', 'teulu parulidae'];Teulu o adar
+taxonomic-collective;['ciconiiformes', 'ciconiaid', 'chwiboniaid', 'ciconiidae', 'ciconiiformes gorchymyn'];Urdd o adar
+taxonomic-collective;['pelecaniformes', 'huganod', 'yr huganod', 'pelecaniformes gorchymyn'];Urdd o adar dyfrol
+taxonomic-collective;['phasianidae', 'ffesantod', 'teulu phasianidae'];Teulu o adar
+taxonomic-collective;['siglennod', 'motacillidae', 'teulu motacillidae'];Teulu o adar
+taxonomic-collective;['cwtiaid', 'charadriidae', 'teulu charadriidae'];Teulu o adar
+taxonomic-collective;['lorïaid', 'loridae', 'lorisidae', 'teulu lorisidae'];Teulu o famaliaid
+taxonomic-collective;['charales', 'charales gorchymyn'];tudalen categori Wikimedia
+taxonomic-collective;['apodiformes', 'sïednod', 'apodiformes gorchymyn'];Rhywogaeth o adar
+taxonomic-collective;['ardea', 'genws ardea'];genws o adar
+taxonomic-collective;['twrci', 'meleagris', 'genws meleagris', 'meleagrididae', 'tyrcwn'];Genws o adar
+temporal-region;['1 gorffennaf', 'dominion day'];Dyddiad
+temporal-region;['1 ionawr', 'difrifoldeb mary'];Dyddiad
+temporal-region;['2 chwefror', 'groundhog day'];Dyddiad
+temporal-region;['1 tachwedd', 'yr holl saint', 'allhallows', "drwy'r dydd saint", 'gwyl yr holl saint', 'hallowmas', 'hallowmass'];Dyddiad
+temporal-region;['nadolig', '25 rhagfyr', 'dydd nadolig', 'diwrnod nadolig', 'y nadolig', 'ddydd nadolig', 'xmas'];Dyddiad
+temporal-region;['19 mawrth', 'st joseph'];Dyddiad
+temporal-region;['14 ebrill', 'pan americanaidd day'];Dyddiad
+temporal-region;['24 hydref', 'diwrnod y cenhedloedd unedig'];Dyddiad
+temporal-region;['12 hydref', 'columbus day', 'dia de la raza', 'diwrnod darganfod'];Dyddiad
+temporal-region;['4 gorffennaf', 'pedwerydd o orffennaf', 'diwrnod annibyniaeth'];Dyddiad
+temporal-region;['mileniwm'];mil o flynyddoedd
+temporal-region;['terfyn amser', 'dyddiad cau'];Maes cul o ran pryd y mae'n rhaid cyflawni amcan neu dasg
+temporal-region;['24 mai', 'diwrnod y gymanwlad', 'diwrnod yr ymerodraeth'];Dyddiad
+temporal-region;['17 medi', 'diwrnod dinasyddiaeth'];Dyddiad
+temporal-region;['1 awst', 'lammas', 'lammas day'];Dyddiad
+temporal-region;['14 mehefin', 'diwrnod baner'];Dyddiad
+temporal-region;['29 mehefin', 'seintiau pedr a paul'];Dyddiad
+temporal-region;['jwrasig', 'jurasig', 'cyfnod jwrasig', 'oes yr ymlusgiaid'];Ail gyfnod yn yr Era Mesosöig
+temporal-region;['29 medi', 'fihangel', 'fihangel day', 'gŵyl fihangel', 'gŵyl fihangel day'];Dyddiad
+temporal-region;['21 mehefin', 'hirddydd haf', 'alban hefin', 'calan ieuan fedyddiwr', 'canol haf', 'midsummer'];Dyddiad
+temporal-region;['1 mai', 'calan mai', 'gŵyl fai', 'cyntaf o fai', 'mai diwrnod'];Dyddiad
+temporal-region;['2 mawrth', 'diwrnod annibyniaeth texas'];Dyddiad
+temporal-region;['29 chwefror', 'diwrnod naid', 'diwrnod bissextile', 'neidio dydd'];Dyddiad
+temporal-region;['23 mehefin', 'midsummer eve', 'midsummer night', 'sant ioan eve', 'st ioan noswyl', 'st john noson'];Dyddiad
+temporal-region;['tymor y swydd', 'cyfnod yn y swydd'];terfyn amser ar gyfer gwleidydd sy'n dal swydd benodol (weithiau adnewyddadwy)
+temporal-region;['cylchfa amser y mynyddoedd', 'amser mynydd', 'amser safonol y mynyddoedd', 'mst'];cylchfa amser yng Ngogledd America
+temporal-region;['6 ionawr', "diwrnod tri kings '", 'diwrnod twelfth', 'ystwyll ein harglwydd'];Dyddiad
+theory;['damcaniaeth', 'damcaniaethau', 'ddamcaniaeth', 'damcaniaeth wyddonol', 'damcaniaethol', 'ddamcaniaeth wyddonol', 'posibilrwydd', 'theori', 'tybiwyd'];Eglurhad arfaethedig ar gyfer arsylwi, ffenomen, neu broblem wyddonol
+theory;['cyfraith wyddonol', 'gyfraith gwyddonol'];Datganiad yn seiliedig ar arsylwadau arbrofol ailadroddus sy'n disgrifio rhai agweddau ar y bydysawd
+theory;['perthnasedd arbennig', 'damcaniaeth perthnasedd arbennig', 'damcaniaeth perthnasedd arbennig o', 'ddamcaniaeth arbennig perthnasedd', 'ffiseg perthnaseddol', 'mae damcaniaeth einstein arbennig o perthnasedd', 'theori perthynoledd arbennig'];damcaniaeth ffisegol a gynigwyd ym 1905 gan Albert Einstein

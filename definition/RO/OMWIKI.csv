@@ -1,0 +1,33 @@
+activity;['glumă', 'bufonerie', 'caraghioslâc', 'poznă', 'banc', 'grotesc'];Ceva spus în amuzament.
+agentive-figure;['academie', 'universitate', 'akademiezh', 'academii', 'onorific societate'];Instituţie de educaţie superioară.
+agentive-physical-object;['om', 'homo', 'homo sapiens sapiens', 'ființăumană', 'homo sapiens', 'uman', 'h. s. sapiens', 'oameni', 'omenire', 'omul', 'umană', 'ființa umană', 'ființă umană', 'speciei umane'];Membru al speciei umane.
+amount-of-matter;['apă', 'h2o', 'h₂o', 'apa', 'apă lichidă'];Lichid comun (H₂O) care formează ploaia, râurile, mările, etc. şi care formează o parte importantă din corpurile organismelor vii.
+classification-system;['eșantion', 'mostră', 'eșantion de distribuție', 'eșantion statistic', 'eșantionare statistică'];O parte dintr-o sumă de elemente alese ce ajută la reprezentarea unui fenomen, cu scopul de a-l studia.
+course;['naufragiu'];Pierderea unei nave în mare datorită unui accident.
+ecological-collective;['lume', 'omenire', 'omenime', 'rasăumană', 'umanitate', 'umanitatea', 'ființe umane', 'oameni', 'lumea', 'rasa umană', 'rasă umană'];Totalitatea speciei umane.
+functional-matter;['ou', 'ouă', 'ou de găină', 'ouă pește', 'producția de ouă'];Ou al unei păsări domestice, cel mai des de găină, folosit ca hrană.
+information-object;['antonim', 'antonime', 'antonimul', 'vizavi de cuvânt'];Un cuvânt sau o frază cu sens identic şi exact, dar opus, faţă de alt cuvânt sau fază dat(ă).
+language;['română', 'limba română', 'româneşte', 'românește', 'limba romana', 'limba romînă', 'româna', 'moldovenească', 'ro', 'romîna', 'romînă', 'limba romaneasca', 'limba românească', 'limbă română', 'romaneste'];O limbă romanică vorbită în principal în România, Republica Modolva şi Voievodina.
+locative-role;['metropolă', 'oraș', 'centruurban', 'oraş', 'cetate', 'urbe', 'metropole', 'centru urban', 'metropola'];Aşezare urbană mare, de obicei include blocuri.
+non-agentive-physical-object;['conductă', 'țeavă', 'tub', 'ţeavă', 'conducte', 'tevi din plastic'];Conductă pentru a duce apa spre un loc dorit.
+non-agentive-physical-object;['conductădeapă', 'conductă', 'alimentare cu apă', 'conductă principală de apă', 'sistem de apă municipale'];Conductă pentru a duce apa spre un loc dorit.
+non-agentive-physical-object;['horn', 'coș de fum', 'cămin', 'coș', 'şemineu', 'coş de fum', 'coșului de fum'];O structură verticală din cărămizi, zidărie sau oţel care transportă fumul sau aburul departe de foc, motor, etc.
+parametrized-collection;['mână'];Un set de cărţi date unui jucător în timpul jocului.
+physical-object;['școală', 'şcoală'];Instituţie sau clădire în care copiii şi tinerii primesc educaţie.
+physical-object;['cazinou', 'casino', 'cazinou jocuri de noroc'];Clădire publică pentru distracţie, unde au loc jocuri de noroc.
+political-geographic-object;['metropolă', 'oraș', 'centruurban', 'oraş', 'cetate', 'urbe', 'metropole', 'centru urban', 'metropola'];Aşezare urbană mare, de obicei include blocuri.
+political-geographic-object;['ulaanbaatar', 'ulanbator', 'ulan bator', 'ulan-bator', 'capitala mongoliei', 'kulun', 'urga'];Capitala Mongoliei.
+quality;['ferocitate', 'furie', 'sălbăticie', 'violență', 'înverșunare', 'violenţă', 'vehemență', 'furiousness'];Forţă extremă.
+quality;['ferocitate', 'furie', 'sălbăticie', 'violență', 'înverșunare', 'violenţă', 'vehemență', 'furiousness'];Forţă extremă.
+quality;['semilună', 'pătrar'];Faza lunii dintre lună nouă şi lună plină, atunci când doar jumătate din lună este vizibilă.
+region;['lună', 'luni', 'lunăcalendaristică', 'lună calendaristică'];Mai mult de o lună.
+simple-collective;['banc', 'bancdepești', 'pește școlarizare', 'scoala'];Grup mare de peşti sau alte animale acvatice, de obicei din aceeaşi specie care înoată împreună.
+situation;['delapidare', 'deturnare de fonduri', 'defraudare', 'sustragere', 'delapidarea', 'delapidator', 'deturna', 'deturnare', 'deturnat'];Însuşirea nefondată a fondurilor sau proprietăţilor administrate, dar care nu sunt în proprietatea însuşitorului.
+socially-constructed-person;['soț', 'bărbat', 'gospodar', 'om', 'soţ', 'soțul', 'bărbat căsătorit'];Partener în căsătorie sau concubinaj.
+socially-constructed-person;['gardian', 'paznic', 'gardă', 'păzitor'];O persoană care protejează sau păzeşte ceva.
+socially-constructed-person;['partener', 'soț', 'consort', 'om', 'căsătorit persoană', 'mai bine jumătate', 'soțul'];Partener în căsătorie sau concubinaj.
+socially-constructed-person;['bărbat', 'om', 'barbat', 'bărbați', 'adult de sex masculin', 'maturi sexual', 'maturizarea sexuală'];Membru al speciei umane cu organe reproductive masculine.
+temporal-region;['lună', 'luni', 'lunăcalendaristică', 'lună calendaristică'];Mai mult de o lună.
+temporal-region;['joi'];A patra zi a săptămânii în mod tradiţional şi conform standardelor europene. provine de la "ziua lui Jupiter". a cincea zi după standardele Statelor Unite ale Americii.
+temporal-region;['luni'];Prima zi a săptămânii în mod tradiţional, în Europa. a doua zi după sistemul oficial de numerotare în Statele Unite ale Americii.
+temporal-region;['semilună', 'pătrar'];Faza lunii dintre lună nouă şi lună plină, atunci când doar jumătate din lună este vizibilă.

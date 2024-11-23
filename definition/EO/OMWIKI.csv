@@ -1,0 +1,95 @@
+activity;['laboro', 'okupo', 'profesio'];Produktiva agado, servo, komerco aŭ metio por kiu oni estas regule pagata.
+activity;['okupo', 'laboro', 'verko', 'profesio', 'metio', 'laborado', 'verkado', 'verkaro'];Produktiva agado, servo, komerco aŭ metio por kiu oni estas regule pagata.
+agentive-figure;['banko', 'bankisto', 'bankoficisto', '🏦'];Financa instituo, ĉe kiu oni povas lui monon (por kio pagendas interezo) aŭ enmeti monon (por kio oni ricevas interezon).
+agentive-physical-object;['sciuredoj', 'sciuro', 'sciuredo', 'sciuridae'];de mamuloj el la ordo de ronĝuloj, kun dika, hirthara vosto, kiun ili sidante tenas rekta post la dorso, vivantaj sur arboj k manĝantaj i.a. nuksojn
+agentive-physical-object;['ino', 'ina sekso', 'inseksa organismo', 'virino', 'femalo', 'inbesto', 'ineco', 'inoj'];Plenkreska homo apartenanta al tiu sekso kiu generas ovulojn kaj naskas infanojn.
+agentive-physical-object;['tritiko', 'triticum', 'triticum aestivum'];Plantaĵo el la genro tritiko, el la familio poacoj
+agentive-physical-object;['anuroj', 'rano', 'anura', 'anuro', '🐸'];de senvostaj vertebruloj el la klaso de amfibioj, ordo de anuroj, similaj al bufo, sed kun longaj postaj kruroj, senveruka haŭto k kun dentoj
+agentive-physical-object;['leono', 'leonino', 'virleono', 'afrika leono', 'panthera leo', '🦁'];Granda felido (Panthera leo) kies masklo surhavas karakterizan kaphararon, precipe vivanta en Afriko sed ankaŭ en Azio kaj pli frue ankaŭ en Eŭropo.
+cognitive-event;['sonĝo'];Dumdormaj vidataĵoj.
+cognitive-event;['timo', 'timego', '😨'];Emocio spertata kiam oni antaŭsentas specifan doloron aŭ danĝeron.
+collection;['ekspozicio', 'ekspozicioj'];Granda publika montrado de objektoj aŭ produktoj.
+dependent-place;['dekstre'];Direkto aŭ flanko kontraŭa al la maldekstra. Kiam iu tenas siajn manojn malfermaj, kun la platoj orientitaj al la malproksimo antaŭ si, la indekso kaj la polekso ne formas "L"-on en tiu direkto.
+functional-matter;['gastronomio', 'kuirarto', 'kulinara arto'];specifa aro de kuiradaj metodoj kaj tradicioj, ofte ligita kun loko
+functional-matter;['kuirarto', 'kulinara', 'kulinara arto', 'kuir-arto', 'kuireco'];specifa aro de kuiradaj metodoj kaj tradicioj, ofte ligita kun loko
+functional-matter;['kuirarto', 'kulinara', 'kulinara arto', 'kuir-arto', 'kuireco'];specifa aro de kuiradaj metodoj kaj tradicioj, ofte ligita kun loko
+genetic-collective;['geedzeco'];Unuiĝo de du (aŭ pluraj) homoj, ekskludante eksterulojn, tiom longe kiom ĝi daŭras.
+information-object;['propra nomo', 'nomo'];Ĉiu vorto aŭ frazo indikante apartan personon lokon klason aŭ ion alian.
+information-object;['antonimo', 'mal-vorto'];Vorto aŭ frazero kiu estas precize aŭ preskaŭ precize semantika inverso aŭ "mal-senco" de alia vorto au frazero. Esperanto uzas prefikson ''mal-'' por esprimi antonimajn vortojn.
+information-realization;['packontrakto', 'paco', 'pactraktato', 'pacakordo'];Stato senmilita, precipe priparolante interlandajn militojn.
+language;['norvega lingvo', 'norvega', 'la norvega', 'no', 'norvege'];Nordĝermana lingvo parolata en Norvegio.
+language;['dana lingvo', 'dana', 'dan', 'da', 'dane'];Nordĝermana lingvo precipe parolata en Danlando.
+language;['islanda lingvo', 'islanda', 'la islanda', 'is', 'islande'];Nordĝermana lingvo precipe parolata en Islando.
+language;['sveda lingvo', 'sveda', 'svede', 'svenska'];Nordĝermana lingvo precipe parolata en Svedio kaj en iuj partoj de Finnlando.
+language;['lingvo', 'lingvo/kio estas lingvo ?', 'lingvoj'];Komuniksistemo kiu uzas elparolatajn vortojn signojn aŭ simbolojn kiuj reprezentas vortojn, signojn aŭ sonojn.
+language;['frisa'];Okcidentĝermana lingvo parolata en Frislando kaj nordokcidente de Nederlando.
+language;['esperanto', 'internacia lingvo', 'lingvo internacia', 'asosiy:esperanto', 'e-a', 'esperanta', 'esperanta lingvo', 'esperanto-instruisto', 'esperanton', 'instruado de esperanto', 'zamenhofa lingvo'];Internacia planlingvo iniciatita de L.L. Zamenhof en 1887.
+language;['rumana lingvo', 'rumana', 'ro', 'rumane'];Latinida lingvo precipe parolata en Rumanio, Moldavio kaj Vojvodino.
+language;['taĝika lingvo', 'taĝika', 'la taĝika', 'taĝike'];Lingvo el Taĝikio.
+language;['afrikansa', 'afrikansa lingvo', 'oranĝ-rivera dialekto', 'orientkaba dialekto de afrikanso', 'af', 'afr', 'afrikaans', 'afrikanse', 'afrikanso'];Okcidentĝermana lingvo precipe parolata en Sudafriko kaj Namibio.
+language;['korea lingvo', 'korea', 'koreana', 'koree'];Azia lingvo precipe parolata en Koreio suda kaj norda.
+language;['irlanda lingvo', 'irlanda', 'ga', 'ira lingvo', 'irlande', 'irlandgaela lingvo'];Gaela kelta lingvo precipe parolata en Irlando.
+language;['mandarena', 'nordĉina dialektaro', 'pekina ĉina lingvo', 'mandarena ĉina', 'putonghua', 'pǔtōnghuà', 'mandarena lingvo', 'mandarene', 'mandarina', 'mandarina ĉina'];La oficiala lingvo de Ĉinio kaj Tajvano.
+language;['indonezia lingvo', 'indonezia', 'bahasa indonesia', 'bahaso', 'indoneza lingvo', 'indonezie'];Aŭstronezia lingvo precipe parolata en Indonezio kaj Orienta Timoro.
+language;['usona angla lingvo', 'usona varianto de la angla lingvo', 'angla', 'amerika angla', 'usona angla', 'usonangla'];Okcidentĝermana lingvo devenante de Anglio sed hodiaŭ ĉie en la brita insularo, en la Komunumo de Nacioj, Usono kaj aliaj mondpartoj.
+language;['greka', 'greka lingvo', 'greke', 'greklingve', 'helena lingvo', 'malnov-greka lingvo', 'novgreka', 'novgreka lingvo', 'novgreke'];Hindeŭropa lingvo precipe parolata en Grekio kaj Kipro.
+language;['persa lingvo', 'persa', 'irane', 'la persa', 'moderna persa', 'perse', 'perslingve'];Hindeŭropa lingvo parolata precipe en Irano kaj najbaraj landoj.
+language;['vjetnama lingvo', 'vjetnama', 'vjetname'];Sudazia lingvo precipe parolata en Vjetnamio.
+language;['estona lingvo', 'estona', 'estone', 'estono'];Finn-ugra lingvo precipe parolata en Estonio.
+language;['finna lingvo', 'finna', 'suoma', 'suoma lingvo', 'finlanda lingvo', 'finne'];Finn-ugra lingvo precipe parolata en Finnlando.
+language;['latva lingvo', 'latva', 'latve', 'latvia lingvo', 'latvo'];Balta lingvo precipe parolata en Latvio.
+language;['nepala lingvo', 'nepala', 'nepale', 'nepalia lingvo'];Hinda lingvo parolata en Nepalo, Butano partoj de Barato kaj Birmo.
+language;['hispana lingvo', 'hispana', 'es', 'espanjol', 'español', 'hispane', 'hispanlingva', 'hispanlingvo', 'kastilia'];Latinida lingvo precipe parolata en Hispanio, Sud- kaj Centr- Ameriko kaj Karibaj insuloj.
+language;['araba lingvo', 'araba', 'arabalingvo', 'arabe', 'maroka araba'];Semita lingvo parolata primitive en la arba mondo, Nordafriko kaj Mezoriento, kaj liturgia lingvo de islamo.
+language;['pola lingvo', 'pola', 'la pola', 'pl', 'język polski', 'pole', 'polski język', 'polszczyzna'];Okcidentslava lingvo precipe parolata en Pollando.
+language;['belorusa lingvo', 'belorusa', 'beloruso', 'belarusa', 'belarusa lingvo', 'belaruse', 'beloruse'];Persono kun belorusa nacieco.
+language;['belorusa lingvo', 'belorusa', 'beloruso', 'belarusa', 'belarusa lingvo', 'belaruse', 'beloruse'];Orientslava lingvo precipe parolata en Belorusio.
+language;['ukraina lingvo', 'ukraina', 'la ukraina', 'uk', 'ukraine'];Orientslava lingvo precipe parolata en Ukrainio.
+language;['rusa lingvo', 'rusa', 'rusino', 'ruso', 'la rusa', 'ru', 'konsilio pri la rusa lingvo ĉe la registaro de rusio', 'konsilio pri rusa lingvo ĉe prezidanto de rusio', 'konsilio pri rusa lingvo ĉe registaro de rusio', 'puŝkin-festo', 'rusa lingvo en interreto', 'rusa lingvo en rusio', 'tago de rusa lingvo'];Orientslava lingvo precipe parolata en Rusio kaj en la eksaj sovetiaj respublikoj.
+language;['germana lingvo', 'germana', 'altgermana lingvaro', 'alta germana', 'altgermana', 'altgermana lingvo', 'altgermane', 'deutsch', 'deutsche sprache', 'germane', 'germanlingva', 'germanlingve', 'germanlingvio', 'germanlingvujo', 'moderna germana lingvo'];Hindeŭropa lingvo precipe parolata en Germanio Aŭstrio Liĥenŝtajno Sudtirolo Svisio kaj parto de Belgio.
+language;['nederlanda lingvo', 'nederlanda', 'la nederlanda', 'nederlande', 'nederlands'];Okcidentĝermana lingvo precipe parolata en Nederlando, Flandroj kaj Surinamo.
+locative-role;['serbio', 'serba reĝlando', 'respubliko serbio', 'serbujo', 'srbija', 'србијa'];Lando en sudorienta Eŭropo.
+non-agentive-physical-object;['anuroj', 'rano', 'anura', 'anuro', '🐸'];de senvostaj vertebruloj el la klaso de amfibioj, ordo de anuroj, similaj al bufo, sed kun longaj postaj kruroj, senveruka haŭto k kun dentoj
+physical-body;['luno', '🌛', '🌜'];Unika satelito natura de la Tero.
+physical-object;['aŭto', 'aŭtomobilo', 'ĉaro', 'aŭtomobila marko', 'aǔtomobilo'];Kvarrada motora veturilo uzata por surtera transportado.
+physical-object;['malliberejo', 'prizono'];Loko ĉe kiu apartaj personoj havas limigitan personan liberecon.
+physical-object;['loĝejo', 'domo'];La loĝejo de homo, lia loĝloko.
+physical-object;['malliberejo'];Loko ĉe kiu apartaj personoj havas limigitan personan liberecon.
+political-geographic-object;['dominiko', 'dominica', 'dominika'];Lando en la Karaiboj.
+political-geographic-object;['berlino', 'berlin', 'berlina'];Ĉefurbo kaj federacia ŝtato de Germanio, la plej granda urbo de la lando laŭ areo kaj loĝantaro, kaj laŭ loĝantaro la due plej granda urbo en la Eŭropa Unio.
+political-geographic-object;['doho', 'dohao', 'daŭho', 'doha'];Ĉefurbo de Kataro.
+political-geographic-object;['katmanduo', 'katmando', 'kātmāndū'];Ĉefurbo de Nepalo.
+political-geographic-object;['adis-abebo', 'adisabebo', 'addis-abebo', 'addis abeba'];La ĉefurbo de Etiopio.
+political-geographic-object;['bamako', 'bakuo'];La ĉefurbo de Malio.
+political-geographic-object;['velingtono', 'wellington'];Ĉefurbo de Nov-Zelando.
+political-geographic-object;['ankaro', 'ankara'];La ĉefurbo de Turkio.
+practice;['paco'];Kvieta trankvila kaj harmonia stato, ekzemple en foresto de civilaj perturboj.
+region;['futo'];Mezurunuo egala al dekdu coloj, triono de jardo, tio estas 30,48 centimetroj.
+region;['du', '2', 'dua', 'ii'];La dua natura nombro (2).
+region;['ok', '8'];La kvanta nombro inter sep kaj naŭ, signita en Romaj numeraloj per VIII kaj en arabaj numeraloj per 8.
+relation;['sed', 'tamen'];[enkondukas vorton aŭ frazon kiu kontrastas al aŭ kontraŭas la antaŭan propozicion aŭ frazon]
+simple-collective;['anglo', 'angloj'];Persono kun angla nacieco.
+simple-collective;['francoj', 'franco'];La francoj ĝenerale.
+situation;['ekzemplo'];Io kio reprezentas ĉiujn aferojn en iu grupo.
+situation;['packontrakto', 'paco', 'pactraktato', 'pacakordo'];Stato senmilita, precipe priparolante interlandajn militojn.
+situation;['ekzemplo'];Io kio reprezentas ĉiujn aferojn en iu grupo.
+situation;['dungeco', 'dungo', 'laboro', 'okupo', 'profesio', 'dungito'];Produktiva agado, servo, komerco aŭ metio por kiu oni estas regule pagata.
+social-role;['banko'];Loko kie konserviĝas korpoj aŭ substancoj de la homa korpo, kutime de la sama speco, por posta medicina uzo, ekzemple: sangobanko, okulbanko, spermbank.
+socially-constructed-person;['plutono', 'hadeso', 'dio plutono', 'hades'];La romia dio de la malluma.
+socially-constructed-person;['patro', 'paĉjo'];Virseksulo naskiginto de ido.
+socially-constructed-person;['edzo'];Vira partoprenanto en geedza kuniĝo.
+socially-constructed-person;['edzino'];Edziniĝinta virino.
+socially-constructed-person;['eŭska', 'vaska lingvo'];Lingvo precipe parolata en Eŭskio.
+socially-constructed-person;['bretona'];Kelta lingvo parolata de iuj loĝantoj de Armorika Bretonio.
+socially-constructed-person;['bulgaroj', 'bulgara', 'bulgaro'];Sudslava lingvo precipe parolata en Bulgario.
+socially-constructed-person;['germano', 'germanino'];Germana persono.
+socially-constructed-person;['japana'];Lingvo precipe parolata en Japanio.
+socially-constructed-person;['geedzo', 'edzo', 'spozo', 'edzo aŭ edzino', 'edzino', 'edzino aŭ edzo', 'ejdzo', 'geedzoj'];Vira partoprenanto en geedza kuniĝo.
+socially-constructed-person;['kartvela'];Sudkaŭkaza lingvo precipe parolata en Kartvelio.
+socially-constructed-person;['monaĥino', 'patrino', 'ordena fratino', 'ordenulino'];Virina naskigulino.
+socially-constructed-person;['neplenaĝeco', 'neplenaĝulo', 'infano', 'juna'];Homo antaŭ adoleskiĝo.
+socially-constructed-person;['virino', 'femino', 'femo', 'virinoj', '👩'];Plenkreska homo apartenanta al tiu sekso kiu generas ovulojn kaj naskas infanojn.
+socially-constructed-person;['vizitanto'];Iu kiu vizitas certan lokon aŭ eventon.
+temporal-region;['vespero'];La parto de la tago dum kiu malfortiĝas la taglumo kaj komenciĝas la nokto.
+temporal-region;['aŭgusto', 'aŭg', 'caesar augustus'];La oka monato de la Gregoria kalendaro, kun 31 tagoj.
+temporal-region;['aprilo', 'apr'];La kvara monato de la Gregoria kalendaro kun 30 tagoj.

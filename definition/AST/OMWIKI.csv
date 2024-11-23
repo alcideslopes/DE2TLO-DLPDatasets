@@ -1,0 +1,29 @@
+agentive-physical-object;['molín'];Un edificiu onde se tritura'l granu pa obtener fariña.
+agentive-physical-object;['catasol', 'margarita', 'bellis perennis'];Pequeña planta floral (Bellis perennis) con pétalos blancos que pertenez a la familia de les Asterácees.
+amount-of-matter;['agua', 'h₂o', 'augua'];Llíquidu común (H₂O) que forma la lluvia, los ríos, el mar, etc., y que constitúi gran parte de los cuerpos de los organismos.
+biological-object;['húmeru'];El güesu llargu del brazu que va dende'l costín al coldu.
+biological-object;['fémur'];El güesu más llargu, voluminosu y fuerte de los cuerpos de los mamíferos. Allugáu sobre too nel muslu, forma parte de la cadera y de la rodiya.
+biological-object;['radiu'];Güesu del antebrazu que va dende'l coldu hasta'l borde de la moñeca que correspuende al pulgar.
+functional-matter;['antíxenu'];Cualesquier sustancia que ye pa estimular l'organismu pa que fabrique anticuerpos escontra ella. Los antíxenos inclúin bacteries, virus, polen y otros materiales estraños.
+information-object;['pronome personal'];Un pronome que se refier a una persona previamente mentada.
+information-object;['hipónimu'];Entrada d'un tesauru que tien un sen semánticu más restrinxíu qu'otra.
+information-object;['categoría gramatical'];Categoría d'una pallabra asignada según la so función sintáutica nuna llingua determinada.
+language;['esperantu', 'esperanto', 'eo', 'internacia lingvo'];Una llingua artificial internacional, mui espardida, aniciada por L. L. Zamenhof.
+language;['inglés estauxunidense', 'inglés', 'en-us', 'inglés de los estaos xuníos', 'inglés americanu'];Una llingua xermano-occidental orixinaria d'Inglaterra pero anguaño falada en toles Islles Britániques, les naciones de la Commonwealth, los Estaos Xuníos d'América y otres partes del mundu.
+language;['árabe', 'arábicu', 'arábigu', 'idioma árabe', 'llingua árabe'];Llingua semítica falada sobre manera nel mundu árabe -norte d'África y Oriente Mediu- y idioma llitúrxicu del Islan.
+physical-object;['barómetru'];Instrumentu que sirve pa midir la presión atmosférico.
+political-geographic-object;['república democrática del congo', "república democrática d'el congu", 'congu belxicanu', 'zaire', 'congu belga'];Un país d'África Central con capital en Kinshasa.
+relation;['hiperónimu'];Entrada d'un tesauru que tien un sen semánticu más ampliu qu'otru. Ye un términu usáu n'OmegaWiki que se supón que nun tien sinónimos, sinón únicamente traducciones.
+simple-collective;['pueblu inglés', 'inglés', 'ingleses'];Una persona de nacionalidá inglesa.
+situation;['definición'];Una desplicación concisa del significáu d'una pallabra, fras o símbolu.
+socially-constructed-person;['eusquera', 'vascu'];Una llingua falada sobre too nel País Vascu.
+socially-constructed-person;['bretón'];Una llingua celta falda por dellos de los habitantes de la Bretaña y del Loira Atlánticu.
+taxonomic-collection;['categoría gramatical'];Categoría d'una pallabra asignada según la so función sintáutica nuna llingua determinada.
+taxonomic-collection;['axetivu'];Una pallabra que modifica o describe un nome o un pronome.
+temporal-region;['domingu'];El sétimu día de la selmana n'Europa y en sistemes qu'usen la norma ISO 8601. el primer día de la selmana nos Estaos Xuníos d'América.
+temporal-region;['xueves'];El cuartu día de la selmana n'Europa y en sistemes qu'usen la norma ISO 8601. el quintu día de la selmana nos Estaos Xuníos d'América.
+temporal-region;['miércoles'];El tercer día de la selmana n'Europa y en sistemes qu'usen la norma ISO 8601. el cuartu día de la selmana nos Estaos Xuníos d'América.
+temporal-region;['llunes'];El primer día de la selmana n'Europa y en sistemes qu'usen la norma ISO 8601. el segundu día de la selmana nos Estaos Xuníos d'América.
+temporal-region;['sábadu', 'sabadu'];El sestu día de la selmana n'Europa y en sistemes qu'usen la norma ISO 8601. el sétimu día de la selmana nos Estaos Xuníos d'América.
+temporal-region;['vienres'];El quintu día de la selmana n'Europa y en sistemes qu'usen la norma ISO 8601. el sestu día de la selmana nos Estaos Xuníos d'América.
+temporal-region;['martes'];El segundu día de la selmana n'Europa y en sistemes qu'usen la norma ISO 8601. el tercer día de la selmana nos Estaos Xuníos d'América.

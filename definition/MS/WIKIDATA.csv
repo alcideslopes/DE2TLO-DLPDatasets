@@ -1,0 +1,714 @@
+activity;['bilangan tatabahasa', 'bilangan', 'angka', 'beberapa', 'jumlah', 'nombor', 'nombor tatabahasa', 'paucal'];kategori tatabahasa menandakan pembezaan pengiraan
+activity;['jai alai', 'jai-alai', 'pelota'];Jenis sukan
+activity;['muzik hip hop', 'hip hop', 'hip-hop', 'muzik hip-hop', 'muzik rap', 'hip hop artis', 'kumpulan hip hop', 'kumpulan rap', 'rap'];Genre muzik
+activity;['realiti maya', 'kenyataan maya', 'رياليتي ماي\u200e', 'رياليتي ماي', 'کڽاتاءن ماي', 'persekitaran maya', 'ruang maya'];Persekitaran yang diselakukan oleh komputer untuk memberi bayangan keberadaan sebenar dalam dunia sebenar atau maya
+activity;['persetubuhan', 'hubungan seks', 'jimak', 'bersetubuh', 'hubungan jenis', 'hubungan kelamin', 'seks', 'hubungan seksual', 'sanggama', 'pengetahuan nafsu', 'perbuatan seks', 'perbuatan seksual', 'tingkah laku seksual manusia', 'seksual', 'senggama', 'aktiviti seksual', 'aktiviti seksual manusia', 'hubungan faraj', 'mengawan', 'persetubuhan faraj', 'pertemuan seksual', 'seks faraj', 'seks kasihan', 'seksual kongres'];Sebarang aksi dilakukan untuk pembiakan , kepuasan seksual ataupun kedua dua sekali
+activity;['penyiaran', 'penyebaran', 'menyiarkan sederhana'];penyebaran kandungan audia dan video kepada umum melalui bahantara perhubungan massa
+activity;['sendawa', 'eruktasi', 'sedawa', 'إيروکتاسي', 'سداوا', 'سنداوا', 'bersendawa', 'letusan'];Bunyi dan pengeluaran gas dari saluran pencernaan
+activity;['perang dunia kedua', 'world war ii', 'perang dunia ii', 'pd ii', 'perang dunia ke-ii', 'perang dunia ke ii', 'pendudukan nazi', 'perang dunia 2'];Laman nyahkekaburan
+activity;['pendidikan', 'arahan', 'mendidik', 'pelajaran', 'pendidik', 'pengajaran', 'didactics', 'sistem pendidikan', 'ajaran', 'didikan', 'pedagogi', 'petunjuk', 'aktiviti pendidikan', 'dididik'];Pembelajaran di mana pengetahuan dan kemahiran disalurkan melalui pengajaran
+activity;['keganasan', 'kekerasan', 'kekejaman', 'kebengisan', 'kezaliman', 'ganas', 'desakan', 'paksa', 'paksaan', 'pemaksaan'];kegunaan kekerasan untuk mendatangkan penderitaan
+activity;['khutbah', 'khotbah', 'dakwah', 'mengajar'];ucapan dalam sesebuah sembahyang utama disampaikan seorang agamawan kepada hadirin jemaah
+activity;['perambangan', 'perawakan', 'ڤرامبڠن', 'ڤراوقن', 'rawak', 'randomisation'];perbuatan merambangkan sesuatu
+activity;['profesional', 'pekerjaan', 'vokasi', 'profesion', 'kemahiran', 'pertukangan', 'profesi'];Kerjaya yang berasaskan latihan pendidikan khusus
+activity;['pengewangan'];Laman nyahkekaburan
+activity;['soal siasat', 'pemeriksaan', 'siasatan', 'soalan', 'disoal siasat', 'interrogatories', 'menyoal siasat', 'penyiasat', 'tanya'];Laman nyahkekaburan
+activity;['bersekedudukan'];Tinggal bersama tanpa bernikah
+activity;['dahagi', 'pemberontakan', 'mutinies', 'pemberontak bayaran'];Konspirasi dalam sesuatu pihak terhadap pihak berkuasa atau atasan
+activity;['loteri', 'nombor ekor', 'cabutan bertuah', 'undian', 'tiket loteri'];perjudian melibatkan pembelian nombor dengan penentuan hadiah secara rawak
+activity;['hukuman mati', 'pelaksanaan', 'hukuman bunuh', 'melaksanakan', 'pembunuhan', 'dihukum mati', 'dilaksanakan', 'hukuman', 'jenayah modal', 'kesalahan modal', 'pelaksanaan awam', 'pelaksanaan kehakiman'];Hukuman secara pembunuhan melalui undang-undang
+activity;['akreditasi', 'pentauliahan', 'diiktiraf', 'mengakreditasi', 'unaccredited'];Laman nyahkekaburan
+activity;['kerajaan', 'pentadbiran', 'pemerintah', 'kabinet', 'aktiviti kerajaan', 'mentadbir', 'sistem kerajaan', 'tadbir urus'];pentadbiran kerajaan atau politik
+activity;['pengilangan', 'pembuatan', 'ڤمبواتن', 'ڤڠيلڠن', 'fabrikasi', 'pemalsuan', 'perkilangan', 'fabrikasi logam', 'industri pembuatan', 'mengeluarkan', 'pembuatan ringan', 'pengeluar', 'proses pembuatan', 'syarikat pembuatan'];kegiatan industri yang melibatkan penghasilan barang jualan
+activity;['bantahan', 'protes', 'sanggahan', 'tentangan', 'sangkalan', 'بنتهن', 'تنتڠن', 'ساڠکلن', 'سڠݢهن', 'ڤروتيس', 'bangkangan', 'keberatan', 'pembantahan', 'penentangan', 'bantahan kumpulan', 'bertentangan', 'protes politik', 'protestor'];penentangan terhadap sesuatu
+activity;['komunikasi', 'perhubungan', 'ڤرهوبوڠن', 'کومونيکاسي', 'berkomunikasi', 'penyampaian', 'kemahiran komunikasi', 'komunikasi sosial', 'salah faham'];penyaluran maklumat antara individu atau kelompok
+activity;['perlindungan'];Laman nyahkekaburan
+activity;['pengilangan', 'pembuatan', 'ڤمبواتن', 'ڤڠيلڠن', 'fabrikasi', 'pemalsuan', 'perkilangan', 'fabrikasi logam', 'industri pembuatan', 'mengeluarkan', 'pembuatan ringan', 'pengeluar', 'proses pembuatan', 'syarikat pembuatan'];kegiatan industri yang melibatkan penghasilan barang jualan
+activity;['perdana menteri united kingdom', 'perdana menteri britain', 'perdana menteri british', 'perdana menteri'];ketua kerajaan United Kingdom
+activity;['pekerjaan', 'bidang', 'jawatan', 'kegiatan', 'kerja', 'minat', 'profesion', 'tugas', 'urusan', 'garis kerja', 'kekosongan', 'kerja hari', 'perniagaan'];Label yang diterapkan kepada seseorang berdasarkan aktiviti yang dihadapinya
+activity;['teh', 'air teh'];Minuman yang dihasilkan dengan menggunakan daun teh
+activity;['pendidikan', 'arahan', 'mendidik', 'pelajaran', 'pendidik', 'pengajaran', 'didactics', 'sistem pendidikan', 'ajaran', 'didikan', 'pedagogi', 'petunjuk', 'aktiviti pendidikan', 'dididik'];Pembelajaran di mana pengetahuan dan kemahiran disalurkan melalui pengajaran
+activity;['lelong', 'jualan lelong', 'lelongan', 'rumah lelong', 'pelelongan', 'lelongan senyap', 'pelelong', 'vendue'];Piring antik
+activity;['revolusi februari', 'februari revolusi'];revolusi di Rusia pada 1917
+activity;['perlumbaan', 'lumba', 'balap', 'balapan'];Suatu pertandingan yang mana peserta-pesertanya bertanding untuk menyelesaikan tugasan secepat mungkin
+activity;['peperangan', 'perang', 'konflik bersenjata', 'perjuangan', 'perlawanan', 'pertempuran', 'ڤرتمڤورن', 'ڤرجواڠن', 'ڤرلاونن', 'ڤرڠ', 'ڤڤرڠن', 'konflik ketenteraan'];tengkarah yang berterusan antara dua kuasa
+agentive-figure;['syarikat berhad', 'syarikat sendirian berhad', 'berhad', 'ltd', 'ld.', 'syarikat swasta terhad oleh saham'];Laman nyahkekaburan
+agentive-figure;['houri'];rencana senarai Wikimedia
+agentive-figure;['koir', 'gerai koir', 'dua lusin'];Laman nyahkekaburan
+agentive-figure;['syarikat saham bersama', 'perseroan', 'perseroan terbatas', 'bersama-saham', 'bersama-saham syarikat', 'perbadanan saham', 'saham bersama', 'syarikat bersama-saham', 'syarikat saham bersama tertutup'];Entiti perniagaan di mana ia dimiliki oleh para pemegang saham
+agentive-figure;['benelux', 'benelux ekonomi kesatuan', 'negara-negara benelux', 'the benelux'];kesatuan ekonomi melibatkan Belanda, Belgium dan Luxembourg
+agentive-figure;['bank', 'perbankan', 'bank asing', 'depositori institusi kewangan', 'industri perbankan', 'kebimbangan perbankan', 'perbankan antarabangsa', 'sistem perbankan', 'syarikat perbankan'];Institusi kewangan
+agentive-figure;['alat', 'organ', 'اورݢن'];kelompok yang melaksanakan tugas-tugas khusus
+agentive-figure;['serigala jadian', 'likantrop', 'loup-garou', 'lycanthrope', 'werewolf', 'wolfman', 'lycanthropes', 'lycanthropic', 'vârcolac', 'werewolves'];Bertukar apabila bulan mengambang
+agentive-figure;['divan'];Rencana senarai Wikimedia
+agentive-figure;['negara', 'negeri', 'bangsa', 'negara berdaulat', 'negara merdeka', 'republik', 'badan politik', 'kerajaan', 'masyarakat politik', 'nasional', 'negeri berdaulat', 'res buku kecil', 'teori perisytiharan kenegaraan'];Masyarakat tersusun diperintah suatu badan politik
+agentive-figure;['sekolah rendah', 'sekolah gred'];sekolah bagi pendidikan rendah untuk pelajar berumur 5 hingga 12 tahun
+agentive-figure;['skuad', 'seksyen'];sebuah unit tentera
+agentive-figure;['dewan penasihat'];Laman nyahkekaburan
+agentive-figure;['perkhidmatan taman negara', 'national park service', 'nps', 'amerika syarikat taman negara perkhidmatan', 'perkhidmatan taman negara as', 'taman negara perkhidmatan'];Badan persekutuan Amerika Syarikat
+agentive-figure;['negara-negara komanwel', 'negara-negara komanwel british', 'komanwel british', 'bangsa-bangsa komanwel', 'komanwel', 'komanwel british bangsa', 'komanwel nations'];Negara-negara Bekas Jajahan British
+agentive-figure;['institusi pendidikan', 'institut pendidikan', 'jenis institusi pendidikan'];Tempat di mana seseorang mendapatkan pendidikan
+agentive-figure;['kolej', 'akademi', 'institut', 'kolese', 'universiti'];Institut pendidikan
+agentive-figure;['anak kapal', 'petugas', 'awak kapal', 'awak perahu', 'kru', 'kumpulan pekerja', 'pekerja', 'انق کاڤل', 'اوق ڤراهو', 'اوق کاڤل', 'gerombolan', 'kelompok', 'bekerja parti'];pekerja di kapal
+agentive-figure;['anak kapal', 'petugas', 'awak kapal', 'awak perahu', 'kru', 'kumpulan pekerja', 'pekerja', 'انق کاڤل', 'اوق ڤراهو', 'اوق کاڤل', 'gerombolan', 'kelompok', 'bekerja parti'];sekumpulan manusia yang bertugas dalam kegiatan yang sama
+agentive-figure;['syiah', 'shiah', 'shiah islam'];Kumpulan denominasi Islam yang memegang bahawa Muhammad menunjuk Ali sebagai pengganti dan pemimpinnya (imam), yang penganutnya membentuk majoriti penduduk di Iran, Iraq, Azerbaijan, dan Bahrain
+agentive-figure;['griechisch-orthodoxe kirche', 'ortodoks yunani', 'gereja ortodoks yunani', 'gereja yunani', 'ortodoks greek church', 'ortodoksi yunani', 'yunani ortodoks'];Laman nyahkekaburan
+agentive-figure;['biro ukiran dan percetakan', 'moneyfactory', 'biro engraving dan percetakan', 'biro percetakan dan engraving', 'biro percetakan dan ukiran'];Agensi pemerintah Amerika Syarikat
+agentive-figure;['polis', 'mata-mata', 'مات٢', 'ڤوليس', 'pasukan polis', 'jabatan polis', 'kepolisian', 'pasukan keselamatan', 'polisi', 'kepolisan', 'perlindungan polis', 'polis bersenjata'];penjaga keamanan
+agentive-physical-object;['anjing pengawal', 'anjing penjaga', 'anjing jaga', 'anjing kawal', 'anjing mengawal', 'anjing menjaga', 'anjing pengawalan', 'anjing penjagaan'];Laman nyahkekaburan
+agentive-physical-object;['kairi'];Rencana senarai Wikimedia
+agentive-physical-object;['pengokot', 'stapler', 'stepler', 'mengokot mesin'];alatan pejabat digunakan untuk mengetatkan kepingan kertas bersama
+agentive-physical-object;['pokok api-api jambu', 'pokok api-api merah', 'avicennia marina', 'api-api', 'api-api jambu', 'kayu kendeka'];spesies pokok bakau
+agentive-physical-object;['bunga', 'kesuma', 'kembang', 'puspa', 'بوڠا', 'ڤوسڤا', 'کمبڠ'];Anggota tumbuhan yang digunakan untuk pembiakan dan juga boleh berubah bentuk menjadi buah
+agentive-physical-object;['eucalyptus', 'pokok kayu putih', 'eucalypt', 'eucalyptus pokok', 'pokok eucalypt', 'pokok eucalyptus'];Genus pohon
+agentive-physical-object;['rumput halia hitam', 'cyperus rotundus', 'mota', 'teki', 'kacang sedge', 'nutgrass', 'nutsedge', 'rumput kacang'];Tumbuh-tumbuhan
+agentive-physical-object;['lobak', 'daucus carota', 'lobak liar', 'queen anne renda'];spesies tumbuhan
+agentive-physical-object;['bangkai', 'بڠکاي'];tubuh binatang yang mati
+agentive-physical-object;['humanoid', 'android', 'seperti manusia', 'lelaki mekanikal', 'mechanoid'];Suatu benda yang menyerupai manusia tetapi bukanlah manusia
+agentive-physical-object;['serralha', 'sonchus oleraceus'];Laman nyahkekaburan
+agentive-physical-object;['manusia', 'homo', 'homo sapiens sapiens', 'orang', 'insan', 'anak adam', 'homo sapiens', 'nara', 'spesis manusia'];nama umum Homo sapiens, spesies unik yang masih wujud genus Homo
+agentive-physical-object;['burung bayan', 'parakeet', 'burung bayam', 'parkit', 'bayan', 'nuri', 'paraquet', 'paroquet', 'parrakeet', 'parroket', 'parroquet'];spesies burung nuri kecil hingga sederhana
+agentive-physical-object;['arnab', 'kelinci', 'kucing belanda', 'kuilu', 'terwelu', '🐇', '🐰', 'leporidae', 'bunnies'];Spesies mamalia kecil (Leporiade)
+agentive-physical-object;['plectranthus'];Genus tumbuhan
+agentive-physical-object;['peperomia caperata', 'tumbuhan radiator', 'peperomia'];genus tumbuhan
+agentive-physical-object;['mawas', 'hominoidea', 'beruk', 'monyet', 'hominoids'];Superfamili mamalia
+agentive-physical-object;['kera bekantan', 'monyet belanda', 'bekantan', 'kera belanda', 'kera berkantan', 'monyet bangkatan', 'lotong bangkatan', 'belalai monyet', 'monyet proboscis', 'nasalis larvatus'];Spesies mamalia
+agentive-physical-object;['chrysolophus pictus', 'kuang mas', 'pegar keemasan'];spesies burung
+agentive-physical-object;['venus', 'penangkap lalat venus', 'dionaea muscipula', 'venus flytraps', 'venus penangkap lalat'];Tumbuhan kanivor yang menangkap mangsa dengan menutup daun perangkap yang berbentuk rahang
+agentive-physical-object;['burung kedidi kendi', 'eropah panggilannya', 'numenius arquata'];spesies burung
+agentive-physical-object;['dubuk', 'anjing hutan', 'serigala', 'hyaenidae'];keluarga mamalia
+agentive-physical-object;['edmontosaurus', 'anatosaurus', 'anatotitan'];genus reptilia (fosil)
+agentive-physical-object;['meterai bulu'];Laman nyahkekaburan
+agentive-physical-object;['manggis', 'garcinia mangostana', 'pokok manggis', 'jus manggis', 'daftar laman yang sedang dialih bahasa', 'mesetar', 'sementah', 'manggis pokok', 'manggis ungu'];spesies tumbuhan
+agentive-physical-object;['taraxacum officinale', 'jombang', 'dandelion biasa', 'taraxacum ruderalia'];Laman nyahkekaburan
+agentive-physical-object;['kucing', 'felis silvestris catus', 'felis catus', 'kucing domestik', 'kucing jinak', 'کوچيڠ', 'kucing bela jinak', 'housecat', 'kucing benar', 'kucing rumah'];Felin domestik
+agentive-physical-object;['capros aper'];Laman nyahkekaburan
+agentive-physical-object;['burung kosa', 'anhinga', 'anhingidae', 'darter', 'darters', 'snakebird'];spesies burung
+agentive-physical-object;['gajah', 'biram', 'elephantidae'];mamalia besar bergading
+agentive-physical-object;['buluh betong burma', 'giant bamboo', 'buluh sembilang', 'dendrocalamus giganteus', 'gergasi buluh', 'kyo-chiku'];spesis tumbuhan buluh
+agentive-physical-object;['alfalfa', 'luzern', 'medicago sativa', 'lucerne', 'lucerne switzerland', 'sativa medicago'];spesies tumbuhan
+agentive-physical-object;['siamang', 'سيامڠ', 'hylobates syndactylus', 'symphalangus', 'symphalangus syndactylus'];sejenis beruk
+agentive-physical-object;['harimau', 'harimau belang', 'macan', 'macan loreng', 'panthera tigris', 'harimau campa', 'pak belang', 'tigris'];spesies dalam keluarga Felidiae
+agentive-physical-object;['orang utan', 'mawas', 'orang utan borneo', 'orang hutan', 'orangutan', 'pongo pygmaeus', 'bornean orang utan', 'orang', 'orangutang'];Jenis beruk yang dijumpai di hutan hujan di kepulauan Asia Tenggara Sumatera dan Borneo
+agentive-physical-object;['buah keras', 'pokok buah keras', 'pokok kemiri', 'kemiri', 'aleurites moluccana', 'kembiri', 'kumbik', 'kacang lilin', 'kukui'];spesies tumbuhan
+agentive-physical-object;['kumbang longikorn', 'cerambycidae', 'longhorn kumbang', 'jangka kumbang bertanduk', 'lama-kumbang bertanduk', 'longicorn', 'longicorn kumbang'];Famili serangga
+agentive-physical-object;['turbin', 'turbină', 'enjin turbin'];Mesin pusingan mekanikal yang digerakkan oleh aliran wap
+agentive-physical-object;['karang', 'koral'];Koloni invertebrat laut
+agentive-physical-object;['kiwi', 'burung kiwi', 'berwarna', 'masam'];Sejenis burung yang tidak boleh terbang dari New Zealand
+agentive-physical-object;['liger', 'sirimau', 'simau', 'سيريماو', 'سيماو'];kacukan singa dan harimau
+agentive-physical-object;['zooid'];laman nyahkekaburan
+agentive-physical-object;['perissodactyla', 'ceratomorpha', 'hippomorpha', 'perissodactyl', 'ganjil-konservatif ungulate', 'mamalia perissodactyl', 'perissodactyls', 'ungulate ganjil konservatif'];Ungulat berjari ganjil
+agentive-physical-object;['landak laut', 'echinoidea', 'bulu babi', 'echinoid'];kelas echinoderma
+agentive-physical-object;['okapi', 'okapia johnstoni'];spesies mamalia
+agentive-physical-object;['cerpelai'];laman nyahkekaburan
+agentive-physical-object;['agama'];genus reptilia
+agentive-physical-object;['jujube', 'ziziphus zizyphus', 'bidara', 'bidara cina', 'jujuba zizyphus', 'jujube belukar', 'ziziphus jujuba', 'zizyphus jujuba'];Pokok Bidara Cina
+agentive-physical-object;['ammodytidae', 'belut pasir', 'pasir tombak', 'launce', 'launce pasir', 'sandeel', 'sandlance'];Laman nyahkekaburan
+amount-of-matter;['kopi', 'kahwa', 'kawa', 'kahua', 'kofi', 'قهوا', 'کوڤي', 'kesan kesihatan terhadap kopi'];minuman yang dihasilkan menggunakan biji kopi panggang
+amount-of-matter;['jelaga', 'arang pagu', 'arang para-para', 'sulang', 'sulang asap', 'arang lampu', 'arang para', 'celaga', 'ارڠ لمڤو', 'ارڠ ڤارا', 'ارڠ ڤارا٢', 'ارڠ ڤݢو', 'جلاݢ', 'سولڠ', 'سولڠ اسڤ', 'چلاݢ', 'karbon hitam', 'arang', 'lampu hitam'];bahan
+amount-of-matter;['asid aminobenzoic'];laman nyahkekaburan
+amount-of-matter;['bahan pendingin', 'penyejuk', 'bahan penyejuk', 'pendingin'];Bahan yang digunakan untuk mengurangkan suhu
+amount-of-matter;['tungsten', 'wolfram', 'siamang', 'توڠستن', 'سيامڠ', 'وولفرم', 'nombor atom 74'];unsur kimia
+amount-of-matter;['epinefrina', 'adrenalin', 'adrenalina', 'epinephrin', 'pencandu adrenalin'];hormon dan ubat
+amount-of-matter;['hidrogen', 'zat air', 'h', 'هيدروݢن', 'hidrogen-1', 'kitar hidrogen', 'dihydrogen', 'gas hidrogen', 'hidrogen molekul', 'molekul hidrogen', 'nombor atom 1'];Unsur kimia dengan nombor atom 1
+amount-of-matter;['tahi telinga', 'cerumen'];kotoran dalam telinga
+amount-of-matter;['bendalir', 'بندالير', 'cecair', 'cairan'];Bahan yang berterusan berubah bentuk apabila dikenakan tekanan ricih
+amount-of-matter;['hidrogen peroksida', 'dihidrogen dioksida'];sebatian kimia
+amount-of-matter;['silikon dioksida', 'silika', 'e551', 'bersilika', 'silicious', 'silika amorfus', 'silika berhablur', 'silikon oksida'];sebatian kimia
+amount-of-matter;['ammonium klorida', 'sadir', 'amonium klorida', 'ammonia sal', 'sal ammonia'];garam ammonia
+amount-of-matter;['triptofan', 'l-tryptophan', 'metabolisme triptofan', 'tryptophane'];sebatian kimia serta asid amino perlu
+amount-of-matter;['minuman', 'air', 'air minuman', 'boleh diminum', 'diminum'];Cecair yang disediakan khas untuk minuman manusia
+amount-of-matter;['alkohol', 'arak', 'etanol', 'alkohol menengah', 'alkohol perindustrian', 'alkohol tertiari'];kumpulan sebatian kimia
+amount-of-matter;['etanol', 'e1510', 'ethanol', 'etil alkohol', 'etil hidrat', 'alkohol biji-bijian', 'alkohol bijirin', 'alkohol etil', 'alkohol penapaian'];sebatian kimia alkohol
+amount-of-matter;['ammonium nitrat'];sebatian kimia, komponen baja dan bahan letupan
+amount-of-matter;['air minuman', 'air bersih', 'air minum', 'air yang selamat', 'diminum', 'penggunaan air'];Air yang selamat diminum
+amount-of-matter;['air suci'];Rencana senarai Wikimedia
+biological-object;['lepuh', 'keadaan kulit', 'lecet', 'lecup', 'lecur', 'dermatoses', 'lesi kulit', 'lichenification', 'luka kulit', 'macules', 'penyakit kulit', 'proses menjadi kejam', 'pustules', 'ulser kulit', 'vesicle'];Gelembung bendalir pada atas kulit
+biological-object;['gelambir', 'gedabir', 'gelember', 'gelemberan', 'gubir', 'jumbil', 'kelambir', 'dewlap'];Kulit lolos yang tergantung bawah tenguk bagi sesetengah binatang
+biological-object;['sel t', 't-limfosit', 't limfosit', 'limfosit t', 'sel-sel t', 'sel-t', 't-sel'];sel limfosit
+biological-object;['tunas', 'taruk', 'kecambah', 'mata tunas', 'تاروق', 'تونس', 'مات تونس', 'کچمبه', 'stub', 'pucuk', 'menembak'];tumbuhan yang baru tumbuh
+biological-object;['urat femoral', 'vena femoralis'];Laman nyahkekaburan
+biological-object;['otot gluteal', 'glute', 'gluteal', 'gluteus', 'maximus glutæus', 'otot gluteus', 'otot maximus gluteus'];Laman nyahkekaburan
+biological-object;['pudung', 'reseptakel', 'bekas'];Bahagian bunga yang terletak di hujung tangkainya
+biological-object;['epal', 'apel', 'epal hijau', 'green apple', 'malus domestica'];Buah pokok epal
+biological-object;['kuku'];Bahagian yang keras di hujung jari
+biological-object;['bunga', 'kesuma', 'kembang', 'puspa', 'بوڠا', 'ڤوسڤا', 'کمبڠ'];Anggota tumbuhan yang digunakan untuk pembiakan dan juga boleh berubah bentuk menjadi buah
+biological-object;['buah pinggang', 'ginjal', 'kerinjal', 'geli-geli', 'buah geli', 'buah geli-geli', 'buah kerinjal', 'buah punggung', 'gerinjal', 'nefrik', 'nefros', 'renal', 'pinggang'];alat perkumuhan
+biological-object;['bulu', 'rambut binatang', 'rambut haiwan', 'bulu pelapik', 'kulit', 'bulu pengawal', 'rambut down'];bulu yang meliputi mamalia
+biological-object;['cuping', 'cuping telinga', 'daun telinga', 'telinga', 'pinna', 'pinnae'];bahagian telinga di luar
+biological-object;['muka', 'wajah', 'paras', 'rupa', 'peroman', 'raut muka', 'roman', 'tampang muka', 'air muka', 'mukanya', 'wajah manusia'];Bahagian tubuh yang terletak di hadapan kepala
+biological-object;['mater pia'];rencana senarai Wikimedia
+biological-object;['dada', 'toraks', 'pectus'];Bahagian tubuh manusia dan binatang lain
+biological-object;['buah', 'buah-buahan', 'pod benih'];bahagian tumbuhan berbunga
+biological-object;['telinga', 'kuping', 'telinga manusia'];organ yang mengesan bunyi. organ mendengar dan mengimbangkan
+biological-object;['sakrum', 'foramina sakral anterior', 'foramina sakral posterior', 'tanjung sakral', 'vertebra sakral'];Tulang berbentuk segitiga yang terletak di bawah pinggang
+causal-role;['risiko', 'ريسيکو', 'bahaya', 'aral', 'kerugian', 'berbahaya', 'endangerment', 'risiko keselamatan'];kebarangkalian mendapat kerugian
+causal-role;['disinfektan', 'antimicrobiano', 'penyahjangkitan', 'antimikrob', 'pembunuh kuman', 'agen antimikrob', 'anti-mikrob', 'antimicrobic', 'antimikrobial', 'ejen antimikrob', 'membasmi', 'sanitizer'];Laman nyahkekaburan
+cognitive-event;['gembira', 'keseronokan', 'kenikmatan', 'nikmat', 'ria', 'seronok', 'kemesraan', 'kesenangan', 'menyenangkan'];Perasaan senang akan sesuatu
+cognitive-event;['kasih sayang', 'afeksi', 'kemesraan', 'philia', 'kasih', 'kegemaran', 'kesukaan', 'penyakit', 'perasaan', 'sayang', 'jantung'];Sejenis perasaan cinta
+cognitive-event;['sakit', 'kesakitan', 'kepedihan', 'pedih', 'rasa pedih', 'rasa sakit', 'uzur', 'keperitan', 'sakit akut', 'sensasi kesakitan', 'sensasi yang menyakitkan'];Rasa tidak senang
+cognitive-event;['inferens', 'kesimpulan', 'illation', 'inferens logik'];laman nyahkekaburan
+cognitive-modal-description;['ketuanan putih', 'ketuanan kulit putih', 'kehebatan kulit putih', 'kehebatan putih', 'کتوانن ڤوتيه', 'کتوانن کوليت ڤوتيه', 'کهيبتن ڤوتيه', 'کهيبتن کوليت ڤوتيه', 'supremacist putih', 'putih supremacist', 'supremacism putih', 'supremacists putih'];pemikiran bersifat perkauman yang mempercayai kehebatan bangsa berkulit putih berbanding bangsa lain
+cognitive-state;['sedar', 'terjaga', 'wakefulness'];Keadaan sedar daripada tidur
+cognitive-state;['koma', 'pengsan', 'comatoseness'];Keadaan tidak sedarkan diri
+commerce-role;['produk', 'keluaran', 'barang', 'benda', 'hasil keluaran', 'barang dagangan', 'barangan', 'barang-barang', 'dagangan', 'hasil', 'jualan'];Segala benda/perkara yang boleh ditawarkan kepada suatu pasaran yang mungkin memenuhi kehendak atau keperluan
+course;['pandemik', 'wabak besar', 'wabak'];wabak penyakit berjangkit yang tersebar ke tahap antarabangsa
+course;['kitaran perniagaan', 'kitaran ekonomi', 'kitaran perdagangan'];Laman nyahkekaburan
+course;['kematian', 'ajal', 'meninggal dunia', 'mangkat', 'maut', 'mampus', 'wafat', 'mati', 'kelayuan', 'kepergian', 'kematian pramatang'];Pengakhiran kehidupan
+dependent-place;['bulatan', 'bundaran', 'bulatan mini', 'mini bulatan', 'pelegaran', 'putar'];Persimpangan lalu lintas
+dependent-place;['bilik'];Kawasan dalam ruang sedia ada
+dependent-place;['hampagas', 'vakum', 'hampa gas', 'hampawa', 'همڤا ݢس', 'همڤاوا', 'همڤاݢس', 'ۏاکوم', 'kekosongan', 'kosong', 'lohong', 'ruang', 'ruang bebas', 'vakum klasik'];Ruang yang kekosongan jirim
+event;['caduta massi', 'rockslide'];laman nyahkekaburan
+event;['pergerakan', 'ڤرݢرقن', 'gerakan', 'arus', 'pemindahan', 'pengalihan'];perubahan kedudukan jasad
+event;['pentathlon', 'pentatlon', 'pancalomba'];pertandingan sukan yang terdiri daripada gabungan lima acara
+event;['knell', 'tanda buruk'];Nama keluarga
+functional-matter;['kopi', 'kahwa', 'kawa', 'kahua', 'kofi', 'قهوا', 'کوڤي', 'kesan kesihatan terhadap kopi'];minuman yang dihasilkan menggunakan biji kopi panggang
+functional-matter;['bauksit'];bijih aluminium
+functional-matter;['air liur', 'liur', 'air ludah', 'ludah', 'bura'];Rembesan cair yang dikeluarkan oleh kelenjar liur
+functional-matter;['epinefrina', 'adrenalin', 'adrenalina', 'epinephrin', 'pencandu adrenalin'];hormon dan ubat
+functional-matter;['layar', 'لاير', 'terpal', 'belayar'];kain yang dipasang di tiang kapal sebagai penampung angin untuk pelayaran
+functional-matter;['sandwic kapal selam', 'hoagie', 'sandwic cuba', 'budak miskin', 'hoagies', 'hoagy', 'kibbeh', 'kubbeh', 'sandwic itali', 'sandwic wira', 'zep'];jenis sandwic dari Amerika Syarikat
+functional-matter;['tilam', 'leca', 'تيلم', 'لچا', 'kasur'];alas tidur
+functional-matter;['hasil haiwan', 'produk haiwan', 'hasil binatang', 'hasil ternak', 'hasil ternakan', 'keluaran binatang', 'keluaran haiwan', 'keluaran ternak', 'keluaran ternakan', 'produk binatang', 'produk ternak', 'produk ternakan', 'haiwan oleh-produk'];Bahan yang diperoleh daripada tubuh haiwan
+functional-matter;['konkrit', 'beton', 'kebolehkerjaan'];bahan pembinaan komposit
+functional-matter;['pelekat', 'bahan pelekat', 'gam', 'perekat', 'adhesif', 'bahan perekat', 'glu', 'lem', 'ejen pelekat', 'simen kenalan'];Bahan yang digunakan untuk mencantum bahan lain
+functional-matter;['penggodam'];Orang yang memecah masuk suatu sistem komputer melalui kelemahan yang sedia ada
+functional-matter;['candu', 'madat', 'opium', 'perdagangan candu'];Segi Tiga Emas
+functional-matter;['metamfetamin', 'metamfetamina', 'c10h15n', 'syabu', 'meth', 'methamphetamine', 'methedrine', 'kaca', 'deoxyephedrine', 'desoxyn', 'dextromethamphetamine', 'kristal meth', 'kristal methamphetamine', 'metamfetamina hidroklorida', 'methamphetamines', 'pervitin', 'shabu'];Sebatian kimia dan cara membuatnya
+functional-matter;['minuman', 'air', 'air minuman', 'boleh diminum', 'diminum'];Cecair yang disediakan khas untuk minuman manusia
+functional-matter;['telur dadar', 'dadar', 'omelet'];masakan telur
+functional-matter;['consomme', 'kaldu'];Laman nyahkekaburan
+functional-matter;['bangkai', 'daging bangkai', 'daging busuk', 'بڠکاي', 'داݢيڠ بوسوق', 'داݢيڠ بڠکاي', 'sampah'];daging bangkai yang mereput
+functional-matter;['ramuan', 'bahan', 'bumbu', 'perawis', 'bahan-bahan'];Bahan yang merupakan sebahagian daripada beberapa produk
+functional-matter;['epal', 'apel', 'epal hijau', 'green apple', 'malus domestica'];Buah pokok epal
+functional-matter;['wul kaca', 'bulu kaca'];bahan penebat diperbuat daripada gentian kaca
+functional-matter;['air kencing', 'kencing', 'urin', 'air kecil', 'air seni', 'kemih', 'اءير سني', 'اءير کنچيڠ', 'اءير کچيل', 'اورين', 'کميه', 'کنچيڠ', 'berkencing', 'sisa nitrogenous', 'weewee'];Bahan buangan benda hidup dalam bentuk cecair
+functional-matter;['coklat'];makanan diterbitkan daripada biji koko
+functional-matter;['mozarela', 'keju mozarela', 'mozzarella', 'keju mozzarella'];Keju Itali
+functional-matter;['telur', 'تلور', 'pengeluaran telur', 'telur ayam', 'telur ikan'];bahan makanan
+functional-matter;['lemon meringue pai', 'pai meringue lemon'];Laman nyahkekaburan
+functional-matter;['jem', 'manisan', 'barli', 'jeli', 'jem buah-buahan'];Sapuan roti/biskut yang diperbuat oleh buah-buahan
+functional-matter;['peluh', 'keringat', 'air peluh', 'اءير ڤلوه', 'ڤلوه', 'کريڠت', 'berpeluh', 'diaphoresis', 'berkeringat', 'perspirasi', 'hidrosis', 'sudation', 'yg mengeluarkan peluh'];Air rembesan kelenjar peluh
+functional-matter;['tinja', 'najis', 'tahi', 'تاهي', 'تينجا', 'نجيس', 'kumuhan anjing', 'tahi anjing', 'tinja anjing', 'perkara tahi', 'najis burung', 'percabulan', 'perkara najis', 'tahi burung'];Bahan buangan yang tidak dapat dicernakan dalam usus kecil
+functional-matter;['pengikat', 'penjilid'];Bahan kimia
+functional-matter;['salsa', 'bawang merah'];sos
+functional-matter;['bulu', 'rambut binatang', 'rambut haiwan', 'bulu pelapik', 'kulit', 'bulu pengawal', 'rambut down'];bulu yang meliputi mamalia
+functional-matter;['etanol', 'e1510', 'ethanol', 'etil alkohol', 'etil hidrat', 'alkohol biji-bijian', 'alkohol bijirin', 'alkohol etil', 'alkohol penapaian'];sebatian kimia alkohol
+functional-matter;['sanga', 'dros', 'scoria', 'timbunan sanga'];Bahan kimia
+functional-matter;['putih telur', 'albumen', 'ovalbumin'];cecair jernih di dalam telur
+functional-matter;['kicap', 'کيچڤ', 'sos soya', 'kecap', 'kicap manis'];Olahan soya daripada Indonesia
+functional-matter;['roti rapuh', 'shortbread', 'cookie shortbread'];makanan tradisi Scotland
+functional-matter;['garam', 'garam dapur', 'garam biasa', 'garam natrium', 'pengeluaran garam'];garam sebagai ramuan masakan
+geographical-object;['borneo', 'kepulauan borneo', 'pulau borneo', 'kalimantan'];pulau
+geographical-object;['kepulauan ryukyu', 'کڤولاوان ريوکيو', 'kepulauan ryūkyū', 'ryukyu islands'];Gugusan pulau di Jepun
+geographical-object;['krakatau', 'krakatoa', 'gunung krakatoa', 'gunung krakatau', 'krakatao'];Gunung di Indonesia
+geographical-object;['selat korea', 'laut korea', 'korea selat'];selat di antara Korea Selatan dengan Jepun
+geographical-object;['martinique', 'martnique'];Jabatan di Perancis
+geographical-object;['laut kuning', 'huang hai'];Laut yang terletak diantara Tanah Besar China dan Semenanjung Korea.
+geographical-object;['luzon'];pulau terbesar di Filipina
+geographical-object;['hindia barat', 'lembangan caribbean', 'hindia'];Kawasan pulau di Caribbean
+gestalt;['nonagon', 'enneagon', '9-gon', 'segi sembilan'];Sembilan segi poligon
+information-encoding-system;['editorial', 'lidah pengarang', 'rencana pengarang', 'pengarang', 'kolum', 'kolum akhbar', 'lajur', 'ruang', 'turus', 'artikel terkemuka', 'halaman editorial'];genre kewartawanan
+information-encoding-system;['kemahiran membaca', 'pengumuman'];Laman nyahkekaburan
+information-encoding-system;['rencana', 'artikel', 'makalah', 'ارتيکل', 'رنچان', 'مقاله'];Tulisan yang diterbitkan dalam akhbar, majalah, dll.
+information-encoding-system;['puisi prosa', 'prosa lirik'];Genre penulisan yang menggabungkan ciri-ciri puisi dan prosa
+information-object;['fonem', 'warna bunyi', 'archiphoneme', 'fonemis'];Unit asas fonologi
+information-object;['autobiografi'];Cerita kehidupan yang ditulis pengisah akuan
+information-object;['ideogram', 'tulisan imej', 'ideografik', 'ideograms', 'ideographs'];simbol grafik
+information-object;['kontur', 'garisan kontur', 'selang kontur', 'garis kontur', 'isohyet', 'isoterma', 'kontur line', 'plot kontur'];lengkung
+information-object;['pemboleh ubah', 'variabel', 'pembolehubah', 'ۏاريابل', 'angkubah', 'pemboleh ubah bergerak balas', 'pemboleh ubah dimalarkan', 'pemboleh ubah dimanipulasikan'];nilai yang tidak tetap dan boleh berubah-ubah
+information-object;['memoir', 'riwayat hidup', 'memoirist'];Cerita kenang-kenangan pengisah akuan
+information-object;['awalan', 'imbuhan awalan', 'imbuhan'];Imbuhan yang diletakkan sebelum akar kata
+information-object;['isyarat', 'tanda', 'alamat', 'penanda', 'petanda', 'petunjuk', 'isyarat kawalan'];Konsep semiotik
+information-object;['huruf', 'abjad', 'aksara', 'surat', 'surat abjad', 'watak abjad'];grafem dalam sistem abjad tulisan
+information-object;['jamak', 'majmuk', 'bentuk jamak'];Bilangan tatabahasa
+information-object;['medal of honor', 'pingat kehormatan', 'pingat kongres of honor'];hiasan ketenteraan tertinggi yang dianugerahkan oleh A.S.
+information-object;['h', 'ايچ'];huruf kelapan abjad Rumi
+information-object;['z', 'zet', 'زيت', 'ezed', 'izzard', 'z ekor', 'zed', 'zee'];huruf kedua puluh enam abjad Rumi
+information-object;['nombor telefon', 'nombor', 'angka'];Urutan unik nombor digit yang digunakan dalam pelangganan telefon
+information-object;['homonim', 'kehomoniman', 'homonimi', 'kata sebunyi', 'homonyms'];Hubung kait di antara perkataan dengan bentuk yang serupa tetapi mempunyai maksud yang berbeza
+information-object;['antonim', 'bertentangan', 'berlawanan', 'sebaliknya', 'perkataan yang bertentangan'];Semua
+information-realization;['perisian', 'sistem perisian', 'perisian komputer', 'ڤرايسين', 'ڤرايسين کومڤوتر', 'perisian perdagangan', 'sofwe', 'program perisian', 'modul', 'pengaturcaraan bermodul', 'suai', 'teknologi perisian'];Komponen boleh laku yang bukan ketara bagi sistem komputer
+information-realization;['bahasa khas', 'kata sandi', 'argot', 'bahasa rahsia', 'kriptolek', 'sandi kata', 'lingo', 'jargon', 'loghat', 'slanga', 'bahasa vernakular', 'cant', 'cryptolect', 'vernakular'];Bahasa rahsia
+information-realization;['peribahasa', 'pepatah', 'bidalan', 'bidal', 'بيدل', 'بيدلن', 'ڤريبهاس', 'ڤڤاته', 'perumpamaan', 'buah mulut masyarakat', 'sindiran'];kata-kata yang memberi nasihat
+information-realization;['mahakarya', 'magnum opus', 'karya magnum'];karya seniman, penulis atau komposer terhebat
+information-realization;['percetakan batu', 'litografi', 'cetakan batu', 'pencetakan batu', 'ahli cetak batu', 'cetak batu', 'jurucetak batu', 'litograf', 'litografer', 'pencetak batu', 'tukang cetak batu', 'lithographs', 'microlithography'];kaedah pencetakan
+information-realization;['rondo', 'bentuk rondo'];Laman nyahkekaburan
+information-realization;['semibrif', 'nota keseluruhan', 'semibreve'];durasi not musikal
+information-realization;['krocet', 'nota suku', 'khayal', 'suku nota'];Durasi not musikal
+information-realization;['bahagian yg terkecil', 'nota 1/2'];durasi not musikal
+information-realization;['terbitan', 'cetakan', 'penerbitan'];Hasil penerbitan. Boleh juga merujuk kepada salinan cetakan atau pengedaran salinan percetakan ini kepada orang awam dengan kebenaran pengarang
+information-realization;['aplikasi', 'perisian penggunaan', 'perisian gunaan', 'perisian aplikasi', 'atur cara penggunaan', 'aplikasi komputer', 'aplikasi perisian', 'program aplikasi', 'pemetaan', 'penerapan', 'penggunaan', 'aplikasi desktop'];Perisian yang mana tugasnya menjalankan fungsi-fungsi tertentu untuk kegunaan pengguna
+information-realization;['kamus', 'senarai kamus bahasa inggeris', 'leksikon'];Kumpulan perkataan dan maksudnya
+information-realization;['ensiklopedia', 'ensaiklopedia', 'encyclopaedia', 'encyclopedia'];Sejenis bahan rujukan
+information-realization;['lagu', 'nyanyian', 'لاݢو', 'ڽاڽين', 'suara manusia', 'vokal'];Gubahan suara
+information-realization;['rang undang-undang', 'رڠ اوندڠ٢\u200e', 'ditandatangani ke dalam undang-undang'];Undang-undang yang dicadang
+information-realization;['kod morse', 'kod morse antarabangsa'];kaedah penghantaran kata
+information-realization;['soneta', 'sonet', 'syair', 'sonnets'];Sebuah bentuk puisi
+information-realization;['editorial', 'lidah pengarang', 'rencana pengarang', 'pengarang', 'kolum', 'kolum akhbar', 'lajur', 'ruang', 'turus', 'artikel terkemuka', 'halaman editorial'];genre kewartawanan
+information-realization;['muzik', 'seni muzik'];bentuk seni, dan kegiatan budaya, yang bahantaranya bunyi
+information-realization;['ketaksaan', 'ambiguiti', 'kekaburan', 'taksa', 'samar-samar'];Sejenis ketidakpastian maksud di mana beberapa tafsiran adalah munasabah
+information-realization;['perlembagaan', 'undang-undang organik', 'konstitusi', 'kerajaan berperlembagaan', 'perlembagaan bertulis', 'perlembagaan yang termaktub', 'undang-undang asas', 'undang-undang tertinggi'];undang-undang tertinggi yang menjelaskan sifat-sifat sesebuah organisasi atau negara
+information-realization;['rencana', 'artikel', 'makalah', 'ارتيکل', 'رنچان', 'مقاله'];Tulisan yang diterbitkan dalam akhbar, majalah, dll.
+information-realization;['grafik', 'seni', 'karya seni', 'perkara nontextual'];Persembahan visual yang ditunjukkan pada permukaan
+information-realization;['pencetakan', 'ڤنچيتقن', 'tulisan', 'dicetak', 'industri percetakan', 'kerja-kerja percetakan', 'media cetak', 'percetakan', 'proses percetakan'];perbuatan menyalin tulisan atau gambar berdasarkan naskhah induk
+information-realization;['dialek', 'loghat', 'loghat daerah', 'bahasa daerah', 'pelat', 'telor', 'regiolect'];Jenis sebuah bahasa
+information-realization;['mengigau', 'bercakap dalam tidur', 'cakap dalam tidur', 'igau', 'lindor', 'lindur', 'melindor', 'melindur', 'meracau', 'racau', 'ايݢاو', 'راچاو', 'ليندور', 'مراچاو', 'مليندور', 'مڠيݢاو', 'somniloquy', 'somniloquism', 'tidur bercakap'];Bercakap dalam tidur
+information-realization;['carutan', 'carut', 'carut-capai', 'carut-marut', 'kata-kata cabul', 'kata-kata kasar', 'kata cabul', 'kata kasar', 'چاروت', 'چاروت-ماروت', 'چاروت-چاڤاي', 'چاروتن', 'کاتا چابول', 'کاتا کاسر', 'کاتا٢ چابول', 'کاتا٢ کاسر', 'bersumpah perkataan', 'senonoh', 'bahasa busuk', 'bahasa kuat', 'bahasa lucah', 'bahasa yang kuat', 'lucah', 'perkataan pantang', 'sopan'];perkataan yang dianggap kasar
+language;['bahasa denmark', 'da', 'dan', 'bahasa danish', 'denmark'];Bahasa Jermanik Utara yang ditutur di Denmark
+language;['bahasa', 'bahasa manusia', 'bahasa tertentu', 'lang', 'ungkapan', 'kepelbagaian linguistik', 'komunikasi linguistik'];Sistem komunikasi tertentu, biasanya dinamakan sempena wilayah atau orang yang menggunakannya
+language;['pashto', 'bahasa pashto', 'pashtu', 'paxto', 'pukhto', 'pushto', 'pushtu'];Bahasa
+language;['bahasa scots', 'scots, lallans', 'scotland', 'scots bahasa inggeris', 'berhijrah scotland', 'keturunan scotland', 'orang scotland', 'scot', 'scots'];Bahasa Scots
+language;['bahasa indonesia', 'id', 'indonesia', 'english'];Bahasa rasmi di Indonesia
+language;['bahasa amhara', 'iso 639:am', 'bahasa amharic', 'bahasa ethiopia'];Bahasa
+language;['bahasa inggeris amerika', 'bahasa inggeris amerika syarikat', 'inggeris amerika', 'bahasa inggeris as', 'bhs inggeris amerika', 'bhs inggeris amerika syarikat', 'bhs inggeris as', 'bi amerika', 'bi amerika syarikat', 'bi as', 'bahasa inggeris us', 'bahasa amerika'];Gaya percakapan bahasa Inggeris sepertimana dituturkan di Amerika Syarikat
+language;['bahasa-bahasa greek moden', 'bahasa yunani moden', 'bahasa greek moden', 'baru yunani', 'greek moden'];bahasa
+language;['bahasa gujarat', 'gujarati', 'bahasa gujarati'];Bahasa
+language;['bahasa malaysia', 'bahasa melayu', 'bm', 'bahasa melayu piawai', 'bahasa kebangsaan'];Bahasa rasmi Malaysia. daftar terpiawai loghat Melaka di Malaysia
+language;['bahasa estonia', 'esthonian', 'estonia'];Bahasa
+language;['bahasa hungary', 'bahasa magyar', 'hungary'];Bahasa
+language;['bahasa latvia', 'latvia', 'lettish'];Bahasa
+language;['bahasa czech'];Bahasa
+language;['bahasa jerman', 'deutsch', 'iso 639:de', 'jerman', 'tinggi jerman', 'bahasa tinggi jerman', 'berbahasa jerman', 'germanophone'];Bahasa
+locative-role;['bandung', 'kabupaten bandung', 'kota bandung'];Kota di provinsi Jawa Barat, Indonesia
+locative-role;['worcester'];Nama keluarga
+locative-role;["chang'an", "xi'an", 'xian', 'changan', 'hsian', 'singan', 'sian'];ibu kota wilayah Shaanxi, China
+locative-role;['empayar byzantine', 'empayar rom timur', 'byzantine', 'empayar bizantium', 'rom timur', 'byzantine empire', 'byzantium', 'eastern roman empire'];Empayar Rom ketika zaman purba dan pertengahan
+locative-role;['mayenne', 'mayenne, mayenne'];Jabatan di Perancis
+locative-role;['haute-normandie', 'upper-normandy', 'atas normandy'];Kawasan di Perancis
+locative-role;['franche-comté', 'franche-comte', 'franche comte'];Kawasan di Perancis
+locative-role;['bourgogne', 'burgundy'];Kawasan di Perancis
+locative-role;['bretagne', 'brittany', 'breiz'];Kawasan di Perancis
+locative-role;['tempat letak kereta', 'lot letak kereta', 'lot parkir', 'medan letak kereta', 'parkir', 'tempat letak kenderaan', 'kawasan letak kereta'];Kawasan khas meletak kenderaan
+locative-role;['centre', 'centre-val de loire', 'pusat'];Kawasan di Perancis
+locative-role;['poitou-charentes', 'poitou-charente', 'poitou'];Kawasan di Perancis
+locative-role;['tempat kerja', 'lokasi kerja', 'persekitaran kerja', 'pejabat'];Lokasi fizikal di mana seseorang bekerja
+locative-role;['auvergne'];Kawasan di Perancis
+locative-role;['nord-pas-de-calais'];Kawasan di Perancis
+locative-role;['languedoc-roussillon'];Kawasan di Perancis
+locative-role;['midi-pyrénées', 'midi-pyrenees'];Kawasan di Perancis
+locative-role;['limousin'];Kawasan di Perancis
+locative-role;['île-de-france', 'ile-de-france', 'ile de france'];Kawasan di Perancis
+locative-role;['champagne-ardenne', 'champagne'];Kawasan di Perancis
+locative-role;['picardy', 'picardie'];Kawasan di Perancis
+locative-role;['aquitaine', 'aquitania'];Kawasan di Perancis
+locative-role;['kampung', 'desa', 'perkampungan', 'dusun', 'kampong', 'dukuh', 'kampung-kampung'];Kawasan penempatan lebih kecil daripada kota dan terletak di luar bandar
+locative-role;['pays de la loire', 'pays-de-la-loire', 'membayar de la loire'];Kawasan di Perancis
+locative-role;['lorraine', 'lothringen'];Kawasan di Perancis
+locative-role;['light'];nama keluarga
+locative-role;['martinique', 'martnique'];Jabatan di Perancis
+locative-role;['utara', 'u', 'ke utara'];satu daripada empat arah kardinal
+locative-role;['tempat lahir', 'tempat kelahiran', 'lokasi kelahiran', 'lokasi lahir', 'tanah tumpah darah'];tempat seseorang dilahirkan
+locative-role;['venezia', 'venice', 'venesia', 'sestiere'];Sebuah kota dibina atas gugusan 118 buah pulau di timur laut Itali
+locative-role;['gurun sahara', 'sahara', 'sahara desert'];Bukit pasir
+method;['autokrasi', 'autokratik', 'autarchism', 'autarki', 'mutlak politik'];pemerintahan di bawah satu individu berkuasa mutlak
+method;['demokrasi', 'demokratik', 'republik', 'demokrasi sekular', 'kerajaan demokratik', 'proses demokrasi'];Sistem pemerintahan di mana rakyat memilih perwakilan dalam bentuk badan tadbir urus, kadangkala dipanggil sebagai "pemerintahan majoriti"
+non-agentive-physical-object;['jongkong', 'lantak', 'bar logam', 'blok logam'];Laman nyahkekaburan
+non-agentive-physical-object;['lebuh raya', 'lebuh raya capaian terkawal', 'lebuhraya', 'lebuh raya ekspres', 'lebuh raya negeri', 'lebuh raya tinggi', 'jalan', 'jalanraya', 'throughway', 'thruway'];Lebuh raya dibentuk secara eksklusif untuk trafik kenderaan yang laju, dengan semua aliran trafik dan trafik masuk/keluar dikawal
+non-agentive-physical-object;['andas', 'landasan', 'paron', 'alas', 'lubang tahan lasak'];alat pertukangan besi
+non-agentive-physical-object;['dapur', 'periuk', 'dapur masak yang', 'dapur memasak', 'pelbagai dapur', 'stovetop'];Peralatan dapur untuk memasak makanan
+non-agentive-physical-object;['rompi', 'weskot', 'رومڤي', 'ويسکوت', 'weskot berkancing', 'singlet'];Sejenis baju tanpa lengan dan selalunya dipakai di bawah baju jaket
+non-agentive-physical-object;['kemeja polo', 'baju golf', 'baju sukan', 'baju tenis'];Jenis Baju
+non-agentive-physical-object;['perangkap', 'ڤرڠکڤ'];bahagian melengkung dalam pembuluh (paip dsb.) bagi memerangkap bendalir agar tiada pengaliran yang tidak dikehendaki
+non-agentive-physical-object;['wimple', 'jilbab'];Pakain penutup kepala yang dipakai oleh orang purbakala
+non-physical-collection;['teori falsafah', 'doktrin falsafah', 'teori falsafah yang'];konsep teori dalam falsafah
+non-physical-collection;['konsep', 'konsep falsafah', 'membina', 'anggitan', 'gagasan', 'idea', 'konsepsi', 'tanggapan'];Konsep yang digunakan dalam falsafah
+non-physical-collection;['numenon', 'noumenon', 'perkara-in-sendiri', 'noumena', 'noumenal'];konsep falsafah
+non-physical-place;['elysion', 'elysium', 'elysian fields'];dunia akhirat untuk jiwa yang baik dalam mitologi Yunani
+organized-collection;['galaksi', 'bintamabor', 'bintamabur', 'bintang temabor', 'bintang temabur', 'بينتامابور', 'بينتڠ تمابور', 'ݢالکسي', 'nebula extragalactic'];gugusan raya bintang di angkasa
+organized-collective;['kelompok sosial', 'kumpulan sosial', 'kelompok'];Dua atau lebih ramai manusia yang berhubungan antara satu sama lain
+parameter;['pecutan', 'pemecutan', 'cepatan', 'چڤتن', 'ڤچوتن', 'akselerasi', 'kepecutan', 'memecut', 'pecut', 'percepatan', 'mempercepatkan', 'kecepatan', 'dipercepatkan', 'pecutan memusat'];kadar perubahan (ha)laju
+parameter;['asbut', 'smog', 'kabut', 'kabut fotokimia', 'smogginess'];Pencemaran udara teruk
+parameter;['ekinokokosis', 'hidatidosis', 'penyakit hidatid', 'echinococcosis', 'penyakit hydatid', 'hydatidosis', 'sista hydatid'];penyakit parasit bawaan cacing pita Ekinokokus
+parameter;['pencemaran udara', 'kesan pencemaran udara', 'pencemar udara', 'kualiti udara', 'pencemaran atmosfera', 'udara bersih'];penyebaran bahan kimia, zarahan atau bahan biologi berbahaya di atmosfera
+parameter;['kilometer sejam', 'km/j', 'kilometer per jam', 'km/h', 'kph', 'kmh', 'kmj', 'kpj', 'km / h', 'km h'];Unit kelajuan
+parameter;['varians', 'varians sampel'];percanggahan
+parameter;['interim', 'lag', 'sementara', 'sementara itu,'];kelewatan antara tindakan pemain dan tindak balas pelayan dalam permainan video
+phenomenon;['cahaya', 'kurrat', 'nur', 'cahaya nampak', 'gelombang cahaya', 'bayangan', 'buah fikiran', 'gambaran', 'keperibadian', 'lampu', 'sinar', 'cahaya kelihatan', 'cahaya yang boleh dilihat', 'pantulan cahaya', 'radiasi dilihat', 'sumber cahaya'];sinaran elektromagnet di dalam atau berdekatan spektrum nampak
+phenomenon;['elektrik', 'kuasa elektrik', 'tenaga elektrik', 'api', 'karan'];Tenaga yang terhasil akibat keberadaan dan pengaliran cas elektrik
+phenomenon;['pembelahan nukleus', 'pembelahan nuklear', 'pembelahan'];Reaksi nuklear atau pereputan radiasi dimana nuklues atom terbelah kepada bahagian kecil
+phenomenon;['proses biologi', 'ڤروسيس بيولوݢي', 'proses organik'];perubahan yang khusus berkait dengan hidupan
+phenomenon;['sendawa', 'eruktasi', 'sedawa', 'إيروکتاسي', 'سداوا', 'سنداوا', 'bersendawa', 'letusan'];Bunyi dan pengeluaran gas dari saluran pencernaan
+phenomenon;['bersin', 'برسين'];Pengeluaran angin dari peparu dengan tiba-tiba melalui hidung dan mulut
+phenomenon;['liwat', 'seks anal', 'sodom', 'buggery', 'hubungan seksual menerusi dubur', 'seks', 'semburit', 'sodomi', 'diliwat', 'penembusan dubur'];sex
+phenomenon;['cahaya siang', 'siang', 'siang hari'];Cahaya semasa siang hari daripada matahari sama ada secara langsung atau tidak langsung
+phenomenon;['69'];Nombor asli
+phenomenon;['kerosakan gigi', 'karies gigi', 'kaviti', 'karies', 'kereputan gigi', 'kariogenik', 'kaviti gigi'];Kerosakan gigi oleh bakteria
+phenomenon;['persetubuhan', 'hubungan seks', 'jimak', 'bersetubuh', 'hubungan jenis', 'hubungan kelamin', 'seks', 'hubungan seksual', 'sanggama', 'pengetahuan nafsu', 'perbuatan seks', 'perbuatan seksual', 'tingkah laku seksual manusia', 'seksual', 'senggama', 'aktiviti seksual', 'aktiviti seksual manusia', 'hubungan faraj', 'mengawan', 'persetubuhan faraj', 'pertemuan seksual', 'seks faraj', 'seks kasihan', 'seksual kongres'];Sebarang aksi dilakukan untuk pembiakan , kepuasan seksual ataupun kedua dua sekali
+phenomenon;['dengkuran', 'dengkur', 'dengus', 'keruh', 'دڠوس', 'دڠکور', 'دڠکورن', 'کروه', 'berdengkur', 'stertor'];Bunyi ketika tidur
+phenomenon;['penghabluran', 'pengkristalan', 'kristalisasi', 'crystallizing', 'menghablur', 'terhablur'];proses pembentukan pepejal hablur
+phenomenon;['metamorfosis', 'metamorphosis', 'metabolisme', 'perubahan', 'berubah bentuknya'];Perubahan yang sangat mendalam semasa pembentukan organisma (selepas pembentukan embrio)
+phenomenon;['korona', 'korona matahari', 'korona solar'];Sinaran yang mengelilingi Matahari
+phenomenon;['kelahiran anak', 'bersalin', 'beranak', 'melahirkan anak', 'kelahiran', 'melahirkan', 'persalinan', 'accouchement', 'buruh dan penghantaran', 'kelahiran faraj'];Pengeluaran janin dari rahim ibu
+phenomenon;['peluh', 'keringat', 'air peluh', 'اءير ڤلوه', 'ڤلوه', 'کريڠت', 'berpeluh', 'diaphoresis', 'berkeringat', 'perspirasi', 'hidrosis', 'sudation', 'yg mengeluarkan peluh'];Air rembesan kelenjar peluh
+phenomenon;['peretakan', 'pemecahan', 'hydrocracker', 'keretakan', 'keretakan haba', 'keretakan stim'];Tindak balas penguraian haba atau bermangkin terhadap sebatian seperti hidrokarbon kepada spesies-spesies kimia yang mempunyai jisim molekul yang lebih rendah
+phenomenon;['cecair', 'cairan', 'چاءيرن', 'چچاءير', 'fasa cecair', 'keadaan cecair'];Bahan yang bersifat cecair
+phenomenon;['mengigau', 'bercakap dalam tidur', 'cakap dalam tidur', 'igau', 'lindor', 'lindur', 'melindor', 'melindur', 'meracau', 'racau', 'ايݢاو', 'راچاو', 'ليندور', 'مراچاو', 'مليندور', 'مڠيݢاو', 'somniloquy', 'somniloquism', 'tidur bercakap'];Bercakap dalam tidur
+physical-body;['bulan', 'بولن'];satelit semula jadi bumi
+physical-body;['alam semesta', 'kosmos', 'angkasa', 'angkasa lepas', 'ruang angkasa', 'alam semesta tempatan', 'semesta', 'dunia', 'makrokosmos', 'alam', 'buana', 'ciptaan', 'kewujudan', 'langit', 'penciptaan', 'dunia fizikal'];Keseluruhan ruang dan semua kandungan
+physical-body;['bumi', 'dunia', 'planet bumi', 'sol d', 'alam semula jad', 'glob', 'guli biru', 'permata biru', 'planet biru', 'sol 3', 'sol iii', 'tarre', 'tellus', 'titik biru terang', '⊕', '♁', '🌍', '🌎', '🌏', '🗺', 'sol-d', 'alam', 'jagat'];Planet ketiga daripada Matahari dalam Sistem Suria
+physical-body;['bangkai', 'daging bangkai', 'daging busuk', 'بڠکاي', 'داݢيڠ بوسوق', 'داݢيڠ بڠکاي', 'sampah'];daging bangkai yang mereput
+physical-body;['mayat', 'bangkai', 'jasad', 'jenazah', 'kunarpa', 'orang mati', 'أورڠ ماتي', 'بڠکاي', 'جسد', 'جنازه', 'ميت', 'کونرڤا'];tubuh orang yang telah mati
+physical-endurant;['entiti', 'entity', 'benda'];Sesuatu yang wujud
+physical-object;['gerbang', 'kubah', 'lengkung', 'intrados', 'melengkung'];binaan terbuka
+physical-object;['pencetak', 'pencetak komputer', 'mesin cetak', 'ميسين چيتق', 'ڤنچيتق کومڤوتر', 'printer'];peranti elektronik yang menghasilkan salinan di bahantara fizikal daripada dokumen elektronik
+physical-object;['pensintesis', 'synthesizer', 'pensintesis muzik', 'alat sintesis', 'pensintesis bunyi', 'synthesiser', 'arpeggiator', 'bass pensintesis', 'bass synth', 'pad synth', 'pengawal reben', 'penjana sampul surat', 'pensintesis keyboard', 'sampul surat adsr', 'sintesis audio', 'sintesis bunyi', 'synth', 'synth bass', 'synthesisers', 'synths', 'tampalan'];Instrumen elektronik yang berupaya untuk menghasilkan pelbagai jenis dan julat bunyi
+physical-object;['45'];Nombor asli
+physical-object;['rumah perahu', 'houseboats', 'rumah bot'];kapal yang diubah suai menjadi tempat kediaman manusia
+physical-object;['trem'];Kenderaan diguna untuk trafik sistem trem
+physical-object;['sel fotovolta', 'sel solar', 'sel photovoltaic', 'elektrik solar', 'sel-sel fotovoltaik'];Sel fotodiod yang digunakan untuk menukarkan tenaga cahaya menjadi tenaga elektrik
+physical-object;['selenoid', 'solenoid'];Selenoid
+physical-object;['penyiram', 'menyiram periuk'];alatan untuk menyiram tumbuhan dengan tangan
+physical-object;['pedang', 'saif', 'senjata tajam'];Senjata berbilah
+physical-object;['senapang patah', '12-mengukur', 'scattergun'];Senjata yang boleh mengeluarkan berberapa bedilan dalam satu tembakan
+physical-object;['pek letupan', 'kembang api'];Alat peletup kecil
+physical-object;['penunu bunsen', 'pembakar bunsen', 'tunu bunsen', 'تونو بونزن', 'تونو بونسين', 'ڤمباکر بونزن', 'ڤمباکر بونسين', 'ڤنونو بونزن', 'ڤنونو بونسين', 'bunsen pembakar'];radas makmal
+physical-object;['tukul', 'penukul', 'martil', 'merton', 'palu', 'pemukul kecil', 'توکول', 'مرتون', 'مرتيل', 'ڤالو', 'ڤموکول کچيل', 'ڤنوکول', 'pengetuk'];peralatan mengetuk
+physical-object;['klinik', 'hospital', 'rumah sakit', 'klinik perubatan', 'klinik penjagaan ambulatory', 'klinik pesakit luar', 'doktor', 'klinik kesihatan'];Kemudahan penjagaan kesihatan, terutamanya menfokuskan penjagaan pesakit luar
+physical-object;['hospital', 'rumah sakit', 'hospital daerah', 'sakit'];Institusi penjagaan kesihatan
+physical-object;['tiang pintu', 'doorjamb', 'jambs'];Laman nyahkekaburan
+physical-object;['dapur', 'periuk', 'dapur masak yang', 'dapur memasak', 'pelbagai dapur', 'stovetop'];Peralatan dapur untuk memasak makanan
+physical-object;['geliung', 'kapal geliung', 'کاڤل ݢليوڠ', 'ݢليوڠ', 'galleon', 'galleon sepanyol', 'galleons'];jenis kapal layar Eropah
+physical-object;['buku komik', 'komik', 'buku kelakar', 'artis buku komik', 'buku-buku komik', 'comicbook', 'ilustrator buku komik', 'komik-buku', 'novel grafik', 'pencipta buku komik', 'penulis buku komik', 'penulis buku komik artis', 'penulis komik', 'siri buku komik'];penerbitan seni komik
+physical-object;['rompi', 'weskot', 'رومڤي', 'ويسکوت', 'weskot berkancing', 'singlet'];Sejenis baju tanpa lengan dan selalunya dipakai di bawah baju jaket
+physical-object;['artifak', 'artifak arkeologi', 'artefak', 'perkakas', 'tinggalan'];sesuatu yang dibuat oleh manusia
+physical-object;['media', 'medium', 'bahantara', 'perantara', 'perantara komunikasi', 'باهنتارا', 'sarana', 'sederhana'];Saluran storan dan penghantaran maklumat atau data
+physical-object;['pancing', 'joran', 'batang joran', 'batang pancing', 'tangkai pancing', 'tiang memancing', 'tiang nelayan'];alat
+physical-object;['diod', 'diod semikonduktor', 'diod germanium', 'diod silikon', 'kristal penerus', 'simpang penerus'];Jenis-jenis
+physical-object;['pisau belati', 'belati', 'pisau', 'badik', 'kerambit'];Senjata kecil dengan bilah yang tajam
+physical-object;['kemeja polo', 'baju golf', 'baju sukan', 'baju tenis'];Jenis Baju
+physical-object;['kanta pembesar', 'suryakanta', 'lup', 'kaca pembesar', 'kanta tangan', 'mikroskop mudah', 'pembesar kaca'];Prinsip
+physical-object;['raket'];alat sukan
+physical-object;['bangunan', 'bangunan awam', 'binaan', 'gedung', 'perumahan'];Struktur dengan atap dan dinding yang berdiri lebih kurang secara kekal di satu tempat
+physical-object;['cat', 'چت', 'dicat'];Cairan berwarna
+physical-object;['rumah api', 'menara api', 'mercu suar', 'beacon', 'lentera laut', 'beacon cahaya', 'lighthouse', 'pharos', 'rumah cahaya'];Struktur yang direka bentuk di mana ia memancarkan cahaya bagi membantu pelayaran
+physical-object;['transmisi manual', 'anjakan kayu', 'kotak gear manual', 'melekat anjakan', 'penghantaran standard', 'shifter pendek', 'standard penghantaran', 'transmisi standard'];jenis transmisi dalam kenderaan bermotor
+physical-object;['senjata nuklear', 'bom atom', 'bom nuklear', 'kepala peledak nuklear', 'senjata atom', 'peledak termonuklear', 'peranti nuklear'];Misil Pemusnah
+physical-object;['paru paru besi', 'paru-paru besi'];Sejenis alat ventilasi yang dicipta untuk mebantu pesakit yang menghadapi kesukaran bernafas
+physical-object;['sampan'];bot yang dibuat daripada kayu
+physical-object;['kapak', 'کاڤق', 'kapak kebakaran'];Alat atau senjata
+physical-object;['periuk api', 'ranjau letupan darat', 'رنجاو لتوڤن دارت', 'ڤريوق اڤي', 'lombong tanah', 'medan periuk api', 'ranjau darat', 'tanah-ditempatkan lombong'];senjata letupan yang tersorok di atas atau bawah tanah
+physical-object;['alat', 'peralatan', 'perkakas', 'peranti', 'alatan'];barangan yang digunakan untuk mencapai tujuan
+physical-object;['alat muzik', 'bunyi-bunyian', 'الت موزيک', 'بوڽي-بوڽين', 'بوڽي٢ن', 'alat-alat muzik', 'instrumen'];Perkakas yang digunakan untuk menghasilkan muzik
+physical-object;['fius', 'penyebu', 'فيوس', 'ڤڽبو', 'mencor', 'buku asas', 'letupan'];Alat pencetus
+physical-object;['cahaya', 'kurrat', 'nur', 'cahaya nampak', 'gelombang cahaya', 'bayangan', 'buah fikiran', 'gambaran', 'keperibadian', 'lampu', 'sinar', 'cahaya kelihatan', 'cahaya yang boleh dilihat', 'pantulan cahaya', 'radiasi dilihat', 'sumber cahaya'];sinaran elektromagnet di dalam atau berdekatan spektrum nampak
+physical-object;['injap', 'valve'];Valve
+physical-object;['sepit', 'penyepit', 'sepasang penyepit'];peralatan dapur yang digunakan untuk mengambil barang
+physical-object;['kelengkapan sukan', 'peralatan sukan', 'alat sukan'];objek yang digunakan untuk sukan atau senaman
+physical-object;['kapsul masa'];simpanan barangan atau data yang disimpan dengan rapi untuk dibuka pada masa hadapan
+physical-object;['gereja', 'bangunan gereja', 'kanisah', 'kelisa', 'rumah sembahyang'];Bangunan yang dibina untuk penganut Kristian
+physical-object;['wul kaca', 'bulu kaca'];bahan penebat diperbuat daripada gentian kaca
+physical-object;['langsir', 'tabir', 'tirai', 'lurub', 'horden', 'kain altar'];kain yang digunakan untuk menghalang cahaya
+physical-object;['pengarau', 'ڤڠاراو', 'descrambler', 'scrambler'];peranti pengganggu perkakas elektronik
+physical-object;['elettrometro', 'electrometer', 'elektroskop'];Laman nyahkekaburan
+physical-object;['wimple', 'jilbab'];Pakain penutup kepala yang dipakai oleh orang purbakala
+physical-object;['album studio', 'album lagu', 'album muzik', 'album audio', 'album tempoh masa yang penuh', 'album', 'album rekod', 'trek pembukaan'];Album rakaman audio yang terdiri daripada runut-runut yang dirakamkan di studio rakaman
+physical-object;['album studio', 'album lagu', 'album muzik', 'album audio', 'album tempoh masa yang penuh', 'album', 'album rekod', 'trek pembukaan'];Koleksi muzik yang dirakamkan
+physical-object;['trofi', 'piala', 'ganjaran', 'hadiah', 'hadiah saguhati', 'trofi perjalanan'];Ganjaran untuk pencapaian tertentu
+physical-object;['gitar keluli', 'gitar besi', 'gitar hawaii', 'keluli gitar'];jenis gitar atau kaedah bermain alat muzik
+physical-object;['koir', 'gerai koir', 'dua lusin'];Laman nyahkekaburan
+physical-object;['bilah', 'mata pedang', 'mata pisau', 'mata'];Bahagian tajam senjata atau peralatan
+physical-object;['flansch', 'bebibir'];Laman nyahkekaburan
+physical-object;['stesen kereta api', 'stesen keretapi', 'perhentian kereta api', 'perhentian keretapi', 'depot kereta api', 'menghentikan sendiri', 'penumpang stesen', 'perhentian keretapi denmark', 'railway station', 'stesen terminal', 'terminal kereta api', 'terminal keretapi', 'train depot'];Kemudahan landasan kereta api di mana kereta api berhenti secara tetap untuk menerima atau meletakkan penumpang dan/atau muatan
+physical-object;['pemarut', 'parut', 'penyagat', 'sagat'];Perkakas menyagat
+physical-object;['internet', 'ruang siber', 'rangkaian internet'];Rangkaian yang menghubungkan komputer di seluruh dunia
+political-geographic-object;['bandung', 'kabupaten bandung', 'kota bandung'];Kota di provinsi Jawa Barat, Indonesia
+political-geographic-object;['worcester'];Nama keluarga
+political-geographic-object;["chang'an", "xi'an", 'xian', 'changan', 'hsian', 'singan', 'sian'];ibu kota wilayah Shaanxi, China
+political-geographic-object;['belize', 'british honduras'];negara di Amerika Tengah
+political-geographic-object;['tonga', 'bahasa tonga', 'friendly islands', 'kepulauan mesra', 'kerajaan tonga'];Rencana senarai Wikimedia
+political-geographic-object;['myanmar', 'burma', 'republik kesatuan myanmar', 'republik sosialis kesatuan burma', 'kesatuan myanmar'];negara di Asia Tengara
+political-geographic-object;['bhutan', 'kerajaan bhutan'];negara di Asia Selatan
+political-geographic-object;['yunan', 'yunnan', 'wilayah yunan', 'wilayah yunnan'];Sebuah wilayah di barat daya negara China.
+political-geographic-object;['sabah', 'borneo utara', 'borneo utara british', 'british north borneo', 'negeri sabah', 'north borneo'];negeri di Malaysia
+political-geographic-object;['sarawak', 'negeri sarawak'];Negeri di Malaysia
+political-geographic-object;['indonesia', 'hindia timur belanda', 'hindia belanda timur', 'republik indonesia', 'indonesi', 'negara kesatuan republik indonesia', 'dutch east indies', 'kerajaan indonesia'];negara di Asia Tenggara
+political-geographic-object;['ecuador', 'ec', 'ecu', 'republik ecuador'];Merupakan negara demokratik di benua Amerika Selatan
+political-geographic-object;['sweden', 'sverige', 'kerajaan sweden'];negara beraja berperlembagaan di Eropah Utara
+political-geographic-object;['victoria', 'victoria, australia', 'negeri victoria', 'vic'];Negeri Australia
+political-geographic-object;['daerah kongres'];Rencana senarai Wikimedia
+political-geographic-object;['daerah', 'wilayah', 'distrik', 'district', 'kawasan', 'dominion', 'koloni', 'zon', 'wilayah kekuasaan'];Jenis pembahagian pentadbiran, di beberapa negara
+political-geographic-object;['lubnan', 'lebanon', 'lebanese republic', 'lubnan republik'];negara di Timur Tengah
+political-geographic-object;['jakarta', 'dki jakarta', 'daerah khusus ibukota jakarta', 'daerah khusus ibukota jakarta raya', 'kota jakarta', 'djakarta', 'lime', 'modal indonesia'];ibukota negara dan provinsi di Indonesia
+political-geographic-object;['baghdad', 'bagdad', 'modal iraq'];bandar raya dan ibu kota Iraq
+political-geographic-object;['thailand', 'negara thai', 'kerajaan negara thai', 'kerajaan thailand', 'negeri thai', 'thai', 'siam'];negara di Asia Tenggara
+political-geographic-object;['tegucigalpa', 'modal honduras'];Ibu negara Honduras
+political-geographic-object;['tokyo', 'edo', 'tōkyō', 'tokio', 'yeddo', 'yedo', 'ibu negara jepun', 'modal jepun'];ibu negara dan wilayah Jepun
+political-geographic-object;['kuala lumpur', 'kl', 'wilayah persekutuan kuala lumpur'];Ibu Negara Malaysia
+political-geographic-object;['malaysia timur', 'malaysia borneo', 'east malaysia'];Bahagian Malaysia yang terletak di pulau Borneo yang bersebelahan dengan brunai dan indonesia
+political-geographic-object;['venezia', 'venice', 'venesia', 'sestiere'];Sebuah kota dibina atas gugusan 118 buah pulau di timur laut Itali
+political-geographic-object;['perth', 'perth, australia barat', 'perth, australia'];Ibu kota Australia Barat
+practice;['tatakelakuan', 'kod tingkah laku'];Laman nyahkekaburan
+practice;['penyalahgunaan', 'penderaan', 'penganiayaan', 'penzaliman', 'penyalahgunaan kuasa', 'penyalahgunaan polis', 'dera', 'ketidakadilan', 'menganiaya', 'didera', 'kesat', 'layanan buruk', 'penyalahgunaan jawatan', 'penyalahgunaan kewangan', 'penyalahgunaan korporat', 'sakit penggunaan'];penyalahlakuan terhadap orang, binatang, sistem dll.
+practice;['penindasan', 'penganiayaan', 'penyeksaan', 'penzaliman', 'tindas terus', 'dianiaya'];Penganiayaan terhadap seseorang atau sekelompok orang oleh orang lain atau kelompok lain
+practice;['penyeksaan', '\u202apenyeksaan\u202c', 'seksa', 'siksa', 'penyiksaan', 'seksaan', 'siksaan', 'mendera', 'dera', 'deraan', 'menganiaya', 'menyeksa', 'menyengsarakan', 'penganiayaan', 'teratu', 'alat penyeksaan', 'diseksa'];perbuatan dengan sengaja mengadakan penderitaan dan kesengsaraan terhadap satu-satu hidupan
+practice;['keamanan', 'kedamaian', 'aman', 'damai', 'kesentosaan', 'ketenangan', 'tenang', 'aman damai', 'kesejahteraan', 'ketenteraman', 'sejahtera', 'sentosa', 'tenteram', 'أمان', 'أمان داماي', 'تنترم', 'تنڠ', 'داماي', 'سجهترا', 'سنتوسا', 'کأمانن', 'کتنترمن', 'کتنڠن', 'کداماين', 'کسجهتراءن', 'کسنتوساءن', 'keadaan damai', 'keredaan', 'keselamatan', 'kesetimbangan', 'makmur', 'perdamaian'];tempoh bilamana tiadanya perselisihan yang ganas dan keamanan daripada pertempuran besar
+practice;['gangguan seksual', 'serangan seksual'];sex mom
+qualitative-role;['pemboleh ubah', 'variabel', 'pembolehubah', 'ۏاريابل', 'angkubah', 'pemboleh ubah bergerak balas', 'pemboleh ubah dimalarkan', 'pemboleh ubah dimanipulasikan'];nilai yang tidak tetap dan boleh berubah-ubah
+quality;['emas', 'kuning jingga', 'ambar', 'warna ambar', 'warna kuning jingga', 'warna emas'];warna
+quality;['merah cerah', 'merah padam', 'merah tua', 'kardinal', 'kardinal merah'];warna
+quality;['perang', 'coklat', 'warna perang', 'perang gelap', 'perang tua', 'warna coklat', 'brownness', 'coklat gelap'];warna
+quality;['egocentrism', 'egoisme', 'diri centeredness', 'diri kebimbangan', 'egosentrik'];Laman nyahkekaburan
+quality;['ketidakpastian', 'ketidaktentuan', 'کتيدقتنتوان', 'کتيدقڤستين', 'uncertainness'];keadaan yang melibatkan maklumat yang tidak memadai atau tidak diketahui
+quality;['kegelapan', 'gelap', 'kekelaman', 'kelam'];Keadaan ketiadaan cahaya
+quality;['obesiti', 'kegemukan', 'obes', 'keobesan', 'gemuk gedempol', 'ketegapan', 'fleshiness', 'kegendutan', 'mengawal berat badan', 'obesiti mengerikan', 'tdk waras gemuk'];masalah lemak badan berlebihan sehingga menjejaskan kesihatan diri
+quality;['bilik'];Kawasan dalam ruang sedia ada
+quality;['kuasa', 'kekuasaan', 'kekuatan', 'kemanjuran', 'kemujaraban', 'pengaruh', 'potensi', 'berkuasa', 'kuasa awam', 'kuasa politik', 'kuasa sosial', 'powerfulness'];daya mempengaruhi sikap orang lain
+quality;['sejuk', 'dingin', 'suhu rendah', 'kedinginan', 'kesejukan'];Keadaan bersuhu rendah
+quality;['kesenyapan', 'senyap', 'kesepian', 'kesunyian', 'sepi', 'bening', 'hening', 'jernih', 'kebeningan', 'keheningan', 'kejernihan', 'kelengangan', 'lengang', 'sunyi', 'sunyi senyap', 'بنيڠ', 'جرنيه', 'سوڽي', 'سوڽي سڽڤ', 'سڤي', 'سڽڤ', 'لڠڠ', 'هنيڠ', 'کبنيڠن', 'کجرنيهن', 'کسوڽين', 'کسڤين', 'کسڽڤن', 'کلڠڠن', 'کهنيڠن', 'berdiam-diam', 'senyap sunyi'];Ketiadaan atau kekurangan bunyi
+quality;['polisemi', 'aneka makna', 'hal berarti', 'ketaksaan leksikal', 'polyseme', 'polysemic', 'polysemous'];Kapasiti untuk sesuatu tanda itu mempunyai maksud berkaitan yang pelbagai
+quality;['ketertelapan', 'kebolehtelapan', 'کبوليهتلڤن', 'کترتلڤن', 'resapan', 'permeableness'];sifat bahan berliang membenarkan bendalir mengalir melaluinya
+quality;['kekejaman', 'kebengisan', 'kezaliman', 'keganasan', 'kekasaran', 'cruelness', 'kejam'];Sifat perbuatan atau orang
+quality;['keartifisialan', 'buatan manusia', 'luar tabii', 'tiruan'];Keadaan menjadi produk pembuatan manusia yang disengajakan, bukannya secara semula jadi
+quality;['merah', 'kemerahan'];warna
+quality;['kebolehpercayaan', 'reabiliti', 'reliabiliti', 'keteguhan', 'dependableness', 'reliableness'];Konsistensi dari siri pengukuran
+quality;['ketinggian', 'tinggi', 'ukur tinggi'];Jarak di antara titik terendah dan tertinggi bagi suatu objek
+region;['pemalar graviti', 'g besar', 'pemalar graviti semesta', 'pemalar kegravitian', 'pemalar newton', 'berterusan newton', 'graviti malar', 'newton berterusan', 'universal graviti malar'];Pemalar yang digunakan dalam pengiraan daya graviti antara dua jasad
+region;['saat', 'detik', 's', 'kedua', 'ketika'];Unit SI bagi masa/waktu
+region;['1728', 'besar kasar', 'hebat kasar', 'kasar besar'];Nombor asli
+region;['obolos', 'obolus', 'obol'];mata wang Yunani Purba
+region;['0', 'kosong', 'sifar', 'nol', 'angka 0', 'angka kosong', 'angka sifar', 'nihil', 'nombor 0', 'nombor kosong', 'nombor sifar', 'صفر', 'نول', 'نيهيل', 'کوسوڠ', 'fungsi sifar', 'sia-sia'];nombor bulat
+region;['mata wang', 'matawang', 'unit mata wang', 'syiling', 'wang', 'cara-cara pertukaran', 'mata wang asing'];Barang pertukaran yang sah digunakan sebagai pembayaran bagi suatu barangan atau perkhidmatan
+region;['nombor perdana'];Nombor di mana satu-satunya faktor adalah satu dan itu sendiri
+region;['100', 'abad', 'ratus', 'seratus', '1 c'];Nombor asli
+region;['kwanza angola', 'aoa', 'kz', 'kwanza'];mata wang Angola
+region;['riel', 'riel kemboja'];mata wang Kemboja
+region;['rial iran', 'iran rial'];mata wang rasmi Iran
+region;['ringgit', 'ringgit malaysia', 'myr', 'rm', 'malaysian ringgit'];Mata wang Malaysia
+region;['100000', 'keti', 'ratus ribu', 'seratus ribu', 'koti', 'satu keti', 'satu koti', 'satu ratus ribu', 'seketi', 'sekoti', 'راتوس ريبو', 'ساتو راتوس ريبو', 'ساتو کتي', 'ساتو کوتي', 'سراتوس ريبو', 'سکتي', 'سکوتي', '١٠٠٠٠٠', 'کتي', 'کوتي', 'lakh'];Nombor asli
+region;['ribu', '1000', '1100', '1200', 'engkau', 'seribu tahun'];Nombor asli
+region;['ribu', '1000', '1100', '1200', 'engkau', 'seribu tahun'];Nombor asli
+region;['ribu', '1000', '1100', '1200', 'engkau', 'seribu tahun'];Nombor asli
+region;['500', 'lima ratus'];Nombor asli
+region;['50', 'lima puluh'];Nombor asli
+region;['40', 'empat puluh', 'xl'];Nombor asli
+region;['sepuluh ribu', '10000', 'puluh ribu', 'laksa', 'satu laksa', 'satu puluh ribu', 'selaksa', 'ساتو لقسا', 'ساتو ڤولوه ريبو', 'سلقسا', 'سڤولوه ريبو', 'لقسا', '١٠٠٠٠', 'ڤولوه ريبو', 'pelbagai'];Nombor asli
+region;['70', 'tujuh puluh', 'pitu puluh', 'lxx'];Nombor asli
+region;['60', 'enam puluh'];Nombor asli
+region;['30', 'tiga puluh', 'telu puluh'];Nombor asli
+region;['120', 'besar 100', 'lama 100'];Nombor asli
+region;['9', '0', 'sembilan', 'diner', 'ennead', 'ix', 'nina dari carolina'];Nombor asli
+region;['19', 'sembilan belas', 'satu puluh sembilan', 'sepuluh sembilan', 'xix'];Nombor asli
+region;['12', 'dua belas', 'satu puluh dua', 'sepuluh dua', 'sedozen', 'xii'];Nombor asli
+region;['16', 'enam belas', 'satu puluh enam', 'sepuluh enam', 'xvi'];Nombor asli
+region;['6', 'setengah dozen', 'enam', 'hexad', 'kapten hicks', 'musik untuk enam orang', 'sextuplet', 'sise', 'sixer'];Nombor asli
+region;['15', 'lima belas', 'satu puluh lima', 'sepuluh lima', 'xv'];Nombor asli
+region;['sepuluh', '10', 'ekadasa', 'satu puluh', 'dasawarsa', 'dekade'];Nombor asli
+region;['20', 'dua puluh'];Nombor asli
+region;['3', 'tiga', 'telu', 'تلو', 'تيݢ', 'trio', 'dius-ace', 'iii', 'pertigaan', 'tercet', 'ternion', 'terzetto', 'tiga kali ganda'];Nombor asli
+region;['2', 'dua', 'دوا', 'bersedia', 'ii'];Nombor asli
+region;['8', 'lapan', 'delapan', 'eighter', 'eighter dari decatur', 'octad', 'octonary', 'ogdoad', 'viii'];Nombor asli
+region;['7', 'tujuh', 'heptad', 'periode tujuh tahun', 'sevener', 'vii'];Nombor asli
+region;['17', 'tujuh belas', 'pitu belas', 'satu puluh pitu', 'satu puluh tujuh', 'sepuluh pitu', 'sepuluh tujuh', 'xvii'];Nombor asli
+region;['11', 'sebelas', 'satu belas', 'satu puluh satu', 'sepuluh satu'];Nombor asli
+region;['14', 'empat belas', 'satu puluh empat', 'sepuluh empat', 'xiv'];Nombor asli
+region;['4', 'empat', 'angka empat', 'little joe', 'quatern', 'quaternions', 'quaternity', 'tetractys', 'tetrad'];Nombor asli
+region;['21', 'dua puluh satu', 'satu likur', 'selikur', 'xxi'];Nombor asli
+region;['29', 'dua puluh sembilan', 'sembilan likur', 'xxix'];Nombor asli
+region;['26', 'dua puluh enam', 'enam likur', 'xxvi'];Nombor asli
+region;['25', 'dua puluh lima', 'lima likur', 'xxv'];Nombor asli
+region;['22', 'dua likur', 'dua puluh dua', 'xxii'];Nombor asli
+region;['28', 'dua puluh lapan', 'lapan likur', 'xxviii'];Nombor asli
+region;['27', 'dua puluh pitu', 'dua puluh tujuh', 'pitu likur', 'tujuh likur', 'xxvii'];Nombor asli
+region;['24', 'dua puluh empat', 'empat likur', 'bahagianya', 'dua dozen'];Nombor asli
+region;['23', 'dua-puluh tiga', 'dua puluh telu', 'dua puluh tiga', 'telu likur', 'tiga likur', 'xxiii'];Nombor asli
+region;['esok', 'besok'];hari selepas hari ini
+region;['juta', '1000000', 'satu juta', '1,000,000', 'جوتا', 'ساتو جوتا', 'سجوتا', 'sejuta', 'meg', 'satu ribu'];bilangan
+relation;['utara', 'u', 'ke utara'];satu daripada empat arah kardinal
+relevant-part;['gelambir', 'gedabir', 'gelember', 'gelemberan', 'gubir', 'jumbil', 'kelambir', 'dewlap'];Kulit lolos yang tergantung bawah tenguk bagi sesetengah binatang
+relevant-part;['bulu', 'rambut binatang', 'rambut haiwan', 'bulu pelapik', 'kulit', 'bulu pengawal', 'rambut down'];bulu yang meliputi mamalia
+relevant-part;['hulu'];Pemegang pedang
+relevant-part;['pemegang', 'batang', 'gagang', 'hendal', 'hulu', 'kendali', 'tangkai', 'mengendalikan', 'pegangan', 'telinga'];Bahagian peralatan yang dipegang
+set;['ruang topologi', 'ruang', 'jarak', 'ruang matematik', 'struktur topologi'];Tanggapan matematik, set dengan struktur tambahan
+simple-collection;['buruj', 'rasi', 'بروج', 'راسي'];Apabila gugusan bintang tertentu disambungkan dengan garisan, maka corak tertentu akan terbentuk
+simple-collection;['trimurti'];Konsep tritunggal dalam Hinduisme
+simple-collection;['alam semesta', 'kosmos', 'angkasa', 'angkasa lepas', 'ruang angkasa', 'alam semesta tempatan', 'semesta', 'dunia', 'makrokosmos', 'alam', 'buana', 'ciptaan', 'kewujudan', 'langit', 'penciptaan', 'dunia fizikal'];Keseluruhan ruang dan semua kandungan
+simple-collective;['pekan', 'rakyat', 'orang-orang', 'penduduk', 'orang', 'kalangan', 'khalayak ramai', 'manusia', 'umat'];laman nyahkekaburan
+simple-collective;['kepeminatan', 'peminat tegar', 'fandom', 'kepenggemaran', 'ڤمينت تݢر', 'peminat anime dan manga', 'fanbase', 'media fandom', 'peminat'];Budaya peminat
+simple-planned-collective;['komun', 'kumpulan', 'masyarakat', 'hidup berkomuniti', 'komune'];komuniti orang yang tinggal bersama, berkongsi kepentingan sama
+simple-planned-collective;['petempatan manusia', 'komuniti', 'komuniti manusia', 'penempatan', 'petempatan', 'tempat berpenduduk', 'tempat diduduki', 'kampung', 'desa', 'pekan kecil', 'penempatan manusia', 'penyelesaian manusia', 'tempat penduduk'];Komuniti pelbagaia saiz, di mana orang menetap
+simple-planned-collective;['parliament', 'par', 'stesen keretapi parliament', 'stesen parliament'];Stesen keretapi di pusat bandar Melbourne, Victoria, Australia
+simple-planned-collective;['senat', 'senator', 'dewan negara'];jenis badan perundangan
+simple-planned-collective;['badan perundangan', 'perundangan', 'legislatif', 'badan legislatif', 'pastoran', 'cawangan undangan', 'classis', 'dewan undangan', 'kuasa perundangan', 'menteri presbyterian', 'pembuat undang-undang', 'tatanegara presbiterian'];Sejenis perhimpunan perundingan yang mempunyai kuasa untuk meluluskan, meminda dan memansuhkan undang-undang atau hukum
+situation;['pangkalan data dalam talian', 'pangkalan data bibliografi', 'pangkalan data elektronik', 'on-line database', 'pangkalan data komputer', 'perkhidmatan maklumat elektronik'];Pangkalan data yang boleh dicapai dalam suatu rangkaian, termasuklah internet
+situation;['gejala', 'simptom', 'gejala penyakit', 'gejala nonspecific', 'pertanda', 'tanda', 'gejala tidak spesifik', 'gejala yang tidak spesifik'];Penyimpangan daripada fungsi atau perasaan biasa yang disedari oleh penyakit, mencerminkan kehadiran keadaan yang luar biasa, atau penyakit. subjektif, diperhati oleh pesakit, tidak dapat diukur terus
+situation;['psoriasis', 'psoriasis plak'];penyakit kulit
+situation;['rumus', 'ungkapan matematik', 'formula', 'ungkapan', 'formula matematik'];rumus yang mewakili objek matematik
+situation;['tendang letak', 'sepakan tempat', 'tempat-menendang'];Laman nyahkekaburan
+situation;['bibliografi', 'bibliografía', 'senarai rujukan'];Senarai buku atau dokumen berkaitan dengan sesuatu perkara atau penulis
+situation;['hematoma', 'pembekuan darah besar'];pengumpulan darah tempatan di luar saluran darah
+situation;['keguguran', 'mati', 'pengguguran spontan', 'gugur', 'lahir mati', 'kehilangan kehamilan', 'kelahiran', 'kelahiran masih', 'masih kelahiran'];pengakhiran kehamilan secara semula jadi
+situation;['sedar', 'terjaga', 'wakefulness'];Keadaan sedar daripada tidur
+situation;['protokol pemindahan hiperteks', 'http', 'http/1.1', 'hypertext transfer protocol', 'permintaan http', 'protokol pemindahan hypertext'];ada pergi dilawan kerjakah lima batang
+situation;['aneurisme', 'aneurisma', 'aneurism', 'gondok nadi'];bonjolan di dinding saluran darah
+situation;['malnutrisi', 'kebuluran dunia', 'kekurangan gizi', 'kekurangan pemakanan', 'pemakanan miskin', 'penyakit kekurangan'];masalah kesihatan akibat pengambilan zat yang terlalu sedikit atau pada nisbah yang salah
+situation;['bersin', 'برسين'];Pengeluaran angin dari peparu dengan tiba-tiba melalui hidung dan mulut
+situation;['asbut', 'smog', 'kabut', 'kabut fotokimia', 'smogginess'];Pencemaran udara teruk
+situation;['taun', 'kolera', 'penyakit taun', 'asiatic taun', 'india taun', 'wabak taun'];Penyakit yang dibawa oleh virus Vibrio cholerae
+situation;['kecelaruan panik', 'gangguan panik'];Penyakit psikiatri yang bercabang daripada kecelaruan keresahan
+situation;['cubaan', 'cubaan jenayah', 'cubaan salah laku', 'percubaan', 'percubaan jenayah', 'percubaan salah laku', 'serang', 'serangan'];Membawa maksud apabila seorang penjenayah mempunyai niat melakukan jenayah lalu telah menjalankan usahanya dalam penjayaan jenayah tersebut
+situation;['leptospirosis', 'penyakit kencing tikus', 'kencing tikus', 'paya demam'];Penyakit manusia
+situation;['demam denggi', 'denggi', 'demam denggi berdarah', 'penyakit demam denggi', 'demam bagus', 'demam breakbone', 'denggi berdarah demam'];penyakit tropika bawaan virus yang disebar melalui nyamuk
+situation;['selulitis'];Penyakit kulit
+situation;['talasemia', 'penyakit thalassaemia', 'talasemia major', 'talasemia minor', 'thalassaemia', 'thalassemia', 'thalassemia major', 'thalassemia minor', 'mediterranean anemia'];penyakit darah manusia diwarisi
+situation;['lecur', 'luka bakar', 'lepuh', 'lecuran', 'terbakar darjah ketiga', 'kebakaran', 'darjah ketiga membakar', 'ijazah kedua membakar', 'melecur darjah ketiga', 'membakar', 'membakar ijazah kedua'];Kecederaan pada kulit akibat haba yang melampau
+situation;['lecur', 'luka bakar', 'lepuh', 'lecuran', 'terbakar darjah ketiga', 'kebakaran', 'darjah ketiga membakar', 'ijazah kedua membakar', 'melecur darjah ketiga', 'membakar', 'membakar ijazah kedua'];Kecederaan pada kulit akibat haba yang melampau
+situation;['lecur', 'luka bakar', 'lepuh', 'lecuran', 'terbakar darjah ketiga', 'kebakaran', 'darjah ketiga membakar', 'ijazah kedua membakar', 'melecur darjah ketiga', 'membakar', 'membakar ijazah kedua'];Kecederaan pada kulit akibat haba yang melampau
+situation;['perlembagaan', 'undang-undang organik', 'konstitusi', 'kerajaan berperlembagaan', 'perlembagaan bertulis', 'perlembagaan yang termaktub', 'undang-undang asas', 'undang-undang tertinggi'];undang-undang tertinggi yang menjelaskan sifat-sifat sesebuah organisasi atau negara
+situation;['penipuan pilihan raya', 'manipulasi pilihan raya', 'pengaturan undi', 'penipuan mengundi', 'penipuan pengundian', 'rasuah pilihan raya', 'penipuan undi', 'undi pemadat', 'penipuan dalam pilihan raya', 'penipuan pengundi', 'penipuan pilihanraya', 'penipuan undi meluas', 'ugutan pengundi'];campur tangan secara tidak sah dengan proses pemilihan, baik dengan meningkatkan bahagian undi calon yang disukai, menekan bahagian undi calon lawan, atau kedua-duanya sekali
+situation;['loteri', 'nombor ekor', 'cabutan bertuah', 'undian', 'tiket loteri'];perjudian melibatkan pembelian nombor dengan penentuan hadiah secara rawak
+situation;['pencemaran udara', 'kesan pencemaran udara', 'pencemar udara', 'kualiti udara', 'pencemaran atmosfera', 'udara bersih'];penyebaran bahan kimia, zarahan atau bahan biologi berbahaya di atmosfera
+situation;['lecur', 'luka bakar', 'lepuh', 'lecuran', 'terbakar darjah ketiga', 'kebakaran', 'darjah ketiga membakar', 'ijazah kedua membakar', 'melecur darjah ketiga', 'membakar', 'membakar ijazah kedua'];Kecederaan pada kulit akibat haba yang melampau
+situation;['hipotermia', 'hypothermic'];Apabila suhu teras badan manusia di bawah 35.0°C
+situation;['khatan', 'berkhatan', 'pengkhatanan', 'penyunatan', 'bersuci', 'bersunat', 'bersunat rasul', 'masuk jawi', 'perkhatanan', 'sunat rasul', 'lelaki berkhatan', 'menyunat'];Pemotongan kulup
+situation;['pengguguran', 'aborsi', 'pengguguran anak', 'keguguran', 'penggugur kandungan'];penghentian kehamilan secara sengaja
+situation;['pembatalan'];Laman nyahkekaburan
+situation;['ciplak', 'lanun', 'plagiat', 'penjiplakan', 'plagiarisme', 'bajak', 'bajak laut', 'penyamun laut', 'perompak laut', 'باجق', 'باجق لاءوت', 'لانون', 'ڤرومڤق لاءوت', 'ڤڽامون لاءوت', 'cetak rompak', 'memplagiat', 'plagiarisation', 'plagiarise', 'plagiarization', 'plagiarizing'];orang yang melakukan kegiataan pelanunan
+situation;['keperawanan', 'dara', 'anak dara', 'anak teruna', 'bikir', 'teruna', 'perawan'];orang yang tidak pernah bersetubuh
+situation;['medal of honor', 'pingat kehormatan', 'pingat kongres of honor'];hiasan ketenteraan tertinggi yang dianugerahkan oleh A.S.
+situation;['pengangguran', 'penganggur', 'tunakarya', 'kadar pengangguran', 'mewujudkan peluang pekerjaan', 'program pelepasan kerja'];keadaan tanpa pekerjaan
+situation;['peringanan', 'penukartertiban'];Peringanan suatu hukuman
+social-relationship;['penindasan', 'sekatan', 'kemurungan', 'kesedihan', 'penganiayaan', 'ditindas', 'menindas'];Kawalan terhadap suatu kumpulan manusia
+social-role;['doubloon', 'doubloons'];duit syiling
+social-role;['bezant', 'bezants', 'bezzant', 'byzant', 'solidi', 'solidus'];Syiling emas
+social-role;['mata wang', 'matawang', 'unit mata wang', 'syiling', 'wang', 'cara-cara pertukaran', 'mata wang asing'];Barang pertukaran yang sah digunakan sebagai pembayaran bagi suatu barangan atau perkhidmatan
+social-role;['ekuiti', 'ekuiti pemegang saham', 'kepentingan ekuiti', 'modal ekuiti', 'modal risiko', 'pelaburan ekuiti', 'pemilikan ekuiti'];perbezaan nilai aset dimiliki dengan liabiliti yang ditanggung
+socially-constructed-person;['edward i dari england', 'edward i', 'edward'];Raja England
+socially-constructed-person;['edward vi dari england', 'edward', 'edward vi'];Raja Tudor king
+socially-constructed-person;['ludwig van beethoven', 'beethoven', 'ludvig van beethoven', 'ludwig von beethoven', 'van beethoven'];Penggubah muzik dari Jerman
+socially-constructed-person;['muhammad', 'nabi muhammad saw', 'nabi muhammad', 'rasulullah s.a.w.', 'muhammad saw', 'nabi muhammad s.a.w', 'rasulallah', 'rasulullah', 'rasulullah saw', 'mahomet', 'mahound', 'mohammad', 'mohammed', 'kata nama khas'];Pemimpin politik Arab dan pengasas Islam
+socially-constructed-person;['daphne', 'dafné'];tokoh mitologi Yunani
+socially-constructed-person;['pontianak', 'banshee', 'banshie'];Langsuir
+socially-constructed-person;['penjaga masa'];Laman nyahkekaburan
+socially-constructed-person;['bertrand russell', 'bertrand arthur william russell', 'earl russell', 'russell'];Philosopher, logician, and mathematician
+socially-constructed-person;['george washington', 'president washington', 'washington', 'presiden washington'];Presiden Amerika Syarikat yang pertama
+socially-constructed-person;['succubus', 'succuba', 'succubi'];Rencana senarai Wikimedia
+socially-constructed-person;['kanak-kanak', 'anak', 'anak-anak', 'انق', 'انق٢', 'کانق٢', 'budak kecil'];orang yang belum dewasa
+socially-constructed-person;['orang cajun', 'cajun', 'cajuns'];kelompok etnik berasal dari Louisiana, Amerika Syarikat
+socially-constructed-person;['posmen', 'tukang pos', 'besteler', 'opas pos', 'penghantar pos', 'penghantar surat', 'pembawa mel', 'pembawa surat', 'pengangkut'];Pekerja pejabat pos yang menghantar surat kepada pemiliknya.
+socially-constructed-person;['cuckold'];Rencana senarai Wikimedia
+socially-constructed-person;['pegawai polis', 'polis', 'mata-mata', 'pegawai'];anggota polis
+socially-constructed-person;['kassites', 'bangsa kass'];Rencana senarai Wikimedia
+socially-constructed-person;['orang asia', 'asia', 'asiatic'];Laman nyahkekaburan
+socially-constructed-person;['atlet', 'olahragawan', 'ahli sukan', 'olahragawati', 'atlit', 'اتليت', 'اهلي سوکن', 'اولهراݢاواتي', 'اولهراݢاون', 'ahli sukan bersara yang', 'sukan'];orang yang melibatkan diri dalam dalam bidang sukan
+socially-constructed-person;['pemain', 'peserta'];Orang yang bermain dalam permainan
+socially-constructed-person;['artis', 'seniman', 'seniwati', 'seniwan', 'mahir', 'orang kreatif'];Orang yang menghasilkan, mempraktik dan/atau menyampaikan sebarang seni
+socially-constructed-person;['pembalak', 'penebang pokok', 'ڤمبالق', 'ڤنبڠ ڤوکوق', 'penelah', 'belandong', 'logger', 'lumberjacks'];Orang yang kerjanya menebang dan memotong pokok
+socially-constructed-person;['pendeta', 'druid', 'druidism', 'druidry'];Pendeta dalam agama Celtic
+socially-constructed-person;['penggodam'];Orang yang memecah masuk suatu sistem komputer melalui kelemahan yang sedia ada
+socially-constructed-person;['ahli biologi', 'biologi', 'saintis kehidupan'];saintis yang mengkaji organisma hidup
+socially-constructed-person;['anak saudara lelaki', 'cucu saudara', 'kemanakan lelaki', 'keponakan lelaki', 'penakan lelaki', 'cucu lelaki', 'hebat anak saudara'];anak lelaki adik-beradik
+socially-constructed-person;['ahli falsafah', 'ahli fikir', 'filsuf', 'falsafah'];Seseorang dengan pengetahuan yang luas dalam falsafah
+socially-constructed-person;['pelakon', 'aktor', 'aktris', 'pelakon wanita', 'pemeran', 'pelakon filem', 'pemain', 'pelakon amerika', 'pelakon pentas', 'seniman', 'histrion', 'pelakon teater', 'pelakon televisyen', 'pemain tragedi'];Orang yang berlakon dalam suatu persembahan atau karya lain
+socially-constructed-person;['model', 'peragawan', 'peragawati', 'model fesyen', 'model lelaki', 'peraga', 'model wanita', 'model baju renang', 'model fotografi', 'model glamor', 'model kecergasan', 'model komersial'];Seseorang yang bekerja untuk mempamerkan, mengiklankan dan mempromosikan produk, atau berkhidmat sebagai bantuan visual
+socially-constructed-person;['penyair', 'pemuisi', 'pensyair', 'penyajak', 'pujangga', 'penyair wanita'];Penulis puisi
+socially-constructed-person;['gadis', 'anak dara', 'انق دارا', 'ݢاديس', 'cewek', 'nona', 'perawan', 'fille', 'missy', 'perempuan', 'wanita muda'];Perempuan muda
+socially-constructed-person;['robert e. lee', 'robert edward lee', 'lee'];Jeneral Amerika
+socially-constructed-person;['akauntan raya bertauliah', 'a.r.b.', 'arb', 'akauntan awam bertauliah', 'akauntan awam diperakui', 'cpa'];Gelaran akauntan yang bertauliah
+socially-constructed-person;['wanita', 'perempuan', 'wanita dewasa'];manusia dewasa perempuan
+socially-constructed-person;['penggubah lagu', 'komposer', 'penggubah', 'komposer muzik', 'komponis'];Orang yang mencipta muzik, sama ada dengan notasi muzik atau tradisi lisan
+socially-constructed-person;['julius caesar', 'gaius julius caesar', 'caesar'];Ahli politik dan jeneral Rom
+socially-constructed-person;['gamal abdel nasser', 'gamal abdul nasser', 'nasser'];Presiden daripada Mesir dan Persekutuan Republik Arab
+socially-constructed-person;['gregor mendel', 'johann mendel', 'mendel'];Biarawan dan ahli sains
+socially-constructed-person;['johannes kepler', 'johan kepler', 'kepler', 'kepler mission', 'misi kepler', 'keplerian'];German mathematician, astronomer, astrologer
+socially-constructed-person;['gentilitas', 'paganismo', 'goy', 'kafir', 'bangsa-bangsa lain', 'bukan-yahudi', 'bukan yahudi', 'gentile', 'goyim'];Laman nyahkekaburan
+socially-constructed-person;['james ii dari england', 'james', 'james ii'];Raja England, Ireland and Scotland
+socially-constructed-person;['robert the bruce', 'robert i', 'bruce'];Raja Scotland
+socially-constructed-person;['khunsa', 'interseks', 'keinterseksan', 'hermafrodit', 'banci', 'interkeseksualan', 'kedi', 'papak', 'androgyne', 'epicene', 'gynandromorph', 'intersex', 'hermaphroditic', 'intersexed', 'intersexual', 'intersexuality', 'kemaluan samar-samar', 'orang epicene'];organisma dengan organ pembiakan kedua-dua jantina
+socially-constructed-person;['kami', 'dewa jepun', 'dewi jepun'];Dewa dewi dalam kepercayaan Syinto
+socially-constructed-person;['elizabeth i dari england', 'elizabeth i', 'elizabeth'];Ratu England. Ratu Ireland
+socially-constructed-person;['pahlawan', 'pejuang', 'kesatria', 'kesateria', 'pendekar', 'perajurit', 'sateria', 'wira', 'dubalang', 'hulubalang', 'perwira', 'دولوبالڠ', 'ستريا', 'هولوبالڠ', 'ويرا', 'ڤراجوريت', 'ڤرويرا', 'ڤنديکر', 'ڤهلاون', 'کساتريا', 'askar', 'panglima', 'serikandi', 'pahlawan kod'];pakar perlawanan dan pertarungan
+socially-constructed-person;['tukang masak', 'pemasak', 'masak', 'masak-perintah pendek', 'masak ringkas-perintah'];Pekerjaan berkaitan pemasakan makanan
+socially-constructed-person;['arkitek', 'pereka bentuk', 'jurubina', 'pereka'];orang yang mereka bentuk
+socially-constructed-person;['wright'];Nama keluarga
+socially-constructed-person;['pemain dram', 'pendram', 'drummer', 'pemain gendang'];Pemuzik yang menggunakan dram untuk menghasilkan rentak sebagai muzik atau sokongan muzik
+socially-constructed-person;['penulis novel', 'novelis', 'pengarang novel', 'novel'];Pengarang atau penulis novel
+socially-constructed-person;['menteri dalam negeri united kingdom', 'setiausaha negara bagi jabatan home', 'british home setiausaha', 'home setiausaha'];Rencana senarai Wikimedia
+socially-constructed-person;['bapa saudara', 'pak cik', 'ayah saudara', 'ayahanda', 'pak cu', 'pak long', 'pak su', 'paman', 'wak', 'bapa saudara besar'];Saudara lelaki ibu atau bapa
+socially-constructed-person;['shakti', 'sakti'];Laman nyahkekaburan
+socially-constructed-person;['perdana menteri united kingdom', 'perdana menteri britain', 'perdana menteri british', 'perdana menteri'];ketua kerajaan United Kingdom
+socially-constructed-person;['perdana menteri', 'premier', 'canselor', 'duta', 'kaunselor', 'premiers'];ketua kabinet dalam cabang eksekutif kerajaan berparlimen
+socially-constructed-person;['doyen', 'dekan', 'pengetua'];Nama keluarga
+socially-constructed-person;['permaisuri balu', 'ratu balu', 'ratu janda bangsawan', 'ratu dowager'];Laman nyahkekaburan
+socially-constructed-person;['penulis', 'pengarang', 'pengkarya', 'karyawan', 'mualif', 'pencipta'];pengarang suatu karya
+socially-constructed-person;['penulis', 'pengarang', 'pengkarya', 'karyawan', 'mualif', 'pencipta'];pencipta karya tulisan untuk menyampaikan gagasan dan membikin karya sastera
+space-region;['kubus', 'kiub', 'dadu', 'tetap pigur berenam segi'];objek berpejal tiga
+space-region;['bilik'];Kawasan dalam ruang sedia ada
+spatial-feature;['kawah qamari', 'kawah-kawah di bulan', 'lunar kawah'];Keterangan am tentang kawah-kawah Bulan
+spatial-feature;['krakatau', 'krakatoa', 'gunung krakatoa', 'gunung krakatau', 'krakatao'];Gunung di Indonesia
+state;['skizofrenia', 'schizophrenia', 'praecox demensia', 'gangguan menderita skizofrenia', 'gejala negatif', 'gejala positif', 'pesakit skizofrenia', 'psikosis menderita skizofrenia'];Penyakit jiwa
+state;['halusinasi', 'hallucinating', 'hallucinatory', 'halusinasi visual', 'khayalan', 'menderita khayalan'];Pencerapan sesuatu yang tidak wujud yang kelihatan nyata
+state;['kelembapan', 'lembapan', 'kelembaban', 'kelengasan', 'لمبڤن', 'کلمببن', 'کلمبڤن', 'کلڠسن', 'basah', 'becek'];keberadaan cecair
+status;['eksogami', 'exogamous'];aturan sosial di mana perkahwinan hanya dibenarkan di luar suatu kelompok sosial
+subject;['taksonomi', 'kaji urutan', 'pengelasan taksonomi', 'taksonomi alfa', 'taxonomical', 'taxonomists berbeza'];cabang biologi berkenaan dengan pengelasan dan penamaan spesies
+subject;['sains', 'ilmu', 'ilmu sains', 'disiplin saintifik', 'sains arus perdana', 'sains empirikal', 'sains umum', 'saintifik'];Kajian dan pengetahuan
+subject;['matematik', 'ilmu hisab'];Kajian niskala mengenai nombor, kuantiti, struktur, hubung kait dan lain-lain
+subject;['mikologi', 'kaji kulat'];cabang biologi
+subject;['plat tektonik', 'tektonik', 'tektonik plat', 'lempeng tektonik', 'tektonik lempeng', 'tektonika lempeng', 'tektonika plat', 'sempadan plat', 'geotectonic', 'plat teori tektonik', 'tectonism'];kajian mengenai ciri struktur dan perubahan yang berlaku terhadap kerak Bumi
+subject;['psikiatri', 'psikopatologi', 'perubatan psikologi', 'psychopathological', 'rawatan psikiatri'];Dunia Halusinasi
+subject;['mekanik', 'kaji daya', 'kajidaya', 'کاجي داي', 'mekanika'];kaji pergerakan dan kesan tindakan daya pada benda
+subject;['topologi', 'analisis tapak', 'topologist'];subbidang matematik
+subject;['sains sosial', 'ilmu sosial', 'sains kemasyarakatan'];Disiplin akademik yang berkenaan dengan masyarakat dan hubungannya
+subject;['ekonomi', 'ilmu ekonomi', 'sains ekonomi', 'iktisad', 'ilmu ikstidad', 'sains iktisad', 'ekonomi politik', 'keekonomian', 'aktiviti ekonomi'];Sains sosial yang menganalisis pengeluaran, pengedaran dan penggunaan barang dan perkhidmatan
+subject;['falsafah', 'ahli falsafah', 'philosphy'];Kajian masalah umum dan asas. pemikiran tentang hikmah yang tersirat
+subject;['fizik', 'physics', 'ilmu tabii', 'falsafah asli', 'falsafah semula jadi'];Pengajian jirim dan gerakan, bersama-sama dengan konsep berkaitan seperti tenaga dan daya
+subject;['psikologi', 'ilmu jiwa', 'psikologi manusia', 'sains psikologi'];himpunan akademik
+subject;['biologi', 'sains hayat', 'ilmu hayat', 'kaji hayat', 'sains biologi', 'hayati', 'biosains', 'penyelidikan biologi'];cabang sains berkaitan benda-benda hidup
+subject;['fonologi', 'fonemik', 'ilmu fonemik', 'kaji fonem'];cabang linguistik tentang kajian bunyi-bunyi dalam sesuatu bahasa
+subject;['aksiologi', 'axiological'];nilai kajian falsafah
+substance-role;['campuran', 'چمڤورن', 'senyawa'];Gabungan dua atau lebih bahan kimia secara fizikal tetapi tidak secara kimia
+task;['syah', 'sah', 'شاه', 'شه', 'mat', 'sekak', 'cek'];keadaan buah catur
+task;['hinaan', 'penghinaan', 'celaan', 'caci', 'caci maki', 'cacian', 'cela', 'cerca', 'cerca maki', 'cercaan', 'maki', 'makian', 'nista', 'nistaan', 'ماکي', 'ماکين', 'نيستا', 'نيستاءن', 'هيناءن', 'چاچي', 'چاچي ماکي', 'چاچين', 'چرچا', 'چرچا ماکي', 'چرچاءن', 'چلا', 'چلاءن', 'ڤڠهيناءن', 'hina', 'menghina', 'pujian backhanded'];kata-kata atau perbuatan yang tidak sopan
+task;['syahmat', 'شهمت', 'mat', 'sekakmat'];kedudukan raja yang terkepung dalam catur
+task;['penambahan', 'hasil tambah', 'bubuhan', 'jumlah', 'kira-kira campur', 'plus', 'tambah', 'tanda campur', 'penjumlahan'];operasi aritmetik
+task;['pengeksponenan', 'eksponen'];operasi matematik
+taxonomic-collection;['bilangan tatabahasa', 'bilangan', 'angka', 'beberapa', 'jumlah', 'nombor', 'nombor tatabahasa', 'paucal'];kategori tatabahasa menandakan pembezaan pengiraan
+taxonomic-collection;['genus tatabahasa', 'gender', 'genus', 'genus nahu', 'jantina tatabahasa', 'gender gramatikal', 'jantina feminin', 'jantina maskulin', 'jantina neuter', 'jantina semulajadi'];sistem tatabahasa pengelasan kata nama
+taxonomic-collection;['kasus nominatif', 'kes nominatif', 'nominatif', 'kes tertakluk'];Kasus tatabahasa
+taxonomic-collective;['order', 'aturan biologi', 'infraorder', 'suborder', 'susunan', 'superorder', 'perintah', 'arahan', 'aturan', 'tertib', 'parvorder'];pangkat taksonomi
+taxonomic-collective;['hordeum', 'genus hordeum'];genus tumbuhan
+taxonomic-collective;['buaya', 'crocodilia', 'crocodylidae', 'crocodylia', 'crocodilians', 'crocodylian', 'perintah crocodilia', 'perintah crocodylia', 'pura-pura'];Order reptilia besar
+taxonomic-collective;['lepidoptera', 'lepidopteran', 'lepidopterans', 'perintah lepidoptera'];order serangga
+taxonomic-collective;['tikus', 'muridae', 'stenomys', 'keluarga muridae'];Keluaga mamalia
+taxonomic-collective;['charales', 'perintah charales'];kategori Wikimedia
+taxonomic-collective;['muscidae', 'keluarga muscidae'];keluarga lalat
+technique;['kepelautan', 'کڤلاءوتن', 'ilmu pelayaran', 'nautika', 'pelaut'];kemahiran mengendalikan perahu atau kapal
+temporal-region;['1 julai', 'julai 1', '1 juli', 'hari dominion'];Tarikh
+temporal-region;['1 januari', 'januari 1', 'kesungguhan mariam'];Tarikh
+temporal-region;['2 februari', 'februari 2', '2 feb', 'groundhog hari', 'hari groundhog'];Tarikh
+temporal-region;['1 november', 'hari para orang kudus', 'november 1', 'hari all saints', 'allhallows', 'hallowmas', 'hallowmass', 'hari all saint'];Tarikh
+temporal-region;['krismas', '25 disember', 'hari krismas', 'natal', '25 desember', 'disember 25', 'hari natal', 'xmas'];Tarikh
+temporal-region;['19 mac', 'mac 19', '19 maret', 'st joseph'];Tarikh
+temporal-region;['14 april', 'april 14', 'hari pan amerika'];Tarikh
+temporal-region;['24 oktober', 'oktober 24', '24 okt', 'pertubuhan bangsa-bangsa bersatu hari'];Tarikh
+temporal-region;['hari suci wajib', 'hari suci kewajipan', 'hari suci'];rencana senarai Wikimedia
+temporal-region;['hari columbus', '12 oktober', 'oktober 12', '12 okt', 'columbus hari', 'dia de la raza', 'hari discovery'];Tarikh
+temporal-region;['4 julai', 'julai 4', 'keempat julai', '4 jul', 'hari kemerdekaan'];Tarikh
+temporal-region;['dekad', 'dasawarsa', 'dekade', 'decennium', 'masa sepuluh tahun'];tempoh 10 tahun
+temporal-region;['24 mei', 'hari komanwel', 'mei 24', 'hari empayar', 'komanwel hari'];Tarikh
+temporal-region;['17 september', 'september 17', 'hari kewarganegaraan'];Tarikh
+temporal-region;['1 ogos', 'ogos 1', 'hari raya panen'];Tarikh
+temporal-region;['hari bendera', '14 jun', 'jun 14', '14 juni', 'hari bendera argentina'];Tarikh
+temporal-region;['29 jun', 'jun 29', 'saints peter dan paul'];Tarikh
+temporal-region;['ahad', 'ahd', 'hari ahad', 'hari tuhan', 'hari minggu', 'minggu', 'dominicus'];Hari pertama dalam seminggu, selepas hari Sabtu
+temporal-region;['paleozoik', 'paleozoic', 'palaeozoic', 'era paleozoic'];era pertama Eon Phanerozoik
+temporal-region;['29 september', 'september 29', 'hari michaelmas', 'michaelmas'];Tarikh
+temporal-region;['tahun lompat', 'kabisat', 'tahun kabisat', '366 hari', 'melompat tahun', 'tahun interkalari'];tahun kalendar dengan satu hari tambahan
+temporal-region;['solstis musim panas', '21 jun', 'jun 21', 'musim panas', 'midsummer', 'pertengahan musim panas'];Tarikh
+temporal-region;['1 mei', 'hari mei', 'mei 1', 'pertama mei'];Tarikh
+temporal-region;['siang', 'panjang hari'];Bahagian hari apabila matahari telah terbit
+temporal-region;['2 mac', '2 march', 'mac 2', 'hari kemerdekaan texas', 'texas hari kemerdekaan'];Tarikh
+temporal-region;['rentak', 'rentak muzik', 'ritma', 'ritme', 'irama', 'tempo', 'berirama', 'irama muzik', 'luar biasa', 'menewaskan', 'unit berirama'];Kejadian berkala mengikut masa dan pola
+temporal-region;['masa', 'waktu', 'kala', 'ketika', 'pukul', 'tempoh', 'zaman', 'selang masa', 'tempoh masa', 'urutan peristiwa'];Dimensi di mana peristiwa disusun dari masa lalu melalui masa kini hingga ke masa depan
+temporal-region;['khamis', 'kamis', 'kha', 'hari khamis'];Hari kelima dalam seminggu, selepas hari Rabu
+temporal-region;['rabu', 'arba', 'rab', 'hari rabu', 'wednesday', 'wed'];Hari keempat dalam seminggu, selepas hari Selasa
+temporal-region;['29 februari', 'februari 29', 'hari kabisah', 'hari leap', 'hari lompat', 'melompat hari'];Tarikh
+temporal-region;['23 jun', 'jun 23', '23 juni', 'hawa st john', 'malam pertengahan musim panas', 'midsummer hawa', 'st john hawa', 'st john malam'];Tarikh
+temporal-region;['isnin', 'senin', 'isn', 'sena', 'senayan', 'senen', 'hari isnin'];Hari kedua dalam seminggu, selepas hari Ahad
+temporal-region;['sabtu', 'sab', 'hari sabtu', 'sab.', 'sabbatum'];Hari ketujuh dalam seminggu, selepas hari Jumaat
+temporal-region;['jumaat', 'jum', 'hari jumaat', "jum'at", 'jumat'];Hari keenam dalam seminggu, selepas hari Khamis
+temporal-region;['selasa', 'salasa', 'sel', 'hari selalsa', 'hari selasa'];Hari ketiga dalam seminggu, selepas hari Isnin
+temporal-region;['malam', 'malam hari', 'waktu malam'];Bahagian hari apabila matahari telah terbenam
+temporal-region;['zaman prasejarah', 'prasejarah', 'zaman pra sejarah', 'pra-sejarah', 'budaya prasejarah', 'prehistorian', 'tempoh prasejarah'];zaman manusia sebelum penciptaan sistem tulisan
+temporal-region;['santai', 'masa lapang', 'senggang', 'masa santai', 'masa senggang', 'masa terluang', 'waktu lapang', 'waktu santai', 'waktu senggang', 'waktu terluang'];Masa terluang
+temporal-region;['6 januari', 'januari 6', "'hari tiga raja", 'epiphany tuhan kami', 'hari kedua belas'];Tarikh

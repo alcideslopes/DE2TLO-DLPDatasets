@@ -1,0 +1,553 @@
+activity;['mandat'];Od strane birača legitimirana vlast
+activity;['film', 'filmska umjetnost', 'igrani film', 'pokretne slike', 'filmova', 'kazališni film', 'kinopredstava', 'kreće sliku', 'motion-picture', 'motion-picture serija', 'motion picture', 'useljenje kinopredstava', 'veliki ekran', 'veliki filmski'];Kao sustav, umjetnost ili medij
+activity;['šah', 'šahist', 'igra šah'];Igra na ploči za dva igrača
+activity;['golf', 'golf igra', 'golf turnir'];Vrsta udarca u golfu (Hole in one)
+activity;['tenis', 'tenisač', 'tenis na travi'];Vrsta udarca u tenisu
+activity;['blokada', 'blokiranje', 'blokiranost', 'odsijecanje', 'odsječenost', 'okruživanje', 'opkoljavanje', 'opkoljenost', 'blokirana', 'okruženja', 'okruženje'];Postupak u pomorskom ratovanju
+activity;['chinook', 'chinook vjetar', 'chinook vjetrova', 'snijeg jede'];Topao i suh vjetar koji puše niz istočne padine Stjenjaka u Sjevernoj Americi.
+activity;['arija', 'arije'];Samodostatno glazbeno djelo za jedan glas, obično uz pratnju orkestra, a pogotovo u okviru opere.
+activity;['borilačke vještine', 'borilačka vještina', 'borilačke umjetnik', 'borilačke umjetnika', 'borilačkih vještina'];Psihofizička priprema za borbu.
+activity;['kinematografija', 'cine', 'filmsko', 'kinematografije', 'motion-picture fotografije', 'sinematografija', 'snimanje', 'snimao'];U cjelini
+activity;['skok u dalj', 'skok udalj'];Atletska disciplina
+activity;['planiranje'];Jedan od zadataka managera
+activity;['premijera', 'film premijerno', 'premijere', 'premijerno', 'premijerno prikazan'];Prva umjetnička izvedba
+activity;['điện biên phủ', 'dien bien phu', 'đien bien phu'];Gradić u vijetnamu
+activity;['rat', 'ratovanje', 'vojni sukob', 'oružani sukob', 'boj', 'vojna', 'oružanog sukoba', 'ratova', 'ratovanja'];Organizirani sukob naoružanih ljudi
+agentive-figure;['kentaur', 'centaur', 'centauri', 'kentauri', 'kentaura'];Mitološko biće (latinski Centaur)
+agentive-figure;['bazilisk', 'basilisk'];Mitološki lik
+agentive-figure;['narcis'];Lik u grčkoj mitologiji
+agentive-figure;['orfej'];Lik iz grčke mitologije
+agentive-figure;['medeja', 'medea'];Kći Eta iz grčke mitologije
+agentive-figure;['leda'];Kraljica Sparte u grčkoj mitologiji
+agentive-figure;['tantal'];Lik iz grčke mitologije
+agentive-figure;['pegaz'];Krilati konj iz grčke mitologije
+agentive-figure;['lernejska hidra', 'grčka hidra'];Biće iz grčke mitologije
+agentive-figure;['kiklop', 'kiklopi'];Pleme iz grčke mitologije
+agentive-figure;['helena', 'helena trojanska', 'helen of troy'];Lik iz grčke mitologije
+agentive-figure;['elektra', 'electra'];Agamemnonova kći
+agentive-figure;['trolovi', 'trol', 'trolova'];Stvorenja iz nordijske mitologije, divovski i nezgrapni stanovnici divljine.
+agentive-figure;['sherlock holmes', 'holmes'];Fiktivni detektiv
+agentive-figure;['država', 'suverena država', 'zemlji', 'nacija', 'narod', 'puk', 'pučanstvo', 'stanovništvo', 'zemlja', 'deklarativnoj teoriji državnosti', 'države', 'nacije', 'nacionalno', 'političko tijelo', 'političkog društva', 'res publica', 'suverenih država'];Politički subjekt koji je, prema međunarodnom pravu i međunarodnim odnosima, suveren, tj. nije podložan nikakvoj višoj političkoj vlasti.
+agentive-figure;['commonwealth', 'britanska zajednica naroda', 'britanski commonwealth', 'britanskog commonwealtha', 'commonwealth of nations', 'commonwealtha naroda', 'zemljama commonwealtha'];Zajednica država koje su nekoć tvorile Britansko Carstvo.
+agentive-figure;['div', 'divovi'];Mitološko stvorenje koje odlikuje velika snaga i veličina.
+agentive-figure;['izmišljeni lik', 'fiktivni lik', 'lik', 'animirani lik', 'crtani lik', 'izmišljenih likova', 'likova iz crtića', 'sekundarni lik'];Ali zamišlja se da postoji u izmaštanom djelu.
+agentive-figure;['akademija', 'univerzitet', 'akademkinja', 'počasni društvo'];Institucija visokog obrazovanja, istraživanja, ili počasno članstvo
+agentive-figure;['sirena'];Mitološko biće, poluptica i polužena
+agentive-figure;['heraklo', 'herkul', 'herkules', 'bog herkul', 'alcides', 'heracles'];Lik iz rimske mitologije, pandan Heraklu
+agentive-figure;['pandora'];Lik iz grčke mitologije
+agentive-figure;['levijatan', 'levijatana'];U Bibliji, mitološka vodena neman. personifikacija Sotone
+agentive-figure;['islam', 'muhamedanstvo', 'islami', 'islamista', 'islamizam', 'islamske vjere', 'muhammadanism'];Jedna od 4 najveće svjetske monoteističke religije
+agentive-figure;['anglikanska zajednica', 'engleska crkva', 'crkva engleske', 'anglikanska crkva', 'anglikanci', 'anglikanske crkve', 'anglikanske zajednice', 'c e'];Ogranak Protestantske Crkve.
+agentive-figure;['demokratska stranka', 'demokratska stranka sad'];Stranka u SAD-u
+agentive-figure;['republikanska stranka', 'republikanska stranka sad', 'gop'];Stranka u SAD-u
+agentive-physical-object;['jaguar', 'panthera onca', 'felis onca', 'onca'];Vrsta divlje mačke pretežito nastanjene u Južnoj Americi.
+agentive-physical-object;['afrički divlji magarac', 'equus (asinus) africanus', 'equus africanus'];Vrsta od koje potiče domaći magarac, a koja je u divljini ugrožena
+agentive-physical-object;['kukuljica', 'čahura', 'stadij kukuljice', 'eclosion', 'lutka', 'pupa', 'pupae', 'pupal', 'puparium', 'pupation', 'učauriti'];Jedan od razvojnih stadija kukaca | kukci | kukaca.
+agentive-physical-object;['dizelski motor', 'dieselov motor', 'dizel motor', 'tdi', 'diesel motor', 'dizel-motor', 'tdi-motor', 'kompresije paljenja'];Motor s unutarnjim izgaranjem
+agentive-physical-object;['ambrozija', 'pelinolisni limundžik', 'ambrosia artemisiifolia', 'limundžik', 'partizanka', 'zajednički ambrozija'];Naziv za biljku Ambrosia artemisiifolia
+agentive-physical-object;['vrbe', 'vrba', 'salix', 'vrba stablo'];Rod bjelogoričnog drveća i grmlja iz porodice Salicaceae
+agentive-physical-object;['orlovi', 'orao', 'aquilinae', 'ptica jove', 'sokol-orao'];Porodica ptica kojih ima u Euroaziji i Africi.
+agentive-physical-object;['žabe', 'žaba', 'anura', 'anuran', 'bezrepac', 'krastača', 'anurans', 'batrachian', 'frogspawn', 'salientian', 'žaba krastača', 'žaba žaba'];Red iz razreda vodozemaca
+agentive-physical-object;['kupina', 'kupine', 'blackberry bush'];Naziv za nekoliko vrsta biljaka penjačica
+agentive-physical-object;['euroazijska zlatna vuga', 'oriolus oriolus', 'zlatna vuga', 'zlatna zlatka', 'golden zlatka'];Ptica pjevica iz porodice vuga (Oriolidae)
+agentive-physical-object;['češnjak', 'česan', 'allium sativum', 'bijeli luk'];Allium sativum
+agentive-physical-object;['kos', 'turdus merula', 'crni kos', 'europska kos', 'merl', 'merle'];Ptica iz porodice vrapčarki.
+agentive-physical-object;['bljušt', 'fallopia convolvulus', 'kuka', 'tamus communis', 'dioscorea communis', 'obični bljušt', 'convolvulus', 'crna ladolež'];Jestiva samonikla biljka.
+agentive-physical-object;['drijenak', 'crveni drijen', 'cornus mas', 'drenjine', 'drijen', 'dren', 'drijena'];Biljka iz porodice Cornaceae, listopadni grm ili nisko drvo
+agentive-physical-object;['domaći magarac', 'magarac', 'equus africanus asinus', 'equus asinus f. asinus', 'equus asinus', 'magare', 'sivac', 'tovar', 'magarci'];Domaća životinja koja živi na cijelom svijetu, potiče od afričkog magarca
+agentive-physical-object;['velika sunčanica', 'macrolepiota procera', 'sunčanica', 'šugavica', 'lepiota procera', 'suncobran gljiva', 'suncobranom gljiva'];Gljiva Macrolepiota procera
+agentive-physical-object;['ruta', 'smrdljiva rutvica', 'ruta graveolens', 'biljka milosti', 'rue'];Ljekovita biljka i začin
+agentive-physical-object;['rogač', 'ceratonia siliqua', 'rogač grah stablo', 'rogač stablo', 'rogača', 'rogača stabla'];Mediteransko autohtono stablo i plod
+agentive-physical-object;['domaća mačka', 'mačka', 'felis silvestris catus', 'kućna mačka', 'mačak', 'felis catus', 'mačke', 'male mačke', 'domaće mačke', 'housecat', 'istina mačka', 'kuća mačka'];Crne boje.
+agentive-physical-object;['puma', 'planinski lav', 'puma concolor', 'kuguar', 'felis concolor', 'concolor', 'cougar', 'cougars', 'mountain lion'];Divlja mačka
+agentive-physical-object;['gavran', 'gavrani', 'obični gavran', 'corvus corax', 'corvus', 'corax'];Rod ptica latinskog naziva Corvus
+agentive-physical-object;['hrast cer', 'quercus cerris', 'europska puretina hrast'];U botanici. hrast
+agentive-physical-object;['dabar', 'dabrovi', 'castor'];Najveći glodavci sjeverne polutke.
+agentive-physical-object;['vranci', 'phalacrocoracidae', 'kormorani', 'phalacrocorax', 'phalacrocorax carbo', 'veliki kormoran', 'veliki vranac', 'kormoran', 'kormorana', 'shag', 'vranac'];Porodica ptica iz reda Pelikanki
+agentive-physical-object;['nosorog', 'nosorozi', 'rhinocerotidae', 'nosoroga', 'nosoroga rog', 'rhinocerous'];Porodica životinja iz reda neparnoprstaša (Perissodactyla) u kojoj je pet vrsta
+agentive-physical-object;['vuge', 'oriolidae', 'oriolus', 'vuga', 'stari svijet zlatka'];Vrsta ptica pjevica iz reda vrapčarki (Passeriformes)
+agentive-physical-object;['chihuahua', 'čivava'];Pasja pasmina nazvana po meksičkoj državi,
+agentive-physical-object;['bob', 'vicia faba', 'boba', 'bobom', 'europska grah', 'fava', 'fava grah', 'hrvatski grah', 'polje grah', 'široko grah', 'široko grah biljka'];Povrće iz reda mahunarki
+agentive-physical-object;['golub pećinar', 'columba livia', 'divlji golub', 'rock pigeon', 'stijena golub'];Vrsta od koje potječu sve domaće pasmine golubova
+agentive-physical-object;['tisa', 'obična tisa', 'taxus baccata', 'hrvatski tisa', 'stari svijet tisa'];Biljka iz porodice Taxaceae
+agentive-physical-object;['gušteri', 'gušter', 'lacertilia', 'guštera'];Podred životinja iz razred | razred (taksonomija) | razreda gmazova
+agentive-physical-object;['ris', 'risovi', 'lynx'];Rod životinja iz porodice mačaka
+agentive-physical-object;['klen', 'acer campestre', 'javor klen', 'poljski javor', 'ograđivati javor', 'polje javor'];Vrsta drveta
+agentive-physical-object;['sunčanica', 'lepomis gibbosus', 'pumpkinseed'];Riba Lepomis gibbosus
+agentive-physical-object;['mrav', 'mravi', 'formicidae', 'mrava', 'pismire'];Porodica kukaca iz reda Opnokrilci (Hymenoptera).
+agentive-physical-object;['labud', 'labudovi', 'labudi', 'cygnini', 'cygnus'];Rod ptica iz porodice patki
+agentive-physical-object;['ivančica', 'proljetna ivančica', 'leucanthemum vulgare', 'obična ivančica', 'bijela tratinčica', 'chrysanthemum leucanthemum', 'krizantema daisy', 'krizantema leucanthemum', 'krizantema tratinčicu', 'moon daisy', 'vo-eyed daisy'];Trajna zeljasta biljka (Leucanthemum vulgare) iz porodice glavočika (Compositae)
+agentive-physical-object;['sipe', 'sepiida', 'sipa', 'sipa riba'];Rod morskih životinja koja spada u razred glavonožaca.
+agentive-physical-object;['ptica', 'ptice', 'aves', 'avafauna', 'avifauna', 'roosting'];Jedan od četiri razreda koji čine klasu kopnenih kralježnjaka
+amount-of-matter;['adenozin trifosfat', 'adenozin-trifosfat', 'atp'];Vrsta nukleotida
+amount-of-matter;['soli', 'sol', 'ionskih soli', 'kalijeve soli'];Kemijski spojevi s ionskom vezom građeni od kationa i kiselinskog ostatka
+amount-of-matter;['cerij', 'ce', 'atomski broj 58', 'cerijum'];Kemijski element
+amount-of-matter;['bakar', 'cu', 'atomski broj 29', 'bakra'];Kemijski element
+amount-of-matter;['tantal', 'ta', 'atomski broj 73'];Kemijski element s rednim brojem 73 i simbolom Ta
+amount-of-matter;['živa', 'hg', 'atomski broj 80', 'hidrargirum', 'živo srebro', 'žive', 'živine'];Kemijski element
+amount-of-matter;['magnezij', 'mg', 'atomski broj 12'];Atomske oznake Mg
+amount-of-matter;['titanij', 'ti', 'titan', 'atomski broj 22', 'titana', 'titanijum'];Kemijski element
+amount-of-matter;['olovo', 'pb', 'atomski broj 82', 'olova', 'olovne rude'];Kemijski element
+amount-of-matter;['lužine', 'ceđ', 'lužina'];Tekućine (osobito alkalne otopine) dobivene izluživanjem drvnoga pepela.
+amount-of-matter;['bor', 'b', 'atomski broj 5', 'bor-10'];Kemijski element
+amount-of-matter;['helij', 'he', 'atomski broj 2', 'helija', 'helijum', 'supratekuće helija'];Kemijski element
+amount-of-matter;['arsen', 'as', 'atomski broj 33', 'kao'];Simbol za kemijski element arsen
+amount-of-matter;['vapno', 'živo vapno', 'gašeno vapno', 'hidratizirano vapno', 'kalcijev oksid', 'fluxing vapna', 'izgorio vapna', 'kalcinirani vapna', 'vapna', 'živog vapna'];Drugi naziv za vapno,
+amount-of-matter;['alkoholi', 'alkohol', 'alkohola', 'sekundarni alkohol', 'tercijarni alkohol'];Organski spojevi s kisikom opće formule R-O H
+amount-of-matter;['kovine', 'kovina', 'metal', 'metali', 'metala', 'metalni element', 'metalik elementa', 'metalni ioni'];Kemijski elementi koji dobro provode električnu struju
+amount-of-matter;['baza', 'alkalije', 'baze', 'lužina', 'alkal', 'alkalies', 'bazni', 'jake baze', 'lužine'];Kemijski spoj koji reagira s protonskom kiselinom dajući vodu (i sol). Takvi su hidroksidi elektropozitivnih elemenata, uglavnom alkalijskih i zemnoalkalijskih kovina (natrij, kalij, kalcij i dr.) koji disocijacijom u vodenoj otopini daju hidroksidne ione (OH -).
+amount-of-matter;['cola', 'kola'];Bezalkoholno gazirano piće na bazi karamele
+amount-of-matter;['vino', 'vina', 'fino vino'];Alkoholno piće koje se dobija vrenjem grožđa ili grožđanog soka
+amount-of-matter;['tequila', 'tekila'];Alkoholno piće dobiveno iz agave.
+amount-of-matter;['liker', 'kruškovac', 'srdačan'];Slatki stolni liker
+amount-of-matter;['etanol', 'etilni alkohol', 'alkohol', 'čisti alkohol', 'etilnog alkohola', 'fermentacija alkohol', 'zrna alkohol', 'zrno alkohol'];Najpoznatija vrsta alkohola
+biological-object;['jezik', 'jezični mišić', 'glossa', 'jezika', 'lingua'];Organ za okus i govor,
+biological-object;['nakovanj'];Slušna koščica u srednjem uhu
+cognitive-event;['libido'];Psihoanalitički izraz za spolnu čežnju.
+cognitive-event;['embargo', 'trgovinski embargo', 'trgovina obustava'];Suspenzija robne razmjene između država iz političkih razloga
+cognitive-event;['panika', 'teror', 'užas', 'strah', 'panici', 'zastrašivati'];Stanje izvanrednog straha.
+cognitive-event;['integral', 'integralni račun', 'sastavni', 'integrali', 'integrandu', 'površina ispod krivulje', 'površinu ispod krivulje', 'spojiva funkcija', 'vrijeme integral'];Pojam u višoj matematici
+commerce-role;['ekonomsko dobro', 'ekonomska dobra', 'dobro', 'roba', 'artikl', 'proizvod', 'dobra', 'trgovinu dobar'];Materijalno dobro
+dependent-place;['deklinacija', 'ekliptički koordinatni sustav', 'deklinacije', 'ekliptike dužine', 'ekliptike koordinatnom sustavu', 'nebesko širine'];Koordinata u astronomiji.
+dependent-place;['žarište', 'fokus', 'fokalna točka', 'žarišna točka'];U geometrijskoj optici, točka u kojoj se sijeku svjetlosne zrake paralelne optičkoj osi sabirne leće ili udubljenog zrcala
+dependent-place;['magnetska deklinacija', 'magnetska varijacija', 'magnetske varijacije'];Kut između pravca magnetskog sjevera i geografskog sjevera.
+event;['maraton', 'maratonci', 'maratona'];Trkačka atletska disciplina
+event;['požar'];Nekontrolirano gorenje koje nanosi materijalnu štetu ili ugrožava ljudske živote
+functional-matter;['mana', 'čudesna hrana'];Prema Bibliji, hrana
+functional-matter;['manit', 'manitol', 'd-manitola', 'osmitrol'];Kemijski spoj
+functional-matter;['psihofarmaci', 'psihoaktivne droge', 'psihoaktivna droga', 'droga', 'droge', 'narkotici', 'psihoaktivna tvar', 'opojnih sredstava', 'psihoaktivnih droga', 'psihotropne droge', 'psihotropnih lijekova', 'svijest-mijenjanjem droge', 'um-mijenjanjem droge'];Lake i teške droge, vidi i zlouporaba droga
+functional-matter;['bakar', 'cu', 'atomski broj 29', 'bakra'];Kemijski element
+functional-matter;['topaz'];Vrsta dragog kamena
+functional-matter;['ilovača', 'ilovače', 'pjeskovita ilovača'];Vrsta tla
+functional-matter;['messier 45', 'plejade', 'vlašići'];Plejade), otvoreni skup u Bik | Bik (zviježđe) | Biku
+functional-matter;['boja', 'klubovi', 'odijelo', 'oštrim odijelu', 'pik'];Simbol u igraćim kartama,
+functional-matter;['cola', 'kola'];Bezalkoholno gazirano piće na bazi karamele
+functional-matter;['vino', 'vina', 'fino vino'];Alkoholno piće koje se dobija vrenjem grožđa ili grožđanog soka
+functional-matter;['čokolada', 'čokolade'];Poslastica koja se dobiva miješanjem kakaove mase s većom ili manjom količinom šećera
+functional-matter;['tequila', 'tekila'];Alkoholno piće dobiveno iz agave.
+functional-matter;['pluto', 'pluta'];Materijal dobiven od hrasta plutnjaka
+functional-matter;['liker', 'kruškovac', 'srdačan'];Slatki stolni liker
+functional-matter;['etanol', 'etilni alkohol', 'alkohol', 'čisti alkohol', 'etilnog alkohola', 'fermentacija alkohol', 'zrna alkohol', 'zrno alkohol'];Najpoznatija vrsta alkohola
+functional-matter;['perje', 'pèro', 'pero', 'barbule', 'eclipse perje', 'filoplume'];Rožnate i vlaknaste izrasline iz kože ptica
+functional-matter;['kuhinjska sol', 'nacl', 'sol', 'soli', 'natrijeva sol', 'proizvodnji soli'];Natrijev klorid
+genetic-collective;['dinastija', 'dinastije', 'gospodar', 'kraljevske kuće', 'političke dinastije'];Naziv za članove iste obitelji koja vlada u nasljednom pravu
+geographical-object;['stiks', 'stig', 'styx', 'rijeka stiks'];Rijeka iz grčke mitologije
+geographical-object;['aheront', 'acheron', 'rijeka acheron'];Rijeka u Grčkoj
+geographical-object;['don', 'don, rijeka', 'rijeka don'];Rijeka u Rusiji
+geographical-object;['loire', 'loara'];Najduža rijeka u Francuskoj
+geographical-object;['saba'];Otok u Nizozemskim Antilima
+geographical-object;['otok', 'otoci', 'otočić', 'kontinentalna otok', 'oceanskih otoka', 'otoka', 'otoku', 'tropskom otoku'];Dio kopna potpuno okružen morem
+geographical-object;['kongo', 'rijeka kongo', 'zair rijeka'];Rijeka u središnjoj Africi
+geographical-object;['rhône', 'rona', 'rhona', 'rhone', 'rijeka rona'];Rijeka koja protječe kroz Švicarsku i Francusku
+geographical-object;['mississippi', 'mississippija', 'rijeke mississippi'];Rijeka u SAD-u.
+geographical-object;['rio grande', 'rio bravo', 'río bravo'];Rijeka u Sjevernoj Americi, donjim tokom čini granicu SAD-a i Meksika
+geographical-object;['nova gvineja'];Otok u zapadnom dijelu Pacifika
+geographical-object;['niagara', 'niagara river'];Rijeka u Sjevernoj Americi
+geographical-object;['tennessee', 'tennessee rijeka'];Rijeka u SAD-u
+geographical-object;['charles', 'charles river'];Rijeka u američkoj saveznoj državi Massachusettsu
+geographical-object;['jordan', 'rijeka jordan'];Rijeka na Bliskom Istoku
+geographical-object;['colorado'];Prolazi kroz Grand Canyon
+geographical-object;['arkansas', 'rijeka arkansas'];Rijeka u SAD-u
+geographical-object;['hrid', 'otočić', 'motu', 'ostrvce', 'ostrvo', 'otočića'];Stjenoviti ostatak abrazijom razorenoga otočića ili stijenskoga bloka koji se uvijek nalazi iznad morske razine.
+geographical-object;['paraná', 'parana', 'rijeka parana'];Rijeka u Argentini, Paragvaju i Brazilu
+geographical-object;['wisconsin', 'wisconsin river'];Rijeka u SAD-u
+geographical-object;['pecos', 'pecos river'];Novi Meksiko
+geographical-object;['viktorijini slapovi', 'viktorijini vodopadi'];Najveći vodopad u Africi
+geographical-object;['niger', 'rijeka niger'];Rijeka u zapadnoj Africi
+geographical-object;['ognjena zemlja', 'tierra del fuego'];Otočje na krajnjem jugu Južne Amerike, odvojeno od kopna Mageljanovim prolazom
+geographical-object;['bismarckovo more'];Dio Pacifika između Bismarckovog arhipelaga i Nove Gvineje
+geographical-object;['capri', 'capri hlače'];Otok u Napuljskom zaljevu
+geographical-object;['velika britanija', 'otok britanija', 'otok velika britanija'];Otok na kojemu se nalaze Engleska, Škotska i Wales
+geographical-object;['sveti martin', 'saint maarten', 'st. maarten'];Karipski otok
+geographical-object;['otok wake', 'wake'];Koraljni atol u sjevernom dijelu Tihog oceana
+geographical-object;['amerika', 'amerike'];Skupno ime za kontinente Sjevernu Ameriku i Južnu Ameriku.
+geographical-object;['huron', 'hurona', 'jezero huron', 'wyandots'];Jedno od pet Velikih Jezera
+geographical-object;['dunav', 'danau'];Druga (nakon Volge) najduža i druga vodom najbogatija rijeka u Europi
+geographical-object;['viktorijino jezero', 'jezero victoria', 'nalubaale', 'ukerewe', 'victoria nyanza'];Najveće jezero u Africi
+geographical-object;['missouri', 'rijeka missouri'];Rijeka u SAD-u, pritok Mississippija | Mississippi (rijeka) | Mississippija.
+geographical-object;['slapovi niagare', 'niagarini slapovi', 'nijagarini slapovi'];Slapovi na rijeci Niagari
+gestalt;['hiperbola', 'hiperbole', 'hyperbolas'];Matematika, krivulja drugog reda
+information-encoding-system;['farsa', 'farsa komedija', 'lakrdijaški', 'lakrdije'];Podvrsta komedije
+information-object;['žig', 'zaštitni znak', 'registrirani zaštitni znak', 'trademark', 'registraciju žiga', 'zaštićeni', 'žigova'];Zaštićeni znak ili simbol,
+information-object;['zarez', ','];Interpunkcijski znak
+information-object;['pi'];Slovo grčkog alfabeta
+information-object;['alef'];Prvo slovo hebrejske abecede
+information-object;['zeta'];Slovo grčkog alfabeta
+information-realization;['kod', 'računalo kod', 'kompjuterski kod', 'računalni kod'];Vrsta šifre kod koje se dijelovi teksta zamjenjuju grupama slova ili brojki-kodnim zamjenama
+information-realization;['ugovor', 'sporazum', 'jamstva', 'pravno obvezujući', 'ugovorni sporazum', 'ugovornog prava'];Sporazum u međunarodnom pravu
+information-realization;['mol', 'harmonika maloljetnika skali', 'harmonika molu', 'maloljetnik skala', 'maloljetnika dijatonske ljestvice', 'melodijskom molu', 'melodijskom molu ljestvice', 'prirodnom molu ljestvice'];Glazbeni tonalitet,
+information-realization;['srebrenka', 'silverpoint'];Slikarska olovka.
+information-realization;['pejzaž', 'pejsaž', 'slika krajolika', 'krajolik slika', 'pejzažnom slikarstvu', 'slikar pejzaža', 'umjetnik krajolika'];Likovni motiv s prikazom krajolika.
+information-realization;['pravopis', 'pismo', 'ortografija', 'pravopisac', 'grafija', 'sistem pisanja', 'sistem pisma', 'sustav pisanja', 'sustav pisma', 'pisanja sustav'];Grafija, sustav znakova kojima se bilježi neki jezik (abeceda, alfabet, azbuka itd.)
+information-realization;['legenda', 'legendarne povijesti'];Pripovijest u prozi ili stihu u kojoj su povijesno-bibliografski podatci isprepleteni s fantastičnim događajima. priča o neobičnom događaju.
+information-realization;['triler', 'thriller', 'akcija-triler film', 'akcijski triler', 'akcijski triler film', 'medicinski triler', 'neizvjesnost film', 'neizvjesnost triler', 'triler filma', 'triler roman', 'trilera'];Književni i filmski žanr,
+information-realization;['arija', 'arije'];Samodostatno glazbeno djelo za jedan glas, obično uz pratnju orkestra, a pogotovo u okviru opere.
+information-realization;['modernizam', 'modernista', 'modernizma', 'modernog pokreta'];Opći pojam koji označava ono što je novo u odnosu na tradiciju.
+information-realization;['pop', 'pop glazba', 'popularna glazba', 'pop glazbe', 'pop glazbenik', 'pop pjesma'];Uvriježen kratki naziv za popularnu glazbu.
+information-realization;['otkrivenje', 'knjiga otkrivenja', 'apokalipse', 'otkrivenje svetog ivana divine'];Kršćanska knjiga
+information-realization;['harmonija', 'glazbeni sklad', 'harmonije', 'harmonijski'];Disciplina koja se bavi praktičnom primjenom akorada u glazbi
+language;['programski jezik', 'programiranje jezik', 'programskim jezicima', 'računalnih jezika'];Jezik za pisanje programa koje računalo zna i može izvršiti.
+language;['lisp'];Programski jezik
+language;['jezik', 'jezici', 'lingua', 'jezika', 'jezična komunikacija', 'jezičnu raznolikost', 'ljudskog jezika'];Komunikacijski sustav,
+locative-role;['delhi', 'old delhi', 'shahjahanbad'];Grad u Indiji
+locative-role;['solun', 'salonica', 'salonika', 'saloniki', 'tesaloniki', 'thessaloniki', 'thessaloníki', 'solunska', 'solunu'];Glavni grad grčke Periferije Središnja Makedonija
+locative-role;['kom', 'qom', 'qum'];Iranski grad
+locative-role;['utrecht'];Grad u Nizozemskoj
+locative-role;['perm', 'perm, grad'];Grad u Ruskoj federaciji
+locative-role;['pojas gaze', 'gaza'];Palestinski teritorij između Egipta i Izraela.
+locative-role;['republika tanganjika'];Savezna država u sklopu Tanzanije
+locative-role;['frankfurt na majni', 'frankfurt', 'frankfurt am main', 'frankfurt na main'];Na rijeci Majni
+locative-role;['dalmacija', 'južno hrvatsko primorje'];Povijesna južna hrvatska regija
+locative-role;['kingston na hullu', 'hull', 'kingston upon hull', 'kingston-upon hull'];Grad u Istočnom Yorkshireu, obično zvanim Hull
+locative-role;['kavkaz', 'kavkaska regija', 'caucasia'];Regija oko planinskog masiva Kavkaz
+locative-role;['centre', 'centre-val de loire'];Francuska regija koja se sastoji od šest departmana.
+locative-role;['nacionalni park yosemite', 'yosemite', 'yosemite, nacionalni park'];Nacionalni park Sjedinjenih Američkih Država koji se većim djelom nalazi u okrugu Mariposa, a manjim djelom u okrugu Toulumne u saveznoj državi Kalifornija.
+locative-role;['hannover'];Glavni grad u Donje Saske
+locative-role;['newcastle upon tyne', 'newcastle', 'newcastle-upon-tyne'];Grad u Ujedinjenom Kraljevstvu
+locative-role;['tracija', 'trakija', 'tračka'];Rimska provincija od 46. do Dioklecijanove upravne reforme
+locative-role;['sudan'];Regija u Africi
+locative-role;['genova', 'genoa', 'genua', 'đenova'];Grad u Italiji
+locative-role;['galija', 'rimska galija', 'gallia'];Lat. Gallia, provincija Rimskog Carstva
+locative-role;['kašmir', 'jammu i kashmir', 'jammu i kašmir', 'kashmir'];Pakistana i Kine.
+locative-role;['bari'];Grad u Italiji.
+locative-role;['wales', 'valizija', 'cymru', 'wal', 'wls', 'vels'];Glavni grad Cardiff
+locative-role;['kraljevina makedonija', 'makedonija', 'antička makedonija', 'makedonsko kraljevstvo', 'macedon'];Jedna od starovjekovnih država.
+locative-role;['bliski istok', 'srednji istok', 'mideast'];Zemlje jugozapadne Azije
+locative-role;['münchen', 'muenchen', 'munchen', 'münchen-allach', 'münchen-eschenried', 'münchen-feldmoching', 'minhen'];Grad u Njemačkoj
+locative-role;['milano'];Grad u Italiji
+locative-role;['palermo'];Glavni grad talijanske regije Sicilije
+locative-role;['nacionalni park yellowstone', 'yellowstone'];Nacionalni park Sjedinjenih Američkih Država koji se rasprostire na područjima tri zapadnoameričke savezne države: Wyoming, Montana i Idaho.
+locative-role;['srednji zapad', 'midwest', 'srednjeg zapada sjedinjene američke države'];Regija u SAD-u
+locative-role;['venecija', 'venezia', 'sestiere'];Grad u Italiji.
+locative-role;['sahara'];Pustinja u Africi
+mental-object;['um', 'psiha', 'intelekt', 'razum', 'glavu', 'ljudskog uma', 'mentalnog sadržaja', 'nous', 'uma'];Psihološki pojam za cjelinu svjesno-nesvjesnih sadržaja.
+non-agentive-physical-object;['jolly roger', 'crna zastava', 'gusarska zastava'];Piratska zastava.
+non-agentive-physical-object;['žabe', 'žaba', 'anura', 'anuran', 'bezrepac', 'krastača', 'anurans', 'batrachian', 'frogspawn', 'salientian', 'žaba krastača', 'žaba žaba'];Red iz razreda vodozemaca
+non-agentive-physical-object;['mitra', 'mitre'];Liturgijska kapa
+non-agentive-physical-object;['cesta', 'ceste', 'prometnica', 'put', 'causeways'];Javna prometnica
+non-agentive-physical-object;['kanal', 'kanala', 'prolaz'];Umjetno izgrađen vodotok ili plovni put
+non-physical-collection;['mormon', 'mormoni', 'mormona', 'mormonizam'];Povijest i upotreba naziva "mormon"
+non-physical-collection;['islam', 'muhamedanstvo', 'islami', 'islamista', 'islamizam', 'islamske vjere', 'muhammadanism'];Jedna od 4 najveće svjetske monoteističke religije
+non-physical-collection;['judaizam', 'židovstvo'];Patrijarh je naziv za biblijsku trojicu prvih vođa židovskog naroda: Abrahama, Izaka i Jakova.
+non-physical-collection;['pretvorba', 'transsupstancija', 'transubstantiation'];Katolički nauk o pretvorbi kruha i vina u euharistiji
+non-physical-collection;['kršćanstvo', 'kršćani', 'kršćanska vjera', 'istočnorusinski jezik', 'kršćan', 'kršćanin', 'kršćanske vjere', 'kršćanska religija', 'mainstream kršćanstvo'];Patrijarh je naziv vezan uz neke biskupe (bez obzira na to dali stvarno upravljaju nekom patrijarhiom, ili nose taj naslov kao počasnu titulu)
+non-physical-collection;['protestantizam', 'protestanti', 'protestant', 'protestantizma', 'protestantske crkve', 'protestantskim crkvama'];Jedna od glavnih ogranaka kršćanstva.
+non-physical-place;['tartar', 'gehena', 'ben hinom', 'dolini ben hinom', 'gehinnom', 'tartarus'];Podzemni svijet u grčkoj mitologiji
+non-physical-place;['škorpion', 'škorpion škorpion'];Horoskopski znak
+non-physical-place;['djevica', 'djevica djevica'];Astrološki znak
+non-physical-place;['jarac', 'jarac jarac'];Horoskopski znak
+non-physical-place;['blizanci', 'blizanaca', 'blizanci blizanci'];Horoskopski znak
+non-physical-place;['ribe', 'ribe su ribe'];Horoskopski znak
+organized-collection;['knjižnica', 'biblioteka', 'istraživanje knjižnica', 'istraživačkih knjižnica', 'medijateka'];Ustanova u kojoj se prikuplja, sređuje, obrađuje, pohranjuje i daje na korištenje umnožene duhovne proizvode.
+organized-collection;['spektar', 'spektar boja', 'dugine boje', 'spektralne boje', 'optičkom spektru', 'spektru boja', 'vidljivi spektar', 'vidljivog spektra'];Ili dugine boje (lik. umjetnost)
+organized-collection;['spektar', 'elektromagnetski spektar', 'spektar elektromagnetskog zračenja', 'elektromagnetskog spektra', 'ir spektru', 'spektra svjetlosti', 'spektru svjetlosti'];Prelamanje bijele svjetlosti u optici kroz prizmu stvara spektar boja
+phenomenon;['inflacija', 'galopirajuća inflacija', 'inercijska inflacija', 'inflacija potražnje', 'inflacija troškova', 'umjerena inflacija', 'inflacije', 'diže cijene'];Ekonomski pojam
+phenomenon;['homoseksualnost', 'homoseksualac', 'homoseksualci', 'homoseksualizam', 'homoeroticism', 'homoerotski', 'homoseksualaca', 'homosexualism', 'istospolne', 'istospolne privlačnosti'];Glavno značenje (seksologija)
+phenomenon;['mećava', 'vijavica', 'sniježne oluje', 'snježna oluja', 'zimske oluje'];Meteorološka pojava, padanje snijega uz jak vjetar
+phenomenon;['oluja', 'bura', 'oluje', 'nevrijeme', 'nasilna oluja', 'vjetar oluja'];Atmosferski poremećaj
+phenomenon;['oblak', 'oblaci'];Atmosferska pojava.
+phenomenon;['chinook', 'chinook vjetar', 'chinook vjetrova', 'snijeg jede'];Topao i suh vjetar koji puše niz istočne padine Stjenjaka u Sjevernoj Americi.
+phenomenon;['električni luk', 'električni izboj', 'električna pražnjenja', 'električno pražnjenje', 'iskrenje', 'luk', 'luk iscjedak'];Izboj električne energije između dva tijela
+phenomenon;['električni naboj', 'električnog naboja', 'naboj', 'električki nabijene', 'električnih optužbi'];Naboj u elektromagnetizmu
+phenomenon;['evolucija', 'filogeneza', 'filogénija', 'filogenija', 'biološka evolucija', 'filogenetika', 'teorija evolucije', 'biološke evolucije', 'evolucije', 'evolucijske teorije', 'evolucijski faktor', 'evolucionista', 'filogenetike', 'filogenetska', 'filogenetski', 'organska evolucija', 'phylogenic', 'phylogenies', 'razvija', 'teorije evolucije'];U biologiji, definirana je kao promjena značajki populacije organizama pod utjecajem niza mehanizama i procesa koji djeluju tijekom određenog vremena.
+phenomenon;['metastaze', 'metastaza', 'metastatskog raka', 'metastazirao'];Medicinski pojam-stanice zloćudnih tumora
+phenomenon;['rosa'];Pojava u prirodi
+physical-body;['magnetski monopol', 'magnetski monopoli', 'magnetski naboj', 'magnetnom monopole', 'magnetskih monopoles'];Hipotetsko svojstvo, po nekim aspektima slično električnom naboju, koje se ponekad naziva "magnetski naboj".
+physical-body;['messier 1', 'rakova maglica', 'maglica rakovica', 'ngc 1952'];Maglica u zviježđu Bik
+physical-body;['mjesec', 'mjeseca'];Zemljin jedini prirodni satelit
+physical-body;['asteroidi', 'asteroid', 'planetoid', 'planetoidi', 'asteroida'];Vrsta nebeskih tijela
+physical-body;['algol'];Dvojna zvijezda u zviježđu Perzeja
+physical-body;['zemlja', 'svijet', 'geja', 'majka zemlja', 'terra', 'terra mater', '⊕', '♁', '🌍', '🌎', '🌏', '🗺', 'zemaljska kugla', 'svijeta', 'zemlje'];Planet Sunčevog sustava
+physical-body;['capella', 'kapela'];Jedna od najsjajnijih zvijezda na sjevernom nebu
+physical-body;['vega'];Jedna od najsjajnijih zvijezda na nebu
+physical-object;['atika'];Niski zid iznad vijenca klasične fasade
+physical-object;['luk', 'svod', 'donjeg', 'lučnih'];Arhitektonski nosivi element
+physical-object;['bumerang', 'baciti štap', 'bumeranga'];Osobito u vezi s australskim Aboridžinima
+physical-object;['pandorina kutija'];Prema grčkoj mitologiji kutija svih zala
+physical-object;['pisaće pero', 'pero pero', 'quill'];Naprava kojom se piše i crta
+physical-object;['jedrilica', 'jedrilice', 'jedrilicu'];Vrsta plovila koje se pokreće snagom vjetra
+physical-object;['solarni članak', 'solarna ćelija', 'fotoelektrični članak', 'fotonaponski članak', 'fotonaponske ćelije', 'solarne ćelije', 'fotonaponskih ćelija', 'solarnih ćelija'];Fotoelektrični element (fotonaponski članak, sunčani članak, solar),
+physical-object;['opatija', 'opat', 'opatica'];Vrsta samostana u Katoličkoj crkvi
+physical-object;['fagot', 'fagoti', 'fagotto'];Puhačko glazbalo.
+physical-object;['tomahawk', 'sjekiru', 'tomahavk'];Hladno oružje kojeg su koristili domorodci iz sjeverne Amerike
+physical-object;['ključ', 'ključ za matice', 'ključeva'];Vrsta ručnog alata
+physical-object;['violončelo', 'čelo', 'celli', 'violincello', 'violončela', 'violončelo piccolo'];Gudačko glazbalo
+physical-object;['stadion', 'arena', 'sportski stadion', 'sportska arena', 'sportski teren', 'zasvođen stadion', 'zatvoreni areni'];Polukružnog ili ovalnog tipa, pretežno na otvorenom prostoru.
+physical-object;['mitra', 'mitre'];Liturgijska kapa
+physical-object;['torpedo', 'torpeda', 'torpediran', 'torpedoe'];Vrsta oružja koje se koristi protiv brodova i podmornica
+physical-object;['bob', 'sanjke za bob', 'saonice za bob', 'bobsledder'];Zimski olimpijski sport
+physical-object;['metar', 'mjerna vrpca', 'krojački santimetar', 'krojački sntimetar', 'mjerenje traka'];Alat koji služi za mjerenje
+physical-object;['klip stroja', 'klipni mehanizam', 'stapni mehanizam', 'klip', 'stap'];Klip motora, sisaljke, i sl
+physical-object;['trokut', 'triangl', 'trijangl'];Glazbalo iz porodice udaraljki, triangl
+physical-object;['partizana', 'partizan'];Udarno oružje slično koplju
+physical-object;['strojnica', 'mašinska puška', 'mitraljez', 'automat', 'automatska puška', 'machineguns', 'mitraljezac', 'pištolj stroja'];Automatsko oružje
+physical-object;['ravnalo', 'vladar', 'vladari'];Instrument koji se koristi u matematici i tehničkom crtanju
+physical-object;['podmornica', 'podmornice', 'njemačka podmornica', 'pigboat'];Svako plovno sredstvo, koje može ploviti (plutati) po vodi, i pod vodom
+physical-object;['nalič', 'ličilo', 'premaz', 'boja', 'boje', 'farba'];Boja kao materijal,
+physical-object;['golden gate', 'most golden gate'];Most preko ovog kanala
+physical-object;['elektroenergetski sustav', 'elektromreža', 'električnu mrežu', 'električne mreže', 'energetska mreža', 'energetski sistem', 'energetski sustav', 'elektroenergetskog sustava', 'elektroenergetskom sustavu'];A posebno prijenos i distribucija električne energije
+physical-object;['sat', 'ura', 'mehaničkog sata'];Uređaj za mjerenje vremena
+physical-object;['luk', 'luk i strijela', 'luk i strijele', 'lukom i strijelom', 'lukovima i strijelama'];Oružje, služi za izbacivanje strijela
+physical-object;['kontakt', 'električni kontakt'];Stanje koje nastaje dodirom dvaju vodiča
+physical-object;['zračna luka', 'aerodrom', 'uzletno-sletna staza', 'zračne luke', 'zrakoplovna luka', 'airside', 'drome', 'landside', 'uzletište'];Prostor otvoren za javni zračni promet
+physical-object;['vaga', 'mašina za mjerenje', 'vaganje razmjera'];Mjerni instrument za mjerenje i uspoređivanje mase.
+physical-object;['teleskop'];Optički teleskop, astronomski instrument
+physical-object;['amfibija', 'amfibijski zrakoplov'];Letjelica koja može uzlijetati i slijetati na površini zemlje i vode.
+physical-object;['crkva', 'crkva zgrada', 'zgrada crkve'];Najčešće u kršćanskom bogoslužju.
+physical-object;['glazbeni album', 'studijski album', 'album', 'albuma', 'debitantski album', 'glazbenih albuma', 'otvaranje staza', 'studijskih albuma'];Kolekcija zvučnih zapisa
+physical-object;['trampolin', 'trambulin', 'trambulina'];Sportski rekvizit
+physical-object;['jedrilica', 'lebdjelica', 'sailplane', 'sailplanes', 'zmajem'];Vrsta zrakoplova težeg od zraka bez motora
+physical-object;['akropola', 'akropolis', 'akropole'];Utvrda smještena na najvišem dijelu nekog od grčkih gradova
+physical-object;['enter', 'tipku enter', 'vratiti ključ'];Tipka na računalnoj tipkovnici
+physical-region;['luk', 'kružni luk'];Grafički prikaz funkcije
+physical-region;['duga', 'duge'];Optička pojava
+plan;['plan', 'program', 'planove', 'programa', 'voditelj programa'];Pisani dokument u managementu
+political-geographic-object;['delhi', 'old delhi', 'shahjahanbad'];Grad u Indiji
+political-geographic-object;['solun', 'salonica', 'salonika', 'saloniki', 'tesaloniki', 'thessaloniki', 'thessaloníki', 'solunska', 'solunu'];Glavni grad grčke Periferije Središnja Makedonija
+political-geographic-object;['kom', 'qom', 'qum'];Iranski grad
+political-geographic-object;['utrecht'];Grad u Nizozemskoj
+political-geographic-object;['perm', 'perm, grad'];Grad u Ruskoj federaciji
+political-geographic-object;['malezija', 'malajzija', 'malaya'];Država u Aziji.
+political-geographic-object;['mauretanija', 'mauritanija', 'islamska republika mauritanija', 'mauritanie', 'muritaniya'];Suvremena zemlja u Zapadnoj Africi
+political-geographic-object;['belize', 'britanski honduras'];Mala srednjoamerička država na obali Karipskog mora
+political-geographic-object;['ekvatorska gvineja', 'ekvatorijalna gvineja', 'republika ekvatorska gvineja', 'republika ekvatorijalne gvineje', 'španjolski gvineja'];Država u Africi
+political-geographic-object;['sveta lucija', 'sv. lucija'];Država u Karipskom moru
+political-geographic-object;['engleska', 'eng', 'engleskoj'];Glavni grad London
+political-geographic-object;['sjeverna irska'];Glavni grad Belfast
+political-geographic-object;['frankfurt na majni', 'frankfurt', 'frankfurt am main', 'frankfurt na main'];Na rijeci Majni
+political-geographic-object;['luksemburg', 'luxemburg', 'veliko vojvodstvo luksemburg', 'veliko vojvodstvo luksemburga'];Država u Zapadnoj Europi
+political-geographic-object;['cornwall', 'kornval'];Grofovija u Engleskoj
+political-geographic-object;['azerbejdžan', 'azerbajdžan', 'republika azerbajdžan', 'republika azerbejdžan', 'azerbajdzhan', 'azerbajdzhan republika', 'azerbejdžanski republika'];Država u Euroaziji.
+political-geographic-object;['mali', 'republika mali', 'francuski sudan', 'republika maliju'];Suvremena država u Zapadnoj Africi,
+political-geographic-object;['kingston na hullu', 'hull', 'kingston upon hull', 'kingston-upon hull'];Grad u Istočnom Yorkshireu, obično zvanim Hull
+political-geographic-object;['illinois', 'ilinois', 'il', 'prairie state', 'zemljište lincoln'];Američka savezna država
+political-geographic-object;['minnesota', 'gopher država', 'minesota', 'north star state'];Savezna država u sjevernom dijelu SAD-a
+political-geographic-object;['missouri', 'pokaži mi državu'];Savezna država u središnjem dijelu SAD-a.
+political-geographic-object;['michigan', 'regiji velikih jezera', 'velika jezera država', 'wolverine država'];Savezna država u SAD | Sjedinjene Američke Države | SAD-u.
+political-geographic-object;['tonga', 'kraljevina tonga', 'prijateljski otoci'];Država u Oceaniji
+political-geographic-object;['bangladeš', 'narodna republika bangladeš', 'croatian desh', 'istočni pakistan'];Oznaka zemlje prema ISO kodu 3166-1
+political-geographic-object;['tirol'];Savezna država u Austriji.
+political-geographic-object;['hobart'];Grad u Australiji
+political-geographic-object;['hannover'];Glavni grad u Donje Saske
+political-geographic-object;['newcastle upon tyne', 'newcastle', 'newcastle-upon-tyne'];Grad u Ujedinjenom Kraljevstvu
+political-geographic-object;['kraljevina butan', 'butan'];Država u Aziji, između Indije i Kine
+political-geographic-object;['veneto', 'venecija', 'venezia-euganea'];Regija na sjeveroistoku Italije
+political-geographic-object;['demokratska republika kongo', 'belgijski kongo', 'kongo, demokratska republika', 'd.r.kongo', 'dr kongo', 'zair'];Država u središnjoj Africi
+political-geographic-object;['gvineja', 'republika gvineja', 'francuski gvineja', 'gvinejski'];Država u Africi
+political-geographic-object;['njemačka', 'deutschland', 'srnj', 'savezna republika njemačka', 'sr njemačka', 'njemačkoj'];Francusku i Ujedinjeno Kraljevstvo.
+political-geographic-object;['sudan', 'republika sudan'];Država u Africi
+political-geographic-object;['gambija', 'republika gambija'];Država u zapadnoj Africi
+political-geographic-object;['gana', 'zlatna obala', 'republika gana'];Suvremena država u Zapadnoj Africi
+political-geographic-object;['niger', 'republika niger', 'nigerien'];Država u zapadnoj Africi
+political-geographic-object;['gabon', 'gabonska republika', 'gabun'];Država u Africi
+political-geographic-object;['republika kongo', 'kongo', 'kongo brazzaville', 'francuski kongo'];Država u središnjoj Africi
+political-geographic-object;['gvineja bisau', 'republika gvineja bisau', 'gvineja-bissau', 'gvineja bisao', 'guine bisau', 'portugalski gvineja'];Država u Africi
+political-geographic-object;['madagaskar', 'republika madagaskar'];Otok i država u Africi
+political-geographic-object;['salvador', 'el salvador', 'republika salvador', 'republika el salvador'];Država u Srednjoj Americi.
+political-geographic-object;['genova', 'genoa', 'genua', 'đenova'];Grad u Italiji
+political-geographic-object;['tennessee', 'tn', 'volonterski državu'];Američka savezna država
+political-geographic-object;['kansas', 'ks', 'suncokret država'];Savezna država u središnjem dijelu SAD-a, koja je dobila ime po plemenu Kansa
+political-geographic-object;['montana', 'treasure state'];Savezna država SAD-a
+political-geographic-object;['arkansas', 'zemljište opportunity'];Savezna država u južnom dijelu SAD-a
+political-geographic-object;['victoria'];Australska savezna država
+political-geographic-object;['novi meksiko', 'new mexico', 'zemljište očaravanja'];Jedna od saveznih država SAD-a.
+political-geographic-object;['mississippi', 'magnolia država'];Savezna država na jugu SAD-a.
+political-geographic-object;['virginia', 'virginija', 'old dominion', 'old dominion država'];Američka savezna država
+political-geographic-object;['kalifornija', 'california', 'ca', 'the golden state', 'golden state', 'kaliforniji'];Savezna država SAD-a
+political-geographic-object;['colorado', 'kolorado', 'centennial država'];Savezna država u SADu
+political-geographic-object;['yukon', 'yukon territory'];Kanadska pokrajina
+political-geographic-object;['lacij', 'latium', 'lazio'];Regija u središnjoj Italiji.
+political-geographic-object;['jordan', 'hašemitska kraljevina jordan', 'hašemitske kraljevine jordan'];Država na Bliskom Istoku
+political-geographic-object;['amsterdam', 'glavni grad nizozemske', 'nizozemski grad'];Glavni grad Nizozemske
+political-geographic-object;['otok princa edwarda', 'prince edward island'];Kanadska pokrajina
+political-geographic-object;['grenada'];Otočna država u Karibima
+political-geographic-object;['sofija', 'bugarski glavni grad', 'sardici', 'serdica'];Bugarski glavni grad
+political-geographic-object;['rim', 'vječni grad', 'prijestolnica svijeta', 'roma', 'grad italije', 'talijanski kapital'];Glavni grad Italije
+political-geographic-object;['beograd', 'belgrado', 'biograd na dunavu', 'glavni grad srbije i crne gore'];Glavni grad Srbije
+political-geographic-object;['bari'];Grad u Italiji.
+political-geographic-object;['erevan', 'jerevan', 'erivan', 'grad armenije'];Glavni grad Armenije
+political-geographic-object;['moskva', 'grad ruske federacije', 'ruski kapital'];Glavni i najveći grad Rusije
+political-geographic-object;['tripoli', 'glavni grad libije', 'tarabulus al-shamal'];Glavni grad Libije
+political-geographic-object;['manhattan', 'manhattanu'];Otok i predio grada New Yorka
+political-geographic-object;['škotska', 'kaledonija'];Glavni grad Edinburgh
+political-geographic-object;['boston, massachusetts', 'boston', 'bean town', 'beantown', 'grad massachusetts', 'hub of the universe'];Jedan od najvećih gradova u SAD-u
+political-geographic-object;['kabul', 'kapital afganistanu'];Glavni grad Afganistana
+political-geographic-object;['beč', 'wien', 'austrijski kapital', 'glavni grad austrije'];Glavni grad Austrije
+political-geographic-object;['münchen', 'muenchen', 'munchen', 'münchen-allach', 'münchen-eschenried', 'münchen-feldmoching', 'minhen'];Grad u Njemačkoj
+political-geographic-object;['bruxelles', 'grad bruxelles', 'bruxelles-ville', 'stad brussel', 'belgijski grad', 'brisel', 'glavni grad belgije'];Jedna od 19 općina u Briselskoj regiji.
+political-geographic-object;['san josé', 'san josé, kostarika', 'kapital kostarika'];Glavni grad
+political-geographic-object;['san salvador', 'salvadorski kapital'];Glavni grad srednjoameričke države Salvador.
+political-geographic-object;['london', 'britanski kapital', 'kapitala u velikoj britaniji', 'london sa širom okolinom'];Glavni i najveći grad Velike Britanije te najpoznatiji grad tog naziva.
+political-geographic-object;['atena', 'athinai', 'glavni grad grčke', 'grčki kapital'];Glavni grad Grčke
+political-geographic-object;['guatemala', 'ciudad guatemala', 'grad gvatemale', 'gvatemala grad'];Glavni grad Gvatemale.
+political-geographic-object;['tokio', 'edo', 'tokijo', 'prefektura tokio', 'tokyo', 'tōkyō', 'glavni grad japana', 'japanski grad', 'yeddo', 'yedo'];Ribarska luka u Japanu od koje je kasnije nastao Tokio
+political-geographic-object;['ciudad de méxico', 'ciudad de mexico', 'mexico city', 'ciudad mexico', 'méxico, d. f.', 'méxico, d.f.', 'glavni grad meksika', 'meksikositi', 'meksički grad'];Meksički glavni grad.
+political-geographic-object;['sana', "sana'a", 'sanaa'];Glavni grad Jemena.
+political-geographic-object;['san marino', 'grad san marino'];Glavni grad republike San Martino
+political-geographic-object;['ottawa', 'glavni grad kanade', 'kanadski kapital'];Glavni grad Kanade.
+political-geographic-object;['milano'];Grad u Italiji
+political-geographic-object;['palermo'];Glavni grad talijanske regije Sicilije
+political-geographic-object;['québec', 'quebec city', 'grad québec', 'quebec', 'québec city', 'ville de quebec'];Glavni grad ove pokrajine
+political-geographic-object;['tripoli', 'glavni grad libije', 'tarabulus al-shamal'];Glavni grad Libije
+political-geographic-object;['québec', 'kvebek', 'quebec'];Površinom najveća provincija u Kanadi i druga, nakon Ontarija, po broju stanovnika
+political-geographic-object;['župa', 'crkvena župa', 'župi', 'župljanin'];Crkvena župa, najmanja administrativna jedinica Katoličke crkve
+political-geographic-object;['venecija', 'venezia', 'sestiere'];Grad u Italiji.
+political-geographic-object;['phoenix, arizona', 'phoenix'];Glavni grad Arizone
+political-geographic-object;['periferija atika'];Grčka periferija
+practice;['mir'];Razdoblje bez ratova
+qualitative-role;['bit', 'esencija', 'centar', 'jezgra', 'središte', 'srž', 'suština', 'esencije', 'gnjidama-istrajan', 'srce i duša'];Ili suština-filozofski pojam
+quality;['mormon', 'mormoni', 'mormona', 'mormonizam'];Povijest i upotreba naziva "mormon"
+quality;['islam', 'muhamedanstvo', 'islami', 'islamista', 'islamizam', 'islamske vjere', 'muhammadanism'];Jedna od 4 najveće svjetske monoteističke religije
+quality;['judaizam', 'židovstvo'];Patrijarh je naziv za biblijsku trojicu prvih vođa židovskog naroda: Abrahama, Izaka i Jakova.
+quality;['masa'];U fizici, mjera tromosti tijela
+quality;['kršćanstvo', 'kršćani', 'kršćanska vjera', 'istočnorusinski jezik', 'kršćan', 'kršćanin', 'kršćanske vjere', 'kršćanska religija', 'mainstream kršćanstvo'];Patrijarh je naziv vezan uz neke biskupe (bez obzira na to dali stvarno upravljaju nekom patrijarhiom, ili nose taj naslov kao počasnu titulu)
+quality;['protestantizam', 'protestanti', 'protestant', 'protestantizma', 'protestantske crkve', 'protestantskim crkvama'];Jedna od glavnih ogranaka kršćanstva.
+region;['stupanj', 'lučna milisekunda', 'lučna minuta', 'lučna sekunda', 'arcdegree'];Mjerna jedinica za kut
+region;['kabel', 'cable je duljina', 'duljina kabela', 'duljini kabela'];Pomorska mjera za dužinu
+region;['sat', 'sati', '60 minuta', 'hr', 'h'];Mjerna jedinica za vrijeme
+region;['simens', 's', 'recipročni om', 'recipročni otpor', 'siemens'];Jedinica za električnu vodljivost
+region;['milja', 'milje', 'statut milja', 'mi', 'međunarodna milje', 'stat km', 'zemljište milje'];Naziv više različitih mjernih jedinica za duljinu.
+region;['paskal', 'pascal', 'pa', 'gigapaskal', 'hpa', 'kilopaskal', 'kpa', 'megapaskal', 'mpa', 'gigapascal', 'hektopaskal', 'kilopascal', 'megapascal', 'micropascal', 'paskalima'];Mjerna jedinica za tlak iz SI sustava
+region;['metar', 'm', 'centimetar', 'femtometar', 'gm', 'kilometar', 'km', 'mikrometar', 'mikron', 'milimetar', 'mm', 'nanometar', 'terametar', 'μm', 'metara'];Osnovna SI jedinica za duljinu
+region;['turska lira', 'nova turska lira', 'lira'];Turska valuta
+region;['malteška lira'];Bivša malteška valuta
+region;['kelvin', 'kelvina', 'megakelvin'];SI jedinica za temperaturu.
+region;['mol', 'gram molekula', 'mmol'];SI mjerna jedinica za količinu tvari,
+relation;['funkcija', 'preslikavanje', 'matematička funkcija', 'jednoznačni funkcija', 'karta', 'mapiranje', 'teoriji funkcija'];Pojam iz matematike, matematička funkcija
+relation;['funkcija', 'preslikavanje', 'matematička funkcija', 'jednoznačni funkcija', 'karta', 'mapiranje', 'teoriji funkcija'];Pojam iz matematike, matematička funkcija
+relation;['jug', 'južno zbog', 'na jug'];Jedna od četiri glavne strane svijeta
+relation;['istok', 'e', 'na istok', 'zbog istočno'];Strana svijeta
+relevant-part;['pluto', 'phellem', 'pluta kambijum'];Tkivo drvenastih biljaka
+relevant-part;['pluto', 'pluta'];Materijal dobiven od hrasta plutnjaka
+relevant-part;['perje', 'pèro', 'pero', 'barbule', 'eclipse perje', 'filoplume'];Rožnate i vlaknaste izrasline iz kože ptica
+set;['domena', 'područje definicije', 'domena funkcije'];Za matematičke funkcije
+simple-collection;['labud', 'cygnus'];Zviježđe sjevernog neba
+simple-collection;['pegaz', 'pegasus'];Zviježđe sjevernog neba
+simple-collection;['volar', 'bootes', 'boötes'];Zviježđe sjevernog neba
+simple-collection;['kefej', 'cefej', 'cepheus'];Cirkumpolarno zviježđe sjeverne polutke
+simple-collection;['vodena zmija'];Zviježđe latinskog imena Hydra
+simple-collection;['lira', 'lyra'];Zviježđe sjevernog neba
+simple-collection;['gavran'];Zviježđe južnog neba, latinski corvus
+simple-collection;['rak'];Zviježđe sjevernog neba
+simple-collection;['kasiopeja'];Zviježđe sjevernog neba
+simple-planned-collective;['senat', 'senator'];Naziv za skupštinu, često za gornji dom ili komoru legislature ili parlamenta
+situation;['ugovor', 'sporazum', 'jamstva', 'pravno obvezujući', 'ugovorni sporazum', 'ugovornog prava'];Sporazum u međunarodnom pravu
+situation;['sunčanica', 'iscrpljavanje toplote', 'sunčanicu', 'topline bolesti', 'toplinska iscrpljenost'];Toplotni udar
+situation;['ultimatum'];Latinski pojam
+situation;['depresija', 'gospodarska kriza', 'kriza', 'recesija', 'depresije', 'ekonomska kriza'];Pojam u ekonomiji
+situation;['hadž', 'hadždž', 'hadj', 'haj', 'hodočašće u meku'];Muslimansko hodočašće u Meku radi posjeta Ćabi
+situation;['disocijativni poremećaji osobnosti', 'disocijativni poremećaji', 'disassociative poremećaja identiteta', 'disocijativnog poremećaja identiteta', 'split osobnost', 'split personality', 'više osobnosti', 'višestruka osobnost'];Svijesti o osobnosti ili kontrole tjelesnih pokreta.
+situation;['klinička depresija', 'depresija', 'depresivni poremećaj', 'depresije', 'kliničke depresije', 'teške depresije', 'velikog depresivnog poremećaja'];Poremećaj raspoloženja
+situation;['božja milost', 'milost', 'pomazanje', 'stanje božje milosti', 'milosti', 'posvetnu milost', 'stanje milosti'];Posebno u pogledu spasenja.
+situation;['oluja', 'bura', 'oluje', 'nevrijeme', 'nasilna oluja', 'vjetar oluja'];Atmosferski poremećaj
+situation;['aritmija', 'srčane aritmije', 'aritmije', 'arrythmia', 'nepravilan rad srca', 'srcana aritmija', 'tachyarrhythmia', 'ventrikularne aritmije'];Naziv za nenormalni srčani ritam.
+situation;['aritmija', 'srčane aritmije', 'aritmije', 'arrythmia', 'nepravilan rad srca', 'srcana aritmija', 'tachyarrhythmia', 'ventrikularne aritmije'];Naziv za nenormalni srčani ritam.
+situation;['rak', 'maligna novotvorina', 'maligni tumor', 'zloćudna novotvorina', 'zloćudni tumor', 'raka', 'liječenju raka', 'maligne bolesti neoplastična', 'malignih', 'protiv raka', 'raka pacijenta', 'terapije protiv raka'];Zloćudni oblik novotvorine
+situation;['doba kuge', 'crna smrt', 'velika kuga', 'crna kuga'];Pandemija iz 14. stoljeća
+situation;['diplomatski protokol', 'protokol'];Pravila i običaji o ponašanju u međudržavnim odnosima i diplomatskom ophođenju
+situation;['doba kuge', 'crna smrt', 'velika kuga', 'crna kuga'];Pandemija iz 14. stoljeća
+social-relationship;['politika', 'javni život', 'javnom životu', 'politike', 'politički', 'politički odnos', 'političko pitanje'];Kolektivna djelatnost koja smjera donošenju odluke o rješenju problema i izvršenju te odluke koja je obvezna za sve članove zajednice
+social-relationship;['srodstvo', 'rođak', 'odnos', 'rod', 'obiteljskim odnosima', 'srodstva i silazak'];Odnos između osoba koji dijele genealoško podrijetlo
+socially-constructed-person;['sveti franjo asiški', 'franjo asiški', 'sv. franjo asiški', 'sv.franjo asiški', 'giovanni di bernardone'];Svetac Katoličke crkve i utemeljitelj franjevačkog reda
+socially-constructed-person;['richard wagner', 'wagner', 'wilhelm richard wagner'];Njemački skladatelj, reformator opere i središnja ličnost u njenom razvoju u drugoj polovici 19. stoljeća.
+socially-constructed-person;['otto von bismarck', 'bismarck', 'otto edward leopold bismarck', 'otta von bismarcka', 'otta von bismark', 'princ otto eduard leopold von bismarck', 'princ otto von bismarck', 'von bismarck', 'željezo kancelar'];Premijer pruskog kraljevstva (1862. - 1890.), jedan od najvažnijih vođa u 19. stoljeću | 19. stoljeće | 19. stoljeću. ujedinio Njemačku
+socially-constructed-person;['merlin'];Mitski čarobnjak iz Sage o kralju Arturu
+socially-constructed-person;['bel'];Babilonsko-asirski boga Zemlje
+socially-constructed-person;['zenon iz eleje'];Predsokratovski grčki filozof koji je pripadao elejskoj školi
+socially-constructed-person;['had', 'pluton', 'bog pluton', 'aidoneus', 'njegovi suradnici'];Bog podzemnog svijeta u grčkoj mitologiji
+socially-constructed-person;['had', 'pluton', 'bog pluton', 'aidoneus', 'njegovi suradnici'];Bog podzemlja u grčkoj mitologiji.
+socially-constructed-person;['ija', 'io'];Lik iz grčke mitologije
+socially-constructed-person;['dafna', 'dafné', 'daphne'];Lik iz grčke mitologije
+socially-constructed-person;['protej', 'proteus'];U grčkoj mitologiji, rani morski bog
+socially-constructed-person;['epimetej'];Lik iz grčke mitologije
+socially-constructed-person;['eros'];Bog ljubavi u grčkoj mitologiji
+socially-constructed-person;['demetra', 'demeter'];Boginja iz grčke mitologije
+socially-constructed-person;['japet'];Lik iz grčke mitologije
+socially-constructed-person;['lug'];Općina Derventa
+socially-constructed-person;['vulkan', 'bog vulkan'];Bog u rimskoj mitologiji
+socially-constructed-person;['kupid', 'kupidon', 'amor'];Bog erotične ljubavi u Rimskoj mitologiji
+socially-constructed-person;['neptun', 'bog neptun'];Rimski bog
+socially-constructed-person;['merkur', 'bog merkur'];Rimski bog
+socially-constructed-person;['leonardo da vinci', 'leonardo', 'da vinci'];Talijanski slikar, arhitekt, izumitelj, glazbenik, kipar, mislilac, matematičar i inženjer
+socially-constructed-person;['george washington', 'predsjednik washington'];Američki vojskovođa i predsjednik.
+socially-constructed-person;['john adams', 'predsjednik john adams'];Američki predsjednik.
+socially-constructed-person;['djeca', 'dijete', 'djetinjstvo', 'djevojčica'];Najmlađi članovi ljudskog roda.
+socially-constructed-person;['bariton', 'baritones', 'barytone', 'lirska bariton'];Vrsta muškoga pjevačkoga glasa
+socially-constructed-person;['lao narod', 'laošani', 'laotian'];Etnička podskupinu iz etnolingvističke skupine tajski narodi koja prebiva u Aziji
+socially-constructed-person;['nomadi', 'nomad', 'nomadizam', 'nomadizma', 'nomadski', 'nomadskih naroda', 'nomadskih plemena', 'nomadskog plemena', 'polu-nomadski'];Naziv za ljude i društva koji zbog kulturoloških, gospodarskih ili svjetonazorskih razloga nisu prihvatili sjedilački način života.
+socially-constructed-person;['čeremisi', 'marijci', 'mari ljudi'];Narod iz grupe Povolških Finaca.
+socially-constructed-person;['mahican', 'mohicans', 'mohikanac', 'stockbridge indijanaca'];Indijansko pleme u sjevernoj Americi
+socially-constructed-person;['tatari', 'tatar', 'mongol tatarski', 'tatara', 'tatarski'];Engleski naziv za ovaj narod
+socially-constructed-person;['missouri indijanci', 'niutachi'];Pleme američkih Indijanaca iz skupine Chiwere, koji su svoje ime dali istoimenoj američkoj državi i rijeci.
+socially-constructed-person;['iowa indijanci', 'iowa', 'iowa plemena', 'ioway'];Pleme Indijanaca
+socially-constructed-person;['idiot', 'moron', 'budala', 'kreten', 'changeling', 'changelings', 'imbecil', 'usporiti'];Treći stupanj retardacije (često korišten izraz kao uvreda)
+socially-constructed-person;['svetac', 'svetica', 'svetost', 'sv.', 'sveci', 'katolički svetac', 'kršćanskih svetaca', 'sveca', 'svetaca'];Osoba koju neka kršćanska Crkva štuje kao svetu
+socially-constructed-person;['pješak', 'pješaka', 'pješački'];Sudionik u prometu
+socially-constructed-person;['isus', 'isus iz nazareta', 'isus krist', 'krist', 'sin božji', 'dobar pastir', 'isusa krista', 'nazarećanin'];Sin Božji u kršćanstvu.
+socially-constructed-person;['triton', 'tritona'];Lik iz grčke mitologije
+socially-constructed-person;['robert edward lee', 'robert e. lee'];Južnjački general iz Američkog građanskog rata
+socially-constructed-person;['žena', 'žene', 'odrasla ženka'];Ljudska osoba ženskog spola
+socially-constructed-person;['muškarac', 'muškarci', 'čovjek', 'muško', 'muškaraca', 'odrasli muškarac', 'seksualno sazrijevanje', 'spolno zrele', 'čovjeka'];Ljudska osoba muškog spola
+socially-constructed-person;['aristofan'];Grčki komediograf
+socially-constructed-person;['anđeo čuvar', 'anđeli čuvari', 'skrbnik duh'];Album skupine Teens
+socially-constructed-person;['zlatar', 'zlatarstvo', 'zlatarstva', 'goldworker', 'zlato-radnik'];Obrt izrade predmeta od zlata
+socially-constructed-person;['izbjeglica', 'izbjeglice', 'izbjeglištvo', 'prognanik', 'tražitelja azila', 'izbjeglički status', 'ratni izbjeglica', 'status izbjeglice'];Osoba koja je raseljena protiv svoje volje.
+socially-constructed-person;['rama'];Božanski junak hinduističkog epa
+socially-constructed-person;['gaj julije cezar', 'julije cezar', 'cezar'];Rimski vojskovođa, političar i pisac
+socially-constructed-person;['pasifaja', 'pasifae', 'pasiphae'];U grčkoj mitologiji, Okeanida, Perzina i Helijeva kći, Minosova žena
+socially-constructed-person;['perzefona', 'despina', 'despena', 'kore', 'kora', 'cora', 'despoina'];Lik iz grčke mitologije
+socially-constructed-person;['sveti petar', 'petar', 'sv. petar', 'papa petar', 'simon petar', 'petar apostol', 'st. peter', 'sveti petar apostol', 'šimun petar'];Apostol i prvi biskup Rima
+socially-constructed-person;['isaac newton', 'sir isaac newton'];Engleski fizičar, matematičar i astronom (4. siječnja 1643 - 31. ožujka 1727)
+socially-constructed-person;['charles darwin', 'charles robert darwin', 'darwin'];Britanski prirodoslovac, najpoznatiji po otkriću zakona prirodne selekcije
+socially-constructed-person;['blaise pascal'];Francuski matematičar i filozof
+socially-constructed-person;['uran', 'ouranos'];Bog neba i otac Titan | Titan (mitologija) | Titana u grčkoj mitologiji
+socially-constructed-person;['venera', 'venüs', 'božica venera'];Rimska božica ljepote i ljubavi.
+socially-constructed-person;['selena', 'seléné'];Rimska boginja mjeseca.
+socially-constructed-person;['viktorija', 'victoria'];Rimska božica pobjede
+socially-constructed-person;['tetida', 'thetis'];Lik iz grčke mitologije
+socially-constructed-person;['marko vipsanije agripa', 'marko agripa', 'agripa', 'marcus vipsanius agripa'];Rimski državnik i vojskovođa
+socially-constructed-person;['juda iškariotski', 'juda iskariotski'];Izdao Isusa
+socially-constructed-person;['nemesis', 'nemezida', 'nemeza', 'nemezis'];Boginja iz starogrčke mitologije
+socially-constructed-person;['monarh', 'kralj', 'kralja', 'monarha', 'okrunjen glavu', 'suveren', 'suverena'];Muški vladara u državnom uređenju koja se zove kraljevina ili monarhija
+socially-constructed-person;['trojstvo', 'presveto trojstvo', 'presveto trojsvo', 'božanske osobe u kršćanstvu', 'presvetog trojstva', 'sveto trojstvo', 'presvetoga trojstva', 'trojedinoga boga', 'trojstva'];Kršćanski nauk o Bogu jednom i trojstvenom
+socially-constructed-person;['šah', 'šahanšah', 'perzijskog šaha', 'shah', 'shahanshah'];Perzijska vladarska titula
+space-region;['kocka', 'kocke', 'pravilni heksaedar', 'redovito heksaedra'];Geometrijsko tijelo sa 6 stranica (heksaedar) i 12 bridova.
+space-region;['piramida', 'piramide'];Geometrijsko tijelo
+space-region;['sfera', 'okruglasti', 'polukuglu'];Skup točaka u prostoru jednako udaljenih od neke točke
+space-region;['sfera', 'okruglasti', 'polukuglu'];Skup točaka u prostoru jednako udaljenih od neke točke
+spatial-feature;['jaruga', 'vododerina'];Oblik reljefa u Geomorfologiji
+spatial-feature;['planina', 'planine', 'gora'];Uzdignuti dijelovi Zemljine kore, viši od 500 m
+spatial-feature;['planina rushmore', 'rushmore', 'mount rushmore', 'mt. rushmore'];Monumentalna granitna skulptura u Južnoj Dakoti
+spatial-feature;['ural', 'urala'];Planina koja dijeli Europu od Azije
+spatial-feature;['propovjedaonica', 'ambon', 'podij', 'ambo', 'govornica', 'katedra', 'postolje', 'povišeni podij', 'pozornica', 'ambonu', 'podijum'];Povišeno mjesto u crkvi, preteča propovjedaonice | propovjedaonica | propovjedaonice.
+spatial-feature;['balkan', 'stara planina', 'balkanski planine', 'balkanski planinski masiv'];Planina u Bugarskoj
+spatial-feature;['kavkaz'];Planinski masiv između Crnog mora i Kaspijskog jezera
+status;['vojni čin', 'paygrade', 'ratnog materijalnog', 'vojni ocjena'];Stupanj u vojnoj ili policijskoj hijerrhiji
+subject;['matematička analiza', 'analizi', 'klasične analize', 'matematičke analize'];Grana matematike
+subject;['triangulacija', 'triangulacije'];Određivanje položaja glavnih točaka pri geodetskoj izmjeri
+subject;['morfologija', 'morfologije'];Grana biologije koja proučava oblik i građu biljnih i životinjskih organizama
+subject;['umjetna inteligencija', 'umjetne inteligencije', 'ai', 'artificial intelligence', 'umjetno inteligentni'];Neživi sustav koji pokazuje sposobnost snalaženja u novim situacijama
+subject;['geomorfologija', 'geomorfolog', 'geomorfološke', 'geomorfologije', 'geomorfološki', 'geomorphologist'];Te procese koji ga oblikuju
+subject;['antropologija', 'antropologinja', 'antropologije'];Je patrijarh naziv za onog koji drži vlast u patrijarhalnoj obitelji ili većoj društvenoj zajednici.
+taxonomic-collective;['rod', 'genus', 'podrod', 'rod ime', 'rodova'];Sinonim: Croton
+taxonomic-collective;['penelope', 'roda penelope'];Rod ptica porodice Cracidae.
+taxonomic-collective;['ose', 'vespidae', 'obiteljski vespidae'];Porodica kukaca iz red | Red (taksonomija) | reda opnokrilaca
+taxonomic-collective;['deve', 'camelidae', 'deva', 'kamile', 'porodica camelidae', 'porodica deva', 'camelid', 'camelids', 'obiteljski camelidae'];Porodica sisavaca iz reda parnoprstaša (Artiodactyla)
+taxonomic-collective;['golubovi', 'golub', 'columbidae', 'porodica golubova', 'obitelj columbidae'];Porodica ptice iz reda Columbiformes
+taxonomic-collective;['harrisia', 'harisija', 'rod harrisia'];Bilji rod iz porodice kaktusa (Cactaceae)
+taxonomic-collective;['koze', 'capra', 'rod capra', 'rod koza', 'roda capra'];Rod unutar porodice šupljorožaca
+taxonomic-collective;['chara', 'chareae', 'roda chara'];Rod algi iz porodice Characeae
+taxonomic-collective;['zečevi', 'leporidae', 'zečevi ili dvojezupci', '🐇', 'porodica leporidae', 'porodica zečeva', 'obiteljski leporidae'];Red iz nadreda Euarchontoglires viših sisavaca.
+taxonomic-collective;['kola', 'cola', 'rod cola'];Biljka iz porodice Malvaceae.
+taxonomic-collective;['sirene', 'sirenia', 'morska krava', 'morske krave', 'morske krave ili sirene', 'kako sirenia', 'sirenians'];Morski sisavac biljožder
+taxonomic-collective;['paunovi', 'paun', 'pavo', 'rod pavo'];Rod prica, uključuje 2 vrste
+taxonomic-collective;['klen', 'acer campestre', 'javor klen', 'poljski javor', 'ograđivati javor', 'polje javor'];Vrsta drveta
+taxonomic-collective;['ruta', 'rutvica', 'rod ruta'];Biljni rodiz porodice rutovki
+taxonomic-collective;['kune', 'mustelidae', 'kuna', 'porodica kuna', 'porodica mustelidae', 'mustelids', 'obiteljski mustelidae'];Porodica psolikih zvijeri
+technique;['um', 'psiha', 'intelekt', 'razum', 'glavu', 'ljudskog uma', 'mentalnog sadržaja', 'nous', 'uma'];Psihološki pojam za cjelinu svjesno-nesvjesnih sadržaja.
+temporal-region;['godišnja doba', 'godišnje doba', 'sezona', 'doba godine', 'sezone', 'sezoni', 'sezonski'];Periodi u kojima vlada ista klima i promjene.
+temporal-region;['duhovi', 'pedesetnica', 'dan duhova', 'dan pedesetnice', 'duhova', 'pentacost'];Kršćanski blagdan.
+temporal-region;['ritam', 'doba', 'glazbeni ritam', 'off-beat', 'ritmička jedinica', 'ritmova'];Niz tonova i stanki različitih trajanja u glazbenom djelu, te srodan pojam u poeziji
+temporal-region;['gmt', 'univerzalno vrijeme', 'greenwich mean time', 'greenwich vrijeme', 'univerzalnom vremenu', 'ut1', 'vrijeme po greenwichu'];Akronim za srednje griničko vrijeme (engl. Greenwich Mean Time)
+temporal-region;['tempo', 'prestissimo', 'presto', 'ritardando', 'tempi'];U glazbenoj terminologiji | glazbena terminologija | glazbenoj terminologiji: brzina danog glazbenog djela
+theory;['teorija relativnosti', 'relativistička fizika', 'einsteinova teorija relativnosti', 'nonrelativistic', 'teorije relativnosti'];Pojam koji se odnosi na posebnu relativnost i opću relativnost

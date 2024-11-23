@@ -1,0 +1,932 @@
+activity;['go'];Go jo jadne strategiske delkowe graśe za dwa grajarja.
+activity;['kopańca', 'balokopanje'];Kopańca, teke balokopanje jo balowa gra a nejpopularnjejšy mustwowa sportowa družyna na Zemi.
+activity;['snooker'];Snooker jo billardowa sportowa družyna, kenž jo nastała w 19.
+activity;['šach'];Šach jo klasiske delkowe graśe za dwa grajarja.
+activity;['druga swětowa wójna'];Druga swětowa wójna jo była wjelika a globalna wójna w lětach 1939-1945, kótaraž płaśi ako nejwětšy konflikt w stawiznach cłowjestwa.
+activity;['prědna swětowa wójna'];Prědna swětowa wójna jo wjelika wójna w lětach 1914 až 1918 była.
+activity;['swětowa wójna'];Swětowa wójna jo taka wójna, kótaraž wobwliwujo wětšynu swěta, wšake kontinenty a wětšynu narodow.
+activity;['dešć'];Dešć jo nejcesćejša forma lejow z mrokawow.
+agentive-figure;['wjelikoraz'];Wjelikoraz jo mytiska bytosć, kotaraž jo znata we mytologijach młogich ludow swěta, teke słowjańskich a germańskich.
+agentive-figure;['stat'];Stat jo politiski konstrukt, kótaryž wopśimjejo zgromadny, wobgranicowany teritorij, k tomu słušecy statny lud a realne wugbanje mócy.
+agentive-figure;['zjadnośeństwo njewótwisnych krajow'];Zjadnośeństwo njewótwisnych krajow
+agentive-figure;['commonwealth', 'commonwealth of nations'];Commonwealth abo oficielnje Commonwealth of Nations jo mjazystatny zwězk, kótaryž wobstoj pśedewšym ze Zjadnośonego kralojstwa Wjelikeje Britaniskeje a Pódpołnocneje Irskeje a jogo něgajšnych kolonijow.
+agentive-figure;['europska unija', '🇪🇺', 'eu'];Europska unija jo góspodaŕski a politiski zwězk sedymadwaźasća europskich krajow.
+agentive-figure;['zjadnośone narody', 'uno'];Zjadnośone narody jo swětodaloka mjazynarodna organizacija z 192 cłonkami.
+agentive-figure;['islam'];Islam jo po kśesćijaństwje druga nejwětša nabóžnina we swěśe.
+agentive-figure;['sowjetski zwězk', 'zwězk sowjetskich socjaliskich republik', 'zssr'];Sowjetski zwězk (rus.
+agentive-figure;['swěte romske mócnarstwo', 'swěte romske mócnaŕstwo', 'swěte romske mócnarstwo nimskego naroda'];Swěte romske mócnarstwo jo był dominantny pśewažnje nimski stat w Srjejźnej Europje w lětach 962-1806.
+agentive-physical-object;['zagrodna banja', 'cucurbita pepo', 'cucchini'];Zagrodna banja jo rostlina ze swójźby banjowych rostlinow.
+agentive-physical-object;['ameriski topoł'];Ameriski topoł jo rostlina ze swójźby wjerbowych rostlinow.
+agentive-physical-object;['chójca'];Chójca jo rod ze swójźby chójcowych rostlinow.
+agentive-physical-object;['garba'];Garba jo družyna ze swójźby wokołkowych rostlinow.
+agentive-physical-object;['yzop'];Yzop jo rostlina ze swójźby gubkatych kwitarjow.
+agentive-physical-object;['kšejcerwjeny janowy krick', 'ribes sanguineum'];Kšejcerwjeny janowy krick jo kerk ze swójźby hendryškowych rostlinow.
+agentive-physical-object;['rostliny', 'rostlinstwo'];Rostliny twórje swójski swět znutśika domena žywych byśow ze celowym jědrom a celoweju membranu.
+agentive-physical-object;['górka'];Górka jo zeleninowa rostlina ze swójźby banjowych rostlinow.
+agentive-physical-object;['domacny pjas', 'canis lupus familiaris'];Domacny pjas jo zwěrje ze swójźby psow.
+agentive-physical-object;['griby', 'fungi'];Griby su swět z domeny Eukaryotow.
+agentive-physical-object;['akelaja', 'aquilegia'];Akelaja jo rod ze swójźby górkacowych rostlinow.
+agentive-physical-object;['źiśelina'];Źiśelina jo rod ze swójźby łušćinowych rostlinow.
+agentive-physical-object;['běły topoł', 'populus alba'];Běły topoł jo rostlina ze swójźby wjerbowych rostlinow.
+agentive-physical-object;['citronowy bom', 'citrona'];Citronowy bom jo bom ze swójźby rutowych rostlinow.
+agentive-physical-object;['puckowina', 'prunus spinosa', 'slěwica'];Puckowina jo kerk ze swójźby rožowych rostlinow.
+agentive-physical-object;['ananas'];Ananas jo rostlina ze swójźby bromelijowych rostlinow.
+agentive-physical-object;['běła wutka', 'nymphaea alba'];Běła wutka jo rostlina ze swójźby wutkow.
+agentive-physical-object;['žołta pupajca'];Žołta pupajca jo rostlina ze swójźby wutkowych rostlinow.
+agentive-physical-object;['łušćinowy płod', 'łušćinaty płod', 'łušćizny'];Łušćinowy płod jo płod, kótaryž z jadnogo płodowego łopjeńka nastanjo a jo typiski za łušćinowe rostliny.
+agentive-physical-object;['wopowańska jagoda'];Wopowańska jagoda jo rostlina ze swójźby wrjosowych rostlinow.
+agentive-physical-object;['zagrodne wjelkowe mloko', 'euphorbia peplus'];Zagrodne wjelkowe mloko jo rostlina ze swójźby wjelkomlokowych rostlinow.
+agentive-physical-object;['eukaryoty', 'eukaryota'];Eukaryoty twórje jadnu z tśich domenow w biologiji.
+agentive-physical-object;['žołta akacija'];Žołta akacija (Laburnum anagyroides, syn.
+agentive-physical-object;['mack', 'papaver rhoeas'];Mack jo rostlina ze swójźby makowych rostlinow.
+agentive-physical-object;['pěskowy mak', 'papaver argemone'];Pěskowy mak jo rostlina ze swójźby makowych rostlinow.
+agentive-physical-object;['słyńca'];Słyńca jo rostlina ze swójźby Kóšowych kwětarjow.
+agentive-physical-object;['kónjeca mroja'];Kónjeca mroja jo rod mrojow z pódswójźby.
+agentive-physical-object;['apelsina', 'oranža', 'oranžowy bom'];Apelsina jo bom ze swójźby rutowych rostlinow.
+agentive-physical-object;['škrjok'];Škrjok jo rod ze swójźby chójcowych rostlinow.
+agentive-physical-object;['larik'];Larik jo rod ze swójźby chójcowych rostlinow.
+agentive-physical-object;['pówitka', 'convolvulus'];Pówitka jo rod ze swójźby pówitkowych rostlinow.
+agentive-physical-object;['jańska roža', 'kralojska roža'];Jańska roža jo rod ze swójźby jańskorožowych rostlinow.
+agentive-physical-object;['tuja', 'thuja'];Tuja jo rod ze swójźby cypresowych rostlinow.
+agentive-physical-object;['kastanija'];Kastanija jo rod ze swójźby bukowych rostlinow.
+agentive-physical-object;['buk'];Buk jo rod z pódswójźby Fagoideae ze swójźby bukowych rostlinow.
+agentive-physical-object;['bazilikum', 'ocimum basilicum'];Bazilikum jo wěrcowe zelko ze swójźby gubkatych kwitarjow.
+agentive-physical-object;['rotwica', 'achilléa'];Rotwica jo rod ze swójźby kóšowych kwětarjow.
+agentive-physical-object;['pšawy maniok', 'manihot esculenta'];Pšawy maniok je rostlina ze swójby wjelkomlokowych rostlinow.
+agentive-physical-object;['wjelicka banja', 'cucurbita maxima'];Wjelicka banja jo rostlina ze swójźby banjowych rostlinow.
+agentive-physical-object;['fijałka'];Fijałka, fijołka a syrotka, matuška, macocha stej rod ze swójźby Fijałkowych rostlinow.
+agentive-physical-object;['pomeranca'];Pomeranca jo bom ze swójźby rutowych rostlinow.
+agentive-physical-object;['zeleninowy kał', 'brassica oleracea'];Zeleninowy kał jo rostlina ze swójźby kśicnokwětarjowych rostlinow.
+agentive-physical-object;['hortensija', 'hydrangea'];Hortensija jo rod ze swójźby hortensijowych rostlinow.
+agentive-physical-object;['jedła', 'abies'];Jedła jo rod ze swójźby chójcowych rostlinow.
+agentive-physical-object;['mórski jerjeł'];Mórski jerjeł jo rod ptaškow ze swójźby.
+agentive-physical-object;['japańska banja', 'cucurbita moschata'];Japańska banja jo rostlina ze swójźby banjowych rostlinow.
+agentive-physical-object;['pupawa', 'scabiosa'];Pupawa jo rod z pódswójźby drapalcowych rostlinow znutśika swójźby kózylistowych rostlinow.
+agentive-physical-object;['wěz', 'lom', 'ulmus'];Wěz jo rod ze swójźby wězowych rostlinow.
+agentive-physical-object;['slěwcyna', 'domacna slěwcyna', 'prunus domestica', 'slěwka'];Slěwcyna jo sadowy bom ze swójźby rožowych rostlinow.
+agentive-physical-object;['kichac', 'helleborus'];Kichac jo rod ze swójźby górkacowych rostlinow.
+agentive-physical-object;['słyńca', 'helianthus'];Słyńca jo rod ze swójźby Kóšowych kwětarjow.
+agentive-physical-object;['rozraz'];Rozraz jo rod, kótaryž se pó molekulargenetiskich pśepytowanjach njedawno k swójźbje škórodwjowych rostlinow pśilicyjo.
+agentive-physical-object;['źiwa kócka', 'felis silvestris'];Źiwa kócka jo cycak ze swójźby kóckow.
+agentive-physical-object;['cycaki', 'mammalia'];Cycaki su klasa rěpnikow.
+agentive-physical-object;['pěskowy płonjak', 'thymus serpyllum'];Pěskowy płonjak jo rostlina ze swójźby gubkatych kwitarjow.
+agentive-physical-object;['lawendel'];Lawendel (Lavandula angustifolia, syn.
+agentive-physical-object;['aprikoza'];Aprikoza jo płod aprikozowego boma.
+agentive-physical-object;['pódzajtšna tuja', 'platycladus orientalis', 'platycladus'];Pódzajtšna tuja jo bom ze swójźby cypresowych rostlinow.
+agentive-physical-object;['kragaty mjadwjeź', 'himalajski mjadwjeź', 'ursus thibetanus'];Kragaty mjadwjeź, teke himalajski mjadwjeź jo družyna mjadwjeźow.
+agentive-physical-object;['kulkowa wacka', 'kulkowy bruk', 'leptinotarsa decemlineata'];Kulkowa wacka jo bruk ze swójźby listowych brukow z pórěda.
+agentive-physical-object;['módra wutka'];Módra wutka jo rostlina ze swójźby wutkowych rostlinow.
+agentive-physical-object;['běły kukol', 'silene latifolia'];Běły kukol jo rostlina ze swójźby nalchenkowych rostlinow.
+agentive-physical-object;['baribal', 'carny mjadwjeź', 'ursus americanus'];Baribal, teke carny mjadwjeź jo družyna mjadwjeźow.
+agentive-physical-object;['pšawy kobołk', 'allium sativum'];Pšawy kobołk jo rostlina z pódswójźby kobołkowych rostlinow znutśika amarylisowych rostlinow.
+agentive-physical-object;['wšedna cybula'];Wšedna cybula jo rostlina z pódswójźby kobołkowych rostlinow znutśika amarylisowych rostlinow.
+agentive-physical-object;['europska źiwa kócka', 'felis silvestris silvestris'];Europska źiwa kócka jo cycak ze swójźby kóckow.
+agentive-physical-object;['libanońska cedra'];Libanońska cedra jo bom ze swójźby chójcowych rostlinow.
+agentive-physical-object;['grapefruit'];Grapefruit (Citrus × aurantium, Syn.
+agentive-physical-object;['tłusty kobołk', 'porej'];Tłusty kobołk jo rostlina z pódswójźby kobołkowych rostlinow znutřka swójby amarylisowych rostlinow.
+agentive-physical-object;['sněgulka'];Sněgulka abo sněgowy zwónk jo rod ze swójźby amarylisowych rostlinow.
+agentive-physical-object;['pšawy płonjak', 'thymus vulgaris'];Pšawy płonjak jo rostlina ze swójźby gubkatych kwitarjow.
+agentive-physical-object;['kós', 'kos', 'turdus merula'];Kós jo družyna droznow.
+agentive-physical-object;['carny baz'];Carny baz jo rostlina ze swójźby pižmonkowych rostlinow.
+agentive-physical-object;['wšedna akelaja', 'aquilegia vulgaris'];Wšedna akelaja jo rostlina ze swójźby górkacowych rostlinow.
+agentive-physical-object;['źiwy karnikel'];Źiwy karnikel jo zwěrje ze swójźby wuchacow.
+agentive-physical-object;['wšedna kuntwora'];Wšedna kuntwora jo družyna kuntworow.
+agentive-physical-object;['ptaškowa wójka'];Ptaškowa wójka jo rostlina ze swójźby łušćinowych rostlinow.
+agentive-physical-object;['pólna škrodawa', 'bufo bufo'];Pólna škrodawa jo družyna z roda škrodawow znutśika swójźby.
+agentive-physical-object;['pódzajtšny mak', 'papaver orientale'];Pódzajtšny mak jo rostlina ze swójźby makowych rostlin.
+agentive-physical-object;['pódwjacorny topoł', 'populus trichocarpa'];Pódwjacorny topoł jo rostlina ze swójźby wjerbowych rostlinow.
+agentive-physical-object;['běła źiśelina'];Běła źiśelina jo rostlina ze swójźby łušćinowych rostlinow, z roda źiśelinow.
+agentive-physical-object;['cerwjeny janowy krick', 'ribes rubrum', 'ribes sativum', 'ribes sylvestre', 'ribes vulgare'];Cerwjeny janowy krick abo běły janowy krick jo kerk ze swójźby hendryškowych rostlinow.
+agentive-physical-object;['rjaschen', 'prunus persica'];Rjaschen jo kerk abo bom ze swójźby rožowych rostlinow.
+agentive-physical-object;['ginkgo', 'rozdwójony ginkgo'];Ginkgo jo rod ze swójźby ginkgowych rostlinow.
+agentive-physical-object;['ginkgo', 'rozdwójony ginkgo'];Rozdwójony ginkgo (Ginkgo biloba, syn.
+agentive-physical-object;['wósušyna'];Wósušyna jo rostlina ze swójźby sumakowych rostlinow.
+agentive-physical-object;['carnica'];Carnica jo rostlina ze swójźby wrjosowych rostlinow.
+agentive-physical-object;['dłujkowogonkaty wěz'];Dłujkowogonkaty wěz jo rostlina ze swójźby wězowych rostlinow.
+agentive-physical-object;['górski wěz'];Górski wěz jo rostlina ze swójźby wězowych rostlinow.
+agentive-physical-object;['nazymska adonisowa rožycka'];Nazymska adonisowa rožycka (Adonis annua, syn.
+agentive-physical-object;['carna ronica'];Carna ronica jo rostlina ze swójźby ronicowych rostlinow.
+agentive-physical-object;['běły žonop'];Běły žonop jo rostlina ze swójźby kśicnokwětarjowych rostlinow.
+agentive-physical-object;['mlac'];Mlac jo rostlina ze swójźby kóšowych kwětarjow.
+agentive-physical-object;['wšedna jerjebina'];Wšedna jerjebina jo kerk abo bom ze swójźby rožowych rostlinow.
+agentive-physical-object;['wšedny kukel'];Wšedny kukel jo rostlina ze swójźby nalchenowych rostlinow.
+agentive-physical-object;['běła tupa kopśiwa'];Běła tupa kopśiwa jo rostlina z roda tupych kopśiwow a swójźby gubkatowych kwitarjow.
+agentive-physical-object;['carny kichac'];Carny kichac jo rostlina ze swójźby górkacowych rostlinow.
+agentive-physical-object;['rolny knochac', 'calendula arvensis'];Rolny knochac jo rostlina ze swójźby kóšowych kwětarjow.
+agentive-physical-object;['lěkarska bimbawka'];Lěkarska bimbawka jo rostlina ze swójźby górkacowych rostlinow.
+agentive-physical-object;['mandlowe wjelkowe mloko', 'euphorbia amygdaloides'];Mandlowe wjelkowe mloko jo rostlina ze swójźby wjelkomlokowych rostlinow.
+agentive-physical-object;['brjok', 'sorbus torminalis'];Brjok jo kerk abo bom ze swójźby rožowych rostlinow.
+agentive-physical-object;['wšedny chmjel'];Wšedny chmjel jo rostlina ze swójźby kónopjowych rostlinow.
+agentive-physical-object;['domacna kócka', 'felis silvestris catus'];Domacna kócka jo cycak ze swójźby kóckow.
+agentive-physical-object;['pšawy boretš', 'borago officinalis'];Pšawy boretš jo rostlina ze swójźby.
+agentive-physical-object;['oberžina', 'aubergina', 'solanum melongena'];Oberžina jo rostlina ze swójźby ronicowych rostlinow.
+agentive-physical-object;['tangelo'];Tangelo jo bom ze swójźby rutowych rostlinow.
+agentive-physical-object;['carna chójca'];Carna chójca jo bom ze swójźby chójcowych rostlinow.
+agentive-physical-object;['bagnowa chójca'];Bagnowa chójca jo bom ze swójźby chójcowych rostlinow.
+agentive-physical-object;['górska chójca'];Górska chójca jo bom ze swójźby chójcowych rostlinow.
+agentive-physical-object;['wjeliki panda', 'ailuropoda melanoleuca'];Wjeliki panda jo družyna mjadwjeźow.
+agentive-physical-object;['słodka wišnja', 'prunus avium'];Słodka wišnja jo bom ze swójźby rožowych rostlinow.
+agentive-physical-object;['cerwjeny buk'];Cerwjeny buk jo bom z roda bukow znutśika swójźby bukowych rostlinow.
+agentive-physical-object;['bruny mjadwjeź', 'ursus arctos'];Bruny mjadwjeź jo družyna mjadwjeźow, kótaryž wažy wót 105 do až do 780 kg.
+agentive-physical-object;['law', 'panthera leo'];Law jo rubjažne zwěrje.
+agentive-physical-object;['bóśony', 'bośon'];Bóśony su swójźba z 19 družynami.
+agentive-physical-object;['běłogłowny mórski jerjeł', 'haliaeetus leucocephalus'];Běłogłowny mórski jerjeł jo ptašk ze swójźby.
+agentive-physical-object;['bobr', 'castor'];Bobr jo zwěrje, kótarež słuša do wjelikeje kupki gryzarjow.
+agentive-physical-object;['cerwjeny dub'];Cerwjeny dub jo bom ze swójźby bukowych rostlinow, z roda dubow.
+agentive-physical-object;['wjelicka tuja', 'thuja gigantea', 'thuja plicata'];Wjelicki tuja jo bom ze swójźby cypresowych rostlinow.
+agentive-physical-object;['japański klon', 'acer japonicum'];Japański klon jo bomaty kerk abo małki bom ze swójźby.
+agentive-physical-object;['wjelicka jedła'];Wjelicka jedła jo bom ze swójźby chójcowych rostlinow.
+agentive-physical-object;['gepard', 'acinonyx jubatus'];Gepard jo rubjažne zwěrje ze swójźby kóckow.
+agentive-physical-object;['pogjarzlina'];Pogjarzlina jo rostlina ze swójźby wrjosowych rostlinow.
+agentive-physical-object;['górska chójca'];Górska chójca jo małoróstny bom ze swójźby chójcowych rostlinow.
+agentive-physical-object;['mjadwjeźe', 'mjadwjeź'];Mjadwjeźe su cycakowa swójźba z pórěda rubjažnych zwěrjetow.
+agentive-physical-object;['alpowa fijałka', 'źiwa alpowa fijałka', 'cyclamen'];Alpowa fijałka jo rod ze pódswójźby myrsinowych rostlinow znutśika primulowych rostlinow.
+agentive-physical-object;['alpowa fijałka', 'źiwa alpowa fijałka', 'cyclamen'];Źiwa alpowa fijałka jo rostlina ze pódswójźby myrsinowych rostlinow znutśika swójźby primulowych rostlinow.
+agentive-physical-object;['pěskowa chójca'];Pěskowa chójca jo bom ze swójźby chójcowych rostlinow.
+agentive-physical-object;['šera jedła'];Šera jedła jo bom ze swójźby chójcowych rostlinow.
+agentive-physical-object;['pinija', 'pinus pinea'];Pinija jo štom ze swójźby chójcowych rostlinow.
+agentive-physical-object;['anis', 'pimpinella anisum'];Anis jo gójeńska rostlina a wěrcowe zelko ze swójźby wokołkojtych rostlinow.
+agentive-physical-object;['ameriski buk'];Ameriski buk (Fagus grandifolia, syn.
+agentive-physical-object;['wólša'];Wólša jo rod ze swójźby brjazowych rostlinow.
+agentive-physical-object;['słyńcne wjelkowe mloko', 'euphorbia helioscopia'];Słyńcne wjelkowe mloko jo rostlina ze swójźby wjelkomlokowych rostlinow.
+agentive-physical-object;['kanadiski rys', 'lynx canadensis'];Kanadiski rys jo zwěrje ze swójźby kóckow.
+agentive-physical-object;['alpski mak'];Alpski mak jo rostlina ze swójźby makowych rostlinow.
+agentive-physical-object;['libotcyna', 'wósyna'];Libotcyna jo rostlina ze swójźby wjerbowych rostlinow.
+agentive-physical-object;['listowa jemjelica', 'jemjelica'];Listowa jemjelica jo rostlina ze swójźby sandelowych rostlinow.
+agentive-physical-object;['cypresowe wjelkowe mloko', 'euphorbia cyparissias'];Cypresowe wjelkowe mloko jo rostlina ze swójźby wjelkomlokowych rostlinow.
+agentive-physical-object;['carny bóśon', 'ciconia nigra'];Carny bóśon jo ptašk ze swójźby bóśony.
+agentive-physical-object;['kšušcyna', 'zagrodna kšušcyna', 'kšuška'];Kšušcyna jo rod ze swójźby rožowych rostlinow.
+agentive-physical-object;['kšušcyna', 'zagrodna kšušcyna', 'kšuška'];Zagrodna kšušcyna jo bom ze swójźby rožowych rostlinow.
+agentive-physical-object;['wšedny blušć', 'hedera'];Wšedny blušć jo rostlina ze swójźby aralijowych rostlinow.
+agentive-physical-object;['šup', 'procyon lotor'];Šup jo rubjažne zwěrje, kótarež jo pódobne małkemu mjadwjeźoju z dłujkim wopušom markěrowany wót barwojtych smužkow.
+agentive-physical-object;['pódwjacorny oposum', 'didelphis virginiana'];Pódwjacorny oposum jo zwěrje ze swójźby měškarjowych ratwow.
+agentive-physical-object;['hejduša', 'fagopyrum esculentum', 'pšusnica'];Hejduša jo rostlina ze swójźby kólejowych rostlinow.
+agentive-physical-object;['kralojska strelicija'];Kralojska strelicija jo rostlina ze swójźby strelicijowych rostlinow.
+agentive-physical-object;['bubliny', 'knautia arvensis', 'rolne bubliny'];Bubliny jo rostlina z pódswójźby drapalcowych rostlinow znutśika swójźby kózylistowych rostlinow.
+agentive-physical-object;['cybulinka', 'allium schoenoprasum'];Cybulinka jo rostlina z pódswójźby kobołkowych rostlinow znutśika amarylisowych rostlinow.
+agentive-physical-object;['kulrabij'];Kulrabij (Brassica oleracea var.
+agentive-physical-object;['pókšyty semjenjak', 'magnoliopsida', 'pókšyte semjenjaki'];Pókšyty semjenjak jo nejwětša klasa ze pódwótrěda semjenicow.
+agentive-physical-object;['muchoradło', 'amanita muscaria'];Muchoradło nim.
+agentive-physical-object;['górkosłodka ronica'];Górkosłodka ronica jo rostlina ze swójźby ronicowych rostlinow.
+agentive-physical-object;['krickata roža'];Krickata roža je rostlina ze swójźby rožowych rostlinow.
+agentive-physical-object;['kisała wišnja', 'wišńa', 'prunus cerasus'];Kisała wišnja jo sadowy bom ze swójźby rožowych rostlinow.
+agentive-physical-object;['cerwjena lěsna mroja', 'formica rufa'];Cerwjena lěsna mroja jo zastupnik familije mrojow.
+agentive-physical-object;['małki panda', 'ailurus fulgens', 'cerwjeny panda'];Małki panda, teke cerwjeny panda jo družyna ze swójźby.
+agentive-physical-object;['mjeńša rogož'];Mjeńša rogož jo rostlina ze swójźby rogožowych rostlinow.
+agentive-physical-object;['gryzarje'];Gryzarje su zwěrjeta, kótarež słušaju ku klasy cycakow kaž pórěd.
+agentive-physical-object;['kardamom'];Kardamom jo rostlina ze swójźby jumbjerowych rostlinow, kótaraž se ako wěrca wužywa.
+agentive-physical-object;['tśmjel', 'bombak'];Tśmjel jo rod insektow.
+agentive-physical-object;['rys', 'lynx'];Rys jo rod ze swójźby kóckow.
+agentive-physical-object;['mandarinowy bom', 'mandarina'];Mandarinowy bom jo bom ze swójźby rutowych rostlinow.
+agentive-physical-object;['koala', 'phascolarctos cinereus'];Koala jo bomy wobydlujucy měškaŕ w Awstraliji.
+agentive-physical-object;['pšawa kwitula', 'kwitula'];Pšawa kwitula jo kerk abo bom ze swójźby rožowych rostlinow.
+agentive-physical-object;['wišnjowa slěwcyna', 'prunus cerasifera'];Wišnjowa slěwcyna jo kerk abo bom ze swójźby rožowych rostlinow.
+agentive-physical-object;['lěsne njezabyńki', 'myosotis sylvatica'];Lěsne njezabyńki jo družyna swójźby boretšowych rostlinow.
+agentive-physical-object;['mandlowy bom', 'mandel', 'prunus dulcis'];Mandlowy bom jo kerk abo bom ze swójźby rožowych rostlinow.
+agentive-physical-object;['pšawa wušpula'];Pšawa wušpula jo bom abo kerk ze swójźby rožowych rostlinow.
+agentive-physical-object;['pódwjacorna tuja', 'thuja occidentalis'];Pódwjacorna tuja jo bom ze swójźby cypresowych rostlinow.
+agentive-physical-object;['cerwjeny rys', 'lynx rufus'];Cerwjeny rys jo zwěrje ze swójźby kóckow.
+agentive-physical-object;['wšedna lěšćina'];Wšedna lěšćina jo kerk z pódswójźby lěskowych rostlinow znutśika swójźby brjazowych rostlinow.
+agentive-physical-object;['bergamota'];Bergamota (botaniski korektnje Citrus × limon, syn.
+agentive-physical-object;['kuniny pjas', 'nyctereutes procyonoides'];Kuniny pjas jo rubjažne zwěrje ze swójźby psow.
+agentive-physical-object;['kristusowy śerń', 'euphorbia milii'];Kristusowy śerń (Euphorbia milii, Syn.: Euphorbia bojeri Hook., Euphorbia splendens Bojer ex Hook., Euphorbia splendens var.
+agentive-physical-object;['gjarbikaty šwon'];Gjarbikaty šwon jo ptašk ze swójźby kackowych ptaškow.
+agentive-physical-object;['zagrodny mak'];Zagrodny mak jo rostlina ze swójźby makowych rostlinow.
+agentive-physical-object;['wšedny spinat'];Wšedny spinat jo rostlina ze swójźby.
+agentive-physical-object;['pódpołnocny mak', 'papaver nudicaule'];Pódpołnocny mak jo rostlina ze swójźby makowych rostlinow.
+agentive-physical-object;['bagnowa łokaśina'];Bagnowa łokaśina jo rostlina ze swójźby górkacowych rostlinow.
+agentive-physical-object;['majs', 'zea mays'];Majs jo rostlina ze swójźby słodkich tšawow.
+agentive-physical-object;['wšedna jaseń'];Wšedna jaseń jo bom ze swójźby wólejobomow.
+agentive-physical-object;['himalajaska cedra'];Himalajaska cedra jo bom ze swójźby chójcowych rostlinow.
+agentive-physical-object;['pšawa cypresa'];Pšawa cypresa jo bom ze swójźby cypresowych rostlinow.
+agentive-physical-object;['jěre wjelkowe mloko', 'euphorbia esula'];Jěre wjelkowe mloko jo rostlina ze swójźby wjelkomlokowych rostlinow.
+agentive-physical-object;['europski larik'];Europski larik jo rostlina ze swójźby chójcowych rostlinow.
+agentive-physical-object;['wětša rogož'];Wětša rogož jo rostlina ze swójźby rogožowych rostlinow.
+agentive-physical-object;['wšedny škrjok', 'picea abies'];Wšedny škrjok jo bom ze swójźby chójcowych rostlinow.
+agentive-physical-object;['módry škrjok'];Módry škrjok jo bom ze swójźby chójcowych rostlinow.
+agentive-physical-object;['běła jedła'];Běła jedła jo bom ze swójźby chójcowych rostlinow.
+agentive-physical-object;['aprikozowy bom', 'prunus armeniaca'];Aprikozowy bom jo sadowy bom ze swójźby rožowych rostlinow.
+agentive-physical-object;['knochac', 'calendula officinalis'];Knochac jo rostlina ze swójźby kóšowych kwětarjow.
+agentive-physical-object;['cerwjena liška', 'liška', 'vulpes vulpes'];Cerwjena liška jo rubjažne zwěrje ze swójźby psow.
+agentive-physical-object;['běły bóśon'];Běły bóśon jo ptašk ze swójźby bóśony.
+agentive-physical-object;['citronatowa citrona'];Citronatowa citrona jo bom ze swójźby rutowych rostlinow.
+agentive-physical-object;['wójcyna rotwica'];Wójcyna rotwica jo rostlina ze swójźby kóšowych kwětarjow, z roda rotwicow.
+agentive-physical-object;['łucna lipnica', 'poa pratensis'];Łucna lipnica jo rostlina ze swójźby słodkich tšawow.
+agentive-physical-object;['ptaški', 'aves'];Ptaški su klasa rěpnikow.
+agentive-physical-object;['rolna pówitka'];Rolna pówitka jo rostlina ze swójźby pówitkowych rostlinow.
+agentive-physical-object;['rolny žonop'];Rolny žonop jo rostlina ze swójźby kśicnokwětarjowych rostlinow.
+agentive-physical-object;['běły mjadwjeź', 'lodny mjadwjeź', 'thalarctos maritimus', 'ursus maritimus'];Běły mjadwjeź jo nejwětša družyna mjadwjeźow.
+agentive-physical-object;['zemski wórješk'];Zemski wórješk jo rostlina ze swójźby łušćinowych rostlinow.
+agentive-physical-object;['carny janowy krick', 'carna janowka', 'ribes nigrum'];Carny janowy krick jo kerk ze swójźby hendryškowych rostlinow.
+agentive-physical-object;['rosmarin', 'rosmarinus officinalis', 'rosmarija'];Rosmarin jo rostlina ze swójźby gubkatych kwitarjow.
+agentive-physical-object;['źiwa jabłušcyna'];Źiwa jabłušcyna jo bom ze swójźby rožowych rostlinow.
+agentive-physical-object;['pšawa kastanija'];Pšawa kastanija jo bom ze roda kastanija znutśika swójźby bukowych rostlinow.
+agentive-physical-object;['chilska słynica', 'fragaria chiloensis'];Chilska słynica jo rostlina ze swójźby rožowych rostlinow.
+amount-of-matter;['chemiska wězba'];Chemiska wězba jo pomjenjowanje za kšutu zwězanosć mjazy nejmjeńšymi źělkami, a to mógu byś atomy, iony abo molekule.
+amount-of-matter;['wóda', 'woda', 'h₂o'];Wóda jo chemiska wězba, kótaraž jo njewuzbytna za wšych žywych byśow na zemi.
+amount-of-matter;['wuglikowy dioksid', 'co2'];Wuglikowy dioksid jo bźezbarwny, njewónjaty płun, kótaryž jo śěšy ako powětš.
+amount-of-matter;['wóźik', 'h'];Wóźik jo chemiski element ze symbolom H a ordinalnym licbnikom 1.
+amount-of-matter;['wuglik', 'c'];Wuglik
+amount-of-matter;['piśe', 'napoj'];Piśe jo žydkosć, z kótarejž se luźe a zwěrjeta napiju.
+amount-of-matter;['brandy'];Brandy jo paleńc, kenž se producěrujo pśez destilaciju wina.
+amount-of-matter;['wino'];Wino jo alkoholiski napoj ze z droždźejami pśeźěłaneje mězgi winowych jagodow.
+biological-object;['jabłukowy płod'];Pód jabłukowym płodom rozměju w rostlinskej morfologiji pśez wóskowu celinu seś zwězane kompleksne měchowe płody.
+biological-object;['citrusowe płody', 'citrus'];Citrusowe płody jo rod ze swójźby rutowych rostlinow.
+biological-object;['linsa'];Linsa jo źěl woka rozdźělnych zwěrjetow a cłowjeka.
+biological-object;['kisć'];Kisć, teke łoś jo kwiśonkowy stołk, pśi kótaremž bocne wóski njasu jadnore abo roznogaśowane grany.
+biological-object;['šyška'];Šyška jo žeński kwiśonkowy stołk a z jeje se wuwiwace semjenstwo koniferow a wólšow.
+biological-object;['twardopackaty płod'];Twardopackate płody su zacynjone płody, pśi kótarychž semje jo wót wódrjewjoneje packi wobedane.
+biological-object;['pózdatny płod'];Jolic pśi wutwórjenju płoda se wobźěliju teke druge źěle kwiśonki mimo płodnika (na pś.
+biological-object;['jabłuko'];Jabłuko jo płod jabłušcyny, pśedewšym wót družyny zagrodna jabłušcyna.
+biological-object;['kłos'];Kłos jo njeroznogaśowany kwiśonkowy stołk, kótaryž njaso sejźece jadnotliwe kwiśonki na pódlejšonej głownej wósce.
+biological-object;['keluchowe łopjenko'];Kełuchowe łopjenka twórje keluch kwiśonki pókšytosemjenjoweje rostliny a su wenkowne, wótergi gropnjejše a wótergi zelene kwiśonkowe pśikšywne łopjenka, mógu wšak teke druge barwy měś abo kaž kronowe łopjenka wuglědaś.
+biological-object;['kronowe łopjenko'];Kronowe łopjenka su nutśikowne kwiśonkowe pśikšywne łopjenka.
+biological-object;['nažka'];Nažka jo warianta wórjechow, kótaraž wustupujo pśi zestajenkowych rostlinach.
+biological-object;['limeta', 'citrus aurantifolia'];Limeta jo bom ze swójźby rutowych rostlinow.
+biological-object;['psowica'];Psowica (Prunus domestica subsp.
+biological-object;['mórzgi'];Mórzgi su źěl cłowjecego a zwěrjecego śěła, mjenjeju se teke centralny nerwowy system.
+biological-object;['stołk'];Stołk pomjenjuju se w botanice ze sobu zrosćone płodowe łopjeńka kwiśonki wóterych pókšytych semjenjakow.
+biological-object;['łopjeno'];Łopjeno jo asimilaciski organ wušych rostlinow a wopśimjejo zwětšego zeleny chlorofyl.
+biological-object;['płodnik'];Ako płodnik abo ovar se w botanice brjuchaty źěl stołka wóznamjenjujo, w kótarymž jo semjenišćo z jajkowymi celami.
+biological-object;['płod'];Płod rostliny jo kwiśonka w stawje semjenjoweje zdrjałosći.
+biological-object;['kórjeń'];Kórjeń jo pódzemski źěl rostliny, kótaryž rostlinje pśiwześe wódy a seśeńskich srědnosćow zmóžni.
+biological-object;['grana'];Grana jo kwiśonkowy stołk, pśi kótaremž głowna wóska njaso wogonkate kwiśonki a pódlańske wóski su mjenjej wěcej jadnak dłujke.
+chemical-object;['molekul'];Molekul jo źěl, kótaryž wobstoj z dweju abo wěcej atomow zwězanych pśez kowalentnu wězbu.
+classification-system;['gregorjaniska pratyja', 'gregorjaniski kalendaŕ', 'gregorjaniski kalender'];Gregorjaniska pratyja jo pratyja, kótaraž jo źinsa swětadaloko rozšyrjona a toś nejwažnjejšy pratyjowy system na swěśe.
+ecological-collective;['rostliny', 'rostlinstwo'];Rostliny twórje swójski swět znutśika domena žywych byśow ze celowym jědrom a celoweju membranu.
+functional-matter;['korejańske pismo', 'korejske pismo'];Korejańske pismo jo pismikowe pismo, kótarež se za korejańšćinu wužywa.
+functional-matter;['kulka', 'knydel', 'knydla', 'knygla', 'solanum tuberosum'];Kulka jo rostlina ze swójźby ronicowych rostlinow.
+functional-matter;['piśe', 'napoj'];Piśe jo žydkosć, z kótarejž se luźe a zwěrjeta napiju.
+functional-matter;['citrusowe płody', 'citrus'];Citrusowe płody jo rod ze swójźby rutowych rostlinow.
+functional-matter;['wšedna bagnowa cypresa', 'taxodium distichum'];Wšedna bagnowa cypresa jo rostlina ze pódswójźby znutśika cypresowych rostlinow.
+functional-matter;['zagrodna krjasa', 'lepidium sativum'];Zagrodna krjasa jo rostlina ze swójźby kśicnokwětarjowych rostlinow.
+functional-matter;['brandy'];Brandy jo paleńc, kenž se producěrujo pśez destilaciju wina.
+functional-matter;['zelenina'];Zelenina jo rostlinske žywidła, kótarež njewarjone abo pó wosebnem pśigótowanju cłowjeskej carobje słuže.
+functional-matter;['wjelicki mamutowy bom', 'sequoiadendron giganteum', 'sequoiadendron'];Wjelicki mamutowy bom jo bom ze swójźby cypresowych rostlinow.
+functional-matter;['wino'];Wino jo alkoholiski napoj ze z droždźejami pśeźěłaneje mězgi winowych jagodow.
+functional-matter;['jabłuko'];Jabłuko jo płod jabłušcyny, pśedewšym wót družyny zagrodna jabłušcyna.
+functional-matter;['brunica', 'bruny wugel'];Brunica abo bruny wugel jo brunocarna sedimentowa kamizna.
+functional-matter;['pśimórski mamutowy bom', 'sequoia sempervirens', 'sequoia'];Pśimórski mamutowy bom jo bom ze swójźby cypresowych rostlinow.
+functional-matter;['limeta', 'citrus aurantifolia'];Limeta jo bom ze swójźby rutowych rostlinow.
+functional-matter;['topinambur'];Topinambur jo rostlina ze swójźby kóšowych kwětarjow.
+functional-matter;['psowica'];Psowica (Prunus domestica subsp.
+geographical-object;['azowske mórjo'];Azowske mórjo jo małke mórjo w krotkozajtšnem źělu Europy.
+geographical-object;['jazor', 'jazoro'];Jazor słuša ku kategoriji stojecych wódow, kótarež mógu pśi- abo wóttok běžeceje wódy měś a su dopołnje z krajoweju płoninu wobdane.
+geographical-object;['apenninska połkupa'];Appeninska połkupa jo europska połkupa w Srjejźnem mórju, jadna z tśi nejwětšych pódpołdnjowych europskich połkupow.
+geographical-object;['kajmany'];Kajmany jo kupowy wótwisny teritorij Zjadnośonego kralojstwa w Atlantiskem oceanje.
+geographical-object;['anguilla'];Anguilla jo kupowy wótwisny teritorij Wjelikeje Britaniskeje w Karibiskem mórju.
+geographical-object;['pódpołdnjowa amerika'];Pódpołdnjowa Amerika jo kontinent, kótaryž lažy na pódpołdnjowej zemskej połkuli.
+geographical-object;['mórjo'];Mórjo jo zwisujuca masa słoneje wódy, kótaraž něźi 70 % zemskego powjercha pókšyjo.
+geographical-object;['don'];Don jo 1870 kilometrow dłujka rěka w pódpołdnjowej Rusojskej, kótaraž se na srjejźorusojskej plaśe blisko Nowomoskowska w Tulskej oblasći wužrědli a za Rostowom do Azowskego mórja wulewa.
+geographical-object;['tajo'];Tajo abo Tejo jo z dłujkosću wót 1.007 kilometrow nejdlejša rěka Iberiskeje połkupy a běžy pśez Špańsku a Portugalsku.
+geographical-object;['republika chinskeje', 'republika chinska'];Republika Chinska, teke znata ako Taiwan, jo kupowy stat w Aziji.
+geographical-object;['färöje', 'färöske kupy'];Pśedłoga:Infokašćik kupa/wótwardowanje/wobraz felujo Färöje jo samostatny dański kupny teritorij, w kótaremž jo bydliło wokoło 48.574 wobydlarjow w lěśe 2011.
+geographical-object;['bermudy', 'bermuda'];Bermudy jo kupowy wótwisny teritorij Zjadnośonego kralojstwa w Atlantiskem oceanje.
+geographical-object;['nižozemske antile', 'nižozemske antile]'];Nižozemske Antile jo kupowy wótwisny teritorij Nižozemskeje w Karibiskem mórju.
+geographical-object;['małe antile', 'małe antille'];Małe Antile su rěd kupow w pódzajtšnem Karibiskem mórju, kótaryž se wót venezuelskeho pśibrjoga na pódpołdnju až ku Kněžniskim kupam na pódpołnocy rozpśestrěwa.
+geographical-object;['kanariske kupy'];Kanariske kupy su kupka 7 wjelikich kupow a někotarych mjeńšych kupkow w Atlantiskem oceanje.
+geographical-object;['falklandy', 'falklandske kupy'];Falklandy su wótwisny teritorij Zjadnośonego krajlojstwa w pódpołdnjowem Atlantiskem oceanje.
+geographical-object;['guinejiski golf'];Guinejiski golf jo toś ten źěl Atlantiskego oceana, kótaryž granicujo z pśibrjogom pódwjacorneje Afriki na pódpołnocy a srjejźneje Afriki na pódzajtšu.
+geographical-object;['aralski jazor'];Aralski jazor jo bźezwótběgowy słony jazor w Srjejźnej Aziji, kótaryž wobstoj wusušenja dla mjaztym z tśich źělow.
+geographical-object;['ocean'];Ako ocean pomjenjuju se nejwětše mórja swěta – wótergi wužywa se teke synonym swětowe mórjo.
+geographical-object;['oceanija'];Oceanija jo wóznamjenjenje za kulturelne a góspodaŕske zabranje kupowego swěta Pacifika ku kontinentoju.
+geographical-object;['balkańska połkupa'];Balkańska połkupa se namaka w krotkozajtšnem źělu Europy.
+geographical-object;['kaspiske mórjo'];Kaspiske morjo azerbajdžaniski Xəzər dənizi, persiski دریای خزر, rusojski Каспийское море, turkmenski Каспий теңізі, hazari Hazar deňzi jo nejwětšy jazor na Zemi, młogi raz źaržany za mórjo.
+geographical-object;['kongo'];Kongo jo wjelika rěka we srjejźnej Africe, druga nejdlejša rěka kontinenta.
+geographical-object;['ryn'];Ryn (nim.
+geographical-object;['rěcka'];Rěcki su małe a pśirodne běžece wódy.
+geographical-object;['arabiske mórjo'];Arabske morjo jo źěl Indiskego oceana mjaz Aziju a Afriku.
+geographical-object;['svalbard'];Svalbard jo kupka kupow w pódpołnocnem Atlantiskem resp.
+geographical-object;['arabiska połkupa', 'arabska połkupa'];Arabiska połkupa se wupśestrěwa na Bliskem pódzajtšu mjaz Aziju a Afriku.
+geographical-object;['pyrenejska połkupa', 'iberiska połkupa'];Pyrenejska połkupa jo wjelika połkupa na krotkem wjacorje Europy, nejwěcej pódwjacornje z tśich wjelikich pódpołdnjowych europskich połkupow – Pyrenejskeje, Apenninskeje a Balkańskeje.
+geographical-object;['karelska'];Karelska jo historiska krajina na dłujkem pódwjacorje Rusojskeje a w pódzajtšnej Finskej.
+geographical-object;['łobjo'];Łobjo (nim.
+geographical-object;['wolga'];Wolga jo wjelika rěka w Rusojskej a jo 3.530 km dłujka.
+geographical-object;['wumarłe mórjo'];Wumarłe mórjo (hebrejsce יָם הַ‏‏מֶּ‏‏לַ‏ח, Jam ha-melach ?
+geographical-object;['carne mórjo'];Carne mórjo jo nutśikokrajne mórjo Srjejźnego mórja, z kótarymž jo zwězane pśez mórske wuscyny Bosporus a Dardanelle a pśez Egejske mórjo.
+geographical-object;['baltiske mórjo'];Baltiske mórjo, teke Pódzajtšne mórjo jo šelfowe mórjo Atlantiskego oceana, wót kótaregož jo hysći Pódpołnocne mórjo, wužyna Skagerrak a Kattegat źěla.
+geographical-object;['persiski zalew', 'persiski golf'];Persiski zalew abo Persiski golf jo zalew Indiskego oceana na krotkem wjacorje Azije.
+geographical-object;['gat'];Gat słuša ku kumštnje stwórjonym stojecym wódam ze snadnej dłymokosću a nejmjeńša jadnym pśi- a wóttokom.
+geographical-object;['ebro'];Ebro jo wjelika rěka w dłujkem zajtšu Špańskeje.
+geographical-object;['pódpołdnjowochinske mórjo'];Pódpołdnjowochinske mórjo jo nakšomne mórjo w pódwjacorje Śichego oceana pśi krotkozajtšnej kšomje Azije.
+geographical-object;['krim'];Krim jo połkupa w Carnem mórju a nejwěcej pódpołdnjowy źěl Ukrainy.
+geographical-object;['niger'];Niger jo wjelika rěka w pódwjacornej Africe.
+geographical-object;['baleary'];Baleary su k Špańskej słušeca kupka kupow a špańska awtonomny region w pódwjacornem źělu Srjejźnego mórja.
+geographical-object;['shetland'];Pśedłoga:Infokašćik kupa/wótwardowanje/wobraz felujo Shetland jo šotiski kupny teritorij we Pódpołnocnem mórju pśi Norwegskej a kupach Färöje a Orkney, źož jo bydliło wokoło 22 000 wobydlarjow w lěśe 2001, 1 466 km².
+geographical-object;['orkney'];Pśedłoga:Infokašćik kupa/wótwardowanje/wobraz felujo Orkney jo kupna kupka Šotiskeje, źož jo bydliło wokoło 19 590 wobydlarjow w lěśe 2005.
+geographical-object;['karibiske mórjo'];Karibiske mórjo jo pódlańske mórjo Atlantiskego oceana.
+geographical-object;['egejske mórjo'];39°N 25°E Egejske mórjo jo mórjo mjaz europskeju Balkańskeju połkupu a aziskeju Anatoliskeju, pódlańske mórjo Srjejźnego mórja.
+geographical-object;['tyrrenske mórjo'];Tyrrenske mórjo jo źěl Srjejźnego mórja pśi pódzajtšnem brjoze Apenninskeje połkupy, kótara jo wótźělujo wót Jadrańskego mórja.
+geographical-object;['ligurske mórjo'];Ligurske mórjo jo małe mórjo pśi pódwjacornem brjoze Apenninskeje połkupy.
+geographical-object;['jadrańske mórjo'];Jadrańske mórjo jo źěl Srjejźnego mórja, pótakem słuša k mórjam Atlantiskego oceana.
+geographical-object;['ioniske mórjo'];Ioniske mórjo jo źěl Srjejźnego mórja a pótakem teke źěl Atlantiskego oceana.
+geographical-object;['pódpołnocne mórjo'];Pódpołnocne mórjo jo nakšomne mórjo Atlantiskego oceana na dłujkem wjacorje Europy.
+geographical-object;['japańske mórjo'];Japańske mórjo jo nakšomne mórjo Śichego oceana.
+geographical-object;['antarktika'];Antarktika jo kontinent, kótaryž lažy na pódpołdnjowej zemskej połkuli póla geografiskego pódpołdnjowego pola.
+geographical-object;['marmarske mórjo'];Marmarske mórjo jo małe nutśikokrajne mórjo Srjejźnego mórja.
+geographical-object;['wjelika britaniska'];Wjelika Britaniska jo kupa w Atlantiskem oceanje, a źewjeta nejwětša kupa na Zemi.
+geographical-object;['martinique', 'martinika'];Martinique jo kupa na pódzajtšu Karibiskego mórja, kótaraž słuša k Małym Antilam.
+geographical-object;['guadelupa'];Guadelupa jo kupowy wótwistny teritorij Francojskeje w Atlantiskem oceanje.
+geographical-object;['pódpołnocny polarny ocean', 'arktiski ocean'];Pódpołnocny polarny ocean jo nejmjeńšy ocean na Zemi.
+geographical-object;['amerika'];Amerika jo kontinent.
+geographical-object;['man', 'isle of man'];Kupa Man lažy w Irskem mórju mjaz Engelskeju, Šotiskeju, Irskeju a Waliziskeju.
+geographical-object;['beringowe mórjo'];Beringowe mórjo jo nakšomne mórjo Śichego oceana.
+geographical-object;['pódzajtšochinske mórjo'];Pódzajtšochinske mórjo jo nakšomne mórjo Śichego oceana.
+geographical-object;['žołte mórjo'];Žołte mórjo jo mě pó pódpołnocny źěl Pódzajtšochinskego mórja, nakšomnego mórja Śichego oceana.
+geographical-object;['atlantiski ocean'];Atlantiski ocean abo Atlantik jo wódowa płoń mjaz Afriku, Europu a Ameriku.
+geographical-object;['huronski jazor'];Huronski jazor jo drugi nejwětšy jazor Pódpołnocneje Ameriki a stwórty nejwětšy cełego swěta.
+geographical-object;['dunaj'];Dunaj (nim.
+geographical-object;['michiganski jazor'];Michiganski jazor jo tśeśi nejwětšy jazor Pódpołnocneje Ameriki a pěty nejwětšy cełego swěta.
+geographical-object;['eurazija'];Eurazija jo wobznamjenjenje za zwisujucy kontinent na Zemi wobstajucy z dweju kontinentowu Europy a Azije, jo źěl Eurafrazije.
+geographical-object;['górny jazor'];Górny jazor jo nejwětšy jazor Pódpołnocneje Ameriki a drugi nejwětšy cełego swěta.
+geographical-object;['grönlandska'];Grönlandska jo nejwětša kupa na swěśe a awtonomny teritorij dańskego kralojstwa w pódpołnocnem Atlantiskem oceanje.
+geographical-object;['viktoriaski jazor'];w1Viktoriaski jazor jo nejwětšy jazor w Africe a pó Kaspiskem mórju a Górnem jazorje tśeśi nejwětšy cełego swěta.
+geographical-object;['śichy ocean'];Śichy ocean jo nejwětšy ocean na Zemi.
+geographical-object;['mallorca'];Mallorca jo kupa w pódwjacornem źělu Srjejźnego mórja.
+geographical-object;['salomonske kupy'];Salomonske kupy su na krotkem zajtšu wót Noweje Gineje lažeca kupka kupow w pódpołdnjowem śichem oceanje.
+geographical-object;['norwegske mórjo'];Norwegske mórjo jo nakšomne mórjo Atlantiskego oceana.
+geographical-object;['wódy'];Wódy wopśimjeju cełu w pśiroźe se jawjecu běžecu a stojatu wódu.
+geographical-object;['skandinawiska połkupa'];Skandinawiska połkupa jo połkupa na pódpołnocy Europy.
+geographical-object;['gibraltarski pśelew'];Gibraltarski pśelew jo mórski pśelew, kótaryž zwězujo Srjejźne mórjo z Atlantiskim oceanom a wótźělujo Špańsku a Gibraltar na europskej Pyrenejskej połkupje wót Marokka w Africe.
+geographical-object;['nil'];Nil jo wjelika rěka w Africe.
+gestalt;['kwadrat'];Kwadrat jo płony geometriski twaŕ, wjelerožk ze styrimi bokami, kótaregož wšykne kuty su pšawokuty a wšykne boki su jadno dłujke.
+gestalt;['ruta'];Ruta jo płony geometriski twaŕ, styrirožk kótaregož wšykne strony su rowno dłujke.
+gestalt;['pšawokut', 'pšaworog'];Pšawokut jo płona geometriska forma, styrirožk kótaregož wšykne kuty su pšawe kuty.
+gestalt;['paralelogram'];Paralelogram jo płony geometriski twaŕ, styrirožk kótaryž ma naprěcne strony paralelne.
+information-encoding-system;['drama'];Drama (z grich.
+information-object;['alofon'];Alofon (z grich.
+information-object;['fonem'];Fonem jo nejmjeńša wóznam rozpóznawajuca jadnotka rěcnego systema.
+information-object;['bilabial'];Bilabial jo wopśimjeśe z rěcywědy.
+information-object;['pšašak'];Pšašak jo interpunkciske znamuško, kótarež se wužywa za wóznamjenjenje pšašajuceje sady.
+information-object;['plural'];Plural, teke mnogota jo numerusowa kategorija, kótaraž wóznamjenijo wěcej ako dwa elementa a w rěcach bźez duala samo wěcej ako jaden element.
+information-object;['swastika', '卐', 'kokulata kśica'];Swastika pópšawem jo hinduistiski a buddhistiski symbol za gluku.
+information-realization;['seśowy wobglědowak'];Seśowy wobglědowak jo licakowy program, kótaryž słužy k wobglědowanju interneta.
+information-realization;['nowela'];Nowela jo krotša powěźeńka w prozowej formje.
+information-realization;['powěsć'];Powěsć – krotke, nejpjerwjej wustne pón wobśěrjone wulicowanje wó bajkotno-fantastiskich wupyšnjonych historiskich abo mytologiskich tšojenjach abo tšojenjach w pśiroźe.
+information-realization;['sonet'];Sonet jo forma basni.
+information-realization;['evangeliom swětego lukaša'];Evangeliom swětego Lukaša jo tśeśi ewangelium z Nowego testamenta.
+information-realization;['evangeliom swětego matthejusa'];Evangeliom swětego Matthejusa jo prědny ewangeliom z Nowego testamenta.
+information-realization;['koran'];Koran su swěte knigły muslimow.
+information-realization;['nowy testament'];Nowy testament jo woznamjenje drugego źěla Biblije.
+information-realization;['marseillaise'];La Marseillaise jo narodna hymna Francojskeje.
+information-realization;['biblija'];Biblija jo swěte pismo kśesćijanow.
+language;['staśaństwo'];Staśaństwo jo juristiska pśisłušnosć pśirodneje wósoby k jadnomu statoju, z kótarejež wuchadaju wěste bergaŕske pšawa a winowatosći.
+language;['pódwjacornogermaniske rěcy'];Pódwjacornogermaniske rěcy su kupka germaniskich rěcow.
+language;['baltiske rěcy'];Baltiske rěče jo kupka indoeuropskich rěcow we pódzajtšnej Europje.
+language;['germaniske rěcy'];Germaniske rěcy słuša k kupce indoeuropskich rěcow.
+language;['keltiske rěcy'];Keltiske rěcy twórje staru kupku indoeuropskich rěcow.
+language;['słowjańske rěcy', 'słowjańske rěce'];słowjańske rěcy jo kupka rěcow w Europje.
+language;['prušćina'];Prušćina jo wumarła baltiska rěc a jadnučki wěsty zastupjaŕ pódwjacornobaltiskeje kupki.
+language;['jidišćina'];Jidišćina - jo germaniska rěc.
+language;['tunguzske rěcy'];Tunguzske rěcy su jadna rěcnych swójźbow z 12 relatiwnje wusko pśiswójźbnymi rěcami, z kótarymiž powěda něźi 75.000 luźi w Pódpołnocnej Chinskej, Pódzajtšnej Sibirskej teritoriuma Rusojskej a źělach Mongolskej.
+language;['tupi-guaraniske rěcy'];Tupi-Guaraniske rěcy twórje nejwažnjejšu pódkupku Tupiskich rěcow w Pódpołdnjowej Americe.
+language;['uralske rěcy'];Uralske rěcy twórje samostatnu swójźbu.
+language;['finougriske rěcy'];Kupka finougriskich rěcow słuša k swójźbje uralskich rěcow.
+language;['drawidske rěcy'];Drawidske rěcy su rěcy na pódpołdnju Indiskej.
+language;['afroaziske rěcy'];Afroaziske rěcy jo rěcna swójźba z něźi 375 rěcami a wěcej ako 300 mil.
+language;['semitiske rěcy'];Semitiske rěcy su rěcy w Prědnej Aziji a pódpołnocnej Africe.
+language;['dańšćina', 'da', 'dan', 'dańska rěc'];Dańšćina jo pódpołnocnogermaniska rěc.
+language;['islandšćina'];Islandšćina jo pódpołnocnogermaniska rěc.
+language;['šwedšćina'];Šwedšćina jo pódpołnocnogermaniska rěc, kótaraž powěda něźi 9 mil.
+language;['bulgaŕska rěc', 'bulgarska rěc', 'bulgaršćina', 'bulgaŕšćina'];Bulgaŕska rěc
+language;['turkojske rěcy'];Turkojske rěcy su jadna z gałuzy altajskeje rěcneje swójźby, ale něgdy se maju za samostatnu rěcnu swójźbu.
+language;['turkojšćina', 'turkojska rěc'];Turkojšćina (Tur.
+language;['serbšćina', 'serbska rěc', 'serbski'];Serbšćina jo kupka pódwjacornosłowjańskeju rěcow, kenž se źinsa přewažnje we Łužycy powěda.
+language;['esperanto'];Esperanto jo planowa rěc.
+language;['pidgin'];Pidgin jo rěc z reducěrowanej gramatiku a mało słowoskłada.
+language;['rumunšćina', 'rumuńšćina'];Rumunšćina jo jadna rěc z romaniskich rěcow kótarež słušaju k indoeuropskim rěcam.
+language;['pódzajtšnogermaniske rěcy'];Pódzajtšnogermaniske rěcy su pódkupka germaniskich rěcow, kótarež źinsajšnego su wumarłe rěcy.
+language;['anatolske rěcy'];Anatolske rěcy su rěcy, kótarež jo se powědało wót 2.
+language;['engelšćina', 'jenźelšćina', 'engelska rěc'];Engelšćina jo germaniska rěc.
+language;['kurdšćina'];Kurdšćina jo indoeuropska rěc, kótaraž k irańskim rěcam słuša (resp.
+language;['łatyńšćina', 'łatyńska rěc'];Łatyńšćina, teke łatyńska rěc jo wumarła, ale něźi pśecej wužywana rěc.
+language;['chinšćina'];Chinšćina jo rěc, kótaraž se w Chinskej, na Taiwanje a w chinskich zgromaźeństwach we wukraju powěda.
+language;['maśeršćina'];Ako maśeršćinu wóznamjenja w ranem źiśetstwje bźez formalneje wucby nawuknjonu rěc, prědnu rěc.
+language;['egyptojska rěc'];Egyptojska rěc jo afroaziska rěc pśiswójźbna nejwěcej z berberskimi rěcami, semitiskimi rěcami a z rěcu bedža.
+language;['hebrejšćina'];Hebrejšćina jo afroaziska rěc, kótaraž jo w kupce semitiskich rěcow.
+language;['iršćina'];Iršćina an Ghaeilge jo keltiska rěc, kótaraž jo wužywana ako oficielna rěc w Irskej.
+language;['indoeuropske rěcy'];Indoeuropske rěcy su kupka rěcow, kótarež se su gromaźe wuwijali we wšakorakich stronach Eurazije z konstatěrowaneje indoeuropskeje prarěcy.
+language;['manšćina'];Manšćina abo Manx jo keltiska rěc, kótaraž se na kupje Man powěda.
+language;['romaniske rěcy'];Romaniske rěcy su rěcy, kótarež su se wuwili z łatyńšćiny.
+language;['grichišćina', 'grichiska rěc'];Grichišćina (grichiski: Ελληνική (γλώσσα) tj.
+language;['albanšćina', 'albańšćina'];Albanšćina jo oficielna rěc w Albańskej, ale teke na Kosovo a w Makedońskej.
+language;['armeńšćina'];Armeńšćina jo indoeuropska rěc, kótaruž se powěda w Armeńskej.
+language;['persišćina'];Persišćina, fârsî - abo teke pârsî - jo indoeuropska rěc.
+language;['okcitanšćina'];Okcitanšćina, teke Okcitanska rěc jo romaniska rěc.
+language;['irańske rěcy'];Irańske rěcy tworje pódswójźbu indoirańskich rěcow, kótarež słušaju k indoeuropskim rěcam.
+language;['swahilšćina'];Swahilšćina jo rěc, kenž se w pódzajtšnej Africe wužywa.
+language;['hindišćina', 'hindi', 'hindi rěc'];Hindišćina jo jadna z nejwěcej wužywanych rěcow w Indiskej a teke jadna z nejcesćej wužywanych rěcow na swěśe.
+language;['pódpołnocnogermaniske rěcy'];Pódpołnocnogermaniske rěcy su kupka germaniskich rěcow.
+language;['estnišćina'];Estnišćina jo rěc baltiskofinskeje gałuzy finougriskich rěcow, a togodla teke słuša k swójźbje uralskich rěcow.
+language;['finšćina'];Finšćina słuša k finougriskim rěcam, kótarež su swójźba znutśika uralskich rěcow.
+language;['letišćina'];Letišćina słuša do kupki baltiskich rěcow.
+language;['urdušćina', 'urdu'];Urdušćina jo zastojniska rěc w Pakistanje.
+language;['špańšćina'];Špańšćina, teke špańska rěc jo romaniska rěc.
+language;['arabska rěc', 'arabšćina'];Arabska rěc abo arabšćina jo afroaziska rěc ze semitiskej rěcnej swojźby.
+language;['cerkwinosłowjańska rěc', 'staro-cerkwjejno-słowjańska rěc', 'starocerkwinosłowjańska rěc', 'staro-cerkwjejno-słowjańska', 'cerkwinosłowjańšćina', 'cerkwjejno-słowjańska rěc', 'stara cerkwinosłowjańšćina'];Starocerkwinosłowjańska rěc
+language;['cerkwinosłowjańska rěc', 'staro-cerkwjejno-słowjańska rěc', 'starocerkwinosłowjańska rěc', 'staro-cerkwjejno-słowjańska', 'cerkwinosłowjańšćina', 'cerkwjejno-słowjańska rěc', 'stara cerkwinosłowjańšćina'];Cerkwinosłowjańska rěc jo liturgiska rěc Ortodoksneje cerkwje, ze swójźby pódpołdnjowosłowjańskich rěcow.
+language;['makedońska rěc', 'makedońšćina'];Makedońska rěc (mak.
+language;['pólšćina', 'pólska rec', 'pólska rěc'];Pólska rěc, pólšćina (pól.
+language;['česka rěc'];Česka rěc, słušajuca k słowjańskim rěcam, se powěda w Českej republice, źož jo wóna oficielna rěc.
+language;['serbisko-chorwatska rěc', 'bosnišćina'];Serbisko-Chorwatska rěc abo chorwatsko-serbiska rěc słuša do kupki pódpołdnjowosłowjańskich rěcow.
+language;['běłoruska rěc', 'běłorušćina'];Běłoruska rěc, teke běłorušćina (běł.
+language;['słowakska rěc', 'słowakšćina'];Słowakska rěc abo Słowakšćina (slk.
+language;['ukrainska rěc', 'ukrainšćina'];Ukrainska rěc, ukrainšćina (ukr.
+language;['rusojska rěc', 'rusojšćina', 'rušćina'];Rusojska rěc, rušćina (rus.
+language;['nimšćina', 'nimska rěc'];Nimšćina jo germaniska rěc.
+language;['nižozemšćina'];Nižozemšćina jo germaniska rěc.
+locative-role;['delhi'];Delhi (Dillī [ ˈdɪlːi ?
+locative-role;['charkiw'];Charkiw jo druge nejwětše město Ukrainy.
+locative-role;['edirne'];Edirne jo město w Turkojskej.
+locative-role;['sewastopol'];Sewastopol jo nejwětše město na połkupje Krim a zrazom wuznamny pśistaw pśi Carnem mórju.
+locative-role;['ho chi minh město', 'saigon'];Ho Chi Minh město jo nejwětše město Vietnama, něgajšna stolica Cochinchiny a pózdźej stolica Pódpołdnjowego Vietnama.
+locative-role;['marseille'];Marseille jo nejwažnjejšy francojski pśistaw, pó Parisu druge nejwětše město Francojskeje a teke głowne město historiskego kraja Provence a źinsajšnego regiona Provence-Alpes-Côte d'Azur.
+locative-role;['lipsk', 'leipzig'];Lipsk jo město w Sakskej.
+locative-role;['nürnberg'];Nürnberg jo bźezwokrejsne město w Bayerskej w Nimskej.
+locative-role;['los angeles'];Los Angeles jo město w Kaliforniskej w Zjadnośonych statach Ameriki.
+locative-role;['stuttgart'];Stuttgart jo město w krotkowjacornem źělu Nimskeje a stolica Baden-Württembergskeje.
+locative-role;['wrocław'];Wrocław jo z něźi 640 000 wobydlarjami stwórte nejwětše město Pólskeje a jo stolica wójwodstwa Dolnošlazyńska.
+locative-role;['omsk'];Omsk jo město w Rusojskej federaciji.
+locative-role;['sankt petersburg'];Sankt Petersburg jo město w Rusojskej, głowne město Lenigradskego wobcerka.
+locative-role;['gdańsk'];Gdańsk (nim.
+locative-role;['köln'];Köln jo wjelike město w Nimskej nad Rynom.
+locative-role;['monaco'];Monaco jo małučki staśik w krotkowjacornej Europje.
+locative-role;['sawana'];Sawana jo tropiski abo subtropiski typ wegetacije, pśi comž namakajomy zwisujuce kricki a skerjej wótwórjonu a źěratu drjewinu.
+locative-role;['pšuska'];Pšuska jo był historiski stat w lětach 1525-1947, kótaryž jo był na městnu źělow źinsajšnych statow: Nimskeje, Pólskeje, Rusojskeje, Litawskeje, Českeje republiki, Belgiskeje, Nižozemskeje a Dańskeje.
+locative-role;['normandija'];Normandija jo historiski region na pódpołnocy Francojskeje.
+locative-role;['frankfurt nad mainom', 'frankfurt am mein', 'frankfurt nad menem'];Frankfurt nad Mainom jo město w Nimskej w zwězkowem kraju Hesseńska.
+locative-role;['maharaštra', 'maharashtra'];Maharaštra jo zwězkowy stat Indiskeje.
+locative-role;['serbiska', 'serbiska republika', 'србија'];Serbiska jo kraj w pódzajtšnej Europje.
+locative-role;['durinska'];Durinska jo zwězkowy kraj Zwězkoweje republiki Nimska.
+locative-role;['sapporo'];Sapporo jo město w Japańskej.
+locative-role;['liverpool'];Liverpool jo wjelike engelske město w Zjadnośonem kralojstwje.
+locative-role;['łódź'];Łódź jo město w Pólskej, kótarež lažy w łódźskem wójwodstwje.
+locative-role;['wopśimjeśe płoni', 'wopśimjeśe płoniny'];Wopśimjeśe płoni jo geometriski a fyzikaliski termin wužywany pó měrjenje wjelikosći płoniny.
+locative-role;['hannover'];Hannover (platt.
+locative-role;['bordeaux'];Bordeaux jo město w krotkowjacornem źělu Francojskeje.
+locative-role;['göteborg'];Göteborg ?
+locative-role;['mandžuska', 'mandžuraja'];Mandžuraja jo region w dłujkopódzajtšnej Chinskej, wokoło městow Harbin, Shenyang a Changchun.
+locative-role;['šlazyńska'];Šlazyńska (pólski Śląsk, česki Slezsko, nimski Schlesien, šlaz.
+locative-role;['elsaska'];Elsaska jo jaden z 27 francojskich regionow, na pśestrěń pěty nejmjeńšy.
+locative-role;['litawska'];Litawska jo kraj w dłujkozajtšnej Europje.
+locative-role;['wladiwostok', 'vladivostok'];Wladiwostok jo město na pódzajtšu Rusojskeje federacije.
+locative-role;['sibirska'];Sibirska jo wjelikoskich krajinow z zemju.
+locative-role;['frygiska', 'frygija'];Frygiska jo była teritorium w Małej Aziji, źož su sedlili Frygi.
+locative-role;['sakska', 'saksojska'];Lichotny stat Sakska jo zwězkowy kraj Zwězkoweje republiki Nimska.
+locative-role;['lothringska'];Lothringska jo jaden z 27 francojskich regionow.
+locative-role;['krakow', 'kraków'];Krakow jo město w pódpołdnjowej Pólskej, w małopólskem wójewódstwje, nad rěku Wisłu.
+locative-role;['düsseldorf'];Düsseldorf jo město w pódwjacornem źělu Nimskeje a stolica Nordrhein-Westfalskeje.
+locative-role;['martinique', 'martinika'];Martinique jo kupa na pódzajtšu Karibiskego mórja, kótaraž słuša k Małym Antilam.
+locative-role;['são paulo'];São Paulo jo nejwětše město w Brazilskej a stolica pódpołdnjowego zwězkowego kraja São Paulo.
+locative-role;['gmejna'];Gmejna jo nejmjeńšy administratiwny wótźěl statow.
+locative-role;['casowa cona'];Casowa cona twórje źěle zemskego powjercha, w kótarejž samski, statnje zrědowany cas a samski datum płaśe.
+locative-role;['chicago'];Chicago jo město we Zjadnośonych statach Ameriki.
+locative-role;['wales', 'waliziska'];Wales jo jaden wót styrich krajnych źělow, kótarež słušaju k Wjelikej Britaniskej.
+locative-role;['münchen'];München jo stolica zwězkowego kraja Bayerskeje a kulturelne kaž teke ekonomiske srjejźišćo pódpołdnjoweje Nimskeje.
+locative-role;['palermo'];Palermo jo nejwětše město a stolica Siciliskeje w pódpołdnjowej Italskej.
+locative-role;['valparaíso'];Valparaíso jo pśistawowe město Chilskeje, źož jo zrazom sedło chilskego parlamenta.
+locative-role;['rio de janeiro'];Rio de Janeiro jo druge nejwětše město w Brazilskej.
+locative-role;['istanbul', 'konstantinopel'];Istanbul jo nejwětše město Turkojskeje a teke pěte nejwětše město swěta — ma 12,8 milionow wobydlarjow, ale njejo głowne město Turkojskeje.
+locative-role;['new york city'];New York jo nejwětše město we Zjadnośonych statach Ameriki.
+locative-role;['srjejźna amerika'];Srjejźna Amerika jo geografiski źěl Pódpołnocneje Ameriki, kótaryž se rozpśestrěwa wót Mexika w dłujkem wjacorje do Panamy w krotkem zajtšu.
+locative-role;['tropy'];Tropy su wobłuk na zemi, kótaryž se namaka na wobyma bokoma ekwatora mjazy wobrotnyma šyrinoma słyńca.
+locative-role;['antarktis', 'antarktida'];Antarktis jo strona wokoło pódpołdnjowego pola.
+locative-role;['sahara'];Sahara jo ze źewjeś milionow kwadratnymi kilometerami nejwětša pusćina na zemi.
+non-agentive-physical-object;['sari'];Sari jo tradicionelna drastwa indiskich žonow.
+non-agentive-physical-object;['dhoti'];Dhoti jo tradicionelne chólowy indiskich mužow.
+non-physical-collection;['islam'];Islam jo po kśesćijaństwje druga nejwětša nabóžnina we swěśe.
+non-physical-collection;['kśesćijaństwo'];Kśesćijaństwo jo nejwětša nabožnina we swěśe.
+parametrized-collection;['paśerc', 'paśerje'];Paśerc, paśerje, rožowc w katolskej cerkwi wót 13.
+phenomenon;['asimilacija'];Asimilacija jo pśipódobnjenje zukow.
+phenomenon;['korejańske pismo', 'korejske pismo'];Korejańske pismo jo pismikowe pismo, kótarež se za korejańšćinu wužywa.
+phenomenon;['tergaty wětš', 'štorm'];Tergaty wětš, teke štorm jo mócne mólenje atmosfera, zwětšego pśewóźone wót tšurnjenja abo sněga.
+phenomenon;['dešć'];Dešć jo nejcesćejša forma lejow z mrokawow.
+physical-body;['uniwersum'];Uniwersum (z łat.
+physical-body;['zemja'];Zemja jo planet słyńcu tśeśi nejblišy.
+physical-body;['mars', '♂'];Mars jo słyńcu stwórty nejblišy planet.
+physical-body;['merkur'];Merkur jo słyńcu nejblišy planet.
+physical-object;['wokno', 'hokno'];Wokno jo zwětšego styrirožkate wótwórjenje w domowej muri.
+physical-object;['sari'];Sari jo tradicionelna drastwa indiskich žonow.
+physical-object;['mansardowe kšywo'];Pomjenjowanje mansardowe kšywo póchada wót francojskego architekta Mansarta, kótaryž wšak toś tu twarsku formu njewunamaka.
+physical-object;['dhoti'];Dhoti jo tradicionelne chólowy indiskich mužow.
+physical-object;['linsa'];Linsa jo optiski statkujucy twarski element z dwěma swětło łamacyma płoninoma, z kótarejuž nejmjeńša jadna płonina jo konweksnje abo konkawnje wjelbowana.
+physical-object;['kružydło'];Kružydło jo rěd w geometriji ku kreslenju kólasowych cerow a kružnicowych łukow.
+physical-object;['kral'];Kral jo nejwažnjejša figura, bźez kótarejež se šach graś njegóźi.
+physical-region;['pšužyna'];Jolic póstajotej se na krejzu dwa někakejžkuli dypka a toś tej zwězujotej se pśez cery ze srjejźišćom krejza, stej woba źěla płoniny krejza, kótarejž wótźělujotej se pśez toś te cery jaden wót drugego, wurězka krejza.
+physical-region;['tyca', 'bogowa tyca'];Tyca jo sedymbarwny wobłuk na njebju, napśeśiwo słyńcu, se napórajuca dla refrakcije a difrakcije słyńcnych pšugow w chrapach dešća.
+political-geographic-object;['rumuńska'];Rumuńska jo kraj w krotkozajtšnej Europje.
+political-geographic-object;['jugosłowjańska'];Jugosłowjańska jo nastała pó Prědnej swětowej wójnje z tegdy njewótwisnych kralojstwow Serbiskeje a Carneje Góry.
+political-geographic-object;['delhi'];Delhi (Dillī [ ˈdɪlːi ?
+political-geographic-object;['charkiw'];Charkiw jo druge nejwětše město Ukrainy.
+political-geographic-object;['edirne'];Edirne jo město w Turkojskej.
+political-geographic-object;['sewastopol'];Sewastopol jo nejwětše město na połkupje Krim a zrazom wuznamny pśistaw pśi Carnem mórju.
+political-geographic-object;['ho chi minh město', 'saigon'];Ho Chi Minh město jo nejwětše město Vietnama, něgajšna stolica Cochinchiny a pózdźej stolica Pódpołdnjowego Vietnama.
+political-geographic-object;['marseille'];Marseille jo nejwažnjejšy francojski pśistaw, pó Parisu druge nejwětše město Francojskeje a teke głowne město historiskego kraja Provence a źinsajšnego regiona Provence-Alpes-Côte d'Azur.
+political-geographic-object;['lipsk', 'leipzig'];Lipsk jo město w Sakskej.
+political-geographic-object;['nürnberg'];Nürnberg jo bźezwokrejsne město w Bayerskej w Nimskej.
+political-geographic-object;['los angeles'];Los Angeles jo město w Kaliforniskej w Zjadnośonych statach Ameriki.
+political-geographic-object;['stuttgart'];Stuttgart jo město w krotkowjacornem źělu Nimskeje a stolica Baden-Württembergskeje.
+political-geographic-object;['wrocław'];Wrocław jo z něźi 640 000 wobydlarjami stwórte nejwětše město Pólskeje a jo stolica wójwodstwa Dolnošlazyńska.
+political-geographic-object;['omsk'];Omsk jo město w Rusojskej federaciji.
+political-geographic-object;['sankt petersburg'];Sankt Petersburg jo město w Rusojskej, głowne město Lenigradskego wobcerka.
+political-geographic-object;['gdańsk'];Gdańsk (nim.
+political-geographic-object;['köln'];Köln jo wjelike město w Nimskej nad Rynom.
+political-geographic-object;['pódpołnocna koreja', 'pódpołnocna korea'];Pódpołnocna Koreja, oficielnje Korejska ludowo-demokratiska republika, jo komunistiski stat w Aziji na pódpołnocnem źělu korejskeje połkupy.
+political-geographic-object;['norwegska', 'kongeriket noreg', 'kongeriket norge', 'noreg', 'norge'];Norwegska jo stat na skandinawiskej połkupje w pódpołnocnej Europje.
+political-geographic-object;['nižozemska'];Nižozemska jo kraj w pódwjacornej Europje.
+political-geographic-object;['lesotho'];Kralojstwo Lesotho jo njewótwisny nutśikokrajny stat w pódpołdnjowej Africe.
+political-geographic-object;['japańska', 'japońska'];Japańska jo kupowy kraj w Aziji w pódpołnocnem Śichem oceanje.
+political-geographic-object;['monaco'];Monaco jo małučki staśik w krotkowjacornej Europje.
+political-geographic-object;['samoa'];Samoa jo njewótwisny kupowy stat w pódwjacornem źělu Śichego oceana, kótaryž wobstoj ze pódwjacornych Samoaskich kupow, mjaztym až słušaju pódzajtšne kupy ako Amerikańska Samoa k Zjadnośonym statam.
+political-geographic-object;['centralnoafriska republika', 'centralnoafrikańska republika'];Centralnoafrikańska republika jo njewótwisny a rědko wobsedlony nutśikokrajny stat w srjejźnej Africe.
+political-geographic-object;['džibuti'];Džibuti jo mały kraj w pódzajtšnej Africe.
+political-geographic-object;['malayzija', 'malaysia'];Malayzija jo federatiwna konstitucionelna monarchija w krotkozajtšnej Aziji, na pódpołdnju Malajiskeje połkupy a na pódpołnocy kupy Borneo.
+political-geographic-object;['namibija'];Namibija jo kraj w pódpołdnjowej Africe.
+political-geographic-object;['antigua a barbuda'];Antigua a Barbuda jo kupowy kraj w Karaibskem mórju.
+political-geographic-object;['mauretańska'];Mauretańska jo kraj w pódwjacornej Africe.
+political-geographic-object;['belize'];Belize jo kraj w Srjejźnej Americe.
+political-geographic-object;['ekwatorialna guineja'];Ekwatorialna Guineja jo mała njewótwisna republika pśi Atlantiskem oceanje w centralnej Africe.
+political-geographic-object;['saint kitts a nevis', 'st. kitts a nevis'];Saint Kitts a Nevis jo kupowy kraj w Karibiskem mórju.
+political-geographic-object;['komory'];Komory su njewótwisny kupowy stat w Indiskem oceanje pśed afriskim pśibrjogom.
+political-geographic-object;['dominika'];Dominika jo kraj w Atlantiskem oceanje.
+political-geographic-object;['saint lucia', 'st. lucia'];Saint Lucia jo kupowy stat w Karibiskem mórju, kótaryž słuša k Pódwjacornoindiskim kupam a jo z cłonkom Commonwealtha.
+political-geographic-object;['engelska', 'jenźelska'];Engelska jo autonomny kraj we Wjelikej Britaniskej.
+political-geographic-object;['pódpołnocna irska'];Pódpołnocna Irska jo awtonomny kraj Wjelikeje Britaniskeje.
+political-geographic-object;['šwicaŕska', 'šwicojska', 'ch', 'šwicarska'];Šwicaŕska jo kraj w srjejźnej Europje.
+political-geographic-object;['zjadnośone arabske emiraty'];Zjadnośone arabske emiraty su stat w Aziji, kótaryž lažy na Arabskej połkupje.
+political-geographic-object;['sowjetski zwězk', 'zwězk sowjetskich socjaliskich republik', 'zssr'];Sowjetski zwězk (rus.
+political-geographic-object;['frankfurt nad mainom', 'frankfurt am mein', 'frankfurt nad menem'];Frankfurt nad Mainom jo město w Nimskej w zwězkowem kraju Hesseńska.
+political-geographic-object;['luxemburgska'];Luxemburgska jo kraj w pódwjacornej Europje.
+political-geographic-object;['korniska'];Korniska (Kornišćina: Kernow, Engelšćina: Cornwall, nim.
+political-geographic-object;['sapporo'];Sapporo jo město w Japańskej.
+political-geographic-object;['marokko'];Marokko, arabski: المغرب, jo stat na dłujkem wjacorje Afriki.
+political-geographic-object;['zjadnośone kralojstwo', 'zjadnośone kralojstwo wjelikeje britaniskeje a pódpołnocneje irskeje', 'wjelika britaniska', 'wjelikobritaniska', 'zjadnośone kralojstwo wjelikeje britiskeje a pódpołnocneje irskeje', 'zjadnośone kralostwo', 'zjadnośone kralostwo wjelikeje britiskeje a pódpołnocneje irskeje'];Zjadnośone kralojstwo Wjelikeje Britaniskeje a Pódpołnocneje Irskeje jo kupowy stat w Europje w pódpołnocnem Atlantiskem oceanje.
+political-geographic-object;['špańska'];Špańska jo kralojstwo, kótarež lažy zwětšego na Iberiskej połkupje w krotkowjacornej Europje.
+political-geographic-object;['saudi-arabska'];Saudi-Arabska jo stat w Aziji, kótaryž lažy na nejwětšem źělu Arabskeje połkupy.
+political-geographic-object;['čad'];Republika Čad jo njewótwisny a rědko wobsedlony nutśikokrajny stat w srjejźnej Africe.
+political-geographic-object;['tadžikistan'];Tadžikistan (tadž.
+political-geographic-object;['uganda'];Uganda jo kraj w pódzajtšnej Africe.
+political-geographic-object;['běłoruska'];Běłoruska jo kraj w pódzajtšnej Europje.
+political-geographic-object;['malawi'];Malawi jo nutśikokrajny stat pśi Malawiskem jazorje w pódpołdnjowej Africe.
+political-geographic-object;['simbabwe'];Simbabwe jo nutśikokrajny stat w pódpołdnjowej Africe.
+political-geographic-object;['azerbajdžan'];Azerbajdžan jo kraj pśi Kawkazu a Kaspiskem mórju w pódwjacornej Aziji.
+political-geographic-object;['kirgiziska', 'kirgizistan'];Kirgiziska jo kraj w Srjejźnej Aziji.
+political-geographic-object;['usbekistan', 'usbekska'];Usbekistan jo kraj w srjejźnej Aziji.
+political-geographic-object;['mali'];Mali jo nutśikokrajny stat w pódwjacornej Africe.
+political-geographic-object;['kazachstan'];Kazachstan jo stat w srjejźnej Aziji, mały źěl jogo teritorija na pódwjacor rěki Ural słuša teke k Europje.
+political-geographic-object;['mongolska'];Mongolska, oficialnje Mongolska republika, jo nutśikokrajny stat w srjejźnej Aziji.
+political-geographic-object;['liverpool'];Liverpool jo wjelike engelske město w Zjadnośonem kralojstwje.
+political-geographic-object;['łódź'];Łódź jo město w Pólskej, kótarež lažy w łódźskem wójwodstwje.
+political-geographic-object;['belgiska'];Belgiska, oficialnje Belgiske kralojstwo, jo federatiwna konstitucionelna monarchija, kenž lažy w pódwjacornej Europje.
+political-geographic-object;['tonga'];Kralojstwo Tonga jo kupowy stat w pódpołdnjowem źělu Śichego oceana, kótaryž słuša geografiski k Polyneziskej.
+political-geographic-object;['pakistan'];Pakistan jo islamiska federatiwna republika, kótaraž w pódpołdnjowej Aziji lažy.
+political-geographic-object;['bangladeš'];Bangladeš, oficielnje Ludowa republika Bangladeš, jo stat w Aziji.
+political-geographic-object;['afghanistan', 'afganistan'];Afghanistan jo kraj w srjejźnej Aziskej.
+political-geographic-object;['awstriska'];Awstriska jo kraj w srjejźnej Europje.
+political-geographic-object;['laos'];Laos jo kraj w pódzajtšnej Aziji.
+political-geographic-object;['myanmar', 'birma', 'burma'];Myanmar jo stat w krotkozajtšnej Aziji pśi pśibrjogu Zalewa Bengalskeje w Indiskem oceanje.
+political-geographic-object;['kambodža'];Kambodža jo kraj w pódzajtšnej Aziji.
+political-geographic-object;['awstralska'];Awstralska jo kraj, kótaryž lažy na Awstralskem kontinenśe.
+political-geographic-object;['hannover'];Hannover (platt.
+political-geographic-object;['bordeaux'];Bordeaux jo město w krotkowjacornem źělu Francojskeje.
+political-geographic-object;['göteborg'];Göteborg ?
+political-geographic-object;['bhutan'];Bhutan jo stat w Aziji.
+political-geographic-object;['trentino-pódpołdnjowy tirol'];Trentino-Pódpołdnjowy Tirol, italski Trentino-Alto Adige, nimski Trentino-Südtirol, ladinski Trentin-Südtirol, jo awtonomny region na połnoc Italskeje a jo historiske strony Awstrisko-Hungorskeje.
+political-geographic-object;['kataloniska', 'catalunya'];Kataloniska jo jaden ze 17 awtonomnych teritorijow Špańskeje a historiski region na dłujkem zajtšu kraja pśi pśibrjoze Srjejźnego mórja.
+political-geographic-object;['turkmeńska', 'turkmenistan'];Turkmeńska jo pusćinowy stat w srjejźnej Aziji.
+political-geographic-object;['georgiska'];Georgiska jo kraj pśi Carnem mórju a Kawkazu w Aziji.
+political-geographic-object;['ruanda'];Ruanda jo gusće wobsedlony nutśikokrajny stat pśi Kiwuskem jazorje w pódzajtšnej Africe.
+political-geographic-object;['sambija'];Sambija jo nutśikokrajny stat w pódpołdnjowej Africe.
+political-geographic-object;['demokratiska republika kongo'];Demokratiska republika Kongo jo njewótwisny stat w srjejźnej Africe.
+political-geographic-object;['honduras'];Honduras jo kraj w Srjejźnej Americe.
+political-geographic-object;['guatemala'];Guatemala jo kraj w Srjejźnej Americe.
+political-geographic-object;['kosta rika', 'crc'];Kosta Rika jo kraj w Srjejźnej Americe.
+political-geographic-object;['hungorska'];Hungorska jo kraj w srjejźnej Europje.
+political-geographic-object;['pólska', 'polska'];Pólska jo kraj w srjejźnej Europje.
+political-geographic-object;['burundi'];Republika Burundi jo njewótwisny, gusće wobsedlony stat we pódzajtšnej Africe.
+political-geographic-object;['tansanija'];Zjadnośona republika Tansanija jo stat pśi pódzajtšnem pśibrjoze srjejźneje Afriki.
+political-geographic-object;['guineja'];Republika Guineja jo njewótwisny stat pśi Atlantiskim oceanje w pódwjacornej Africe.
+political-geographic-object;['somalija', 'somalia'];Somalija amtski Somalska republika jo de jure stat, kótaryž na Somalskej połkupje we Pódzajtšnej Africe lažy.
+political-geographic-object;['vietnam', 'wietnam'];Vietnam jo kraj w pódzajtšnej Aziji.
+political-geographic-object;['libyska'];Libyska jo kraj w pódpołnocnej Africe.
+political-geographic-object;['nimska demokratiska republika', 'ddr', 'ndr'];Nimska demokratiska republika
+political-geographic-object;['nimska', 'zwězkowa republika nimska', 'nimska zwězkowa republika', 'deutschland'];Nimska jo kraj w srjejźnej Europje.
+political-geographic-object;['sudan'];Sudan jo tśeśi nejwětšy pó płoni kraj w Africe a lažy na pódpołdnjo wót Sahary w kóńcynach Saheloweje cony.
+political-geographic-object;['egyptojska', 'egyptowska'];Egyptojska jo kraj w dłujkozajtšnej Africe, kótaryž ma teke mały źěł w Aziji.
+political-geographic-object;['guyana'];Guyana jo kraj w Pódpołdnjowej Americe.
+political-geographic-object;['surinam'];Surinam jo kraj w Pódpołdnjowej Americe.
+political-geographic-object;['venezuela'];Venezuela jo kraj w Pódpołdnjowej Americe.
+political-geographic-object;['algeriska'];Algeriska jo kraj w pódpołnocnej Africe.
+political-geographic-object;['indiska'];Indiska jo stat w pódpołdnjowej Aziji na indiskem subkontinenśe.
+political-geographic-object;['italska', 'włoska'];Italska jo kraj w pódpołdnjowej Europje.
+political-geographic-object;['chilska'];Chilska jo pódpołdnjowoamerikański stat pśi Śichem oceanje.
+political-geographic-object;['paraguay'];Paraguay jo kraj w Pódpołdnjowej Americe.
+political-geographic-object;['botsuana', 'botswana'];Republika Botsuana jo njewótwisny nutśikokrajny stat w pódpołdnjowej Africe, kótaryž jo nastawał w lěśe 1966 z britiskeje kolonije.
+political-geographic-object;['mosambik'];Mosambik jo njewótwisny stat pśi Indiskem oceanje w krotkozajtšnej Africe.
+political-geographic-object;['indoneziska'];Indoneziska jo kupowy stat w krotkozajtšnej Aziji, źěl lažy teke w Awstraliji.
+political-geographic-object;['grichiska'];Grichiska jo kraj w pódzajtšnej Europje.
+political-geographic-object;['ukraina', 'ukrainska'];Ukraina jo kraj w pódzajtšnej Europje.
+political-geographic-object;['mexiko'];Mexiko jo kraj w Pódpołnocnej Americe.
+political-geographic-object;['armeńska'];Armeńska jo kraj w pódwjacornej Aziji, mjaz Kawkazom a Małym Kawkazom.
+political-geographic-object;['irak'];Irak jo stat w Aziji na Bliskem pódzajtšu.
+political-geographic-object;['pódpołdnjowa koreja'];Pódpołdnjowa Koreja jo stat w pódzajtšnej Aziji, kótaryž lažy na pódpołdnjowej połojcy Korejańskeje połkupy.
+political-geographic-object;['dominikańska republika', 'dominikana'];Dominikańska republika jo kupowy stat w Karibice.
+political-geographic-object;['gambija'];Gambija jo mały njewótwisny, gusće wobsedlony stat pśi rěce ze samskim mjenim w pódwjacornej Africe.
+political-geographic-object;['ghana'];Ghana jo kraj w pódwjacornej Africe.
+political-geographic-object;['nigerija'];Nigerija jo wjeliki a gusće wobsedlony stat pśi Guinejiskem golfje w pódwjacornej Africe.
+political-geographic-object;['słonowinowy pśibrjog'];Słonowinowy pśibrjog jo kraj w pódwjacornej Africe.
+political-geographic-object;['niger'];Niger jo nutśikokrajny kraj w pódwjacornej Africe.
+political-geographic-object;['gabun', 'gabon'];Gabun jo njewótwisny, rědko wobsedlony stat pśi Atlantiskem oceanje w centralnej Africe.
+political-geographic-object;['republika kongo'];Republika Kongo jo njewótwisny, rědko wobsedlony stat w srjejźnej Africe.
+political-geographic-object;['kamerun'];Kamerun jo njewótwisny stat w srjejźnej Africe.
+political-geographic-object;['guineja-bissau'];Republika Guineja-Bissau jo njewótwisny stat pśi Atlantiskem oceanje w pódwjacornej Africe.
+political-geographic-object;['senegal'];Senegal jo kraj w pódwjacornej Africe.
+political-geographic-object;['francojska'];Francojska, oficielnje Francojska republika, République française, cytaj: [ʁepyblik fʁɑ̃sɛz]
+political-geographic-object;['ekuador', 'ecu', 'ec'];Ekuador jo kraj w Pódpołdnjowej Americe.
+political-geographic-object;['irska'];Pśedłoga:Infokašćik kupa/wótwardowanje/wobraz felujoKupa Irska dośěgnjo dłujkosć wót něźi 450 km a šyrokosć wót něźi 260 km.
+political-geographic-object;['irska'];Irska jo kraj na kupje Irska w pódpołnocnem Atlantiskem oceanje.
+political-geographic-object;['madagaskar'];Madagaskar jo wjeliki kupowy stat na krotkem wjacorje Indiskego oceana pśed afrikańskim pśibrjogom.
+political-geographic-object;['malediwy'];Malediwy su mały, gusće wobsedlony kupowy stat w Indiskem oceanje blisko pódpołdnjowego kóńca Indiskeje.
+political-geographic-object;['el salvador'];El Salvador jo małucki kraj w Srjejźnej Americe.
+political-geographic-object;['filipiny'];Filipiny su kupowy stat w krotkozajtšnej Aziji.
+political-geographic-object;['seychelle'];Seychelle su kupka kupow a na jich lažecy stat w pódwjacornem Indiskem oceanje, kótaryž bu w lěśe 1976 njewótwisny wót Zjadnośonego kralojstwa.
+political-geographic-object;['šwedska'];Šwedska jo parlamentariska monarchija na skandinawiskej połkupje w pódpołnocnej Europje.
+political-geographic-object;['wladiwostok', 'vladivostok'];Wladiwostok jo město na pódzajtšu Rusojskeje federacije.
+political-geographic-object;['stolica'];Stolica abo głowne město jo politiski, gusto teke stawizniski centrum kraja abo stata a toś zwětšego sedło nejwušych politiskich institucijow, kaž n.
+political-geographic-object;['puerto rico'];Puerto Rico jo oficielnje lichotny stat blisko zwězany ze Zjadnośonymi statami, ale w praksy jo jich awtonomny teritorij w Atlantiskem oceanje.
+political-geographic-object;['liechtensteinska', 'liechtenstein'];Liechtensteinska jo małucki kraj w srjejźnej Europje, kótaryž ze Šwicaŕskeju a Awstriskeju granicujo.
+political-geographic-object;['andorra'];Andorra jo małki kraj w krotkowjacornej Europje.
+political-geographic-object;['dolnosakska', 'dolna sakska', 'nižosakska'];Dolnosakska jo zwězkowy kraj Zwězkoweje republiki Nimska.
+political-geographic-object;['alaska'];Alaska /əˈlæskə/.
+political-geographic-object;['kaliforniska', 'california'];Kaliforniska jo zwězkowy stat Zjadnośonych statow Ameriki.
+political-geographic-object;['oman', 'òman'];Sultanat Oman abo Sultaństwo Oman jo stat w Aziji, kótaryž lažy w krotkozajtšnem źělu Arabskeje połkupy.
+political-geographic-object;['kuwait'];Kuwait jo małučki kraj w pódwjacornej Aziji.
+political-geographic-object;['jordaniska', 'jordańska'];Hašimitiske kralojstwo Jordaniska jo stat w Aziji na Bliskem pódzajtšu.
+political-geographic-object;['libanon'];Libanonska republika jo stat w Aziji na Bliskem pódzajtšu.
+political-geographic-object;['vatikańske město', 'vatikan'];Vatikańske město jo małučki njewótwisny staśik, kenž lažy wesrjejź italskeje stolice Rom.
+political-geographic-object;['fidži'];Fidži su kupowy stat w śichem oceanje.
+political-geographic-object;['amsterdam'];Amsterdam jo głowne město a nejwětše město Nižozemskeje.
+political-geographic-object;['krakow', 'kraków'];Krakow jo město w pódpołdnjowej Pólskej, w małopólskem wójewódstwje, nad rěku Wisłu.
+political-geographic-object;['düsseldorf'];Düsseldorf jo město w pódwjacornem źělu Nimskeje a stolica Nordrhein-Westfalskeje.
+political-geographic-object;['kap verde'];Kap Verde jo njewótwisny kupowy stat w Atlantiskem oceanje pśed pódwjacornym pśibrjogom Afriki.
+political-geographic-object;['saint vincent a grenadiny'];Saint Vincent a Grenadiny jo njewótwisny kupowy stat w Karibiskem mórju, kótaryž słuša ku Commonwealthej.
+political-geographic-object;['bahrajn', 'bahrain'];Bahrajn jo kupowy stat w Aziji, kótaryž lažy w Persiskem golfje.
+political-geographic-object;['vanuatu'];Vanuatu jo oceaniski kupowy stat w Melaneziji, kótaregož stolica jo Port Vila.
+political-geographic-object;['kiribati'];Kiribati jo njewótwisny kupowy stat wósrjejź Śichego oceana a cłonk Commonwealtha.
+political-geographic-object;['trinidad a tobago'];Trinidad a Tobago jo kupowy kraj w Karibiskem mórju.
+political-geographic-object;['islandska', 'islandëjô'];Islandska jo kupowy stat w pódpołnocnem Atlantiskem oceanje.
+political-geographic-object;['grenada'];Grenada jo kraj w Atlantiskem oceanje.
+political-geographic-object;['são paulo'];São Paulo jo nejwětše město w Brazilskej a stolica pódpołdnjowego zwězkowego kraja São Paulo.
+political-geographic-object;['gmejna'];Gmejna jo nejmjeńšy administratiwny wótźěl statow.
+political-geographic-object;['lisabon'];Lisabon (port.
+political-geographic-object;['dublin'];Dublin jo stolica a nejwětše město Irskeje.
+political-geographic-object;['sofija'];Sofija jo nejwětše město a stolica Bulgaŕskeje, lažy w pódwjacorje kraja.
+political-geographic-object;['bogotá'];Bogotá jo głowne a nejwětše město Kolumbiskeje.
+political-geographic-object;['praha', 'praga'];Praha jo stolica a samostatny wobwod Českeje.
+political-geographic-object;['budapest', 'budapešt'];Budapest jo głowne město a stolica Hungorskeje, kótaraž na pódpołnocy kraja pśi rěce Dunaj lažy.
+political-geographic-object;['jakarta'];Jakarta jo stolica a nejwětše město Indoneziskeje.
+political-geographic-object;['rom'];Rom jo głowne město Italskeje.
+political-geographic-object;['bukarest'];Bukarest jo stolica Rumuńskeje, kótaraž w pódpołdnju kraja lažy.
+political-geographic-object;['kijew', 'київ'];Kijew jo stolica a nejwětše město Ukrainy a lažy na pódpołnocy kraja pśi Dnjeprje.
+political-geographic-object;['barliń', 'barlin', 'berlin'];Barliń jo głowne město a stolica Nimskeje, a ma wěcej wobydlarjow a wěcej płoni ako kužde dalšne nimske město.
+political-geographic-object;['pchjongjang', 'pyongyang'];Pchjongjang
+political-geographic-object;['peking'];Peking jo głowne město Chinskeje.
+political-geographic-object;['thailandska'];Thailandska jo kralojstwo w krotkozajtšnej Aziji.
+political-geographic-object;['etiopiska'];Etiopiska jo kraj w pódzajtšnej Africe.
+political-geographic-object;['moskwa'];Moskwa (rus.
+political-geographic-object;['benin'];Benin jo republika w pódwjacornej Africe a lažy pśi Guinejiskem golfje Atlantiskego oceana.
+political-geographic-object;['burkina faso'];Burkina Faso jo kraj w pódwjacornej Africe.
+political-geographic-object;['bahamy'];Bahamy su kupowy kraj w Atlantiskem oceanje.
+political-geographic-object;['são tomé a príncipe'];São Tomé a Príncipe jo kupowy kraj w Atlantiskem oceanje.
+political-geographic-object;['israel'];Israel jo stat w Aziji, na Bliskem pódzajtšu.
+political-geographic-object;['chicago'];Chicago jo město we Zjadnośonych statach Ameriki.
+political-geographic-object;['šotiska'];Šotiska jo awtonomny kraj Zjadnośonego kralojstwa, kótaryž se w pódpołnocnej połojcy kupy Wjelikeje Britaniskeje a na wokolnych kupach wupśestrěwa.
+political-geographic-object;['finska', 'fińskô'];Finska jo kraj w pódpołnocnej Europje.
+political-geographic-object;['boston'];Boston jo nejwětše město a teke stolica Massachusettsa w Zjadnośonych statach Ameriki.
+political-geographic-object;['tirana'];Tirana jo stolica a nejwětše město Albańskeje republiki.
+political-geographic-object;['wien'];Wien jo nejwětše město a stolica Awstriskeje a lažy we pódzajtšnem źělu kraja pśi Dunaju.
+political-geographic-object;['münchen'];München jo stolica zwězkowego kraja Bayerskeje a kulturelne kaž teke ekonomiske srjejźišćo pódpołdnjoweje Nimskeje.
+political-geographic-object;['nikosia'];Nikosia jo głowne a nejwětše město Cyperna.
+political-geographic-object;['kopenhagen'];Kopenhagen jo stolica a nejwětše město Dańskeje.
+political-geographic-object;['london', 'londyn'];London jo nejwětše město a stolica Wjelikeje Britaniskeje.
+political-geographic-object;['tallinn'];Tallinn jo głowne město a nejwětše město Estniskeje.
+political-geographic-object;['helsinki'];Helsinki jo stolica a nejwětše město Finskeje.
+political-geographic-object;['paris', 'paryž'];Paris jo nejwětše město a stolica Francojskeje.
+political-geographic-object;['atheny'];Atheny su nejwětše město a stolica Grichiskeje.
+political-geographic-object;['reykjavík', 'reykjavik'];Reykjavík jo stolica a nejwětše město Islandskeje a teke nejwěcej pódpołnocne głowne město na swěśe.
+political-geographic-object;['tokio', 'tokyo'];Tokio jo nejwětše město a stolica Japańskeje. 1.
+political-geographic-object;['riga'];Riga jo stolica a nejwětše město Letiskeje a lažy blisko wulewa Dwiny do Baltiskego mórja.
+political-geographic-object;['vilnius'];Vilnius je stolica a nejwětše město Litawskeje a lažy w krotkem zajtšu kraja blisko wulewa rěki Vilnia do Nerisa.
+political-geographic-object;['kuala lumpur'];Kuala Lumpur jo głowne a nejwětše město Malayzije.
+political-geographic-object;['ulaanbaatar'];Ulaanbaatar jo stolica a nejwětše město Mongolskeje.
+political-geographic-object;['katmandu'];Katmandu jo głowne město Nepala.
+political-geographic-object;['oslo'];Oslo jo głowne a nejwětše město Norwegskeje.
+political-geographic-object;['waršawa', 'warszawa'];Waršawa (pól.
+political-geographic-object;['soul', 'seoul'];Soul
+political-geographic-object;['madrid'];Madrid jo stolica a nejwětše město Špańskeje.
+political-geographic-object;['stockholm'];Stockholm jo stolica Šwedskeje a lažy pśi Baltiskem mórju.
+political-geographic-object;['bangkok'];Bangkok jo stolica a nejwětše město Thailandskeje.
+political-geographic-object;['manila'];Manila jo stolica Filipinow.
+political-geographic-object;['ašchabad'];Ašchabad jo stolica a nejwětše město Turkmeńskeje, stata w Srjejźnej Aziji.
+political-geographic-object;['cardiff'];Cardiff jo stolica a nejwětše město Waliziskeje w Zjadnośonem kralojstwje.
+political-geographic-object;['baku'];Baku jo stolica, nejwětše město a nejwažnjejšy pśistaw Azerbajdžana.
+political-geographic-object;['brasília'];Brasília jo stolica Brazilskeje.
+political-geographic-object;['zagreb'];Zagreb jo głowne město a stolica Chorwatskeje.
+political-geographic-object;['kairo'];Kairo jo nejwětše město a stolica Egyptojskeje.
+political-geographic-object;['addis abeba'];Addis Abeba jo stolica a nejwětše město pódzajtšoafriskego kraja Etiopiskeje.
+political-geographic-object;['nowe delhi', 'new delhi'];Nowe Delhi jo měsćański źěl wót Delhi a stolica Indiskeje, sedło indiskego parlamenta, kněžaŕstwa a nejwušych sudnistwow.
+political-geographic-object;['biškek'];Biškek (rus.
+political-geographic-object;['lilongwe'];Lilongwe jo stolica pódpołdnjownoafriskego kraja Malawi.
+political-geographic-object;['palermo'];Palermo jo nejwětše město a stolica Siciliskeje w pódpołdnjowej Italskej.
+political-geographic-object;['ljubljana'];Ljubljana jo stolica Słowjeńskeje.
+political-geographic-object;['bern'];Bern jo stolica Šwicaŕskeje a z wěcej ako 128 tysacami wobydlarjow teke stwórte nejwětše šwicaŕske město.
+political-geographic-object;['ankara'];Ankara jo stolica a druge nejwětše město Turkojskeje.
+political-geographic-object;['valparaíso'];Valparaíso jo pśistawowe město Chilskeje, źož jo zrazom sedło chilskego parlamenta.
+political-geographic-object;['rio de janeiro'];Rio de Janeiro jo druge nejwětše město w Brazilskej.
+political-geographic-object;['istanbul', 'konstantinopel'];Istanbul jo nejwětše město Turkojskeje a teke pěte nejwětše město swěta — ma 12,8 milionow wobydlarjow, ale njejo głowne město Turkojskeje.
+political-geographic-object;['new york city'];New York jo nejwětše město we Zjadnośonych statach Ameriki.
+political-geographic-object;['brazilska'];Brazilska jo nejwětšy pó płoni a wobydlaŕstwje kraj Pódpołdnjoweje Ameriki, kótaryž wopśimjejo 47 % kontinenta.
+political-geographic-object;['toronto'];Toronto jo nejwětše město Kanady a stolica prowincy Ontario.
+political-geographic-object;['texas'];Texas jo zwězkowy amerikański stat.
+political-geographic-object;['salomonske kupy'];Salomonske kupy su na krotkem zajtšu wót Noweje Gineje lažeca kupka kupow w pódpołdnjowem śichem oceanje.
+quality;['mnichojstwo'];Mnichojstwo jo wót asketiskich idealow formowana nabóžna praktika, z kótarejuž co mnich w tom, až se wót swěta wótwobrośijo a se swětnym celam wótrjaknjo, swójo žywjenje dopołnje danemu spirituelnemu celoju woprowaś.
+quality;['islam'];Islam jo po kśesćijaństwje druga nejwětša nabóžnina we swěśe.
+quality;['kśesćijaństwo'];Kśesćijaństwo jo nejwětša nabožnina we swěśe.
+region;['hektar'];Hektar jo jadnotka płoniměry.
+region;['góźina', 'štunda'];Góźina jo casowa jadnotka a styriadwaźasty źěl dnja.
+region;['coulomb'];Coulomb jo jadnotka elektriskego nakłada.
+region;['źeń'];Źeń jo cas, w kótaremž wjerśi se zemja jaden raz wokoło swójskeje wóski.
+relevant-part;['kapslowy płod'];Kapslowy płod jo suchy płod, kótaryž wobstoj z dweju až wšakich płodowych łopjeńkow.
+relevant-part;['tšuk'];Tšuk jo płod, kótaryž z dweju zrosćoneju płodoweju łopjeńkow nastanjo.
+simple-collection;['uniwersum'];Uniwersum (z łat.
+situation;['tergaty wětš', 'štorm'];Tergaty wětš, teke štorm jo mócne mólenje atmosfera, zwětšego pśewóźone wót tšurnjenja abo sněga.
+situation;['kyriliski alfabet', 'cirilica'];Kyriliski alfabet znaty teke ako Azbuka jo pismo, wužywane w Europje a Aziji.
+situation;['mordarstwo'];Mordarstwo jo wótglědane wusmjerśenje jadnogo luźa pśez drugego pód wěstymi winu póśěžujucymi wuměnjenjami.
+socially-constructed-person;['fryderyk chopin'];Fryderyk Franciszek Chopin
+socially-constructed-person;['mahatma gandhi'];Mahatma Gandhi, jogo pópšawne mě jo Mohandas Karamchand Gandhi, (gudžaratiski: મોહનદાસ કરમચંદ ગાંધી, hindiski: मोहनदास करमचंद गांधी, Mohandās Karamcand Gāndhī, [ˈmoːɦənd̪aːs ˈkərəmtʃənd̪ ˈɡaːnd̪ʱi] ?
+socially-constructed-person;['griby', 'fungi'];Griby su swět z domeny Eukaryotow.
+socially-constructed-person;['gottfried wilhelm leibniz'];Gottfried Wilhelm Leibniz
+socially-constructed-person;['abraham lincoln'];Abraham Lincoln
+socially-constructed-person;['carl von linné'];Carl von Linné (* 23.
+socially-constructed-person;['wolfgang amadeus mozart'];Wolfgang Amadeus Mozart
+socially-constructed-person;['ronald reagan'];Ronald Wilson Reagan (* 6.
+socially-constructed-person;['augustus caesar'];Augustus Octavian.
+socially-constructed-person;['źiśe', 'góle'];Źiśe jo młody luź.
+socially-constructed-person;['kopty'];Kopty su kśesćijańske wobydlaŕstwo Egyptojskeje.
+socially-constructed-person;['mongole', 'mongoly'];Mongole su etnikum, kótaryž jo žywy głownje w Mongolskej, w Chinskej ludowej republice a w Rusojskej.
+socially-constructed-person;['chorwaty', 'chorwatska rěc', 'chorwatšćina'];Chorwaty su słowjański lud, kótaryž jo pśedewšym w Chorwatskej, Bosniskej a Hercegowinje a Serbiskej domorodny.
+socially-constructed-person;['armenijarje'];Armenijarje
+socially-constructed-person;['bulgarje'];Bulgarje su słowjański lud, kótaryž jo pśedewšym w Bulgaŕskej žywy.
+socially-constructed-person;['sierra leone'];Sierra Leone jo njewótwisny stat pśi Atlantiskem oceanje w pódwjacornej Africe.
+socially-constructed-person;['jezus kristus', 'jezus', 'jezus krystus', 'jezus z nacareta'];Jezus z Nacareta jo se wěrjepódobnje mjazy lětoma 7 a 4 do Chr.
+socially-constructed-person;['źowćo', 'gólica'];Źowćo jo młody luź žeńskego roda, kótaryž njejo starstwo dorosćonych dośěgnuł, toś źiśe abo młoźinska, kótaraž njejo hyšći žeńska.
+socially-constructed-person;['žona', 'žeńska'];Žona wóznamjeni, dorosćonego cłowjeka žeńskego roda.
+socially-constructed-person;['muž'];Muž wóznamjenijo dorosćonego cłowjeka muskego roda.
+socially-constructed-person;['słowjany'];Słowjany su indoeuropski lud.
+socially-constructed-person;['isaac newton'];Sir Isaac Newton (roź. 4.
+socially-constructed-person;['siddhartha gautama'];Siddhartha Gautama
+socially-constructed-person;['karl marx'];Karl Heinrich Marx (* 5.
+socially-constructed-person;['galileo galilei'];Galileo Galilei
+socially-constructed-person;['džyngis chan'];Džyngis chan
+socially-constructed-person;['aristoteles'];Aristoteles (grichiski: Ἀριστοτέλης, transkriběrowane: Aristotéles) (Stagira, 384 pś.
+socially-constructed-person;['wladimir iljič lenin', 'lenin', 'wladimir iljič uljanow'];Wladimir Iljič Uljanow
+socially-constructed-person;['fjodor michajlowič dostojewskij'];Fjodor Michajlowič Dostojewskij
+socially-constructed-person;['jozef stalin', 'stalin'];Jozef Wissarionowič Stalin (rusojski Ио́сиф Виссарио́нович Ста́лин Iosif Vissarionovič Stalin, * 6.
+socially-constructed-person;['bamž', 'swěty wóśc'];Bamž jo głowa romsko-katolskeje cerkwje a stata Vatikańskego města.
+socially-constructed-person;['mojzas'];Mojzas teke Mojzac Po bibliskeju tradiciju załožaŕ israelskeje-žydojskeje nabóźniny. ludowy ryśaŕ, kenž jo wjadł Israel z Egyptojskeje po dłujkeju drogowanju po pusćinje až do Srjejźneje Palestinje do "Chwalobnego kraja".
+socially-constructed-person;['kněžna marija'];Kněžna Marija jo wuznamna wósobina w kśesćijaństwje a w islamje, Jezusowa maś.
+space-region;['rownosć źeń-noc'];Rownosć źeń-noc jo astronomiski fenomen, wokognuśe gdyž centrum Słyńca w jogo widobnem pógibowanju pó ekliptice njebjaskego ekwatora pśekujo.
+space-region;['wjeliki krejz'];Wjeliki krejz jo tak wjeliki ako móžno krejz na kulowem powjerchu.
+space-region;['nulowy meridian'];Nulowy meridian jo ten meridian, wót kótaregož geografiska dlinina licy se k pódzajtšoju a k pódwjacoroju.
+space-region;['meridian'];Słowo meridian wóznamjenja w stopnjowej seśi zemje poł dlininowego krejza na zemskem powjerchu, kótaryž źo wót jadnogo geografiskego pola k drugemu.
+space-region;['ekwator'];Ekwator jo teoretiska linija na zemi, kótaraž ma samsku zdalonosć z wobeju polowu a rozdźělujo zemju do pódpołnocneje a pódpołdnjoweje połkule.
+space-region;['šyrinowy krejz'];Šyrinowe krejze su krejze na pówjerchu zemje z konstantneju geografiskeju šyrinu β, kótarež běže paralelnje k ekwatorowej rowninje k pódzajtšno-pódwjacornemu směroju.
+space-region;['ekliptika'];Ekliptika jo rownina w kosmosu, w kótarejž se w orbiśe zemja wokoło słyńca pógibujo.
+space-region;['cenit'];Cenit jo teoretiski dypk na njebju, kótaryž namaka se direktnje padorownje nad stojnišćom wobglědowarja.
+space-region;['nadir'];Ako nadir pomjenjujo se w geometriji a w njebjaskej nawigaciji nogowy dypk, kótaryž lažy cenitoju napśeśiwo.
+spatial-feature;['pyreneje'];Pyreneje su něźi 430 km dłujka smuga górow w krotkowjacornej Europje, kenž se wupśestrěwaju mjaz Atlantiskim oceanom na pódwjacorje a Srjejźnym mórjom na pódzajtšu a wótgranicuju Pyrenejsku połkupu z wóstatneje Europy.
+spatial-feature;['alpy'];Alpy su nejwuše góry w Europje.
+spatial-feature;['gibraltar'];Gibraltar jo zamórski teritorij Zjadnośonego kralojstwa.
+spatial-feature;['denali'];Denali jo z 6198 meterami nejwuša góra Alaski, Zjadnośonych statow a cełeje Pódpołnocneje Ameriki.
+spatial-feature;['illimani'];Illimani jo zgasnjony wulkan na boliwiskich Kordiljerach.
+spatial-feature;['himalaja'];Himalaja jo smuga górow w pódpołdnjowej Aziji, w kótaremž se nejwuše góry swěta namakaju.
+spatial-feature;['ural'];Ural jo něźi 2400 km dłujki a 300 mil.
+spatial-feature;['kawkaz'];Kawkaz jo góriny w Euraziji mjaz Carnym mórjom a Kaspiskim mórjom.
+status;['staśaństwo'];Staśaństwo jo juristiska pśisłušnosć pśirodneje wósoby k jadnomu statoju, z kótarejež wuchadaju wěste bergaŕske pšawa a winowatosći.
+subject;['matematika'];Matematika jo striktnje logiski natwarjona, wót empiriskich dopóznaśow njewótwisna wědomnosć.
+subject;['geografija', 'zemjepis'];Geografija, teke zemjepis jo wědomnosć wó zemi.
+subject;['astronomija'];Astronomija jo wědomnosć wó njebjaskich śělesach.
+subject;['organiska chemija'];Organiska chemija
+subject;['fyzika'];Fyzika jo wědomnostny wobłuk, kenž pśespyta masu, jeje kakosći a zaźaržanje pśi wótběgach.
+subject;['rěcywěda', 'linguistika'];Rěcywěda se zaběra ze systematiskim pśeslěźowanim pśirodnych rěcow a kak je luź wužywa.
+taxonomic-collection;['pad', 'kazus'];Pad jo w gramatice fleksiska kategorija nomena.
+taxonomic-collection;['akuzatiw'];Akuzatiw jo gramatiski pad, kótaryž direktny objekt w nominatiwnych rěcach wugroni.
+taxonomic-collection;['nominatiw'];Nominatiw jo gramatiski pad, kótaryž subjekt sady w nominatiwnych rěcach wugroni.
+taxonomic-collection;['datiw'];Datiw jo gramatiski pad, kótaryž wugroni indirektny objekt sady.
+taxonomic-collective;['swójźba'];Swójźba jo hierarchiska rownina biologiskeje systematiki.
+taxonomic-collective;['rod'];Rod jo hierarchiska rownina biologiskeje systematiki.
+taxonomic-collective;['rutowe rostliny', 'rutaceae'];Rutowe rostliny jo swójźba semjenjowych rostlinow.
+taxonomic-collective;['chójcowe rostliny', 'pinaceae'];Chójcowe rostliny jo swójźba semjenjowych rostlinow.
+taxonomic-collective;['górkacowe rostliny', 'ranunculaceae'];Górkacowe rostliny su swójźba semjenjowych rostlinow.
+taxonomic-collective;['janowy krick', 'janowka'];Janowy krick jo jadnučki rod ze swójźby hendryškowych rostlinow.
+taxonomic-collective;['kóstrjawa', 'bromus'];Kóstrjawa jo rod ze swójźby słodkich tšawow.
+taxonomic-collective;['topoł'];Topoł jo rod ze swójźby wjerbowych rostlinow.
+taxonomic-collective;['ananas'];Ananas jo rod ze swójźby bromelijowych rostlinow.
+taxonomic-collective;['mlac', 'taraxacum'];Mlac jo rod ze swójźby kóšowych kwětarjow.
+taxonomic-collective;['śerlica'];Śerlica jo rod ze swójźby čerwjenkowych rostlinow.
+taxonomic-collective;['górkac', 'ranunculus'];Górka jo rod ze swójźby górkacowych rostlinow.
+taxonomic-collective;['jabłušcyna', 'malus'];Jabłušcyna jo rod ze swójźby rožow.
+taxonomic-collective;['bagnowa cypresa', 'taxodium'];Bagnowa cypresa jo rod ze pódswójźby znutśika cypresowych rostlinow.
+taxonomic-collective;['rubjažne zwěrjeta'];Rubjažne zwěrjeta su pórěd cycakow z wokoło 260 družynow.
+taxonomic-collective;['kócki', 'felidae'];Kócki su swójźba rubjažnych zwěrjetow.
+taxonomic-collective;['bukowe rostliny', 'fagaceae'];Bukowe rostliny su swójźba semjenjowych rostlinow.
+taxonomic-collective;['pakowjež', 'calystegia'];Pakowjež jo rod ze swójźby pówitkowych rostlinow.
+taxonomic-collective;['ginkgowe rostliny'];Ginkgowe rostliny jo swójźba semjenjowych rostlinow.
+taxonomic-collective;['krjasa', 'lepidium sativum'];Krjasa jo rod ze swójźby kśicnokwětarjowych rostlinow.
+taxonomic-collective;['górka', 'cucumis'];Górka jo rod ze swójźby banjowych rostlinow.
+taxonomic-collective;['cypresowe rostliny'];Cypresowe rostliny su swójźba semjenjowych rostlinow.
+taxonomic-collective;['lipa'];Lipa jo rod z pódswójźby lipowych rostlinow znutśika slězowych rostlinow.
+taxonomic-collective;['wutkowe rostliny', 'nymphaeaceae'];Wutkowe rostliny su swójźba semjenjowych rostlinow.
+taxonomic-collective;['psy', 'canidae'];Psy su swójźba znutśika nadswójźby.
+taxonomic-collective;['carnicy'];Carnicy su rod ze swójźby wrjosowych rostlinow.
+taxonomic-collective;['žołta akacija', 'laburnum'];Žołta akacija jo rod ze swójźby łušćinowych rostlinow.
+taxonomic-collective;['njezabyńki', 'myosotis'];Njezabyńki su rod ze swójźby boretšowych rostlinow.
+taxonomic-collective;['maniok', 'manihot'];Maniok jo ród ze swójźby wjelkomlokowych rostlinow.
+taxonomic-collective;['słodka źiśelina', 'hedysarum'];Słodka źiśelina jo rod ze swójźby łušćinowych rostlinow.
+taxonomic-collective;['tupa kopśiwa', 'lamium'];Tupa kopśiwa jo rod ze swójźby gubkatych kwitarjow.
+taxonomic-collective;['lewkoja', 'matthiola'];Lewkoja jo ród ze swójźby kśicnokwětarjowych rostlinow.
+taxonomic-collective;['sok', 'lens'];Sok jo rod ze swójźby łušćinowych rostlinow.
+taxonomic-collective;['pelargonija'];Pelargonija jo rod ze swójźby kóśankowych rostlinow.
+taxonomic-collective;['slěz', 'malva'];Šlěz jo rod ze swójźby slězowych rostlinow.
+taxonomic-collective;['makowe rostliny', 'papaveraceae'];Makowe rostliny su swójźba semjenjowych rostlinow.
+taxonomic-collective;['chmjel', 'humulus'];Chmjel jo rod ze swójźby kónopjowych rostlinow.
+taxonomic-collective;['bimbawka', 'pulsatilla'];Bimbawka jo rod ze swójźby górkacowych rostlinow.
+taxonomic-collective;['japańska kryptomerija', 'kryptomerija'];Japańska kryptomerija jo rostlina ze pódswójźby znutśika swójźby cypresowych rostlinow.
+taxonomic-collective;['płonjak', 'thymus'];Płonjak jo rod ze swójźby gubkatych kwitarjow.
+taxonomic-collective;['kobołk', 'allium'];Kobołk jo rod z pódswójźby kobołkowych rostlinow znutśika amarylisowych rostlinow.
+taxonomic-collective;['japański klon', 'acer japonicum'];Japański klon jo bomaty kerk abo małki bom ze swójźby.
+taxonomic-collective;['pówitkowe rostliny', 'convolvulaceae'];Wijawkowe rostliny jo swójźba semjenjowych rostlinow.
+taxonomic-collective;['wows', 'avena'];Wows jo rod ze swójźby słodkich tšawow.
+taxonomic-collective;['boretš', 'borago'];Boretš jo rod ze swójźby.
+taxonomic-collective;['rogožowe rostliny', 'typhaceae'];Rogožowe rostliny su swójźba znutśika pórěda.
+taxonomic-collective;['wokołkowe rostliny'];Wokołkowe rostliny su swójźba semjenjowych rostlinow.
+taxonomic-collective;['kóšowe kwětarje', 'compositae', 'asteraceae'];Kóšowe kwětarje su nejwětša swójźba znutśika pókšytych semjenjakow.
+taxonomic-collective;['wuchace'];Wuchace su pórěd cycakow.
+taxonomic-collective;['małke mjadwjeźe', 'procyonidae'];Małke mjadwjeźe su swójźba znutśika psykojtych rubjažnych zwěrjetow.
+taxonomic-collective;['rogož'];Rogož jo rod ze swójźby rogožowych rostlinow.
+taxonomic-collective;['strelicija', 'strelitzia'];Strelicija jo rod ze swójźby strelicijowych rostlinow.
+taxonomic-collective;['žonop', 'sinapis'];Žonop jo rod ze swójźby kśicnokwětarjowych rostlinow.
+taxonomic-collective;['bruna'];Bruna jo rod ze swójźby gubkatych kwitarjow.
+taxonomic-collective;['groch', 'pisum'];Groch jo rod ze swójźby łušćinowych rostlinow.
+taxonomic-collective;['wutka', 'nymphaea'];Wutka jo rod ze swójźby wutkow.
+taxonomic-collective;['głog'];Głog jo rod bomow ze swójby rožowych rostlinow.
+taxonomic-collective;['cypresa', 'cupressus'];Cypresa jo rod ze swójźby cypresowych rostlinow.
+taxonomic-collective;['bóśon', 'ciconia'];Bóśon jo rod ze swójźby bóśony.
+taxonomic-collective;['banja', 'cucurbita'];Banja jo rod ze swójźby banjowych rostlinow.
+taxonomic-collective;['wjelkowe mloko', 'euphorbia'];Wjelkowe mloko jo rod ze swójźby wjelkomlokowych rostlinow.
+taxonomic-collective;['šupy', 'procyon'];Šupy su rod ze swójźby małkich mjadwjeźow.
+taxonomic-collective;['encian', 'gentiana'];Encian jo rod ze swójźby encianowych rostlinow.
+taxonomic-collective;['pjelch', 'glis glis'];Pjelch jo jadnučki gryzaŕ w swójźbje spańcow, kótaryž słuša k rodoju Glis.
+taxonomic-collective;['wórješyna', 'juglans regia'];Wórješyna jo rod ze swójźby.
+taxonomic-collective;['mulowka'];Mulowka jo rod ze swójźby mulowkowych rostlinow.
+taxonomic-collective;['mak', 'papaver'];Mak jo rod ze swójźby makowych rostlinow.
+taxonomic-collective;['gokowc', 'rhamnus'];Gokowc jo rod ze swójźby gokowcowych rostlinow.
+taxonomic-collective;['njewjericka', 'sciurus'];Njewjericka jo rod małych cycakow, kótarež słušaju k familiji sciuridae.
+taxonomic-collective;['ronica', 'solanum'];Ronica jo rod ze swójźby ronicowych rostlinow.
+taxonomic-collective;['jemjelica', 'viscum'];Jemjelica jo rod ze swójźby sandelowych rostlinow.
+taxonomic-collective;['strelicijowe rostliny', 'strelitziaceae'];Strelicijowe rostliny su swójźba semjenjowych rostlinow.
+temporal-region;['2. februara'];2.
+temporal-region;['tyźeń'];Tyźeń jo źinsa w pśisamem wšych kulturach na swěśe casowa jadnotka, kótaraž wobstoj ze sedym dnjow.
+temporal-region;['29. junija'];29.
+temporal-region;['njeźela'];Njeźela jo pó modernem licenju sedymy a slědny źeń tyźenja, a prědny pó žydojsko-kśesćijańsko-muslimiskej pratyji.
+temporal-region;['koordiněrowany swětowy cas', 'utc'];Koordiněrowany swětowy cas jo wót lěta 1972 płaśiwy swětowy cas.
+temporal-region;['pśestupne lěto'];Pśestupne lěto jo w gregorjaniskej pratyji lěto, kótarež ma 366 město 365 dnjow.
+temporal-region;['dešćowy cas'];Dešćowy cas jo w tropiskich a subtropiskich stronach swěta ten cas, gaž se źo wětšyna lětnych spadkow.
+temporal-region;['2. měrca', '2. pózymskego'];2. měrca abo 2.
+temporal-region;['zyma', 'zymje'];Zyma abo zymje jo nejzymnjejša ze styri lětnych casow w měrnej arktiskej klimowej conje.
+temporal-region;['wezymski', 'januar'];Januar, wezymski - jo prědny mjasec w gregoriańskem kalendarju.
+temporal-region;['stwórtk'];Stwórtk jo pó modernem licenju stwórty źeń tyźenja, a pěty pó žydojsko-kśesćijańsko-muslimiskej pratyji.
+temporal-region;['wezymski', 'januar'];Januar, wezymski - jo prědny mjasec w gregoriańskem kalendarju.
+temporal-region;['wezymski', 'januar'];Januar, wezymski - jo prědny mjasec w gregoriańskem kalendarju.
+temporal-region;['srjoda'];Srjoda jo pó modernem licenju tśeśi źeń tyźenja, a stwórty pó žydojsko-kśesćijańsko-muslimiskej pratyji.
+temporal-region;['zymski', 'december'];December, zymski - jo dwanasty mjasec lěta w gregorjaniskem kalendarju.
+temporal-region;['zymski', 'december'];December, zymski - jo dwanasty mjasec lěta w gregorjaniskem kalendarju.
+temporal-region;['rozhelony', 'maj'];Rozhelony, rožownik, maj – jo pěty mjasec w gregoriańskem kalendarju.
+temporal-region;['požnjenc', 'september'];Požnjenc, požnjeńc, september - jo źewjety mjasec w gregoriańskem kalendarju.
+temporal-region;['pózymski', 'měrc'];Pózymski, nalětnik, měrc – jo tśeśi mjasec w gregoriańskem kalendarju.
+temporal-region;['swěckowny', 'februar'];Februar, swěckowny - jo drugi mjasec w gregorjaniskem kalendarju.
+temporal-region;['jacmjeński', 'awgust'];Awgust, jacmjeński - jo wósymy mjasec w gregorjaniskem kalendarju.
+temporal-region;['žnjojski', 'julij'];Julij, žnjojski - jo sedymy mjasec w gregoriańskem kalendarju.
+temporal-region;['jatšownik', 'apryl', 'nalětny'];Jatšownik, apryl, nalětny - jo stwórty mjasec w gregoriańskem kalendarju.
+temporal-region;['smažki', 'junij'];Smažki, smažnik, junij – jo šesty mjasec w gregoriańskem kalendarju.
+temporal-region;['młośny', 'nowember'];Młośny, nowember – jo jadnasty mjasec w gregorjaniskem kalendarju.
+temporal-region;['winski', 'oktober'];Oktober, winowc, winski - jo źasety mjasec w gregorjaniskem kalendarju.
+temporal-region;['srjejźowěk'];Srjejźowěk jo epocha w europskich stawiznach, kótaraž jo trała někak wót pětego do pěśnastego lětstotka.
+temporal-region;['lěto', 'rok'];Lěto jo casowa měrjeńska jadnota.
+temporal-region;['nalěśe'];Za tym, až nalěśe na pódpołdnjowej abo pódpołnocnej połkuli kněžy, se mjazy pódpołnocnym a pódpołdnjowym nalěśim rozeznawa.
+temporal-region;['nazyma', 'nazymje'];Nazyma jo jaden wót styrich lětnych casow.
+temporal-region;['pónjeźele', 'pónjeźela'];Pónjeźela jo w nimskej pratyji prědny źeń tyźenja, a drugi pó žydojsko-kśesćijańsko-muslimiskem licenju.
+temporal-region;['sobota'];Sobota jo pó modernem licenju šesty źeń tyźenja, a slědny pó žydojsko-kśesćijańsko-muslimiskej pratyji.
+temporal-region;['pětk'];Pětk jo pó modernem licenju pěty źeń tyźenja, a šesty pó žydojsko-kśesćijańsko-muslimskej pratyji.
+temporal-region;['wałtora'];Wałtora jo pó modernem licenju drugi źeń tyźenja, a tśeśi pó žydojsko-kśesćijańsko-muslimiskej pratyji.
+temporal-region;['lěśe'];Lěśe jo nejśoplejšy ze styri lětnych casow w měrnej a arktiskej klimowej conje.

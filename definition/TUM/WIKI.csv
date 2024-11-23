@@ -1,0 +1,210 @@
+agentive-physical-object;['vinyama', 'animalia'];Vinyama == Vinyama vya m’Malaŵi == Mu chalo cha Malaŵi muli vinyama vya mitundu-mitundu.
+agentive-physical-object;['vyakumela'];Vyakumela Chomela ni chamoyo chilichonse icho chikukula kufuma mu nthaka.
+agentive-physical-object;['nchebe', 'canis lupus familiaris'];Nchebe, vinyama.
+agentive-physical-object;['zobala', 'citrus × limon'];Zobala, vipaso.
+agentive-physical-object;['ndlovu', 'loxodonta africana'];Ndlovu
+agentive-physical-object;['chipembele', 'chipembere', 'diceros bicornis'];Chipembele / Chipembere
+agentive-physical-object;['mbuzi', 'capra aegagrus hircus'];Mbuzi, Mnyama.
+agentive-physical-object;['nkhumba', 'sus scrofa domestica'];Nkhumba, vinyama.
+agentive-physical-object;['ng’ombe', 'bos primigenius taurus', 'bos primigenius', "ng'ombe"];Ng’ombe, vinyama.
+agentive-physical-object;['ng’ombe', 'bos primigenius taurus', 'bos primigenius', "ng'ombe"];Ng’ombe, vinyama.
+agentive-physical-object;['chikho', 'bitis arietans'];Chikho
+agentive-physical-object;['nyalubwe', 'panthera pardus'];Nyalubwe
+agentive-physical-object;['nkhalamu', 'panthera leo'];Nkhalamu
+agentive-physical-object;['njati', 'syncerus caffer'];Njati
+agentive-physical-object;['njoka'];Njoka, vinyama.
+agentive-physical-object;['chigwele', 'hippopotamus amphibius'];Chigwele
+agentive-physical-object;['nkhomi', 'dendroaspis polylepis'];Nkhomi
+agentive-physical-object;['chingoma', 'vingoma', 'zea mays'];Chingoma (Zea mays), vyakumela.
+agentive-physical-object;['nyimbo'];Nyimbo, vinyama.
+agentive-physical-object;['nkhanga', 'numida meleagris'];Nkhanga
+agentive-physical-object;['viyuni', 'aves'];Viyuni == Malaŵi == Viyuni navyo m’Malaŵi ni vinandi.
+agentive-physical-object;['mbelele', 'mberere', 'ovis aries'];Mbelele / Mberere, vinyama.
+amount-of-matter;['vinyo'];Vinyo
+ecological-collective;['vyakumela'];Vyakumela Chomela ni chamoyo chilichonse icho chikukula kufuma mu nthaka.
+functional-matter;['vinyo'];Vinyo
+functional-matter;['chingwa'];Chingwa / Bredi, pela.
+functional-matter;['nyama'];Nyama
+geographical-object;['vilumba vya faroe'];Vilumba vya Faroe ni chalo icho chili kwa Europe.
+geographical-object;['mronga congo'];Mronga Congo, mronga kwa Africa.
+geographical-object;['great britain'];Great Britain, ni chalo icho chili kwa Europe.
+information-realization;['baibolo'];Baibolo
+locative-role;['kyoto'];Kyoto, mzinda kwa Japan.
+locative-role;['ho chi minh city'];Ho Chi Minh City
+locative-role;['fukuoka'];Fukuoka, mzinda kwa Japan.
+locative-role;['nagasaki'];Nagasaki, mzinda kwa Japan.
+locative-role;['stuttgart'];Stuttgart, mzinda kwa Germany.
+locative-role;['omsk'];Omsk, mzinda kwa Russia.
+locative-role;['perm'];Perm, mzinda kwa Russia.
+locative-role;['volgograd'];Volgograd, mzinda kwa Russia.
+locative-role;['saint petersburg'];Saint Petersburg, mzinda kwa Russia.
+locative-role;['essen'];Essen, mzinda kwa Germany.
+locative-role;['hiroshima'];Hiroshima, mzinda kwa Japan.
+locative-role;['cologne'];Cologne, mzinda kwa Germany.
+locative-role;['monaco'];Monaco, ni chalo icho chili kwa Europe.
+locative-role;['frankfurt', 'frankfurt am main'];Frankfurt / Frankfurt am Main, mzinda kwa Germany.
+locative-role;['serbia'];Serbia, ni chalo icho chili kwa Europe.
+locative-role;['kitakyushu'];Kitakyushu, mzinda kwa Japan.
+locative-role;['sapporo'];Sapporo, mzinda kwa Japan.
+locative-role;['trondheim'];Trondheim, mzinda kwa Norway.
+locative-role;['bergen'];Bergen, mzinda kwa Norway.
+locative-role;['lithuania'];Lithuania ni chalo icho chili kwa Europe.
+locative-role;['vladivostok'];Vladivostok, mzinda kwa Russia.
+locative-role;['rostov-on-don'];Rostov-on-Don, mzinda kwa Russia.
+locative-role;['kraków'];Kraków, mzinda kwa Poland.
+locative-role;['nizhny novgorod'];Nizhny Novgorod, mzinda kwa Russia.
+locative-role;['düsseldorf'];Düsseldorf, mzinda kwa Germany.
+locative-role;['osaka'];Osaka, mzinda kwa Japan.
+locative-role;['munich'];Munich / München, mzinda kwa Germany.
+locative-role;['naha'];Naha, mzinda kwa Japan.
+locative-role;['rio de janeiro'];Rio de Janeiro, mzinda kwa Brazil.
+locative-role;['istanbul'];Istanbul, mzinda kwa Turkey.
+non-agentive-physical-object;['kabunthu'];Kabunthu, malaya.
+physical-object;['kabunthu'];Kabunthu, malaya.
+physical-object;['shapato'];Shapato, malaya.
+physical-object;['basi'];Basi
+political-geographic-object;['romania'];Romania, ni chalo icho chili kwa Europe.
+political-geographic-object;['kyoto'];Kyoto, mzinda kwa Japan.
+political-geographic-object;['ho chi minh city'];Ho Chi Minh City
+political-geographic-object;['fukuoka'];Fukuoka, mzinda kwa Japan.
+political-geographic-object;['nagasaki'];Nagasaki, mzinda kwa Japan.
+political-geographic-object;['stuttgart'];Stuttgart, mzinda kwa Germany.
+political-geographic-object;['omsk'];Omsk, mzinda kwa Russia.
+political-geographic-object;['perm'];Perm, mzinda kwa Russia.
+political-geographic-object;['volgograd'];Volgograd, mzinda kwa Russia.
+political-geographic-object;['saint petersburg'];Saint Petersburg, mzinda kwa Russia.
+political-geographic-object;['essen'];Essen, mzinda kwa Germany.
+political-geographic-object;['hiroshima'];Hiroshima, mzinda kwa Japan.
+political-geographic-object;['cologne'];Cologne, mzinda kwa Germany.
+political-geographic-object;['north korea'];North Korea, ni chalo icho chili kwa Asia.
+political-geographic-object;['norway', 'kongeriket noreg', 'kongeriket norge', 'noreg', 'norge'];Norway, ni chalo icho chili kwa Europe.
+political-geographic-object;['netherlands'];Netherlands, ni chalo icho chili kwa Europe.
+political-geographic-object;['japan'];Japan, ni chalo icho chili kwa Asia.
+political-geographic-object;['monaco'];Monaco, ni chalo icho chili kwa Europe.
+political-geographic-object;['malaysia'];Malaysia, ni chalo icho chili kwa Asia.
+political-geographic-object;['switzerland', 'ch'];Switzerland (de: die Schweiz, fr: Suisse, it: Svizzera, rm: Svizra), ni chalo icho chili kwa Europe.
+political-geographic-object;['united arab emirates'];United Arab Emirates, ni chalo icho chili kwa Asia.
+political-geographic-object;['frankfurt', 'frankfurt am main'];Frankfurt / Frankfurt am Main, mzinda kwa Germany.
+political-geographic-object;['luxembourg'];Luxembourg, ni chalo icho chili kwa Europe.
+political-geographic-object;['kitakyushu'];Kitakyushu, mzinda kwa Japan.
+political-geographic-object;['sapporo'];Sapporo, mzinda kwa Japan.
+political-geographic-object;['spain'];Spain, ni chalo icho chili kwa Europe.
+political-geographic-object;['saudi arabia'];Saudi Arabia, ni chalo icho chili kwa Asia.
+political-geographic-object;['tajikistan'];Tajikistan, ni chalo icho chili kwa Asia.
+political-geographic-object;['belarus'];Belarus, ni chalo icho chili kwa Europe.
+political-geographic-object;['malawi', 'nyasaland', 'malaŵi'];Malawi chi vichi Nyasaland pambere 1907.
+political-geographic-object;['malawi', 'nyasaland', 'malaŵi'];Malaŵi, mozomelezgeka: Repabliki ya Malaŵi, ni charu chakujalilika ku nyanja zikuluzikulu cha ku m'mwela-fumadazi Afrika iyo kale yikaŵa Nyasaland.
+political-geographic-object;['azerbaijan'];Azerbaijan
+political-geographic-object;['kyrgyzstan'];Kyrgyzstan, ni chalo icho chili kwa Asia.
+political-geographic-object;['uzbekistan'];Uzbekistan, ni chalo icho chili kwa Asia.
+political-geographic-object;['kazakhstan'];Kazakhstan, ni chalo icho chili kwa Europe, Asia.
+political-geographic-object;['mongolia'];Mongolia, ni chalo icho chili kwa Asia.
+political-geographic-object;['belgium'];Belgium, ni chalo icho chili kwa Europe.
+political-geographic-object;['pakistan'];Pakistan, ni chalo icho chili kwa Asia.
+political-geographic-object;['bangladesh'];Bangladesh, ni chalo icho chili kwa Asia.
+political-geographic-object;['afghanistan'];Afghanistan
+political-geographic-object;['austria'];Austria, ni chalo icho chili kwa Europe.
+political-geographic-object;['laos'];Laos, ni chalo icho chili kwa Asia.
+political-geographic-object;['myanmar', 'burma'];Myanmar, ni chalo icho chili kwa Asia.
+political-geographic-object;['cambodia'];Cambodia, ni chalo icho chili kwa Asia.
+political-geographic-object;['australia'];Australia, ni chalo icho chili kwa Oceania.
+political-geographic-object;['trondheim'];Trondheim, mzinda kwa Norway.
+political-geographic-object;['bergen'];Bergen, mzinda kwa Norway.
+political-geographic-object;['bhutan'];Bhutan, ni chalo icho chili kwa Asia.
+political-geographic-object;['turkmenistan'];kankerdom kankerland krijg de tering sooooooooooooooooooooooooow
+political-geographic-object;['zambia'];Zambia ni chalo ichi chili ku manjililo ya zuba cha ku mpoto kwa chalo cha Malaŵi.
+political-geographic-object;['hungary'];Hungary, ni chalo icho chili kwa Europe.
+political-geographic-object;['poland'];Poland, ni chalo icho chili kwa Europe.
+political-geographic-object;['tanzania'];Tanzania ni chalo icho chili kumpoto cha kumafumilo ya zuba ya chalo cha Malaŵi.
+political-geographic-object;['vietnam'];Vietnam
+political-geographic-object;['germany'];Germany, ni chalo icho chili kwa Europe.
+political-geographic-object;['egypt'];Egypt, ni chalo icho chili kwa Asia, Afrika.
+political-geographic-object;['india'];dat land waar die indian tech scammers vandaan komen
+political-geographic-object;['italy'];Italy, ni chalo icho chili kwa Europe.
+political-geographic-object;['indonesia'];Indonesia, ni chalo icho chili kwa Asia.
+political-geographic-object;['greece'];Greece, ni chalo icho chili kwa Europe.
+political-geographic-object;['ukraine'];Ukraine, ni chalo icho chili kwa Europe.
+political-geographic-object;['armenia'];Armenia, ni chalo icho chili kwa Asia.
+political-geographic-object;['iraq'];Iraq, ni chalo icho chili kwa Asia.
+political-geographic-object;['south korea'];South Korea, ni chalo icho chili kwa Asia.
+political-geographic-object;['ghana'];Ghana ni chalo ichi chili ku mafumilo gha zuba na kumwela kwa Africa.
+political-geographic-object;['france'];France, ni chalo icho chili kwa Europe.
+political-geographic-object;['ireland'];Ireland, ni chalo icho chili kwa Europe.
+political-geographic-object;['maldives'];Maldives, ni chalo icho chili kwa Asia.
+political-geographic-object;['philippines'];Philippines, ni chalo icho chili kwa Asia.
+political-geographic-object;['sweden'];Sweden, ni chalo icho chili kwa Europe.
+political-geographic-object;['vladivostok'];Vladivostok, mzinda kwa Russia.
+political-geographic-object;['rostov-on-don'];Rostov-on-Don, mzinda kwa Russia.
+political-geographic-object;['liechtenstein'];Liechtenstein, ni chalo icho chili kwa Europe.
+political-geographic-object;['andorra'];Andorra, ni chalo icho chili kwa Europe.
+political-geographic-object;['oman'];Oman, ni chalo icho chili kwa Asia.
+political-geographic-object;['kuwait'];Kuwait, ni chalo icho chili kwa Asia.
+political-geographic-object;['jordan'];Jordan, ni chalo icho chili kwa Asia.
+political-geographic-object;['lebanon'];Lebanon, ni chalo icho chili kwa Asia.
+political-geographic-object;['kraków'];Kraków, mzinda kwa Poland.
+political-geographic-object;['nizhny novgorod'];Nizhny Novgorod, mzinda kwa Russia.
+political-geographic-object;['düsseldorf'];Düsseldorf, mzinda kwa Germany.
+political-geographic-object;['osaka'];Osaka, mzinda kwa Japan.
+political-geographic-object;['bahrain'];Bahrain, ni chalo icho chili kwa Asia.
+political-geographic-object;['iceland'];Iceland, ni chalo icho chili kwa Europe.
+political-geographic-object;['jerusalem'];Jerusalem, ndiwo msumba wukulu wa boma mu Israel.
+political-geographic-object;['berlin'];Berlin, ndiwo msumba wukulu wa boma mu Germany.
+political-geographic-object;['beijing'];Beijing, ndiwo msumba wukulu wa boma mu China.
+political-geographic-object;['thailand'];Thailand, ni chalo icho chili kwa Asia.
+political-geographic-object;['moscow'];Moscow, ndiwo msumba wukulu wa boma mu Russia.
+political-geographic-object;['israel'];Israel, ni chalo icho chili kwa Asia.
+political-geographic-object;['finland'];Finland, ni chalo icho chili kwa Europe.
+political-geographic-object;['munich'];Munich / München, mzinda kwa Germany.
+political-geographic-object;['tokyo'];Tokyo, ndiwo msumba wukulu wa boma mu Japan.
+political-geographic-object;['oslo'];Oslo, mzinda kwa Norway.
+political-geographic-object;['warszawa'];Warszawa, ndiwo msumba wukulu wa boma mu Poland.
+political-geographic-object;['lusaka'];Lusaka, ndiwo msumba wukulu wa boma mu Zambia.
+political-geographic-object;['dar es salaam'];Dar es Salaam, mzinda kwa Tanzania.
+political-geographic-object;['lilongwe'];Lilongwe ndiwo msumba wukulu wa boma mu Malaŵi.
+political-geographic-object;['ankara'];Ankara, ndiwo msumba wukulu wa boma mu Turkey.
+political-geographic-object;['naha'];Naha, mzinda kwa Japan.
+political-geographic-object;['rio de janeiro'];Rio de Janeiro, mzinda kwa Brazil.
+political-geographic-object;['istanbul'];Istanbul, mzinda kwa Turkey.
+political-geographic-object;['brazil'];Brazil, ni chalo icho chili kwa South America.
+region;['makhumi na vikhondi', '50'];Makhumi na vikhondi
+region;['makhumi na vinayi', '40'];Makhumi na vinayi
+region;['makhumi na vitatu', '30'];Makhumi na vitatu
+region;['vikhondi na vinayi', '0', '9'];Vikhondi na vinayi
+region;['khumi na vikhondi na vinayi', '19'];Khumi na vikhondi na vinayi
+region;['khumi na tubili', '12'];Khumi na tubili
+region;['khumi na vikhondi na kamoza', '16'];Khumi na vikhondi na kamoza
+region;['vikhondi na kamoza', '6'];Vikhondi na kamoza
+region;['vikhondi', '5'];Vikhondi
+region;['khumi na vikhondi', '15'];Khumi na vikhondi
+region;['khumi', '10'];Khumi
+region;['makhumi na tubili', '20'];Makhumi na tubili
+region;['vitatu', '3'];Vitatu
+region;['vibili', '2'];Vibili
+region;['vikhondi na tutatu', '8'];Vikhondi na tutatu
+region;['vikhondi na tubili', '7'];Vikhondi na tubili
+region;['khumi na vikhondi na tubili', '17'];Khumi na vikhondi na tubili
+region;['khumi na kamoza', '11'];Khumi na kamoza
+region;['khumi na vinay', '14'];Khumi na vinay
+region;['vinayi', '4'];Vinayi
+region;['khumi na tutatu', '13'];Khumi na tutatu
+region;['chimoza', '1'];Chimoza
+socially-constructed-person;['ronald reagan'];Ronald Wilson Reagan (1911-2004) wakaba mlongozgi wakwamba wa chalo cha United States of America.
+socially-constructed-person;['yesu khristu'];Yesu Khristu
+socially-constructed-person;['mu sungwana'];Mu sungwana.
+spatial-feature;['gibraltar'];Gibraltar, ni chalo icho chili kwa Europe.
+subject;['sayansi'];Sayansi ni ndondomeko za ku ndondomekeskeka makola chomene zo ŵika Mahala na umanyi mu kaŵilo koti kanga pimika kuti unenesko umanyikwe pala ulipo.
+temporal-region;['janyuwale'];Janyuwale ni 1.
+temporal-region;['janyuwale'];Janyuwale ni 1.
+temporal-region;['janyuwale'];Janyuwale ni 1.
+temporal-region;['disembala'];Disembala ni 12.
+temporal-region;['disembala'];Disembala ni 12.
+temporal-region;['mei'];Mei ni 5.
+temporal-region;['seputembala'];Seputembala ni 9.
+temporal-region;['marichi'];Marichi ni 3.
+temporal-region;['feburuwar'];Feburuwar ni 2.
+temporal-region;['ogasiti'];Ogasiti ni 8.
+temporal-region;['julayi'];Julayi ni 7.
+temporal-region;['epurelo'];Epurelo ni 4.
+temporal-region;['juni'];Juni ni 6.
+temporal-region;['novembala'];Novembala ni 11.
+temporal-region;['okutobala'];Okutobala ni 10.

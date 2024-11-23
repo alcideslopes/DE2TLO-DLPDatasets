@@ -1,0 +1,299 @@
+activity;['mobilisa'];Mobilisa kele kisalu ya kubongisa binuani na minduki samu na vita.
+activity;['vita'];Vita kele nuanu ya nene ya minduki na kati ya bayinsi to bantu mingi.
+agentive-figure;['kisilamu'];Kisilamu (kilabu: الإسلام. al-islaam) kele lukwikilu ya nene mingi.
+agentive-physical-object;['kibulu', 'animalia'];Bibulu to banyàma kele bîma yina kele na môyo.
+agentive-physical-object;['ludinatelo'];Ludinatelo kele masini yina ke salaka mazabu.
+agentive-physical-object;['dilala ya ngayi'];Dilala ya ngayi kele mbuma.
+agentive-physical-object;['muntu', 'homo sapiens sapiens', 'homo sapiens'];Muntu kele nyama ya maboko.
+agentive-physical-object;['nkombo', 'capra aegagrus hircus', 'ntaba'];Nkombo to ntaba kele kibulu.
+agentive-physical-object;['mandioko', 'mandyoko', 'manihot esculenta'];Mandyoko kele mwa yinti, yina ke salaka bambala ya kudya.
+agentive-physical-object;['nsibisi'];Nsibisi kele kibulu.
+agentive-physical-object;['nyama ya mabele', 'mammalia'];Banyama ya mabele kele banyama, yina kele na mukwa ya mukongo.
+agentive-physical-object;['dilalanzi'];Dilalanzi kele mbuma.
+agentive-physical-object;['mbuluku', 'mpunda', 'equus asinus'];Mbuluku kele nyama mpunda ya yinzo mpe ya musitu.
+agentive-physical-object;['ngulu', 'sus scrofa domestica'];Ngulu kele kibulu ya bwala.
+agentive-physical-object;['nyawu', 'felis silvestris catus'];Nyawu kele kibulu ya fyoti ya kinyawu.
+agentive-physical-object;['nzau', 'nzoko'];Nzau to nzoko kele nyama ya mabele luta nene, yina ke vandaka na zulu ya ntoto.
+agentive-physical-object;['nkabi'];Nkabi kele kibulu.
+agentive-physical-object;['dikwala'];Dikwala kele mbisi ya mubu.
+agentive-physical-object;['yingo', 'panthera pardus'];Yingo kele kibulu ya nene ya kinyawu.
+agentive-physical-object;['nkosi', 'panthera leo'];Nkosi to simba kele kibulu ya nseke.
+agentive-physical-object;['kibubu'];Kibubu (nkubu ya kinzabu: Gorilla) kele kibulu ya maboko ya nene mingi.
+agentive-physical-object;['kifalu'];Kifalu kele nyama ya mabele ya nene.
+agentive-physical-object;['dikuti'];Dikuti kele ndeke.
+agentive-physical-object;['mbulu'];Mbulu kele kibulu.
+agentive-physical-object;['ngulu ya musitu', 'sus scrofa', 'ngulu-mfinda'];Ngulu ya musitu to ngulu-mfinda kele kibulu.
+agentive-physical-object;['ngunaba'];Ngunaba kele kibulu.
+agentive-physical-object;['mbala', 'leptailurus serval'];Mbala kele kibulu ya nseke.
+agentive-physical-object;['nzobo'];Nzobo kele kibulu.
+agentive-physical-object;['koko-mbele'];Koko-mbele (nkubu ya kinzabu: Accipiter) kele ndeke.
+agentive-physical-object;['mununzi'];Mununzi kele kibulu.
+agentive-physical-object;['nsyesye'];Nsyesye kele kibulu.
+agentive-physical-object;['kivadangu'];Kivadangu kele ndeke, kele kibulu na mapapú zôle.
+agentive-physical-object;['nyosi', 'apis mellifera'];Nyosi to nyuki (Apis mellifera) kele mutîndu ya bitutu, yina ke salaka mafuta ya nyosi, yina kele madya ya sukâdi mîngi.
+agentive-physical-object;['mboloko'];Mboloko kele kibulu.
+agentive-physical-object;['nkuku'];Nkuku to mukuku kele kimenina, yina ke pesa bima sambu na kusala sukadi.
+agentive-physical-object;['munsyobo'];Munsyobo kele kibulu.
+agentive-physical-object;['dilolo', 'dilongi', 'mulolo', 'papayi'];Dilolo, to dilongi, to mulolo to papayi kele mbuma.
+agentive-physical-object;['kivadangu ya mputu'];Kivadangu ya Mputu kele ndeke.
+agentive-physical-object;['dimeme', 'ovis aries', 'dimême'];Dimeme kele kibulu ya bwala.
+amount-of-matter;['maza', 'h₂o'];Maza kele kima ya kusopa, yina kele na langi ve nsudi ve.
+amount-of-matter;['mafuta'];Mafuta kele zina ya bima bonso maza ya kukituka maza ve.
+amount-of-matter;['muamba'];Muamba kele mafuta ya ngazi ya diba.
+biological-object;['mbala'];Mbala kele ndâmbu ya kimenina, yina ke bûmbaka madya na kati ya mbala samu na kuzînga.
+biological-object;['dinu'];Dinu kele kanitu ya ngolo.
+biological-object;['kolosole'];Kolosole kele mbuma.
+biological-object;['mbuma'];Mbuma kele ndambu ya kimenina yina kele na mankeni.
+biological-object;['ntu'];Ntu kele kabu ya nitu.
+functional-matter;['kolosole'];Kolosole kele mbuma.
+functional-matter;['nkwezo'];Nkwezo to kausu kele zina ya bima ya lebe-lebe.
+genetic-collective;['dikânda'];Dikânda kele kimvuka ya mabuta, yina kele na mukulu mosi ya kyeleka to ya bansamu.
+genetic-collective;['dibuta'];Dibuta kele kimvuka ya bântu, yina kele na tâta, mâma ná bâna.
+geographical-object;['kalunga'];Kalunga to meri kele masa ya nene mingi.
+geographical-object;['nzadi kongo', 'nzâdi kôngo', 'nzadi kôngo'];Nzâdi Kôngo (to Zaire) kele nzadi ya zole na yinda ya Afrika pe ya tanu na yinda ya ntoto.
+geographical-object;['madinina', 'martinique'];Madinina kele kizunga ya Fwalansa.
+geographical-object;['guadeloupe'];Guadeloupe kele kizunga ya Fwalansa.
+geographical-object;['amelika'];Amelika kele kontina mosi ya ntoto.
+geographical-object;['nilo'];Nilo kele nzadi ya ntete na nda ya Afrika pe ya ntoto.
+information-realization;['muyimbu ya nsi'];Muyimbu ya nsi kele muyimbu, yina kele kidimbu ya nsi go besi.
+information-realization;['nsangu ya mbote'];Nsangu ya mbote ikele nkenda ya luzingu ya Yesu.
+information-realization;['biblia'];Biblia to Mukanda ya Nzambi kele mukanda ya santu ya kiyesu.
+information-realization;['patua'];Patua kele mpila ya ndinga, yina muntu mosi to bantu mingi ke tubaka.
+language;['bandinga ya kibantu'];Bandinga ya kibantu kele kibuka mosi ya bandinga ya Nije-Kongo ya Afrika.
+language;["kibang'la"];Kibang'la kele ndinga na Bang'la, India...
+language;['ndinga'];Ndinga ikele kisadilu ya nsangu.
+language;['kingelezi'];Kingelezi kele ndinga na Ngelezi, Kanada, USA...
+language;['kilatini'];Kilatini (kilatini: lingua latina) vandaka ndinga ya Nsi ya Roma.
+language;['kitsunkwo'];Kitsunkwo kele ndinga na Sina.
+language;['kiunsita'];Kiunsita kele ndinga ya mputu.
+language;['kiswahili'];Kiswahili kele ndînga ya yinsi ya Tanzania, Kenya, Uganda mpe Kongo-Kinsasa.
+language;['kihindi'];Kihindi kele ndinga na India, Fiji.
+language;['kispanya'];Kispanya kele ndinga na Arhentina, Beneswela, Bolivia, Ekwador, Espania, Gwatemala, Kolombia, Kosta Rika, Kuba, Mehiko, Nikaragwa, Ondura, Panama, Paragway, Peru, Repubilika ya Dominika, Urugway.
+language;['kilabu'];Kilabu kele ndinga ya nene.
+language;['kidoitce'];Kidoitce kele ndinga ya ntoto.
+locative-role;['ho chi minh city'];Ho Chi Minh City kele buala ya fioti na Vietnam.
+locative-role;['marseille'];Marseille kele mbanza mfumu ya kizunga Bouches-du-Rhône ya Fwalansa.
+locative-role;['nice'];Nice kele mbanza mfumu ya kizunga Alpes-Maritimes ya Fwalansa.
+locative-role;['stuttgart'];Stuttgart kele mbanza mfumu ya kizunga Baden-Württemberg ya Alemanyi.
+locative-role;['saint petersburg'];Saint Petersburg kele buala ya Rusia.
+locative-role;['monako'];Monako kele nsi na Mputu.
+locative-role;['mayenne'];Mayenne kele kizunga ya Fwalansa.
+locative-role;['serbie', 'србија'];Serbie kele nsi na Mputu.
+locative-role;['thüringen'];Thüringen kele kizunga ya Alemanyi.
+locative-role;['tianjin'];Tianjin kele kizunga ya Sina.
+locative-role;['bordo', 'bordeaux'];Bordo kele buala na Fwalansa na ndambu ya Aquitaine.
+locative-role;['lietuva'];Lietuva kele yinsi ya fyoti na Mputu.
+locative-role;['sachsen'];Sachsen kele kizunga ya Alemanyi.
+locative-role;['düsseldorf'];Wiesbaden kele mbanza mfumu ya kizunga Nordrhein-Westfalen ya Alemanyi.
+locative-role;['madinina', 'martinique'];Madinina kele kizunga ya Fwalansa.
+locative-role;['komune'];Komune kele ndambu ya yinsi mpe bankwa ya yau, yina ke yâlamaka na mfumu ya komune to mfumu ya mbânza.
+locative-role;['nôde'];Nôde kele nzila ya busula.
+locative-role;['munich'];Munich kele kizunga ya Bavaria, Alemanyi.
+locative-role;['rio de janeiro'];Rio de Janeiro kele buala ya sudi Brazilia.
+method;['dimokalasi'];Dimokalasi kele mpila ya luyadilu.
+non-agentive-physical-object;['nzila ya lukalu'];Nzila ya lukalu kele nzila ya kibende.
+non-physical-collection;['kisinto'];Kisinto kele lukwikilu ya Japan.
+non-physical-collection;['kisilamu'];Kisilamu (kilabu: الإسلام. al-islaam) kele lukwikilu ya nene mingi.
+non-physical-collection;['kiyesu', 'kikristo'];Kiyesu to Kikristu to Kikilistu to Kikristo kele lukwikilu ya nzambi mosi, muntu ke tuba nsangu ya mbote ya Yesu.
+physical-body;['ntoto'];Ntoto kele mweta ya tatu tuka Ntangu.
+physical-body;['mars', '♂'];Mars kele mweta ya yiya tuka Ntangu.
+physical-body;['merkure'];Merkure kele mweta ya mosi tuka Ntangu.
+physical-object;['dikâlu', 'kivyangu-vyangu'];Dikâlu to velo to kivyangu-vyangu kele dikûmbi ya yinsi.
+physical-object;['tomabîlu'];Tomabîlu to ditoma to vwatidi kele kumbi, yina ke kwendaka na nzila mpe na yinsi.
+physical-object;['kumbi', 'dikûmbi'];Dikûmbi kele kima/masîni ya kutambula.
+physical-object;['sizo', 'luziolo'];Sizo kele kisadilu ya kuzenga bima ya nene ve bonso mukanda.
+physical-object;['lukalu'];Lukalu kele kumbi ya kwenda na zulu ya nzila ya lukalu.
+physical-object;['dikongo'];Dikongo kele kinwaninu ya nkulu ye kisadilu ya kuzomba.
+physical-object;['kapoti'];Kapoti kele saki ya nkwezo samu na kulwata na kibakala na ntangu ya kuyonga.
+physical-object;['soka'];Soka ikele kisalilu ya makasi ya kibende.
+physical-object;['dikâlu', 'kivyangu-vyangu'];Dikâlu to velo to kivyangu-vyangu kele dikûmbi ya yinsi.
+political-geographic-object;['romania'];Romania kele nsi na Mputu.
+political-geographic-object;['ho chi minh city'];Ho Chi Minh City kele buala ya fioti na Vietnam.
+political-geographic-object;['marseille'];Marseille kele mbanza mfumu ya kizunga Bouches-du-Rhône ya Fwalansa.
+political-geographic-object;['nice'];Nice kele mbanza mfumu ya kizunga Alpes-Maritimes ya Fwalansa.
+political-geographic-object;['stuttgart'];Stuttgart kele mbanza mfumu ya kizunga Baden-Württemberg ya Alemanyi.
+political-geographic-object;['saint petersburg'];Saint Petersburg kele buala ya Rusia.
+political-geographic-object;['hangu ya node', 'korea ya node', 'north korea'];Hangu ya Node to Korea ya Node kele yinsi na Azia.
+political-geographic-object;['norge', 'noreg', 'norway'];Norge kele nsi na Mputu.
+political-geographic-object;['pays-bas'];Pays-Bas kele nsi na Mputu.
+political-geographic-object;['lesotho'];Lesotho kele yinsi na Afelika ya Sudi.
+political-geographic-object;['japan'];Japan kele nsi ya Azia.
+political-geographic-object;['monako'];Monako kele nsi na Mputu.
+political-geographic-object;['repubilika ya afelika ya kati', 'nsi ya afelika ya kati'];Repubilika ya Afrika ya Kati kele nsi na Afrika ya Kati.
+political-geographic-object;['malaysia'];Malaysia kele nsi ya Azia.
+political-geographic-object;['namibia'];Namibia kele nsi Afelika ya Sudi.
+political-geographic-object;['ginea ya ekwatelo', 'ginea ya ekwata'];Ginea ya Ekwatelo kele yinsi mosi ya Afelika ya Kati.
+political-geographic-object;['komoro'];Komoro kele leta ya Afelika.
+political-geographic-object;['suisi', 'ch'];Suisi kele nsi na Mputu.
+political-geographic-object;['luxembourg'];Luxembourg kele nsi na Mputu.
+political-geographic-object;['maroko'];Maroko kele yinsi na Afelika ya Node.
+political-geographic-object;['royaume-uni'];Royaume-Uni kele nsi na Mputu.
+political-geographic-object;['espania'];Espania kele nsi na Mputu.
+political-geographic-object;['tasadi'];Repubilika ya Tasadi (kiarabi:تشاد , Tašaad. kifalanse: Tchad) kele nsi ya Afelika ya Kati.
+political-geographic-object;['belarusia'];Belarusia kele nsi na Mputu.
+political-geographic-object;['malawi'];Malawi kele leta ya Afelika ya Sudi.
+political-geographic-object;['azerbaidjan', 'azerbaijan'];Azerbaidjan kele yinsi na Azia.
+political-geographic-object;['kirgizstan'];Kirgizstan kele yinsi na Azia.
+political-geographic-object;['uzbekistan'];Uzbekistan kele nsi na Azia Mputu.
+political-geographic-object;['mali'];Mali kele yinsi na Afelika ya Lumonso.
+political-geographic-object;['kazakhstan'];Kazakhstan (kikazaki: Қазақстан) kele yinsi na Azia.
+political-geographic-object;['tianjin'];Tianjin kele kizunga ya Sina.
+political-geographic-object;['belezi'];Belezi kele nsi ya Mputu.
+political-geographic-object;['swati'];Swati kele yinsi na Afelika ya Sudi.
+political-geographic-object;['bangladesh'];Bangladesh kele yinsi na Azia.
+political-geographic-object;['autriche'];Autriche kele nsi na Mputu.
+political-geographic-object;['laos'];Laos kele nsi ya Azia.
+political-geographic-object;['cambodia'];Cambodia kele nsi ya Azia.
+political-geographic-object;['australia'];Australia kele kontina mosi ya ntoto
+political-geographic-object;['sichuan'];Sichuan kele kizunga ya Sina.
+political-geographic-object;['conakry'];Conakry kele mbanza-kimfumu ya yinsi ya Ginea.
+political-geographic-object;['bordo', 'bordeaux'];Bordo kele buala na Fwalansa na ndambu ya Aquitaine.
+political-geographic-object;['gansu'];Gansu kele kizunga ya Sina.
+political-geographic-object;['yunnan'];Yunnan kele kizunga ya Sina.
+political-geographic-object;['rwanda'];Rwanda kele yinsi na Afelika ya Kati.
+political-geographic-object;['zambia'];Zambia kele leta ya Afelika ya Sudi.
+political-geographic-object;['repubilika ya kôngo ya dimokalasi', 'repubilika ya kongo ya dimokalasi', 'repubilika ya kôngo demokratiki', 'kongo-kinsasa', 'kongo-kinshasa', 'repubilika ya kongo demokratiki', 'repubilika ya kôngo ya demokratiki'];Repubilika ya Kôngo Demokratiki to Kôngo Demokratiki to Kôngo-Kinsasa kele yinsi na Afelika ya Kati.
+political-geographic-object;['hongrie'];Hongrie kele nsi na Mputu.
+political-geographic-object;['pologne', 'polonia'];Pologne kele nsi na Mputu.
+political-geographic-object;['burundi'];Burundi kele nsi ya Afelika ya Kati.
+political-geographic-object;['tanzania'];Tanzania kele leta ya Afelika ya Lunene.
+political-geographic-object;['ginea', 'gine'];Ginea kele yinsi na Afelika ya Lumonso.
+political-geographic-object;['sômâlia', 'somalia'];Sômâlia kele yinsi na kibongo ya Afelika.
+political-geographic-object;['vietnam'];Vietnam (kitsunkwo: Việt Nam) kele nsi na Azia.
+political-geographic-object;['libia'];Libia kele yinsi na Afelika ya Node.
+political-geographic-object;['alemanyi'];Alemanyi kele nsi na Mputu.
+political-geographic-object;['sudan'];Sudan kele yinsi na Afelika ya Node.
+political-geographic-object;['misiri', 'egypt', 'ngipiti'];Misiri to Ngipiti kele yinsi na Afelika ya Node.
+political-geographic-object;['guyana'];Guyana kele yinsi na Amelika ya Sudi.
+political-geographic-object;['algeria', 'djazairia'];Algeria kele yinsi na Afelika ya Node.
+political-geographic-object;['india'];India (Bisono devanagari: भारत /bʱaːrət/) go Repubilika ya India (/bʱaːrətə gəɳəraːʤjə/), kele nsi ya Azia Sudi.
+political-geographic-object;['italia'];Italia kele nsi na Mputu.
+political-geographic-object;['chile'];Chile kele nsi na Amelika ya Sudi.
+political-geographic-object;['paragway'];Paragway kele yinsi na Amelika ya Sudi.
+political-geographic-object;['musambiki', 'mosambiki', 'mozambike', 'mozambiki'];Repubilika ya Musambiki I nsi ya Afelika ya Sudi.
+political-geographic-object;['indonesia'];Indonesia kele yinsi na Azia.
+political-geographic-object;['gelesi'];Gelesi kele nsi na Mputu.
+political-geographic-object;['ukrayina', 'uklenyi'];Uklenyi kele nsi na Mputu.
+political-geographic-object;['armenia'];Armenia kele nsi na Mputu.
+political-geographic-object;['iraq'];Iraq kele nsi ya Azia.
+political-geographic-object;['hangu ya sudi', 'korea ya sudi', 'south korea'];Hangu ya Sudi to Korea ya Sudi kele yinsi na Azia.
+political-geographic-object;['gambia'];Gambia kele nsi na simu ya lumonso ya Afelika.
+political-geographic-object;['gana'];Gana kele nsi na simu ya lumonso ya Afelika.
+political-geographic-object;['nizeria'];Nizeria to Nigeria kele nsi ya nene na Afelika ya Lumonso.
+political-geographic-object;["côte d'ivoire", 'kodivwa'];Repubilika ya Kodivua kele yinsi ya Afrika ya Lumonso.
+political-geographic-object;['nijer', 'niger'];Nijer kele yinsi na Afelika ya Lumonso.
+political-geographic-object;['ngabu', 'gabon'];Repubilika ya Ngabu kele leta na Afelika ya Kati.
+political-geographic-object;['repubilika ya kongo', 'repubilika ya kôngo', 'kongo-braza', 'kongo-brazza', 'kongo-brazzaville'];Repubilika ya Kôngo to Kôngo-Balazavile kele yinsi na Afrika ya Kati.
+political-geographic-object;['ginea-bisau', 'gine-bisau'];Ginea-Bisau kele yinsi na Afelika ya Lumonso.
+political-geographic-object;['senangale'];Senangale kele leta ya Afelika ya Lumonso.
+political-geographic-object;['fwalansa', 'falanse'];Falanse kele nsi na Mputu.
+political-geographic-object;['irlande'];Irlande kele nsi na Mputu.
+political-geographic-object;['malagasi'];Malagasi kele yinsi ya kisanga na Kalunga ya India, pene-pene ya Afelika.
+political-geographic-object;['maldives'];Maldives kele nsi ya Azia.
+political-geographic-object;['seychell'];Seychell kele leta ya Afelika ya Lunene.
+political-geographic-object;['suedi'];Suedi kele nsi na Mputu.
+political-geographic-object;['mbanza ya kuwait'];Mbanza ya Kuwait kele mbanza-kimfumu ya yinsi ya Kuwait.
+political-geographic-object;['mbanza ya kimfumu', 'mbânza-kimfumu'];Mbanza ya kimfumu kele ngudi ya luyalu ya nsi to ndambu ya leta ya nkaka.
+political-geographic-object;['liechtenstein'];Liechtenstein kele nsi na Mputu.
+political-geographic-object;['andora'];Andora kele nsi na Mputu.
+political-geographic-object;['niedersachsen'];Niedersachsen kele kizunga ya Alemanyi.
+political-geographic-object;['oman'];Oman kele nsi ya Azia.
+political-geographic-object;['alger'];Alger kele mbanza-kimfumu ya yinsi ya Algeria.
+political-geographic-object;['xizang'];Xizang kele kizunga ya Sina.
+political-geographic-object;['lebanon'];Lebanon kele nsi ya Azia.
+political-geographic-object;['vatican'];Vatican kele nsi na Mputu.
+political-geographic-object;['düsseldorf'];Wiesbaden kele mbanza mfumu ya kizunga Nordrhein-Westfalen ya Alemanyi.
+political-geographic-object;['kap verde'];Repubilika ya Kap Verde kele nsi na Afrika ya lunene.
+political-geographic-object;['islande'];Islande kele nsi na Mputu.
+political-geographic-object;['komune'];Komune kele ndambu ya yinsi mpe bankwa ya yau, yina ke yâlamaka na mfumu ya komune to mfumu ya mbânza.
+political-geographic-object;['abuja'];Abuja kele mbanza ya kimfumu ya Nizeria.
+political-geographic-object;['lima'];Lima kele mbanza-kimfumu ya yinsi ya Peru.
+political-geographic-object;['gaborone'];Gaborone kele mbanza-kimfumu ya yinsi ya Botswana.
+political-geographic-object;['bogota'];Bogota kele mbanza-kimfumu ya yinsi ya Kolombia.
+political-geographic-object;['prague'];Prague to Praha kele mbanza ya kimfumu ya République tchèque.
+political-geographic-object;['jakarta'];Jakarta kele mbanza-kimfumu ya yinsi ya Indonesia.
+political-geographic-object;['roma'];Roma kele mbanza ya kimfumu ya Italia.
+political-geographic-object;['lome'];Lome kele mbanza-kimfumu ya yinsi ya Togo.
+political-geographic-object;['berlin'];Berlin kele kizunga ya Alemanyi.
+political-geographic-object;['nouakchott'];Nouakchott kele mbanza-kimfumu ya yinsi ya Moritania.
+political-geographic-object;['pyongyang'];Pyongyang kele mbanza-kimfumu ya yinsi ya Hangu ya Node.
+political-geographic-object;['mbabane'];Mbabane kele mbanza-kimfumu ya yinsi ya Swati.
+political-geographic-object;['beijing'];Beijing kele kizunga ya Sina.
+political-geographic-object;['itiopia'];Itiopia kele yinsi na Afelika ya Lunene.
+political-geographic-object;['moskva'];Moskva kele buala ya Rusia.
+political-geographic-object;['santu tome na prinsipe', 'são tomé e príncipe'];Santu Tome na Prinsipe kele yinsi na Afelika ya Lumonso.
+political-geographic-object;['israel'];Israel kele nsi ya Azia.
+political-geographic-object;['tripoli'];Tripoli kele mbanza-kimfumu ya yinsi ya Libia.
+political-geographic-object;['finlandi'];Finlandi kele nsi na Mputu ya node.
+political-geographic-object;['monrovia'];Monrovia kele mbanza-kimfumu ya yinsi ya Liberia.
+political-geographic-object;['asuncion'];Asuncion kele mbanza-kimfumu ya yinsi ya Paragway.
+political-geographic-object;['lwanda', 'luanda'];Lwanda kele mbanza ya kimfumu ya Ngola.
+political-geographic-object;['dhaka'];Dhaka kele mbanza-kimfumu ya yinsi ya Bangladesh.
+political-geographic-object;['munich'];Munich kele kizunga ya Bavaria, Alemanyi.
+political-geographic-object;['bujumbura'];Bujumbura kele mbanza-kimfumu ya yinsi ya Burundi.
+political-geographic-object;['ndjamena'];Ndjamena (kiarabi Nidjāmīnā نجامينا) kele mbanza-ntu ya Tasadi.
+political-geographic-object;['santiago de chile'];Santiago de Chile kele mbanza ya kimfumu ya Chile.
+political-geographic-object;['mbanza ya djibuti'];Mbanza ya Djibuti kele mbanza-kimfumu ya yinsi ya Djibuti.
+political-geographic-object;['paris'];Paris kele mbanza ya kimfumu ya Fwalansa.
+political-geographic-object;['accra'];Accra kele mbanza-kimfumu ya yinsi ya Gana.
+political-geographic-object;['teheran'];Teheran kele mbanza-kimfumu ya yinsi ya Iran.
+political-geographic-object;['amman'];Amman kele mbanza-kimfumu ya yinsi ya Jordani.
+political-geographic-object;['nairobi'];Nairobi kele mbanza-kimfumu ya yinsi ya Kenya.
+political-geographic-object;['vaduz'];Vaduz kele mbanza ya kimfumu ya Liechtenstein.
+political-geographic-object;['vilnius'];Vilnius kele mbânza-kimfumu ya Lietuva.
+political-geographic-object;['managua'];Managua kele mbanza-kimfumu ya yinsi ya Nikaragwa.
+political-geographic-object;['maputo'];Maputo kele mbanza-kimfumu ya yinsi ya Musambiki.
+political-geographic-object;['niamey'];Niamey kele mbanza-kimfumu ya yinsi ya Nijer.
+political-geographic-object;['kigali'];Kigali kele mbanza-kimfumu ya yinsi ya Rwanda.
+political-geographic-object;['dakar'];Dakar kele mbanza-kimfumu ya yinsi ya Senangale.
+political-geographic-object;['freetown'];Freetown kele mbanza-kimfumu ya yinsi ya Sierra Leone.
+political-geographic-object;['mogadishu'];Mogadishu to Muqkisho kele mbanza-kimfumu ya yinsi ya Somalia.
+political-geographic-object;['seoul'];Seoul kele mbanza-kimfumu ya yinsi ya Hangu ya Sudi.
+political-geographic-object;['stockholm'];Stockholm kele mbanza ya kimfumu ya Suedi.
+political-geographic-object;['bangi', 'bangui'];Bangi kele mbanza-kimfumu ya yinsi ya Afelika ya Kati.
+political-geographic-object;['abijan', 'abidján', 'abdijan'];Abijan kele mbanza-kimfumu ya yinsi ya Kodivwa.
+political-geographic-object;['antananarivo'];Antananarivo kele mbanza-kimfumu ya yinsi Malagasi.
+political-geographic-object;['mavula', 'braza', 'brazzaville', 'balazavile', 'ntambo', 'ntamo'];Balazavile (Brazzaville) to Ntambo to Mavula (nkûmbu na kilâdi) kele mbânza-kimfumu ya Repubilika ya Kôngo.
+political-geographic-object;['kampala'];Kampala kele mbanza-kimfumu ya yinsi ya Uganda.
+political-geographic-object;['montevideo'];Montevideo kele mbanza-kimfumu ya yinsi ya Urugway.
+political-geographic-object;['lusaka'];Lusaka kele mbanza-kimfumu ya yinsi ya Zambia.
+political-geographic-object;['harare'];Harare kele mbanza-kimfumu ya yinsi ya Zimbabwe.
+political-geographic-object;['tunis'];Tunis kele mbanza-kimfumu ya yinsi ya Tunisia.
+political-geographic-object;['baku'];Baku kele mbanza-kimfumu ya yinsi ya Azerbaidjan.
+political-geographic-object;['porto-novo'];Porto-Novo kele mbanza-kimfumu ya yinsi ya Benin.
+political-geographic-object;['brasilia'];Brasilia kele mbanza-kimfumu ya yinsi ya Brazilia.
+political-geographic-object;['yaounde'];Yaounde kele mbanza-kimfumu ya yinsi ya Kamerun.
+political-geographic-object;['praia'];Praia kele mbanza-kimfumu ya yinsi ya Kap Verde.
+political-geographic-object;['adis abeba', 'addis abeba'];Adis Abeba kele mbânza-kimfumu ya Itiopia.
+political-geographic-object;['libreville'];Libreville kele mbanza ya kimfumu ya Ngabu.
+political-geographic-object;['banjul'];Banjul kele mbanza ya kimfumu ya Gambia.
+political-geographic-object;['bissau'];Bissau kele mbanza-kimfumu ya yinsi ya Ginea-Bisau.
+political-geographic-object;['biskek'];Biskek kele mbanza-kimfumu ya yinsi ya Kirgizstan.
+political-geographic-object;['maseru'];Maseru kele mbanza-kimfumu ya yinsi ya Lesotho.
+political-geographic-object;['lilongwe'];Lilongwe kele mbanza-kimfumu ya yinsi ya Malawi.
+political-geographic-object;['bamako'];Bamako kele mbanza ya kimfumu ya Mali.
+political-geographic-object;['rabat'];Rabat kele mbanza-kimfumu ya yinsi ya Maroko.
+political-geographic-object;['khartoum'];Khartoum kele mbanza-kimfumu ya yinsi ya Sudan.
+political-geographic-object;['kinsasa'];Kinsasa (zina ya ntama vwandaka Léopoldville) kele mbanza ya kimfumu na mbanza luta nene ya Repubilika ya Kôngo ya Dimokalasi.
+political-geographic-object;['rio de janeiro'];Rio de Janeiro kele buala ya sudi Brazilia.
+political-geographic-object;['tripoli'];Tripoli kele mbanza-kimfumu ya yinsi ya Libia.
+political-geographic-object;['pretoria'];Pretoria kele mbanza-kimfumu ya yinsi ya Repubilika ya Afelika ya Sudi.
+quality;['bule'];Bule kele langi ya zulu na ntangu ya mbote.
+quality;['kisinto'];Kisinto kele lukwikilu ya Japan.
+quality;['kisilamu'];Kisilamu (kilabu: الإسلام. al-islaam) kele lukwikilu ya nene mingi.
+quality;['kiyesu', 'kikristo'];Kiyesu to Kikristu to Kikilistu to Kikristo kele lukwikilu ya nzambi mosi, muntu ke tuba nsangu ya mbote ya Yesu.
+region;['4'];4 (iya) kele ntalu, yina kele na nima ya tatu mpe na ntwala ya tanu.
+relation;['nôde'];Nôde kele nzila ya busula.
+simple-collective;['zandu'];Zandu kele kifulu ya kuteka mpe kusumba.
+situation;['zandu'];Zandu kele kifulu ya kuteka mpe kusumba.
+socially-constructed-person;['ronald reagan'];Ronald Wilson Reagan 40th president de United States.
+socially-constructed-person;['mfumu ya komune'];Mfumu ya komune kele ntwadisi ya luyâlu na komune mosi.
+socially-constructed-person;['siera leone', 'sierra leone'];Sierra Leone kele nsi na simu ya lumonso ya Afelika.
+socially-constructed-person;['yesu'];Yesu (katuka -5 tî 33) vwandaka mulongi na ngunza ya bayuda.
+socially-constructed-person;['wanzio'];Wanzio (to mbasi) kele ntumwa ya bwala ya Nzambi yina ya yandi ke tindaka sambu na kusadila yandi kisalu ti kusala luzolo na yandi.
+subject;['kizabu'];Kizabu (mpe kizayu to mazayu) kele kisadilu ya luzabisu.
+subject;['fizika'];Fizika kele mazabu ya mfunu.
+taxonomic-collective;['mpunda'];Mpunda (nkubu ya kinzabu: Equidae) kele mutîndu ya banyama.
+taxonomic-collective;['mbambi'];Mbambi kele nyoka.
+temporal-region;['nowele'];Nowele kele mukebo ya mbulukulu ya Yesu.
+temporal-region;['mposo'];Mposo kele ndonga ya bilumbu.

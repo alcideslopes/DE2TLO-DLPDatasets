@@ -1,0 +1,189 @@
+activity;['tsirkus', 'rändtsirkus'];Esinejate reisiseltskond, kus võivad olla akrobaadid, klounid, treenitud loomad ja teised uudsed esitused ja mis annab tavaliselt etendusi ringikujulises telgis.
+activity;['konformsus'];Käitumine teatud aktsepteeritud normide kohaselt.
+activity;['tants', 'tantsimine', 'tantsijad', 'tantsu', 'tantsud'];Rütmiliste sammude või liigutuste jada, mida sooritatakse koos muusikaga. On nautimiseks või sotsiaalse interaktsiooni ühe vorm.
+agentive-physical-object;['oravlased', 'orav', 'sciuridae', 'oravad'];Väikese või keskmise suurusega oravlaste sugukonda kuuluv näriline.
+agentive-physical-object;['põrsas', 'kodusigade', 'notsu', 'shoat', 'shote'];Noor siga.
+agentive-physical-object;['emis', 'kodusigade', 'külvama'];Täiskasvanud emane siga.
+agentive-physical-object;['hall hunt', 'hunt', 'susi', 'canis lupus', 'gray wolf', 'hundid', 'lupus', 'puidu hunt', 'wolve'];Suur metsik koerlane (Canidae), on lähedases suguluses koeraga.
+agentive-physical-object;['siga', 'sigalane', 'sus scrofa domestica', 'emis', 'kodusiga', 'sead', 'sus', 'kodusigade', 'orikas'];Tavaline neljajalgne loom (Sus scrofa), kellel on lõhkkabjad, harjased ja kaevamiseks kohandunud nina ja keda inimesed peavad liha saamiseks.
+agentive-physical-object;['kõuts', 'isakass'];Isane kodukass.
+agentive-physical-object;['metssiga', 'sus scrofa', 'looduslike orikas', 'metssead', 'metssigade orikas', 'scrofa'];Sigalaste sugukonda kuuluv imetaja (Sus scrofa, Linnaeus 1758), kodusea eellane.
+agentive-physical-object;['porgand', 'daucus carota sativa', 'haritud porgand'];Kollakasoranž kaunis pikk ümar köögivilja juurikas, mida süüakse toorelt või keedetuna.
+agentive-physical-object;['koiott', 'preeriahunt', 'canis latrans', 'coyotes', 'harja hunt', 'latrans', 'preeria hunt'];(Canis latrans) Koera perekonna liige, keda leidub Põhja-Ameerikas.
+agentive-physical-object;['rebane', 'punarebane', 'vulpes vulpes', 'canis vulpes', 'punarebastele'];(''Vulpes vulpes''). suhteliselt väike karnivoorne koerlane.
+agentive-physical-object;['jääkaru', 'ursus maritimus', 'thalarctos maritimus', 'ursus eogroenlandicus', 'ursus groenlandicus', 'ursus jenaensis', 'ursus labradorensis', 'ursus marinus', 'ursus polaris', 'jää karu', 'jääkarud', "thalarctos maritimus'e"];Suur karu, kes on levinud põhjapoolsetel polaaraladel.
+agentive-physical-object;['kassipoeg', 'kassipojad'];Noos kass.
+agentive-physical-object;['pardipoeg'];Noor part.
+agentive-physical-object;['hanetibu', 'hanepoeg'];Noor hani.
+amount-of-matter;['vesi', 'h₂o', 'h2o', 'vedel vesi'];Tavaline vedelik (H₂O), mis moodustab vihma, jõgede, merede jne põhiosa ning suure osa organismidest.
+amount-of-matter;['ütrium', 'y', 'aatomnumber 39'];Keemiline element keemilise sümboliga Y ja järjenumbriga 39. See on hõbevalge siirdemetall.
+amount-of-matter;['messing', 'valgevask', 'brassware', 'messingist'];Üks mitmest vase ja tsingi sulamist, milles võib leiduda ka teisi metallilisi elemente. Ta sisaldab 3 kuni 46 protsenti tsinki. Ta on kõva helekollane metall, mis pisut meenutab kulda.
+biological-object;['küünekiisk', 'kynsitikku', 'agnail'];Väike rebenenud nahatükk sõrme või varbaküüne lähedal.
+biological-object;['selg', 'tagasi'];Keha tagaosa, eriti osa, mis jääb kaela ja selgroo lõpu vahele ning rinnakorvi ja kõhu vastu.
+cognitive-event;['sõja piiril balansseerimine', 'tasapainoilu', 'brinksmanship'];Ohtliku situatsiooni surumine katastroofi äärele selleks, et saavutada kõige soodsamaid tagajärgi.
+course;['enne', 'ettetähendus', 'oomen', 'ended', 'ime', 'ennustama', 'ennustav', 'omen'];Märk, mis peaks näitama, kas tulevik saab olema soodne või mitte.
+course;['enne', 'ettetähendus', 'oomen', 'eelaimus', 'egiidi', 'foretoken', 'preindication'];Märk, mis peaks näitama, kas tulevik saab olema soodne või mitte.
+course;['lühis', 'lühiühendus', 'lühise'];Elektriahelas või seadmestikus mittetahtlikult tekkinud madala takistuse või impedantsiga elektriline ühendus.
+functional-matter;['betoon'];Sideaine (eriti tsemendi), täitematerjali ja vee segu kivistumisel saadav ehitusmaterjal.
+functional-matter;['raudbetoon', 'raudbetoonist'];Terassarrusega tugevdatud tsementbetoon
+functional-matter;['sool', 'keedusool', 'lauasool', 'söögisool', 'naatriumkloriid', 'nacl', 'soola', 'naatriumsool', 'soola tootmise'];Maitseaine (NaCl - naatriumkloriid), mida lisatakse toidule või millega parandatakse toidu maitset (tavaliselt koos pipraga).
+genetic-collective;['järelpõlv', 'järelsugu'];Kõik tulevased generatsioonid.
+genetic-collective;['perekond', 'pere', 'sugukond', 'peresuhted'];Grupp, kuhu kuuluvad vanemad, järglased ja teised lähedased sugulased ja elukaaslased.
+geographical-object;['visla', 'wisła', 'visla jõgi', 'vistula', 'wisla', 'visla jõe'];Pikim Poola jõgi.
+geographical-object;['läänemeri', 'balti meri', 'mare suebicum', 'sueebide meri', 'läänemere'];Meri Põhja-Euroopas, on ühenduses Atlandi ookeaniga.
+information-object;['etümoloogia', 'etümoloog', 'etümoloogiate', 'etümoloogiline', 'etümoloogiliselt'];Teadus, mis tegeleb sõnade päritolu ja ajaloolise arenemise uurimisega.
+information-realization;['histogramm', 'histogrammi', 'histogrammid', 'tulpdiagramm'];Graafik, mis kasutab tulpasid, et näidata andmete sagedust võrdsete intervallide sees.
+information-realization;['bagatell', 'bagatelle'];Lühike kerge muusikapala.
+language;['bengali keel', 'bangla', 'bengali'];India keelte hulka kuuluv keel, mida kõneldakse peamiselt Bangladeshis ja Indias.
+language;['eesti keel', 'eesti', 'eesti keele murded', 'kandes'];Soomeugri keel, mida kõneldakse peamiselt Eestis.
+non-agentive-physical-object;['hullusärk', 'hullusärki', 'ahistavaks', 'kitsastesse raamidesse', 'otse jope', 'sirge jakk', 'straitjackets'];Jakitaoline riietusese, mille pikki varrukaid saab kandja seljal kokku siduda, et teda ohjeldada.
+non-agentive-physical-object;['pissuaar', 'kusemisruum', 'pissuaari', 'pissuaarid'];Sanitaarsüsteem, mis on tavaliselt paigutatud seinale ja mida kasutavad mehed urineerimiseks.
+organized-collection;['teek', 'programmeerimisteek', 'programmiteek', 'tarkvarateek', 'teegifail', 'funktsioon raamatukogu', 'jagatud objekti', 'jagatud raamatukogude', 'jagatud teegi', 'klassi raamatukogu', 'programmi raamatukogu', 'raamatukogu', 'tarkvara raamatukogu', 'tarkvara raamatukogud'];Kollektsioon alamprogramme, mida kasutatakse tarkvara väljatöötamiseks.
+organized-collection;['raamatukogu', 'meediakogud', 'teadusraamatukogu', 'teadusraamatukogude', 'viide raamatukogu'];Koht, kus hoitakse raamatuid ja teisi kirjalikke materjale.
+organized-collection;['korrelatsioon', 'korrelatsioonimaatriksi', 'korrelatsioonis', 'statistiline korrelatsioon'];Seos kahe andmehulga vahel.
+parameter;['poolaeg', 'poole kohaga'];Üks kahest matši poolest, mis on eraldatud vaheajaga mõnel meeskonnaspordialal nagu jalgpall või ragbi.
+phenomenon;['heteroseksuaalsus', 'heteroseksuaalsuse', 'heteroaatomeid', 'heteroseksuaalid', 'heterosexualism'];Seksuaalne sättumus, mida iseloomustab romantiline või seksuaalne külgetõmme vastassoost inimeste suhtes.
+phenomenon;['homoseksuaalsus', 'homoseksualism', 'homoseksuaalid', 'samasooiharus', 'homoseksuaal', 'homosexualitas', 'omasooiharus', 'homoeroticism', 'samasooliste', 'gayness', 'homoerotic', 'homoseksualismi', 'samasooliste atraktsioon'];Seksuaalne sättumus, mida iseloomustab romantiline või seksuaalne külgetõmme samast soost inimeste suhtes.
+phenomenon;['seks', 'inimese seksuaalkäitumist', 'inimeste seksuaalkäitumist', 'seksuaalne tegevus', 'inimese seksuaalse aktiivsuse', 'kahju seksida', 'seksuaalkäitumise', 'seksuaalse sattuda', 'seksuaalse tava', 'sugu tegevus'];Sugulise vahekorra akt.
+phenomenon;['anaalseks', 'sodoomia', 'anaalseksi', 'buggery', 'pederastia', 'anaalse sissetungimise', 'pilastati'];Inimese seksuaalkäitumise vorm, kus erekteerunud peenis asetatakse päraku kaudu pärasoolde.
+phenomenon;['biseksuaalsus', 'biseksuaal', 'bi-seksuaalne', 'biseksuaalid'];Seksuaalne sättumus, mida iseloomustab romantiline või seksuaalne külgetõmme mõlemast soost inimeste suhtes.
+phenomenon;['metabolism', 'ainevahetus', 'metaboolne rada', 'rakkude ainevahetust', 'ainevahetusprotsesse', 'ainevahetust', 'biosünteesi rajas'];Kõik elusorganismis asetleidvad keemilised reaktsioonid, hõlmates nii anabolismi kui katabolismi.
+physical-body;['kuu', 'moon'];Maa ainus looduslik kaaslane.
+physical-object;['lõbumaja', 'bordell', 'litsimaja', 'avalik maja', 'hooramaja', 'bordello', 'bagnio', 'bawdyhouse', 'bordellid', 'maja halva maine', 'maja prostitutsiooni', 'spordi maja'];Rajatis, kus raha eest pakutakse seksuaalteenuseid.
+physical-object;['hoiupõrsas', 'notsu panga', 'penny pank'];Nõu, mida kasutatakse müntide kogumiseks, on sageli sea kujuga.
+physical-object;['hoiupõrsas', 'mündi pank'];Nõu, mida kasutatakse müntide kogumiseks, on sageli sea kujuga.
+physical-object;['pump', 'auru pump', 'elektriline pump', 'mahtpumpa', 'pumbad'];Imemisel ja/või surumisel põhinev seade. Vedeliku, gaasi või auru rõhuenergia suurendamiseks ja nende teisaldamiseks.
+physical-object;['vererõhumõõtur', 'sfügmomanomeeter', 'vererõhuaparaat'];Seade, mida kasutatakse vererõhu mõõtmiseks.
+physical-object;['hullusärk', 'hullusärki', 'ahistavaks', 'kitsastesse raamidesse', 'otse jope', 'sirge jakk', 'straitjackets'];Jakitaoline riietusese, mille pikki varrukaid saab kandja seljal kokku siduda, et teda ohjeldada.
+physical-object;['vaateratas', 'ilmaratas', 'rataskarussell'];Suur pöörlev püstine ratas mille serva külge on kinnitatud reisijate kabiinid.
+physical-object;['pump', 'auru pump', 'elektriline pump', 'mahtpumpa', 'pumbad'];Imemisel ja/või surumisel põhinev seade. Vedeliku, gaasi või auru rõhuenergia suurendamiseks ja nende teisaldamiseks.
+physical-object;['käerauad', 'aheldama', 'aheldad', 'handlock', 'käsiraudat'];Ahel, mis koosneb omavahel ühendatud võrude paarist, mis piiravad käte vaba liikumist.
+physical-object;['allveelaev', 'allveelaeva', 'pigboat'];Laev, mis võib liikuda vee all.
+physical-object;['takisti', 'elektri juhtivus', 'takistid', 'vastupanu', 'vastupidava'];Kahe väljaviiguga elektroonikakomponent määratud elektritakistuse teostamiseks.
+physical-object;['manomeeter', 'absoluutne rõhk', 'bourdoni toru', 'manomeetri', 'mõõdetud rõhk', 'rõhk', 'rõhu mõõtmise'];Mõõteriist, mis kasutab vedelikusamba nihet rõhu mõõtmiseks.
+physical-object;['ventiil', 'klapp', 'ventiilid'];Seadis auru, gaasi v. vedeliku ühesuunalise voolu reguleerimiseks ja sulgemiseks.
+physical-object;['saal', 'auditooriumid', 'auditoorium', 'kuningliku kasti'];Teatri vms osa, kus publik istub.
+political-geographic-object;['hispaania', 'hispaania kuningriik', 'espana'];Riik Lääne-Euroopas.
+political-geographic-object;['madagaskar', 'madagaskari vabariik', 'mad', 'malagassi demokraatlik vabariik', 'malagassi vabariik', 'madagaskari vabariigi'];Riik Lõuna-Aafrikas, mille pealinn on Antananarivo.
+political-geographic-object;['kiiev', 'kiiv', 'kyyiv', 'ukraina pealinnas'];Ukraina suurim linn ja pealinn.
+political-geographic-object;['varssavi', 'warszawa', 'varssav', 'warsaw', 'poola pealinn'];Poola pealinn.
+quality;['värvus', 'värvuste loendid', 'must', 'värv', 'värvi', 'värvid', 'värvi teaduse'];Värvus (öise taeva ja musträsta sulgede värvus), mis tekib, kui kogu valgus neeldub ja midagi sellest ei peegeldu. tume ja värvitu.
+quality;['egoism', 'isekus', 'egoistlik', 'paisteradest pea'];Kalduvus mõelda iseendale või enda huvides.
+quality;['sugupool', 'sugu', 'gender', 'soolisus', 'sotsiaalne sugu', 'sotsiaalne sugupool', 'sugupooled', 'bioloogiline sugu', 'seksuaalsus', 'soolist eneseväljendust'];Üks kahest osapoolest (kas mees või naine) kuidas paljud organismid võib jaotada soojätkamise toimingute või organite järgi.
+quality;['roheline', 'viridity'];Kasvava lehestiku värvus ja samuti teiste taimerakkude värvus, mis sisaldavad klorofülli. värvus nähtavas spektris kollase ja sinise vahel. üks primaarseid liitvärve edastatud valgusele. värvus, mis saadakse, kui lahutada valgest valgusest punane ja sinine, kasutades tsüaani ja kollast filtrit.
+quality;['valge'];Valguse värvus, mis sisaldab võrdses osas kõiki nähtavaid lainepikkusi.
+quality;['poolkuu'];Kuu faas noorkuu ja vanakuu vahel, mille vältel on nähtava ainult pool kuud.
+region;['sekund', 'teine', 's', 'aatomisekund', 'efemeriidisekund', 'sekundit'];Üks kuuekümnendik minutit (kui see on tunni teine jaotus ja minut on esimene).
+region;['valuuta', 'valuutade', 'välisvaluuta'];Vahetusühik (nagu näiteks raha), mida kasutatakse tehingute hõlbustamiseks.
+region;['tund', '60 minutit', 'h', 'hr'];Kuuekümne minutiga ajavahemik. üks kahekümneneljandik päevast.
+region;['null', 'eimiski', '0', 'mitteolev', 'olematu', 'midagi', 'ei ühtegi', 'hani muna', 'liitumast', 'mitte midagi', 'nada', 'olematus', 'tühjaks', 'veevaim', 'zippo'];Põhiarv, mis tähistab suuruse või hulga puudumist.
+region;['bait', 'eksabait', 'gigabait', 'jottabait', 'kilobait', 'megabait', 'terabait', 'zettabait', 'baiti'];Info mahutavuse mõõtühik, mis kõige sagedamini sisaldab kaheksa bitti.
+region;['kuu', 'kalendrikuu', 'kuud'];Ajavahemik, milledeks aasta on jaotatud ja mis põhineb ajalooliselt kuu faasidel. Gregoriuse kalendris on kaksteist kuud.
+region;['ajaühik', 'ajaühiku', 'ajaühikus'];Ajavahemike mõõtühik, näiteks sekund, tund, päev, aasta või sajand.
+region;['volt', 'volti', 'kv'];Elektrivälja potentsiaali ja pinge SI tuletatud ühik sümboliga "V". potentsiaalide vahe elektrijuhil kui ühe ampri suurune elektrivool tarbib võimsust üks vatt.
+region;['vatt', 'watt', 'gigavatt', 'w', 'kilovatt', 'kw', 'megavatt', 'mw', 'gw', 'kilovatti', 'megavatti', 'petawatt', 'teravatt'];Võimsuse SI tuletatud ühik sümboliga "W", määratletakse kui ühe džauli energia ülekandega sekundis.
+region;['minut', 'min'];Ajaühik, mis on võrdne kuuekümne sekundiga ja ühe kuuekümnendikuga tunnist.
+region;['amper', 'a', 'aastas', 'amprit', 'gregoriuse aastal', 'ma', 'milliampere', 'nanoampere'];Elektrivoolu tugevuse SI põhiühik tähisega "A".
+region;['dinaar', 'iraagi dinaar'];Alžeeria ametlik rahaühik.
+region;['liir', 'itaalia liir'];Endine Itaalia, San Marino ja Vatikani ametlik rahaühik.
+region;['jaapani jeen', 'jeen', 'jpy', 'jeeni'];Jaapani ametlik rahaühik.
+region;['dirham', 'maroko dirhem'];Maroko ametlik rahaühik.
+region;['poola zlott', 'zlott', 'poola złott', 'zlotys', 'złoty'];Poola ametlik rahaühik.
+region;['rand', 'lõuna-aafrika rand'];Lõuna-Aafrika Vabariigi ametlik rahaühik.
+region;['üheksa', '0', '9', 'ennead', 'ix', 'nina alates carolina', 'niner'];Üheksas naturaalarv (9).
+region;['kuus', '6', 'hexad', 'kapten hicks', 'pool tosinat', 'sekstett', 'sextuplet', 'sise', 'sixer'];Põhiarv, mis järgneb viiele ja eelneb seitsmele ning mida tähistav rooma number on VI ning araabia number 6.
+region;['viis', '5', 'cinque', 'little phoebe', 'pentad'];Põhiarv, mis järgneb neljale ja eelneb kuuele ning mida tähistav rooma number on V ning araabia number 5.
+region;['kolm', '3', 'iii', 'kolmetine', 'pagan-ace', 'tercet', 'ternion', 'tertsett', 'trine'];Põhiarv, mis järgneb kahele ja eelneb neljale ning mida tähistav rooma number on III ning araabia number 3.
+region;['kaks', '2', 'ii', 'traksidega'];Teine naturaalarv (2).
+region;['kaheksa', 'viii', '8', 'eighter', 'eighter, decatur', 'octad', 'octonary', 'ogdoad'];Põhiarv, mis järgneb seitsmele ja eelneb üheksale ning mida tähistav rooma number on VIII ning araabia number 8.
+region;['seitse', '7', 'heptad', 'septenary', 'sevener', 'vii'];Põhiarv, mis järgneb kuuele ja eelneb kaheksale ning mida tähistav rooma number on VII ning araabia number 7.
+region;['neli', '4', 'quaternion', 'little joe', 'nelik', 'quatern', 'quaternions', 'quaternity', 'tetractys'];Põhiarv, mis järgneb kolmele ja viiele ning mida tähistav rooma number on IV ning araabia number 4.
+region;['kakskümmend üks', '21', 'xxi'];Põhiarv, mis järgneb kahekümnele ja eelneb kahekümne kahele ning mida tähistav rooma number on XXI ning araabia number 21.
+region;['kakskümmend kaks', '22', 'xxii'];Põhiarv, mis järgneb kahekümne ühele ja eelneb kahekümne kolmele ning mida tähistav rooma number on XXII ning araabia number 22.
+region;['sünnipäev', 'natal päev', 'sünniaeg', 'sünnipäeva', 'sünnipäevad', 'sünnipäevi'];Kuupäev, mil isik sündis.
+region;['kardinaalarv', 'põhiarv', 'hulga võimsus', 'kardinaalarvud', 'kardinal number', 'kardinal aritmeetika', 'kardinal numbrid'];Kogust tähistav number.
+region;['aatomnumber', 'järjenumber', 'aatominumber', 'järjekorranumber', 'laenguarv', 'aatomi numbrid', 'prootonite arv'];Aatomituumas leiduvate prootonite arv.
+region;['üks', '1', 'korrutamise', 'korteež', 'n-korteež', 'sextuple', 'tuples', 'äss'];Nullile järgnev ja kahele eelnev põhiarv, mille esitus Rooma numbrina on I ja Araabia numbrina 1.
+relation;['semantiline suhe', 'semantiline seos'];Sõnade tähenduste vahel olev suhe.
+relevant-part;['küünekiisk', 'kynsitikku', 'agnail'];Väike rebenenud nahatükk sõrme või varbaküüne lähedal.
+simple-collection;['antiikmütoloogia', 'klassikalisest mütoloogiast', 'kreeka-rooma mütoloogia'];Vanakreeka ja rooma mütoloogia. suur osa rooma mütoloogiast (eriti jumalused) oli laenatud vanadelt kreeklastelt.
+simple-planned-collective;['triumviraat', 'triumvir', 'triumvirid', 'triumviraatti', 'triumviri', 'triumvirs'];Kolme isiku liit, kes hoiavad poliitilist võimu.
+situation;['foobia', 'foobiad', 'haiguslik kartus', 'foobinen', 'foobinen häire', 'foobinen neuroos', 'irratsionaalne hirm'];Irratsionaalne või obsessiivne hirm või ärevus, harilikult tekitatud millegi poolt või millegi lähedusest.
+situation;['palavik', 'püreksia', 'febricity', 'febrility', 'palavikuga', 'palavikulisuse'];Normaalsest kõrgem kehatemperatuur inimesel (või üldiselt imetajal).
+situation;['toidumürgitus', 'toidumürgistus', 'seedetrakti häire', 'toidumürgituse', 'toidust haigus'];Haigus, mille põhjustab saastatud toidu tarbimine.
+situation;['prostitutsioon', 'crack hoor', 'harlotry', 'john', 'nõudlust sugu', 'prostituudid', 'seksiteenuseid'];Seksuaalteenuste müümine raha või mingit teist laadi vastutasu eest.
+social-role;['valuuta', 'valuutade', 'välisvaluuta'];Vahetusühik (nagu näiteks raha), mida kasutatakse tehingute hõlbustamiseks.
+socially-constructed-person;['lapselaps', 'pojapoeg', 'pojatütar', 'tütrepoeg', 'tütretütar', 'lapselast'];Kellegi lapse tütar.
+socially-constructed-person;['lapselaps', 'pojapoeg', 'pojatütar', 'tütrepoeg', 'tütretütar', 'lapselast'];Kellegi lapse poeg.
+socially-constructed-person;['lapselaps', 'pojapoeg', 'pojatütar', 'tütrepoeg', 'tütretütar', 'lapselast'];Kellegi lapse laps.
+socially-constructed-person;['kasulaps', 'kasuema', 'kasuisa', 'kuri võõrasema', 'poolõe', 'samm-isa', 'samm-poeg', 'segatud pere', 'stepfamily'];Abikaasa ja ta eelneva partneri laps.
+socially-constructed-person;['kasutütar', 'kasuema', 'kasuisa', 'kuri võõrasema', 'poolõe', 'samm-isa', 'samm-poeg', 'segatud pere', 'stepfamily'];Abikaasa ja ta eelneva partneri tütar.
+socially-constructed-person;['kasutütar', 'kasuema', 'kasuisa', 'kuri võõrasema', 'poolõe', 'samm-isa', 'samm-poeg', 'segatud pere', 'stepfamily'];Kellegi kasuisa või kasuema tütar.
+socially-constructed-person;['lits', 'hoor', 'libu', 'lirva', 'lõbunaine', 'lõbutüdruk', 'prostituut', 'lohakas naine', 'räbu'];Naine, kes müüb seksuaalteenuseid raha eest.
+socially-constructed-person;['jumalanna', 'jumalannad', 'püha naiselik'];Naissoost jumalus.
+socially-constructed-person;['õde', 'sis'];Naissoost isik, kellel on samad vanemad kui teisel isikul.
+socially-constructed-person;['isa', 'begetter', 'bioloogiline isa', 'isataim'];Meessoost lapsevanem
+socially-constructed-person;['bulgaarlased', 'bulgaaria keel', 'bulgaarlane'];Lõunaslaavi keel, mida kõnelevad põhiliselt Bulgaaria elanikud.
+socially-constructed-person;['vanavanem', 'emaema', 'emaisa', 'isaema', 'isaisa', 'vaarema', 'vanavanaema', 'emapoolne vanaisa', 'vanavanaisa', 'vanavanemad'];Kellegi ema isa.
+socially-constructed-person;['vanavanem', 'emaema', 'emaisa', 'isaema', 'isaisa', 'vaarema', 'vanavanaema', 'emapoolne vanaisa', 'vanavanaisa', 'vanavanemad'];Kellegi ema ema.
+socially-constructed-person;['vanavanem', 'emaema', 'emaisa', 'isaema', 'isaisa', 'vaarema', 'vanavanaema', 'emapoolne vanaisa', 'vanavanaisa', 'vanavanemad'];Kellegi isa ema.
+socially-constructed-person;['vanavanem', 'emaema', 'emaisa', 'isaema', 'isaisa', 'vaarema', 'vanavanaema', 'emapoolne vanaisa', 'vanavanaisa', 'vanavanemad'];Kellegi isa isa.
+socially-constructed-person;['vanavanem', 'emaema', 'emaisa', 'isaema', 'isaisa', 'vaarema', 'vanavanaema', 'emapoolne vanaisa', 'vanavanaisa', 'vanavanemad'];Kellegi vanaisa või vanaema ema.
+socially-constructed-person;['sugulane'];Isik, keda loetakse kuuluvat samasse perekonda ühiste esivanemate, abielu või lapsendamise kaudu.
+socially-constructed-person;['matemaatik', 'matemaatikud'];Teadlane, kes töötab matemaatika alal.
+socially-constructed-person;['kingsepp'];Elukutseline jalanõude parandaja.
+socially-constructed-person;['hobuserautaja', 'sepp', 'hobuserautus', 'horseshoer'];Inimene, kes hoolitseb hobuse jalgade tervise ja tasakaalu eest, lõigates kapju ja kinnitades kapjadele hobuseraudu.
+socially-constructed-person;['õved', 'emapoolne poolvend', 'õed-vennad', 'sibling', 'siblings', 'sibs', 'õve', 'vend', 'sisters', 'vennad', 'õde'];Poolvend, kellega jagatakse sama ema, kuid erinevat isa.
+socially-constructed-person;['lõbunaine', 'prostituut', 'hoor', 'libu', 'lirva', 'lits', 'lõbutüdruk', 'floozie', 'lutka', 'mees eskort', 'mees prostitutsiooni', 'mees prostituut', 'rentboy', 'tänav tüdruk', 'tänavaprostitutsioon', 'üüri poisid', 'üüri poiss'];Naine, kes müüb seksuaalteenuseid raha eest.
+socially-constructed-person;['poolõde'];Õde, kellega omatakse ainult ühte ühist vanemat.
+socially-constructed-person;['poolvend', 'kasuvend'];Kellegi kasuisa või kasuema poeg.
+socially-constructed-person;['poolvend', 'kasuvend'];Vend, kellega omatakse ainult ühte ühist vanemat.
+socially-constructed-person;['nunn', 'ema', 'nunnad'];Naine, kellel on vähemalt üks laps.
+socially-constructed-person;['hoor', 'prostituut', 'libu', 'lirva', 'lits', 'lõbunaine', 'lõbutüdruk', 'daam rõõm', 'lõbumajapidaja', 'naine tänaval', 'spordi daam'];Naine, kes müüb seksuaalteenuseid raha eest.
+socially-constructed-person;['alaealine', 'laps', 'alaealisus', 'alaealiste', 'nooruk', 'väike kala'];Inimene, kes ei ole veel jõudnud murdeikka.
+socially-constructed-person;['neiu', 'damoiselle', 'damosel', 'damozel', 'näitsik', 'näitsik sattunud', 'tütarlaps-in-stressi'];Noor abiellumata naine.
+socially-constructed-person;['pedofiilia', 'pedofiilid'];Parafiilia, mida iseloomustab seksuaalne külgetõmme puberteedieelses eas laste vastu.
+socially-constructed-person;['tšingis-khaan', 'temutšin', 'tšingis khaan', 'jenghiz khan', 'jinghis khan', 'temujin'];Mongolite impeeriumi rajaja 13 sajandil.
+socially-constructed-person;['sarimõrvar', 'serial mõrvar', 'sarimõrvari', 'sarimõrvarid', 'seerianumber mõrv', 'serial tapmine'];Isik, kes on tapnud pikema aja vältel mitmeid inimesi.
+socially-constructed-person;['kalakaupmees', 'kalanaine', 'kala kaupmees', 'kala müük', 'kalapood'];Kaupmees, kes on spetsialiseerunud kala müümisele.
+socially-constructed-person;['logos', 'poeg', 'logod', 'poega'];Kellegi meessoost laps.
+socially-constructed-person;['vanaema', 'gran', 'vanaemake'];Isiku vanematest ühe ema.
+socially-constructed-person;['peaminister', 'kantsler', 'peaministrid', 'premier', 'premiers'];Valitsuskabineti esimees või juht valitsuse täidesaatvas harus parlamentaarses süsteemis.
+socially-constructed-person;['tädi', 'sõtse', 'vanatädi', 'isa õde'];Kellegi neljast vanavanemast ühe õde.
+socially-constructed-person;['tädi', 'sõtse', 'vanatädi', 'isa õde'];Naine, kellel on üks või enam õve, kellel on üks või enam last. kellegi ema või isa õde.
+socially-constructed-person;['käli', 'nadu', 'naiseõde', 'vend-in-law', 'vend juriidiliselt', 'õde-in-law'];Kellegi mehe või naise õde.
+socially-constructed-person;['kasuema', 'kasupoeg', 'kasuisa', 'kuri võõrasema', 'poolõe', 'samm-isa', 'samm-poeg', 'segatud pere', 'stepfamily'];Abikaasa ja ta eelneva partneri poeg.
+spatial-feature;['põrand', 'põrandakate'];ruumi, hoone vm. ehitise rõhttarind, millele toetuvad seadmed, mööbel jms.. millegi põhi v. alumine osa.
+subject;['vulkanoloogia', 'volcanologists'];Geoloogia haru, mis uurib vulkanismi.
+subject;['elektroonika', 'elektrooniline seade', 'elektrooniline süsteem', 'elektroonilise tehnoloogia', 'elektroonilised seadmed'];Gaaside, vaakumi, pooljuhtmaterjalide või elektrijuhtide elektrijuhtivuse uurimine, kontroll ja rakendamine.
+subject;['psühholoogia', 'inimese psühholoogia', 'psychological science', 'psühholoogiline', 'psühholoogiliselt'];Teadus, mis tegeleb mõistuse funktsioonidega ja organismi käitumisega seda ümbritseva keskkonna suhtes.
+substance-role;['messing', 'valgevask', 'brassware', 'messingist'];Üks mitmest vase ja tsingi sulamist, milles võib leiduda ka teisi metallilisi elemente. Ta sisaldab 3 kuni 46 protsenti tsinki. Ta on kõva helekollane metall, mis pisut meenutab kulda.
+taxonomic-collective;['koerlane', 'koerlased', 'canidae', 'canids', 'perekond canidae'];Karnivoorne imetaja koerlaste sugukonnast, sealhulgas koerad ja nende sugulased.
+temporal-region;['sajand', 'sajandid', 'aastasada', 'sajandeid', 'sajandi'];Saja-aastane periood.
+temporal-region;['aasta', 'a', 'aastane ajavahemik', 'aastas', 'gregoriuse aastal', 'ma'];Ajavahemik kindlate kuupäevade vahel, mis tähistavad aastat, 1. jaanuarist kuni 31. detsembrini Gregoriuse kalendri järgi.
+temporal-region;['sünnipäev'];Päev, mil üks või enam aastat tagasi keegi sündis.
+temporal-region;['nädal', 'hebdomad'];Seitsmepäevane ajavahemik.
+temporal-region;['kuu', 'kalendrikuu', 'kuud'];Ajavahemik, milledeks aasta on jaotatud ja mis põhineb ajalooliselt kuu faasidel. Gregoriuse kalendris on kaksteist kuud.
+temporal-region;['jaanuar', 'helmekuu', 'näärikuu', 'südakuu', 'südamekuu', 'jaan'];Gregoriuse kalendris esimene kuu, milles on 31 päeva.
+temporal-region;['jaanuar', 'helmekuu', 'näärikuu', 'südakuu', 'südamekuu', 'jaan'];Gregoriuse kalendris esimene kuu, milles on 31 päeva.
+temporal-region;['jaanuar', 'helmekuu', 'näärikuu', 'südakuu', 'südamekuu', 'jaan'];Gregoriuse kalendris esimene kuu, milles on 31 päeva.
+temporal-region;['detsember', 'jõulukuu', 'detsembris'];Gregoriuse kalendris kaheteistkümnes kuu, milles on 31 päeva.
+temporal-region;['detsember', 'jõulukuu', 'detsembris'];Gregoriuse kalendris kaheteistkümnes kuu, milles on 31 päeva.
+temporal-region;['mai', 'lehekuu', 'maikuu', 'lehehakkamiskuu', 'meiukuu', 'nelipühakuu', 'toomekuu', 'õiekuu'];Gregoriuse kalendris viies kuu, milles on 31 päeva.
+temporal-region;['september', 'mihklikuu'];Gregoriuse kalendris üheksas kuu, milles on 30 päeva.
+temporal-region;['märts', 'linnukuu', 'paastukuu', 'urbekuu'];Gregoriuse kalendris kolmas kuu, milles on 31 päeva.
+temporal-region;['veebruar', 'hundikuu', 'kassikuu', 'küünlakuu', 'naistekuu', 'pudrusöömise kuu', 'radokuu', 'vastlakuu', 'veebruaris'];Gregoriuse kalendris teine kuu, milles on liigaastal 29 päeva ja teistel aastatel 28 päeva.
+temporal-region;['august', 'lõikuskuu', 'augustis'];Gregoriuse kalendris kaheksas kuu, milles on 31 päeva.
+temporal-region;['juuli', 'heinakuu'];Gregoriuse kalendris seitsmes kuu, milles on 31 päeva.
+temporal-region;['aprill', 'jürikuu', 'mahlakuu', 'naljakuu', 'sulakuu'];Gregoriuse kalendris neljas kuu, milles on 30 päeva.
+temporal-region;['juuni', 'jaanikuu', 'pärnakuu'];Gregoriuse kalendris kuues kuu, milles on 30 päeva.
+temporal-region;['november', 'talvekuu'];Gregoriuse kalendris üheteistkümnes kuu, milles on 30 päeva.
+temporal-region;['oktoober', 'kolletamiskuu', 'viinakuu', 'oktoobris'];Gregoriuse kalendris kümnes kuu, milles on 31 päeva.
+temporal-region;['tsiviilaeg', 'talveaeg', 'vööndiaeg', 'standardaeg', 'kohaliku aja järgi', 'ajanorm', 'tsiviil-aeg'];"Tavaline" aeg erinevalt suveajast.
+temporal-region;['päev'];Ajavahemik ühest keskööst järgmiseni. Seitse järjestikku moodustab nädala.
+temporal-region;['aasta', 'aastad', 'ajastaig', 'aastas', 'gregoriuse aastal', 'ma'];Ajavahemik, mis kulub Maal ühe täistiiru tegemiseks ümber Päikese (vahemikus 365,24 kuni 365,26 päeva, sõltuvalt võrdluspunktist).
+temporal-region;['kevad', 'päriskevad', 'kevadel'];Traditsiooniliselt esimene neljast aastaajast, mil kõik kasvab ja päevad muutuvad üha pikemaks.
+temporal-region;['päev', 'päevasel'];Päikesetõusu ja -loojangu vaheline aeg, mil saab nautida päevavalgust.
+temporal-region;['poolkuu'];Kuu faas noorkuu ja vanakuu vahel, mille vältel on nähtava ainult pool kuud.
+temporal-region;['troopiline aasta', 'aasta', 'päikeseaasta', 'aastas', 'astronoomiline aasta', 'gregoriuse aastal', 'keskmine troopiline aasta', 'ma', 'päikese aasta', 'päikeseenergia aasta', 'pööripäevane aasta'];Ajavahemik, mis kulub mistahes planeedil ühe täistiiru tegemiseks ümber teise taevakeha.
+temporal-region;['troopiline aasta', 'aasta', 'päikeseaasta', 'aastas', 'astronoomiline aasta', 'gregoriuse aastal', 'keskmine troopiline aasta', 'ma', 'päikese aasta', 'päikeseenergia aasta', 'pööripäevane aasta'];Ajavahemik, mis kulub Maal ühe täistiiru tegemiseks ümber Päikese (vahemikus 365,24 kuni 365,26 päeva, sõltuvalt võrdluspunktist).

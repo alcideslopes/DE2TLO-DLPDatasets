@@ -1,0 +1,231 @@
+activity;['mistral', 'mistrau'];Vent
+activity;['comptina'];Cançon de mainatges
+activity;['temps'];Meteo
+agentive-figure;['limited company'];pagina d'omonimia
+agentive-figure;['glèisa'];Institucion
+agentive-figure;['divan'];Lista d'un projècte Wikimèdia
+agentive-figure;['estat', 'estat sobeiran', 'nacion'];Paises
+agentive-figure;['educacion segondària', 'gymnasium', 'licèu'];França
+agentive-figure;['ensemble'];Musica
+agentive-physical-object;['testard', 'capgròs'];larva d'amfibís
+agentive-physical-object;['animalia', 'animal', 'animals', 'animau', 'renhe animal', 'règne animal'];Animal
+agentive-physical-object;['èrba', 'èrbas'];planta utilizada coma aliment, medecina, perfum o aròma
+agentive-physical-object;['arbre', 'arbe', 'arbres', 'aubre'];planta capable de créisser a mais de cinc mètres de nautor
+agentive-physical-object;['tetrapòdes', 'tetrapoda', 'tetrapòde'];Tetrapòdes
+agentive-physical-object;['arachnida', 'aracnids', 'aracnid'];Classa d''atropòdes quelicerats
+agentive-physical-object;['proconsul'];Primat
+agentive-physical-object;['craniata', 'vertebrats', 'vertebrata', 'craniats', 'vertebrat'];Sosembrancament dels animals provesits d''una esqueleta
+agentive-physical-object;['cordats', 'chordata', 'cordat', 'cordata'];Cordats
+agentive-physical-object;['homo', 'èsser uman', 'homo sapiens sapiens', 'èstre uman', 'homo sapiens', 'espècia umana', 'uman', 'òme'];Nom commun per l'Homo sapiens, sola espècia que demòra del genre Homo
+agentive-physical-object;['cyanococcus', 'blueberry'];Blueberry
+agentive-physical-object;['mirga', 'ratuga'];pichon rosegaire
+agentive-physical-object;['phocidae', 'focid', 'focidats', 'focids'];Fòca
+agentive-physical-object;['pinnipedia', 'pinnipède', 'pinnipèdes'];Fòca e mòrsas
+agentive-physical-object;['camèl', 'tylopodes', 'camelus'];Camèl
+agentive-physical-object;['sinapsida'];Sinapsids
+agentive-physical-object;['ciclids', 'cichlidae', 'ciclid'];Ciclids
+agentive-physical-object;['arthropoda', 'artropòdes', 'artropòde'];Embrancament d''animals invertebrats
+agentive-physical-object;['escaravissa', 'escrabida'];Escrabida
+agentive-physical-object;['caval', 'equus caballus', 'cavala', 'cavals', 'cavath', 'cavau', 'chaval', 'chavala', 'chavau', 'chival', 'chivau', 'polin', 'shivau', 'èga'];Mena de mamifèr
+agentive-physical-object;['vedèl', 'vedèth'];Bovin jove
+amount-of-matter;['sacaròsa', 'sucròsa'];Component quimic
+amount-of-matter;['blau de metilèn'];Component quimic
+amount-of-matter;['pvc'];component quimic
+amount-of-matter;['molibdèn', 'mo'];Component quimic
+amount-of-matter;['palladi', 'pd'];Component quimic
+amount-of-matter;['plomb', 'pb'];component quimic
+amount-of-matter;['thorium'];Component quimic
+amount-of-matter;['nicotina'];component quimic
+amount-of-matter;['oxyde de cuivre'];Pagina d'omonimia
+amount-of-matter;['acid cromic'];Component quimic
+amount-of-matter;['seu'];Component quimic
+amount-of-matter;['neurotransmetor', 'neurotransmeteire', 'neurotrasmeteire'];Component quimic
+biological-object;['lenga'];Anatomia
+biological-object;['aissèla'];partida des còs sota l'esplata, que fa la joncion entre lo braç e lo torax
+biological-object;['calici'];Calici (botanica)
+biological-object;['cap', 'tèsta'];Tèsta
+causal-role;['antimicrobian', 'antimicrobiano'];pagina d'omonimia
+course;['mòrt', 'mort'];arrèst permanent de las fonccion vitalas d'un èsser
+ecological-collective;['bòsc', 'selva', 'wälder', 'forèst', 'seuva'];espandida d'arbres densa
+event;['jòcs olimpics', 'jo', 'los jòcs'];Ensemble de competicions esportivas mondialas
+event;['knell'];Nom d’ostal
+functional-matter;['pentobarbital'];Component quimic
+functional-matter;['barbital'];Component quimic
+functional-matter;['amobarbital'];Component quimic
+functional-matter;['sacaròsa', 'sucròsa'];Component quimic
+functional-matter;['blau de metilèn'];Component quimic
+functional-matter;['mdma'];Component quimic
+functional-matter;['mestranol'];Component quimic
+functional-matter;['halothane'];Component quimic
+functional-matter;['ibuprofèn', 'c13h18o2'];Component quimic
+functional-matter;['nicotina'];component quimic
+functional-matter;['androsterona'];Component quimic
+functional-matter;['cloroquina', 'resoquina'];Component quimic
+functional-matter;['azathioprine'];Component quimic
+functional-matter;['cefalexina'];Component quimic
+functional-matter;['espècia'];Cosina
+functional-matter;['diflunisal'];Component quimic
+functional-matter;['fen', 'hen'];pastura compausada d'èrba sèca
+functional-matter;['goma arabica'];Component quimic
+functional-matter;['magma'];un materiau rocassós en fusion e non cristalizat que sa consisténcia es fluida o viscosa
+functional-matter;['seu'];Component quimic
+functional-matter;['creissent', 'creishent'];pastissariá
+genetic-collective;['dinastia', 'ostal', 'casa', 'maion', 'maison', 'ostau'];Noblesa
+geographical-object;['estanh', 'lac'];espandida d'aiga al dintre d'una tèrra
+geographical-object;['mar'];espandida granda d'aiga salada
+geographical-object;['paraná'];Riu
+geographical-object;['martinica'];Departament francés
+information-encoding-system;['poesia', 'poësia'];Art, genre literari
+information-encoding-system;['arcaïsme'];emplèc lexical o gramatical qu'es pas plus utilisat depuèi longtemps
+information-object;['advèrbi'];Mot que modificat un vèrb, un adjectiu o un autre advèrbi
+information-object;['biografia'];Genre
+information-object;['parentèsi', ')', '[', ']', 'parentisi', '{', '}', '⁅', '⁆', '❨', '❩', '❪', '❫', '❬', '❭', '❮', '❯', '❰', '❱', '❲', '❳', '❴', '❵', '⟨', '⟩', '⟪', '⟫', '⟬', '⟭', '⟮', '⟯', '〈', '〉', '【', '】', '〔', '〕', '〖', '〗', '〚', '〛', '﹙', '﹚', '（', '）', '［', '］', '｛', '｝', '｟', '｠', '('];Caractèr tipografic
+information-object;['bèta', 'beta'];Letra
+information-realization;['nòta'];Nòta (solfegi)
+information-realization;['conte'];Genre literari
+information-realization;['assag'];Literatura
+information-realization;['eufemisme'];Figura d'estil
+information-realization;['literatura'];Art
+information-realization;['dialècte'];Varianta lingüistica
+language;['georgian'];Lenga
+language;['sango'];Lenga
+language;['occitan', "lenga d'òc", "l'occitan", "langue d'oc", 'provençal', 'lenga occitana', 'occitana'];Lenga romanica
+language;['alemand', 'lenga alemanda'];Lenga germanica del grop occidental
+locative-role;['lion', 'lyon'];Una comuna francesa
+locative-role;['worcester'];Nom d’ostal
+locative-role;['mónegue', 'monegue', 'principat de monegue', 'principat de mónegue'];estat d'Euròpa
+locative-role;['mayenne'];Departament francés
+locative-role;['nauta normandia', 'normandia nauta', 'haute-normandie', 'auta normandia'];Region francesa
+locative-role;['franca comtat', 'francha comtat', 'franche-comte', 'franc comtat'];Region francesa
+locative-role;['borgonha'];Region francesa
+locative-role;['bretanha'];Region francesa
+locative-role;['centre', 'centre e vau de léger'];Region francesa
+locative-role;['peitau-charantas', 'peitau', 'peitau charantas', 'poitou-charentes', 'peitau e charantas'];Region francesa
+locative-role;['estat de veracruz', 'veracruz'];Estat de Mexic
+locative-role;['canas', 'cannes', 'cànoas'];Una comuna francesa
+locative-role;['bordèu', 'bordeaux'];Una comuna francesa
+locative-role;['auvèrnhe', 'auvèrnha', 'auvergne'];Region francesa
+locative-role;['nòrd-pas de calais', 'nord-pas-de-calais'];Region francesa
+locative-role;['lengadòc-rosselhon', 'lengadòc rosselhon', 'languedoc-roussillon'];Region francesa
+locative-role;['miègjorn-pirenèus', 'miègjorn pirenèus', 'midi-pyrenees', 'miegjorn-pirenèus', 'mieidia-pirenèus'];Region francesa
+locative-role;['lemosin', 'limousin'];Region francesa
+locative-role;['illa de frança', 'isla de frança'];Region francesa
+locative-role;['champanha-ardena', 'champagne-ardenne', 'champanha e ardena'];Region francesa
+locative-role;['picardia', 'picardie'];Region francesa
+locative-role;['aquitània', 'categoria:aquitània'];Region francesa
+locative-role;['païses de léger', 'pays de la loire', 'país de léger'];Region francesa
+locative-role;['lorena', 'lorrena'];Region francesa
+locative-role;['light'];nom d’ostal
+locative-role;['martinica'];Departament francés
+locative-role;['nòva york', 'nava york', 'nuòva york', 'new york city', 'poma granda'];Vila dels Estats Units d''America
+non-agentive-physical-object;['bragas'];type de vestits
+non-agentive-physical-object;['canal', 'canau'];Cors d''aiga
+phenomenon;['mistral', 'mistrau'];Vent
+phenomenon;['temps'];Meteo
+phenomenon;['vida'];estat de çò qu'es viu
+physical-body;['univèrs'];Ensemble de tot çò qu''exitís
+physical-body;['tèrra'];Planeta del Sistèma solar
+physical-body;['mart', '♂', 'mars'];Planeta
+physical-object;['bragas'];type de vestits
+physical-object;['automobila'];veïcul terrèstre amb quatre ròdas e un motor
+physical-object;['fenèstra', 'frinèsta', 'hièstra'];dubèrtura dins una paret
+physical-object;['castèl', 'castèth', 'castèu', 'casteu', 'chasteu', 'chastèl', 'chastèu'];Edifici fortificat de l'Edat Mejana
+physical-object;['estadi', 'arenà'];Bastiment
+physical-object;['ròda', 'arròda'];pèça mecanica, que vira alentorn d'un ais, utilizada principalament per los mejans de locomocion
+physical-object;['torre', 'tor'];Construccion
+physical-object;['arc'];arma de trait
+physical-object;['paret'];estructura per desseparar dos espacis
+physical-object;['glèisa', 'gleisa', 'egleisa'];Edifici
+physical-object;['arma'];De guèrra
+political-geographic-object;['lion', 'lyon'];Una comuna francesa
+political-geographic-object;['worcester'];Nom d’ostal
+political-geographic-object;['mónegue', 'monegue', 'principat de monegue', 'principat de mónegue'];estat d'Euròpa
+political-geographic-object;['marròc'];país del nòrd de l'Africa
+political-geographic-object;['reialme unit', 'reiaume unit', 'reialme jonhut', "reialme unit de grand bretanha e d'irlanda del nòrd", 'règne unit'];estat del nòrd-oèst d'Euròpa
+political-geographic-object;['espanha', 'estat espanhòl', 'espanhòla', 'estat espanhòu', "reialme d'espanha", "reiaume d'espanha"];Estat d'Euròpa
+political-geographic-object;['estat de veracruz', 'veracruz'];Estat de Mexic
+political-geographic-object;['swaziland', 'eswatini', 'ngwane', 'reialme del swaziland', 'reiaume de swaziland'];Estat d'Africa
+political-geographic-object;['tònga'];Lista d'un projècte Wikimèdia
+political-geographic-object;['canas', 'cannes', 'cànoas'];Una comuna francesa
+political-geographic-object;['bordèu', 'bordeaux'];Una comuna francesa
+political-geographic-object;['catalonha', 'comunautat autonòma de catalonha', 'generalitat de catalonha', 'generalitat de catalunya', 'principat'];comunitat autonòma de l'estat espanhòl
+political-geographic-object;['eqüator', 'ec', 'ecu', "l'eqüator", "republica d'eqüator", 'equator', "republica de l'eqüator"];Estat d'America del Sud
+political-geographic-object;['kyiiv', 'kyiv', 'київ', 'kiev'];La capitala e la vila mai granda d’Ucraïna
+political-geographic-object;['odisha', 'orissâ'];Estat d''Índia
+political-geographic-object;['nòva york', 'nava york', 'nuòva york', 'new york city', 'poma granda'];Vila dels Estats Units d''America
+political-geographic-object;['regina'];Saskatchewan
+political-geographic-object;['fredericton'];Nòu Brunswick
+quality;['egocentrisme'];Pagina d'omonimia
+region;['lek'];Moneda d''Albania
+region;['pula'];Moneda de Botswana
+region;['dètz', '10'];Nombre
+region;['8', 'uèch'];Chifra
+set;['grop'];Matematicas
+simple-collection;['cigne'];Constellacion
+simple-collection;['univèrs'];Ensemble de tot çò qu''exitís
+simple-collective;['pòble'];Grop de personas
+situation;['tuberculòsi'];Article scientific
+situation;['temps'];Meteo
+socially-constructed-person;['victor hugo'];Anglai
+socially-constructed-person;['rossetti', 'dante gabriel rossetti'];Pagina d'omonimia
+socially-constructed-person;['ermès', 'hermes'];Lo grand messatgièr dels Dieus dins la mitologia grèga e lo guida del monde dels mòrts
+socially-constructed-person;['apicultor', 'abelhaire', 'abelhèr'];persona qui neureish las abelhas tà produsir mèu o propòlis
+socially-constructed-person;['estudiant'];persona qu'estudia, dins un cursus escolar
+socially-constructed-person;['mètge'];doctor de medecina
+socially-constructed-person;['paire', 'pair'];parent masculin
+socially-constructed-person;['fraire'];mascle qu'a los meteisses parents
+socially-constructed-person;['esposa', 'molhèr'];femna qu'es maridada
+socially-constructed-person;['independent'];Politica
+socially-constructed-person;['nèci'];persona amb un handicap mental
+socially-constructed-person;['electrician'];persona que se carga de la mesa en plaça e de l'entreten de las rets electrics
+socially-constructed-person;['modèl'];Modèl en arts plastics
+socially-constructed-person;['paraulier', 'tekstdichter'];Escrivan de cançons…
+socially-constructed-person;['regent'];persona en carga de l'ensenhament
+socially-constructed-person;['maire', 'mair'];parent feminin
+socially-constructed-person;['modèl'];Profession
+socially-constructed-person;['veusa', 'veuda'];femna que son òme es mòrt
+socially-constructed-person;['oficièr', 'oficier'];Militar
+socially-constructed-person;['ermafrodita'];Organisme amb organs genitals mascle e feme
+socially-constructed-person;["director d'esquipa de fotbòl", 'manager'];Fotbòl
+socially-constructed-person;['wright'];Nom d’ostal
+socially-constructed-person;['chief executive officer'];Oficièr executiu en cap
+socially-constructed-person;['doyen'];Nom d’ostal
+subject;['immunologia'];Sciéncia qu'estudia l'estructura e lo foncionament dau sistèma immunitari
+substance-role;['papaina'];Component quimic
+taxonomic-collective;['familha'];Taxonomia
+taxonomic-collective;['òrdre'];Reng taxonomic
+taxonomic-collective;['genre', 'classa'];Reng taxonomic
+taxonomic-collective;['prunus'];Genre de plantas de la familha dels Rosaceae
+taxonomic-collective;['idrozoaris'];Classa dels cnidaris
+taxonomic-collective;['vaccinium'];Genre de plantas de la familha dels Ericaceae
+taxonomic-collective;['coelenterata'];Celenterat
+taxonomic-collective;['tortricidae', 'tortricids'];Familha d'insèctes
+taxonomic-collective;['pediocactus'];Genre de plantas de la familha dels cactus
+taxonomic-collective;['lepidoptera', 'lepidoptèrs', 'lepidoptèr'];Òrdre d'insèctes
+taxonomic-collective;['meliaceae'];Meliacèa
+taxonomic-collective;['raja'];Genre de peis
+temporal-region;['1èr de julhet', '1 de julh', '1 de julhet', '1er de julhet'];Data
+temporal-region;['1èr de genièr', '1 de gener', '1 de genièr', '1 de genèr', '1 de gèr', '1er de genier'];Data
+temporal-region;['2 de febrièr', '2 de heurèr'];Data
+temporal-region;['1èr de novembre', 'toussaint', '1 de novembre', '1 de noveme', '1er de novembre', '1èr de noveme'];Data
+temporal-region;['nadal', 'deinaal', '25 de decembre', 'calendas', 'calenda', 'nadau', '25 de deceme', '25 de deseme'];Data
+temporal-region;['19 de març'];Data
+temporal-region;["14 d'abril", "14 d'abriu"];Data
+temporal-region;["24 d'octobre", "24 d'octòbre"];Data
+temporal-region;["12 d'octobre", "12 d'octòbre", '12 d’octòbre'];Data
+temporal-region;['4 de julhet', '4 de julh'];Data
+temporal-region;['èra', 'éra'];Temps geologics
+temporal-region;['periòde'];Geologia
+temporal-region;['24 de mai'];Data
+temporal-region;['17 de setembre', '17 de seteme'];Data
+temporal-region;["1èr d'agost", "1 d'agost", "1 d'aost", "1er d'aost"];Data
+temporal-region;['14 de junh'];Data
+temporal-region;['29 de junh'];Data
+temporal-region;['29 de setembre', '29 de seteme'];Data
+temporal-region;['21 de junh'];Data
+temporal-region;['1èr de mai', '1 de mai', '1er de mai'];Data
+temporal-region;['2 de març'];Data
+temporal-region;['temps'];Que passa
+temporal-region;['29 de febrièr', '29 de heurèr'];Data
+temporal-region;['23 de junh', 'nuèch de la sant joan'];Data
+temporal-region;['6 de genièr', 'epifania', '6 de genèr'];Data

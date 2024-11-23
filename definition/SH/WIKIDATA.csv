@@ -1,0 +1,74 @@
+activity;['maloprodaja'];prodaja dobara ili usluga krajnjem kupcu, potrošaču ili korisniku
+agentive-figure;['gimnazija', 'srednja škola', 'гимназија', 'licej', 'srednjoškolsko obrazovanje'];institucija za srednje obrazovanje
+agentive-figure;['islam', 'ислам', 'muhamedanstvo', 'muslimanstvo', 'муслиманство', 'мухамеданство'];monoteistička religija osnovana od Muhameda u 7. vijeku
+agentive-figure;['sunizam', 'sunitski islam', 'sunijski islam', 'sunit', 'suniti', 'сунити'];ogranak islama
+agentive-physical-object;['analogni računar'];Nekadasnja sprava za brzo racunanje "dascica".
+agentive-physical-object;['cvijet', 'cvet', 'цвет', 'цвијет', 'cveće', 'cvijeće'];reproduktivni biljni organ
+agentive-physical-object;['šahin', 'sivi sokol', 'sivi soko', 'сиви соко', 'falco peregrinus', 'shaahin', 'shahin'];Ptica grabljivica iz roda sokolova
+agentive-physical-object;['stidna vaš'];Стидна ваш
+amount-of-matter;['linoleinska kiselina'];Višeznačna odrednica na Vikimediji
+amount-of-matter;['bakar oksid'];Višeznačna odrednica na Vikimediji
+biological-object;['centriola'];Centrosomi
+biological-object;['cvijet', 'cvet', 'цвет', 'цвијет', 'cveće', 'cvijeće'];reproduktivni biljni organ
+causal-role;['antimikrobni agens', 'dezinfekcija', 'antimikrobici', 'antimikrobik', 'antimikrobne supstance', 'antimikrobni agensi'];višeznačna odrednica na Vikimediji
+chemical-object;['vodonični jon'];Višeznačna odrednica na Vikimediji
+dependent-place;['mauzolej', 'маузолеј', 'mauzoleji'];velika i impresivna grobnica
+event;['knell'];Prezime (Knell)
+functional-matter;['cement', 'cèment', 'цѐмент', 'цемент'];građevinski materijal
+functional-matter;['vapnenac', 'krȅčnjāk', 'vapnénac', 'вапне́нац', 'кре̏чња̄к', 'krečnjak', 'vapnenjak', 'кречњак'];karbonatna stijena
+functional-matter;['med', 'мед'];zalfia
+functional-matter;['kebab', 'kèbab', 'ražnjići', 'ràžnjić', 'ćèvāp', 'šišćevapi', 'кѐбаб ражњићи', 'ра̀жњић', 'шишћевапи', 'ћѐва̄п'];mesna jela s ražnja ili roštilja s Bliskog Istoka
+functional-matter;['hljeb', 'kruh', 'hleb', 'хлеб'];hrana napravljena od tijesta sačinjenog od brašna, izmiješanog s drugim suhim ili tečnim sastojcima
+functional-matter;['drvo', 'дрво'];vlaknasti materijal dobiven od drveća ili drugih biljaka
+functional-matter;['impost'];Višeznačna odrednica na Vikimediji
+gestalt;['skulptura', 'kiparstvo', 'vajarstvo', 'kip', 'kipar'];grana likovne umjetnosti
+information-realization;['opoziv', 'impičment'];politika
+information-realization;['skulptura', 'kiparstvo', 'vajarstvo', 'kip', 'kipar'];grana likovne umjetnosti
+language;['srpskohrvatski jezik', 'srbohrvati', 'србохрвати', 'srpskohrvatski', 'српскохрватски', 'bcs', 'bosansko-hrvatsko-srpski', 'bosansko-hrvatsko-srpski jezik', 'bosanskohrvatskosrpski jezik', 'hrvatsko-srpski', 'hrvatsko-srpski jezik', 'hrvatskosrpski', 'hrvatskosrpski jezik', 'serbokroatizacija', 'serbokroatofon', 'srpsko-hrvatski', 'srpsko-hrvatski jezik'];Južnoslavenski jezik
+locative-role;['worcester'];Prezime (Worcester)
+locative-role;['monako', 'монако', 'kneževina monako', 'monaco', 'principat monako', 'principauté de monaco'];Grad-država u zapadnoj Evropi
+locative-role;['bretanja', 'bretagna', 'bretagne', 'bretanjci'];Regija na sjeverozapadu Francuske
+locative-role;['groblje', 'гробље', 'nekropola', 'grobište', 'grobje', 'mezarje', 'mezarluk', 'pokopalište', 'гробиштe', 'гробје', 'мезарлук', 'мезарје', 'пoкoпaлиштe', 'groblja', 'некропола'];prostor za sahranu preminulih ljudi
+locative-role;['cape town', 'kejptaun', 'кејптаун', 'kaapstad', 'kejp taun'];Prijestolnica Južnoafričke Republike
+locative-role;['izvor', 'vrelo'];početak vodotoka
+non-agentive-physical-object;['rov'];fortifikacija
+non-agentive-physical-object;['aleja', 'bulevar', 'avenija'];vrsta velike ulice, najčešće u gradovima
+non-agentive-physical-object;['kanal', 'канал'];umjetni vodotok
+non-physical-collection;['islam', 'ислам', 'muhamedanstvo', 'muslimanstvo', 'муслиманство', 'мухамеданство'];monoteistička religija osnovana od Muhameda u 7. vijeku
+non-physical-place;['mauzolej', 'маузолеј', 'mauzoleji'];velika i impresivna grobnica
+non-physical-place;['grobnica', 'grob', 'grȍbnica', 'гро̏бница', 'grobnice'];građevina za čuvanje posmrtnih ostataka
+physical-body;['vodonični jon'];Višeznačna odrednica na Vikimediji
+physical-object;['luk', 'lȗk', 'лу̑к'];arhitektonski element
+physical-object;['pomorska baza', 'mornarička baza'];luka za vojne brodove
+physical-object;['sandučasti nosač'];vrsta nosača
+physical-object;['pješački most', 'moštanica', 'pešački most'];most za pješaki saobraćaj
+physical-object;['viseći most'];vrsta mosta
+physical-object;['teatar', 'kazalište', 'pozorište'];vrsta zgrade ili objekta
+physical-object;['kupola', 'kupole'];sferični oblik svoda
+physical-object;['svetište', 'hrȃm', 'svétinja', 'svȅtīšte', 'škrȉnja', 'све́тиња', 'све̏тӣште', 'хра̑м', 'шкри̏ња', 'svetilište'];sveto mjesto
+physical-object;['bazar', 'pazar', 'trg', 'tržnica', 'пазар', 'трг', 'тржница', 'bazari'];vrsta javne tržnice
+physical-object;['pekara', 'pekarnica', 'пекара', 'пекарница'];radnja koja pravi i prodaje brašnenu hranu pečenu u peći
+political-geographic-object;['worcester'];Prezime (Worcester)
+political-geographic-object;['monako', 'монако', 'kneževina monako', 'monaco', 'principat monako', 'principauté de monaco'];Grad-država u zapadnoj Evropi
+political-geographic-object;['belorusija', 'bjelorusija', 'белорусија', 'бјелорусија', 'belarus'];Država u istočnoj Evropi
+political-geographic-object;['ekvador', 'ec', 'ecu', 'republika ekvador', 'еквадор'];Država u Južnoj Americi
+political-geographic-object;['nairobi', 'najrobi', 'најроби'];Glavni grad Kenije
+political-geographic-object;['pretoria', 'pretorija'];Glavni grad Južnoafričke Republike
+political-geographic-object;['cape town', 'kejptaun', 'кејптаун', 'kaapstad', 'kejp taun'];Prijestolnica Južnoafričke Republike
+quality;['egocentrizam'];Višeznačna odrednica na Vikimediji
+quality;['islam', 'ислам', 'muhamedanstvo', 'muslimanstvo', 'муслиманство', 'мухамеданство'];monoteistička religija osnovana od Muhameda u 7. vijeku
+quality;['žuta', 'žuto', 'жута', 'žuta boja'];boja
+set;['prostor'];matematički pojam
+situation;['palijativna skrb', 'palijativno zbrinjavanje', 'palijativa', 'palijativna nega'];područje zdravstvene zaštite koje se fokusira na ublažavanje i sprečavanje patnje pacijenata
+situation;['erotika', 'pornografija'];Eksplicitni prikaz seksualnih radnji u medijima
+socially-constructed-person;['otto von bismarck', 'bismarck', 'bizmark', 'oto fon bizmark'];Njemački državnik i kancelar iz 19. stoljeća
+socially-constructed-person;['dante gabriel rossetti', 'rossetti', 'dante gabrijel roseti'];Višeznačna odrednica na Vikimediji
+socially-constructed-person;['azijati', 'azijci'];Višeznačna odrednica na Vikimediji
+socially-constructed-person;['bear'];Prezime (Bear)
+socially-constructed-person;['wright'];Prezime (Wright)
+socially-constructed-person;['doyen'];Prezime (Doyen)
+subject;['mašinstvo', 'mašínstvo', 'strojárstvo', 'маши́нство', 'строја́рство', 'mašinski inženjering', 'strojarstvo', 'mašinsko inženjerstvo'];disciplina inženjerstva
+taxonomic-collective;['charales'];Wikimedia:Kategorija
+temporal-region;['zima', 'зима'];godišnje doba
+temporal-region;['proljeće', 'proleće', 'пролеће'];godišnje doba
+temporal-region;['ljeto', 'leto', 'лето'];godišnje doba

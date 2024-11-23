@@ -1,0 +1,605 @@
+activity;['postmargi eraldamine', 'imperforaatse'];Postmarkide puhul on eraldamine vahend, mille abil üksikud margid on üksteisest kergesti eraldatavad.
+activity;['ristilöömine'];Surmanuhtluse liik
+activity;['ballett', 'kontsert tants', 'balletid', 'klassikalise tantsu', 'showdance', 'tantsuteater', 'teater tants', 'tulemuslikkuse tants'];lavatantsu ja tantsuetenduste liik
+activity;['kallistus', 'kallistamine', 'embamine', 'embus', 'kaisutamine', 'kaisutus', 'sülelemine', 'sülelus', 'kallistada', 'kallistama'];füüsilise läheduse vorm, ülajäsemete vahele haaramine ja enda vastu surumine
+activity;['teine maailmasõda', 'ii maailmasõda', 'ii ms', 'world war ii', '2. maailmasõda', 'natside poolt okupeeritud', 'teise maailmasõja', 'world war 2'];Wikimedia täpsustuslehekülg
+activity;['haridus', 'didaktika', 'haridussüsteem', 'õpetamisteadus', 'harida', 'haridussüsteemi', 'haridusalane tegevus', 'haritud', 'kasvatusteadlane', 'pedagoog', 'õpetamise'];Teadmiste ja oskuste omandamine
+activity;['rassism', 'rassist', 'rassilise diskrimineerimise', 'rassismi', 'etnilise diskrimineerimise', 'rassieelarvamused', 'rassilise eelarvamusi', 'rassilise ülemvõimu', 'rassilised eelarvamused'];Diskriminatsioon rassi või rahvuse tõttu
+activity;['raha teenimine', 'töötasusid', 'valuutana kindla väärtuse omistamine'];Wikimedia täpsustuslehekülg
+activity;['kuulata', 'küsitlemistel', 'küsitlusleht', 'ülekuulaja', 'ülekuulamise'];Wikimedia täpsustuslehekülg
+activity;['emigratsioon', 'väljaränne', 'emigrantide', 'emigreeruda', 'emigreerus', 'inimeste ränne', 'kodumaalt lahkumise', 'väljarännet'];Vabatahtlik kodumaalt välismaale alaliselt elama asumine
+activity;['lobotoomia', 'leucotomy', 'eesmine lobotoomia', 'leukotomy', 'lobotomies', 'prefrontaalses leucotomy', 'prefrontaalses leukotomy', 'prefrontaalses lobotoomia'];Ajuoperatsioon
+activity;['dekolonisatsioon', 'dekoloniseerimise'];Kolooniate vabanemine
+activity;['tenor', 'dramaatiline tenor', 'heldentenor', 'lüüriline tenor', 'tenor hääl', 'tenorit'];Kõrgeim meeshääl
+activity;['sademed', 'hydrometeor', 'sademete'];atmosfääris kondenseerunud veeosakesed, mis langevad gravitatsiooni jõul maapinnale
+activity;['esietendus', 'esilinastus', 'esietendub', 'esilinastusi', 'film esilinastus'];näidendi, filmi, tantsu või muusikalise kompositsiooni esimene avalik esitus
+activity;['ilm', 'ilmastik', 'ilmastikutingimused', 'atmosfääri seisund'];atmosfääri olek
+activity;['töö', 'äri', 'tegevusala', 'amet', 'elukutse', 'ettevõte', 'kutse', 'ärindus', 'liini töö', 'okupatsioon', 'päev tööd'];Igasugune inimese tegevus, nt hobi, töö, meelelahutus jne.
+activity;['haridus', 'didaktika', 'haridussüsteem', 'õpetamisteadus', 'harida', 'haridussüsteemi', 'haridusalane tegevus', 'haritud', 'kasvatusteadlane', 'pedagoog', 'õpetamise'];Teadmiste ja oskuste omandamine
+activity;['vihm', 'vihmavesi', 'vihma', 'padukas', 'vihma tormi', 'vihmasadu'];Vihm on sademete hulka kuuluv liik
+agentive-figure;['piiratud vastutusega äriühing', 'aktsiaselts', 'ltd', 'aktsiaseltside', 'ld.', 'osaühing'];Wikimedia täpsustuslehekülg
+agentive-figure;['orpheus', 'orfeus'];Vanakreeka mütoloogia laulik
+agentive-figure;['kooriruum', 'koor', 'koori', 'koori kioskeid', 'koori varisemine'];Wikimedia täpsustuslehekülg
+agentive-figure;['trükikoda', 'trükiettevõte', 'trükikojad', 'printer', 'raamat printer', 'trükkimine ettevõte', 'trükkimine mure', 'trükkimine äri'];ettevõte
+agentive-figure;['kirik', 'kristlik kirik', 'ristiusu kirik'];Usklike kogukond, kes tunnevad oma usku Jeesusesse Kristusesse
+agentive-figure;['seminar', 'usuteaduslik seminar', 'vaimulik seminar', 'divinity school', 'seminarians', 'seminaride', 'seminaris', 'teoloogiakolledž', 'teoloogiline'];Vaimulik õppeasutus
+agentive-figure;['maailma terviseorganisatsioon', 'who', 'maailma tervishoiuorganisatsioon', 'mto', 'world health organization', 'ülemaailmne tervishoiu organisatsioon', 'ülemaailmne tervishoiuorganisatsioon', 'üto', 'maailma terviseorganisatsiooni'];ÜRO eriagentuur
+agentive-figure;['salanõukogu', 'riiginõukogu'];Wikimedia täpsustuslehekülg
+agentive-figure;['kaitsetööstus', 'sõjatööstus', 'relvatööstuse', 'kaitsetööstuse', 'laskemoona tööstus', 'relvakaubanduse', 'relvakaupmees', 'relvamüügi', 'relvaäri', 'riigikaitse töövõtjad', 'sõjalise töövõtja', 'sõjatööstuse'];Sõjatehnika tootmise, korrashoiu ja arendamisega tegelev majandusharu
+agentive-figure;['euroopa liit', 'euroopa majandusühendus', 'eü', '🇪🇺', 'eec', 'el', 'euroopa rahaliit', 'euroopa ühendus', 'euroopa ühenduse', 'emü', 'ühisturg', 'e.u', 'eli', 'euroopa liidu', 'euroopa ühisturg'];Euroopa majanduslik ja poliitiline ühendus
+agentive-figure;['erakond', 'partei', 'poliitiline partei', 'erakonna', 'parteipoliitika'];ühiskondlik organisatsioon, mis püüab mõjutada riigi poliitikat
+agentive-figure;['kreeka õigeusu kirik', 'griechisch-orthodoxe kirche', 'kreeka õigeusu', 'kreeka-õigeusu', 'kreeka kirik'];Wikimedia täpsustuslehekülg
+agentive-figure;['nõukogude liit', 'nsvl', 'nõukogude sotsialistlike vabariikide liit', 'nsv liit', 'cccp', 'n. liit', 'n liit', 'nõukogude võim', 'nsv liidu vabariikide', 'nõukogude liidu', 'venemaa'];Nõukogude Sotsialistlike Vabariikide Liit
+agentive-figure;['rahvusvaheline aatomienergia agentuur', 'iaea', 'rahvusvaheline aatomienergiaagentuur', 'international atomic energy agency', 'rahvusvahelise aatomienergia agentuuri', 'rahvusvahelise aatomienergiaagentuuri'];ÜRO eriagentuur
+agentive-physical-object;['valvekoer'];Wikimedia täpsustuslehekülg
+agentive-physical-object;['merlang', 'merlangius merlangus', 'gadus merlangus', 'merlangus merlangus'];kalaliik
+agentive-physical-object;['friik', 'lusus naturae'];ebaharilik inimene
+agentive-physical-object;['harilik kuldvihm', 'laburnum anagyroides', 'kuldne kett', 'kuldne vihm', 'ühine kuldvihm'];taimeliik
+agentive-physical-object;['harilik piimohakas', 'serralha', 'sonchus oleraceus'];Wikimedia täpsustuslehekülg
+agentive-physical-object;['inimene', 'homo sapiens sapiens', 'homo', 'homo sapiens', 'inimesed', 'nüüdisinimene', 'pärisinimene', 'tarkinimene', 'inimese', 'inimliigi', 'mees'];Inimlaste sugukonda kuuluv liik
+agentive-physical-object;['roos', 'roosid', 'tea rose', 'rosa odorata'];dekorariivtaim
+agentive-physical-object;['vaalad', 'vaal', 'valaskala'];suured veelise eluviisiga imetajad
+agentive-physical-object;['reseeda', 'reseda'];Taimeperekond
+agentive-physical-object;['anakin skywalker', 'darth vader'];filmisaaga "Tähtede sõda" tegelane
+agentive-physical-object;['kaheksahaarmelised', 'kaheksajalg', 'octopoda', 'kaheksajalalised', 'octopoida', 'octopi'];mere-eluliste selgrootute selts
+agentive-physical-object;['sibul', 'harilik sibul', 'allium cepa', 'sibulad', 'söögisibul', 'valge sibul', 'allium angolense', 'allium aobanum', 'allium ascalonicum f. rotterianum', 'allium ascalonicum var. condensum', 'allium ascalonicum var. fertile', 'allium ascalonicum var. sterile', 'allium cepa var. aggregatum', 'allium cepa var. anglicum', 'allium cepa var. argenteum', 'allium cepa var. bifolium', 'allium cepa var. crinides', 'allium cepa var. flandricum', 'allium cepa var. globosum', 'allium cepa var. hispanicum', 'allium cepa var. jamesii', 'allium cepa var. lisboanum', 'allium cepa var. luteum', 'allium cepa var. multiplicans', 'allium cepa var. portanum', 'allium cepa var. praecox', 'allium cepa var. rosum', 'allium cepa var. sanguineum', 'allium cepa var. solaninum', 'allium cepa var. tripolitanum', 'allium cepa var. viviparum', 'allium cepaeum', 'allium commune', 'allium cumaria', 'allium esculentum', 'allium napus', 'allium nigritanum', 'allium pauciflorum', 'allium salota', 'ascalonicum sativum', 'cepa alba', 'cepa esculenta', 'cepa pallens', 'cepa rubra', 'cepa vulgaris', 'kepa esculenta', 'porrum cepa', 'taimeperekondadesse', 'sibul taim'];taimeliik laukude hulgast
+agentive-physical-object;['hiina aktiniidia', 'actinidia deliciosa', 'actinidia chinensis', 'kiivi viinapuu'];aktiniidialiste sugukonda kuuluv taimeliik
+agentive-physical-object;['vaikse ookeani tursk', 'gadus macrocephalus', 'alaska tursk'];kalaliik
+agentive-physical-object;['sile tiibrai', 'dipturus batis', 'hall rai', 'raja batis'];kalaliik
+agentive-physical-object;['väikehammas-saagrai', 'pristis pectinata', 'pristis pectinatus', 'smalltooth sawfish'];kalaliik
+agentive-physical-object;['hüljestel', 'merikaru'];Wikimedia täpsustuslehekülg
+agentive-physical-object;['jaka', 'jack puu', 'jakad', 'jakad puu', 'leivapuu artocarpus heterophyllus'];erilehelise leivapuu vili
+agentive-physical-object;['šiitake', 'shiitake', 'lentinula edodes', 'shiitake seened', 'hiina musta seene', 'kuldne tamm seeni', 'lentinus edodes', 'oriental must mushroom', 'siitake'];seeneliik
+agentive-physical-object;['luts', 'lota lota'];kalaliik
+agentive-physical-object;['harilik molva', 'molva molva'];kalaliik
+agentive-physical-object;['harilik võilill', 'taraxacum officinale', 'taraxacum ruderalia', 'ühine võilill'];Wikimedia täpsustuslehekülg
+agentive-physical-object;['tontsuru', 'acherontia atropos', "death's-head ööliblikas"];liblikaliik
+agentive-physical-object;['karjamaa-raihein', 'inglise raihein', 'lolium perenne', 'raiheina'];taimeliik
+agentive-physical-object;['neandertallane', 'homo neanderthalensis', 'homo sapiens neanderthalensis', 'neandertaallane', 'neandertaallased', 'neandertali inimene', 'neandertallased', 'neandertallane mees', 'neandertal', 'neandertal mees', 'neandertals', 'neanderthals'];Väljasurnud inimese liik
+agentive-physical-object;['mureenlased', 'muraenidae', 'angerjas', 'moray', 'moray angerjad'];kalade sugukond
+agentive-physical-object;['capros aper'];Wikimedia täpsustuslehekülg
+agentive-physical-object;['maksa-kakssuulane', 'harilik maksakaan', 'fasciola hepatica', 'fasciola sinilill', 'maksa lestakala'];Maksas parasiteeriv imiuss
+agentive-physical-object;['pollak', 'süsikas', 'pollachius pollachius', 'euroopa süsikas', 'pollock'];perekond kalu
+agentive-physical-object;['pollak', 'süsikas', 'pollachius pollachius', 'euroopa süsikas', 'pollock'];kalaliik
+agentive-physical-object;['kilttursk', 'melanogrammus aeglefinus', 'pikša'];Kalaliik tursaliste seltsi tursklaste sugukonnast.
+agentive-physical-object;['vikertint', 'osmerus mordax', 'vikerkaar haises'];kalaliik
+agentive-physical-object;['kubemetäi', 'pthirus pubis', 'satiainen', 'kubemekarvu liero', 'phthirius pubis'];putukaliik
+agentive-physical-object;['mõrtsukhai', 'carcharodon cacharias', 'suur-valgehai', 'carcharodon carcharias', 'carcharodon', 'hai rünnak', 'mees-söömine haid', 'miestennielijä', 'suur valge haid'];Kalaliik
+agentive-physical-object;['tiigerhai', 'galeocerdo cuvier', 'galeocerdo cuvieri', 'tiger shark', 'tiiger hai'];kalaliik
+agentive-physical-object;['meriluts', 'brosme', 'brosme brosme', 'torsk'];kalaliik
+agentive-physical-object;['säga', 'silurus glanis', 'euroopa säga'];kalaliik
+agentive-physical-object;['suur-kiirgliblikas', 'apatura iris', 'apatura iiris', 'lilla keiser'];liblikaliik
+agentive-physical-object;['hiidhai', 'cetorhinus maximus', 'hiidhailased'];kalaliik
+agentive-physical-object;['rebashai', 'alopias', 'puid shark', 'alopius vulpinus', 'rebane shark'];perekond kalu
+agentive-physical-object;['kammhai', 'harilik kammhai', 'hexanchus griseus', 'kuue lõpuste hai', 'lehm shark'];kalaliik
+agentive-physical-object;['põhja-ogakukk', 'prionotus carolinus', 'põhjamere robin'];kalaliik
+agentive-physical-object;['puidumesilane', 'xylocopa', 'puusepp mesilane'];Mesilaste perekond
+agentive-physical-object;['meriangerjas', 'conger', 'meriangerjad'];perekond kalu
+agentive-physical-object;['vaalhai', 'rhincodon typus', 'vaal haid'];kalaliik
+agentive-physical-object;['kummi-viigipuu', 'kummipuu', 'ficus elastica', 'assam kummist', 'fiikus', 'india-fiikus', 'india-kummi viigipuu', 'india-kummipuu'];taim
+agentive-physical-object;['tulinelk', 'lychnis'];perekond taimi
+agentive-physical-object;['suur-kapsaliblikas', 'pieris brassicae', 'large white', 'suur valge'];liblikaliik
+agentive-physical-object;['zooid'];Wikimedia täpsustuslehekülg
+agentive-physical-object;['karesaba-astelrai', 'dasyatis centroura', 'roughtail stingray'];kalaliik
+agentive-physical-object;['supihai', 'galeorhinus galeus', 'galeorhinus zyopterus', 'kooli hai', 'soupfin', 'soupfin hai', 'supp-fin'];kalaliik
+agentive-physical-object;['logardrailased', 'rhinobatidae', 'kitarr'];kalade sugukond
+agentive-physical-object;['läikviljaline luga', 'juncus articulatus', 'punnid kiirustada'];taimeliik
+agentive-physical-object;['ingelhai', 'euroopa ingelhai', 'squatina squatina', 'squatina', 'ingelhailaste'];perekond kalu
+agentive-physical-object;['ingelhai', 'euroopa ingelhai', 'squatina squatina', 'squatina', 'ingelhailaste'];kalaliik
+agentive-physical-object;['naarits'];Wikimedia täpsustuslehekülg
+agentive-physical-object;['anšoovislased', 'engraulidae', 'anšoovised'];sugukond kalu
+agentive-physical-object;['muul', 'equus mulus'];emase hobuse ja isase eesli järglane
+agentive-physical-object;['euroopa karuputk', 'heracleum sphondylium', 'lehma pastinaak', 'karuputke', 'lanatum'];taimeliik
+agentive-physical-object;['ehhinokokk', 'echinococcus', 'ehhinokokid'];Paelusside perekond
+agentive-physical-object;['rebane', 'punarebane', 'vulpes vulpes', 'canis vulpes', 'punarebastele'];Imetaja
+agentive-physical-object;['pampel', 'rubus fruticosus', 'aedmurakas', 'rubus fructicosus', 'tõsi blackberry'];Rubus fruticosus
+agentive-physical-object;['harilik ogaselg', 'balistes vetula', 'bessy cerca', 'kuninganna triggerfish', 'oldwench'];kalaliik
+agentive-physical-object;['harilik merikann', 'roosa merikann', 'armeria maritima', 'kalju tõusis', 'meri roosa'];taimeliik
+agentive-physical-object;['beluuga', 'huso huso', 'acipenser huso', 'beluga', 'beluuga tuur', 'valge tuur'];kalaliik
+agentive-physical-object;['õudnäsalik', 'synanceia verrucosa', 'stonefish', 'synanceja verrucosa'];kalaliik
+agentive-physical-object;['moiva', 'mallotus villosus', 'capelan', 'caplin', 'masago'];kalaliik
+agentive-physical-object;['ammodytidae', 'tobias', 'liiva lance', 'launce', 'liiv launce', 'sandlance'];Wikimedia täpsustuslehekülg
+agentive-physical-object;['harilik heeringahai', 'lamna nasus', 'heeringahai'];kalaliik
+agentive-physical-object;['angerjalised', 'angerjas', 'angerjalaadilised', 'anguilliformes', 'angerjaid', 'tõsi angerja', 'tõsi angerjas'];selts kalu
+agentive-physical-object;['kõrbesebra', 'equus grevyi', 'equus berberensis', 'equus faurei', 'equus grevyi berberensis', 'grevi sebra', 'grevisebra', 'grevy on sebra', 'grevy on zebra', 'grévy on sebra'];sebraliik
+amount-of-matter;['etaan', 'c2h6'];Keemiline ühend
+amount-of-matter;['koobalt', 'co', 'aatomi number 27'];Keemiline element
+amount-of-matter;['guinness'];Iiri õllemark
+amount-of-matter;['metanool', 'metüülalkohol', 'puupiiritus', 'karbinool', 'metanooli', 'metanooli mürgituse', 'puidust vaim'];Keemiline ühend
+amount-of-matter;['kuld', 'aatomi number 79', 'emakeelena kuld', 'lode gold'];Väärismetall
+amount-of-matter;['süsinik', 'c', 'süsiniku allotroop', 'süsinikku', 'süsiniku', 'aatomi number 6'];Keemiline element järjenumbriga 6
+amount-of-matter;['vein', 'peedivein', 'peet', 'veini', 'hea vein', 'vino'];viinamarjamahla kääritamisel saadav alkohoolne jook
+amount-of-matter;['põlevkiviõli'];Orgaaniliste ühendite segu
+amount-of-matter;['planeedi atmosfäär', 'atmosfäär', 'õhkkond', 'õhustik', 'atmosferă', 'atmosfääri'];planeeti ümbritsev gaasikiht
+biological-object;['jala luu'];Wikimedia täpsustuslehekülg
+biological-object;['sõrmed ja varbad', 'digiti', 'digitus', 'digiti manus', 'kohaline'];jäsemete otstes olevad jätked
+biological-object;['parenhüüm', 'parenhümatoosne', 'parenhüümirakkudel'];loomakude
+biological-object;['sõrm', 'näpp', 'sõrmed', 'digiti manus', 'näpud', 'sõrme'];üke käe otsas asuvast viiest jätkest
+biological-object;['kuldvillak', 'kuldvillaku'];Kullast jääranahk vanakreeka mütoloogias
+biological-object;['oimusagar', 'temporaalsagar', 'oimusagaras', 'ajaline ccortex', 'ajaline cortex', 'ajaline lobes', 'mediaalne ajaline lobe', 'mediaalne oimusagaras'];Ajukoore osa
+biological-object;['nägu', 'inimlik'];pea eesosa
+biological-object;['emakalimaskest', 'emaka limaskest', 'emakasisekest', 'endomeetrium', 'endometrium', 'tunica mucosa corporis uteri', 'tunica mucosa uteri', 'endomeetriumi', 'emaka limaskesta'];Ma ei Ole Minnes I
+biological-object;['pöial', 'pollex', 'pöidlad'];jämedaim sõrm
+causal-role;['desinfektsioon', 'antimicrobiano', 'desinfitseeriv aine', 'desoaine', 'desinfitseerimine', 'antimikroobikume', 'antimikroobikumi', 'antimikroobse', 'antimikroobsete', 'desinfektsioonivahend', 'desinfektsioonivahendid', 'desinfitseerida', 'desinfitseeriva', 'idusid', 'idusid hävitav', 'mikroobivastased', 'toapuhastajat'];Wikimedia täpsustuslehekülg
+chemical-object;['vesinikioon', 'vesinikuioonide'];Wikimedia täpsustuslehekülg
+cognitive-event;['küünikud', 'künism', 'küüniline', 'küünilisus'];antiikfilosoofia koolkond
+cognitive-event;['prooviuuring', 'katseprojekt', 'katseeksperimendi', 'katsekava', 'piloot', 'pilootprojekti', 'pilootuuring', 'pilootuuringud', 'prooviuuringud'];väikesemahuline eeluuring
+cognitive-event;['igavus', 'ikävystyminen', 'igav'];emotsionaalne seisund
+cognitive-event;['illation', 'järeldada', 'järeldus', 'järeldusi', 'loogiline järeldus'];Wikimedia täpsustuslehekülg
+cognitive-event;['rünnak', 'mõrvakatse'];Rünnak inimese või vara vastu eesmärgiga tappa või kahjustada
+cognitive-modal-description;['rumalus', 'arulagedus', 'idiootsus', 'idiotism', 'juhmus', 'lollus'];arunappus
+course;['edevuse laat'];William Makepeace Thackeray'i romaan
+course;['majandustsükkel', 'konjunktuuritsükleid', 'majandustsükli', 'majandustsüklile', 'äritsükli'];Wikimedia täpsustuslehekülg
+course;['surm', 'surnud', 'suremine', 'surma', 'enneaegset surma', 'suremus', 'suri'];Elusolendi elutegevuse lõpp
+dependent-place;['postmargi eraldamine', 'imperforaatse'];Postmarkide puhul on eraldamine vahend, mille abil üksikud margid on üksteisest kergesti eraldatavad.
+dependent-place;['silinder', 'mootori silinder', 'kolvi kambrisse', 'mootori silindri', 'silindri', 'silindrihülsid'];Mootoriploki osa
+ecological-collective;['mets', 'wälder', 'laas', 'metsad', 'metsa', 'metsas', 'okasmetsad', 'okaspuumets'];Perekonnanimi
+event;['caduta massi', 'rockslide'];Wikimedia täpsustuslehekülg
+event;['kümnevõistlus', 'kümnevõistleja', 'kümnevõistluse', 'mitmevõistleja'];Kümnest kergejõustiku alast koosnev mitmevõistlus
+event;['vooluhulk', 'jõe vooluhulk', 'heakskiidu'];Vooluhulk on vooluveekogu ristlõiget ajaühiku jooksul läbiva vee kogus.
+event;['knell', 'hingekell'];Perekonnanimi
+functional-matter;['bryce courtenay'];Austraalia romaanikirjanik
+functional-matter;['tablett', 'ratas', 'tabletid', 'tabuletta', 'tabulettae', 'pill'];Kõva doseeritud ravimvorm
+functional-matter;['kilt', 'kiltkivi'];madala astme moondekivim
+functional-matter;['guinness'];Iiri õllemark
+functional-matter;['metanool', 'metüülalkohol', 'puupiiritus', 'karbinool', 'metanooli', 'metanooli mürgituse', 'puidust vaim'];Keemiline ühend
+functional-matter;['kartul', 'harilik kartul', 'kartulid', 'kartulisort', 'solanum tuberosum', 'iiri kartuli', 'murphy', 'spud', 'tater', 'uus kartul', 'uusi kartuli ja'];mugultoiduaine
+functional-matter;['kristalne kilt', 'kiltkivi', 'kildaline', 'schists', 'vilgu kiltkivi'];keskmise astme moondekivim
+functional-matter;['ooker', 'ochraceous', 'punane ooker'];värvus
+functional-matter;['rammus', 'consomme'];Wikimedia täpsustuslehekülg
+functional-matter;['sandlipuu', 'chandan'];Sandlipuu (Santalum L.) on poolparasiitsete igihaljate lehtpuude ja põõsaste perekond
+functional-matter;['vein', 'peedivein', 'peet', 'veini', 'hea vein', 'vino'];viinamarjamahla kääritamisel saadav alkohoolne jook
+functional-matter;['kuldvillak', 'kuldvillaku'];Kullast jääranahk vanakreeka mütoloogias
+functional-matter;['sidruni besee kook', 'sidruni besee pie'];Wikimedia täpsustuslehekülg
+functional-matter;['confiture', 'puuviljakonservid'];Wikimedia täpsustuslehekülg
+functional-matter;['punapeet', 'peet', 'aedpeet', 'beta vulgaris subsp. vulgaris var. vulgaris', 'punane peet', 'söögipeet', 'peedi juur'];populaarne juurköögivili
+functional-matter;['savitellis', 'mudatellis', 'adobe', 'adobe tellis', 'adobe telliskivi'];savist või mudast valmistatud telliskivi
+functional-matter;['räbu', 'šlakk', 'dross', 'otseseid', 'räbu hunnik'];Keemiline aine
+functional-matter;['reovesi', 'heitvee', 'heitveed', 'kanalisatsiooni vesi', 'reoveepuhasti', 'väljavoolav'];Inimtegevuse tagajärjel reostunud vesi
+functional-matter;['sool', 'keedusool', 'lauasool', 'söögisool', 'naatriumkloriid', 'nacl', 'soola', 'naatriumsool', 'soola tootmise'];Maitseainena kasutatav naatriumkloriid
+geographical-object;['acheron', 'river acheron'];jõgi Kreekas
+geographical-object;['sodiaak', 'loomaring', 'zodiaak', 'sodiaagimärk', 'horoskooppimerkit', 'sodiaagi tähtkuju', 'troopiline sodiaak', 'zodiac'];Kujuteldav vöö taevas
+geographical-object;['lisajõgi', 'lisaoja', 'kokkuvalgunud', 'kokkuvoolav', 'lisajõed', 'vasak lisajõgi', 'õigus lisajõgi'];Suuremasse jõkke või järve suubuv jõgi
+geographical-object;['okeaania', 'oceanica'];Osa Austraalia ja Okeaania maailmajaost
+geographical-object;['veetee', 'laevatatav veetee'];laevatatav veeala
+geographical-object;['tevere', 'tiber', 'tiberi jõgi', 'tiberi'];Jõgi Kesk-Itaalias
+geographical-object;['ob', 'obi jõgi', 'obi jõe'];Jõgi Venemaal
+geographical-object;['läänemeri', 'balti meri', 'mare suebicum', 'sueebide meri', 'läänemere'];Atlandi ookeani sisemeri Põhja-Euroopas
+geographical-object;['paraná jõgi', 'parana jõgi', 'parana'];Jõgi Argentinas
+geographical-object;['aleuudid', 'aleuudi saared', 'aleutians'];Vaikse ookeani saarestik
+geographical-object;['uus-kaledoonia', 'uus kaledoonia'];Wikimedia kategooria
+geographical-object;['martinique'];Prantsusmaa departemang
+geographical-object;['doonau', 'donau', 'danau', 'doonau jõe'];Kesk- ja Kagu-Euroopat läbiv jõgi
+gestalt;['skulptuur', 'skulptor', 'raidkuju', 'skulptuuri', 'sculptress', 'skulptorid', 'skulptuurid', 'väljas skulptuur'];kujutava kunsti liik
+goal;['eesmärk', 'lõppu'];tulevikus soovitav tulemus või saavutus
+information-encoding-system;['metafoor', 'metafoore', 'metafoori', 'metafoorne', 'metafoorsed', 'piltlikult'];ülekandeline kõnekujund
+information-encoding-system;['hääldamine', 'kõnekunst', 'kõnekunsti'];Wikimedia täpsustuslehekülg
+information-object;['diftong', 'kaksiktäishäälik', 'diftongi', 'diftongid'];ühte silpi kuuluva kahe kvaliteedilt erineva vokaali järjend
+information-object;['grafeem', 'märk', 'grafeemid', 'graafiline sümbol'];Kirjamärk või sümbol
+information-object;['medal of honor', 'aumedal', 'kongressi aumedali', 'kongressi medal of honor', 'medalid of honor'];USA kõrgeim sõjaline teenetemärk
+information-realization;['õpik', 'õpperaamat', 'kooliraamat', 'kool raamat', 'kooli tekst', 'teksti väljaanne', 'õpikud'];Haridusliku sisuga raamat
+information-realization;['päevik', 'päevaraamat'];Kuupäevade alusel järjestatud kirjetega kirjanduslik märkmeraamat
+information-realization;['ooper', 'operă', 'barokk ooper', 'ooperi', 'ooperilaulja'];Muusikaline lavateos
+information-realization;['dekreet', 'dekreediõigus', 'dekreedi', 'dekreetseadus', 'edikt', 'edikte', 'käsusõna', 'presidendi dekreediga'];Riigipea või valitsuse poolt antud seadus
+information-realization;['rondo', 'rondo vormi'];Wikimedia täpsustuslehekülg
+information-realization;['preambul', 'preambula'];Sissejuhatav selgitus
+information-realization;['laul', 'inimese hääl', 'laule', 'laulu', 'vokaal'];Vokaalmuusika vorm
+information-realization;['brošüür', 'pamflett', 'brošüürid', 'infoleht', 'raamatuke', 'voldikud'];Village in Egiptus
+information-realization;['skulptuur', 'skulptor', 'raidkuju', 'skulptuuri', 'sculptress', 'skulptorid', 'skulptuurid', 'väljas skulptuur'];kujutava kunsti liik
+information-realization;['maal', 'maalikunst', 'maalimine', 'maaling', 'klassikalise maali', 'maali', 'maalid', 'pilt'];Kunstipäraselt värviga kaetud pind
+information-realization;['tants', 'tantsimine', 'tantsu'];kunstipärane liikumine
+information-realization;['maagiline realism', 'maagiline realist'];Kunstiline liikumine
+information-realization;['tango', 'argentina tango'];Argentina vaimne kultuuripärand füüsilise improvisatsioonilise paaristantsuna
+information-realization;['uus testament', 'uue testamendi'];piibli teine osa
+information-realization;['viies moosese raamat', '5. moosese raamat', 'deuteronomy', 'deuteronoomium', 'moosese', 'moosese raamatut'];Piibli viies raamat
+information-realization;['neljas moosese raamat', '4. moosese raamat', 'numeri', 'raamat numbrid'];Piibli neljas raamat
+information-realization;['piibel', 'pühakirja', 'christian piibel', 'christian pühakirja', 'hea raamat', 'kristliku piibli', 'piibli', 'piiblit', 'püha raamat', 'püha teksti', 'pühad tekstid', 'pühakiri', 'religioosne tekst', 'religioossed tekstid', 'virtuaalne'];kristluse ja judaismi pühakirjade kogum
+information-realization;['märulifilm', 'action-film', 'action-komöödia', 'action-komöödia filmi', 'action film', 'märulifilmide'];filmižanr
+intentional-collective;['kubism', 'kubismi', 'analytic kubismi', 'kubistid', 'sünteetilised kubism'];20. sajandi kunstivool
+language;['läänegermaani keeled', 'lääne-germaani', 'lääne-germaani keel', 'lääne germaani keel'];Indoeuroopa keelkonna germaani keelte alamrühm
+language;['uu keel', 'vuu keel', 'wu murre', 'shanghai dialekt', 'shanghai murre', 'wu'];keel Hiinas
+language;['jidiši', 'jidiši keel', 'jidiš', 'jidiši keeles'];Indoeuroopa keelkonna läänegermaani alamrühma kuuluv juutide keel
+language;['draviidi keeled', 'draviidi keel', 'dravidic'];Keelkond Indias
+language;['taani keel', 'da', 'dan', 'taani'];Keel
+language;['bulgaaria keel', 'bulgaaria keeles'];lõunaslaavi keel
+language;['rumeenia keel', 'rumeenia', 'moldaavia keel', 'moldova keel', 'rumeenia keele'];romaani keel
+language;['idagermaani keeled', 'ida germaani', 'ida germaani keel'];Indoeuroopa keelkonna germaani keelte väljasurnud alamrühm
+language;['inglise keel', 'old english', 'inglise', 'inglise keele'];Indoeuroopa keelkonna läänegermaani alamrühma kuuluv keel
+language;['puštu keel', 'afgaani keel', 'pashtu', 'paxto', 'pukhto', 'pushto', 'pushtu', 'puštu', 'puštu keeles'];Keel
+language;['afrikaani keel', 'buuri keel', 'afrikaans', 'afrikaani', 'lõuna-aafrika hollandi', 'taal'];Indoeuroopa keelkonna läänegermaani keel
+language;['hiina keel', 'mandariini keel', 'hiina', 'hiina keele', 'hiina keelt'];Hiina-tiibeti keelkonna keel(ed)
+language;['šooni keel'];keel
+language;['mandariinihiina keel', 'mandariini keel', 'mandariini hiina', 'pekingi murre', 'mandariini dialekt'];Hiina RV ametlik keel
+language;['šoti keel', 'šoti', 'šoti inglise', 'šoti emigrantide', 'šoti inimesed', 'šoti keeles', 'šoti päritolu'];Indoeuroopa keelkonna läänegermaani alamrühma kuuluv keel
+language;['amhara keel', 'amhari keel', 'amhari', 'etioopia keeles', 'etioopia semiidi keelte'];Keel
+language;['uuskreeka keel', 'uuskreeka', 'uus kreeka'];keel
+language;['gudžarati keel'];Keel
+language;['suahiili keel', 'kisuaheeli keel', 'suaheeli keel', 'suahiili', 'suahiili keeles'];Bantu keel
+language;['põhjagermaani keeled', 'idaskandinaavia keeled', 'lääneskandinaavia keeled', 'põhja germaani keeled', 'skandinaavia keeled', 'põhja-germaani', 'põhja-germaani keel', 'skandinaavia keeles', 'põhja-germaani keeltes', 'põhjamaade', 'põhjamaade keelte', 'skandinaavia keeli'];Indoeuroopa keelkonna germaani keelte alamrühm
+language;['eesti keel', 'eesti', 'eesti keele murded', 'kandes'];Läänemeresoome keel
+language;['soome keel', 'soome'];läänemeresoome keel
+language;['ungari keel', 'ungari'];Ugri keel
+language;['läti keel', 'läti', 'läti keele'];Keel
+language;['hispaania keel', 'kastiilia keel', 'hispaania', 'hispaania keeles', 'kastiilia keeles'];Indoeuroopa keelkonna romaani keel
+language;['araabia keel', 'araabia', 'araabiakeelse'];Afroaasia keelkonna lõunakesksemiidi keel
+language;['poola keel', 'poola', 'poola keeles'];lääneslaavi keel
+language;['tšehhi keel'];Keel
+language;['slovaki keel'];lääneslaavi keel
+language;['vene keel', 'venelane', 'venelanna', 'русский язык', 'vene', 'venekeelse'];Indoeuroopa keelkonna idaslaavi keel
+language;['saksa keel', 'ülemsaksa murded', 'saksa', 'germanophone', 'kõrge saksa', 'kõrge saksa keeles', 'saksa keele', 'saksakeelne'];Indoeuroopa keelkonna läänegermaani alamrühma kuuluv keel
+language;['hollandi keel', 'madalmaade keel', 'hollandi', 'hollandi keele', 'hollandi keeles', 'nederlands'];Indoeuroopa keelkonna läänegermaani alamrühma kuuluv keel
+legal-possession-entity;['lään', 'feood', 'feodaalvaldus', 'meeslään', 'läänistamine', 'feudum', 'honores', 'seigneurie', 'tasu', 'valdusteks'];Vasallile antud valdus
+locative-role;['worcester'];Perekonnanimi
+locative-role;['los angeles', 'l.a.', 'los angeles, california', 'los ángeles', 'city of angels'];Ameerika Ühendriikide linn Vaikse ookeani rannikul
+locative-role;['peterburi', 'leningrad', 'neevalinn', 'petrograd', 'piiter', 'sankt-peterburg', 'sankt peterburg', 'sankt peterburi', 'sankt petersburg', 'sankt pieter burch', 'st peterburg', 'leningradi', 'peterburg', 'petrogradi'];Venemaa suuruselt teine linn
+locative-role;["mayenne'i departemang", 'mayenne departemang', 'mayenne'];Prantsusmaa departemang
+locative-role;['karjamaa', 'karjamaad', 'karjamaid', 'ley'];Rohumaa loomade karjatamiseks
+locative-role;['bretagne', 'bretagnei poolsaar', 'breizh', "bretagne'i piirkond", 'breiz', 'brittany'];Ajalooline piirkond
+locative-role;['sorteerimisjaam', 'klassifitseerimisjaam', 'sorteerjaam', 'klassifikatsioon õue', 'manööverdamine', 'marshaling õue', 'rongi õue', 'sorteerimisjaama', 'sorteerimisjaamad', 'sorteerimisjaamas', 'sorteermäe'];Raudteejaama liik
+locative-role;['kvartal', 'linnaosa', 'plokk'];väikseim tänavatest piiratud hoonete rühm
+locative-role;['leedu', 'leedu vabariik', 'lietuva', 'lietuvos respublika'];Vabariik Põhja-Euroopas
+locative-role;['sakkara', 'saqqara', 'saqqarah'];Village in Egiptus
+locative-role;['laboratoorium', 'laboritehnika', 'uurimiskeskus', 'labor', 'laboratooriumid', 'labori tehnikat', 'laboris', 'laboriseadmed', 'research lab', 'science laboratory', 'teadusasutus', 'teaduslaborid', 'teaduslaboris', 'uurimisinstituudid', 'uurimislaborina'];Asutus või ruum katsete läbiviimiseks
+locative-role;['teedepark', 'railyard', 'raudtee õue', 'rongide sorteerimisjaama', 'kaubavedude õue', 'raudtee meetrit'];Samaotstarbeline teedegrupp raudteejaamas
+locative-role;['eulitoraal', 'loodetevöönd', 'loodete vöönd', 'pagurand', 'tõusu-mõõna vöönd', 'eulitoraali', 'loodete tsoon', 'loodete tsooni', 'mõõna'];rannariba kõrg- ja madalvee vahel
+locative-role;['light'];Perekonnanimi
+locative-role;['ōsaka', 'osaka'];Jaapani elanike arvult kolmas linn
+locative-role;['martinique'];Prantsusmaa departemang
+locative-role;['väljak', 'plats', 'avaliku väljaku', 'linnaväljak', 'linnaväljaku'];Hoonestamata avalik ala asulas
+locative-role;['vald', 'omavalitsusüksus', 'gewog', 'kohalik omavalitsusüksus', 'kohaliku omavalitsuse üksus', 'gemeente'];Territoriaalüksus, mille piires teostatakse kohalikku omavalitsust
+locative-role;['ajavöönd', 'ajavööndid', 'ajavööndites'];Geograafiline regioon, kus kehtib sama standardaeg
+locative-role;['baltimaad', 'balti riigid', 'baltikum', 'balti liiduvabariigid', 'ida-baltikum', 'balti riik', 'balti riikides', 'balti vabariik', 'baltikumis'];Ajalooline piirkond Põhja-Euroopas
+locative-role;['chicago', 'windy city'];Ameerika Ühendriikide linn Michigani järve läänekaldal
+locative-role;['wales', 'wal', 'cambria', 'cymru'];Maa Loode-Euroopas, osa Suurbritanniast
+locative-role;['patagoonia', 'patagonia'];Wikimedia kategooria
+locative-role;['tel aviv', 'tel-aviv', 'tel aviv-jaffa', 'tel aviv-yalo'];Iisraeli suuruselt teine linn
+locative-role;['i̇stanbul', 'istanbul', 'tsargrad', 'miklagard', 'stamboul', 'stambul'];Türgi linn
+locative-role;['new york', 'new york city', 'nyc', 'city of new york', 'n.y.c.', 'new yorgis', 'suurem new york'];Ameerika Ühendriikide suurim linn
+locative-role;['põhja-euroopa', 'põhja-euroopas'];Regioon Euroopas
+non-agentive-physical-object;['püksid', 'pükste'];kaheharuline riietusese alakeha katteks
+non-agentive-physical-object;['toorik', 'kang', 'metallist baar', 'ploki metallist', 'toru', 'valuplokid'];Wikimedia täpsustuslehekülg
+non-agentive-physical-object;['trepp', 'trepid', 'samme', 'treppide'];eri kõrgusel paiknevate tasandite vaheline astmestik, mis võimaldab jalakäijate liikumist (hoones v. mujal)
+non-agentive-physical-object;['laevatee', 'meretee', 'faarvaater', 'laevajoom', 'sõiduvesi', 'laevasõidutee', 'laevateed', 'laeva liinil', 'laevaliinidel', 'lainetav meri'];veeliikluseks sobivaim veetee osa, tavaliselt tähistatud
+non-agentive-physical-object;['piip', 'tubakas toru', 'suitsetamise toru'];riistapuu tubaka või teiste ainete suitsetamiseks
+non-physical-collection;['predestinatsioon', 'ettemääratus', 'foreordination', 'preordination', 'saatus'];teoloogilis-filosoofiline teooria
+non-physical-collection;['monoteism', 'ainujumal', 'ainujumalakultus', 'monoteismi', 'monoteistliku', 'monoteistliku religiooni'];ainujumalausk
+non-physical-collection;['transsubstantsiatsioon', 'transsubstantsioon', 'substantsi ümbermuutmine', 'transsubstantsiatsiooni'];Katoliku doktriin, Kristuse ihu ja vere kohalolu armulaua leivas ja veinis
+organized-collection;['nähtav spekter', 'nähtav spektriosa', 'nähtava spektriosa', 'värvispektri', 'nähtav lainepikkus', 'optiline spekter', 'spektri nähtavat'];elektromagnetkiirguse spektriosa, mis on inimsilmale tajutav
+organized-collection;['suur magalhãesi pilv', 'suur magellani pilv', 'suur magalhaesi pilv'];Kääbusgalaktika
+organized-collection;['väike magalhãesi pilv', 'ngc 292', 'väike magalhaesi pilv'];Kääbusgalaktika
+organized-collective;['etnos', 'rahvus', 'etniline grupp', 'rahvusrühm', 'etnilise identiteedi', 'etnilise rühma', 'etniliselt', 'etniliste rühmade', 'rahvuste'];Ühise identiteediga inimeste rühm
+phenomenon;['pilv', 'pilved', 'pilve moodustumise'];lendav vesi, atmosfäärinähtus
+phenomenon;['sademed', 'hydrometeor', 'sademete'];atmosfääris kondenseerunud veeosakesed, mis langevad gravitatsiooni jõul maapinnale
+phenomenon;['soojusmahtuvus', 'erisoojus', 'erisoojusmahtuvus'];Soojushulk
+phenomenon;['ilm', 'ilmastik', 'ilmastikutingimused', 'atmosfääri seisund'];atmosfääri olek
+phenomenon;['päikesekiirgus', 'päikesevalgus', 'päikesepaiste', 'loomulik valgustus', 'päike', 'päikese spektrit', 'päikesevalguse', 'päikest'];Päikeselt lähtuv elektromagnetlainete ja aineosakeste voog
+phenomenon;['vihm', 'vihmavesi', 'vihma', 'padukas', 'vihma tormi', 'vihmasadu'];Vihm on sademete hulka kuuluv liik
+physical-body;['gluuon', 'gluon', 'gluons'];Mugul (meme)
+physical-body;['absoluutselt must keha', 'mustkiirgur', 'must keha', 'musta keha', 'musta keha spekter', 'mustkiirgurile'];idealiseeritud keha, mis neelab kogu talle langeva valguse
+physical-body;['vesinikioon', 'vesinikuioonide'];Wikimedia täpsustuslehekülg
+physical-object;['jalgratas', 'ratas', 'jalgratta', 'jalgrattad'];(enamasti) kaherattaline inimjõul liikuv sõiduvahend
+physical-object;['püksid', 'pükste'];kaheharuline riietusese alakeha katteks
+physical-object;['seljakott', 'leivakott', 'paun', 'packsack', 'seljakotid', 'tagasi pakkima'];Seljal kantav kott
+physical-object;['kirikukell', 'tornikell', 'kirikukellad'];kirikus olev kell
+physical-object;['jõelaev', 'jõgi paat', 'jokiveneisiimme', 'riverboat'];Siseveekogudel (jõed, järved) sõiduks mõeldud või ehitatud laev
+physical-object;['teatrihoone', 'teater'];teatrietenduste toimumispaik
+physical-object;['seep', 'seebid', 'seepi'];Pesemisvahend
+physical-object;['megafon', 'elektriruupor', 'ruupor', 'bullhorn'];võimendiga ruupor
+physical-object;['aken', 'aknad'];läbipaistava materjaliga kaetud avaus hoone seinas
+physical-object;['peitel', 'meisel', 'meisli', 'peitlid'];Tööriist, mida kasutatakse puu sisse aukude ja soonte tegemiseks
+physical-object;['lengid', 'ukse lengi', 'uksepiit', 'uksepiita'];Wikimedia täpsustuslehekülg
+physical-object;['karakk', 'carrack', 'carack', 'carracks'];Purjelaeva tüüp
+physical-object;['tsepeliin', 'õhulaev', 'graf zeppelin', 'zeppelins'];Õhusõiduki tüüp
+physical-object;['vihmavari', 'päikesevari', 'päikesevarjud', 'vihma'];seadeldis enda vihma eest kaitsmiseks
+physical-object;['paberivabrik', 'paberivabrikud', 'papermill', 'tselluloosi-ja paberivabrik'];vabrik, kus toodetakse paberit
+physical-object;['kalavõrk', 'võrk', 'kalavõrgud'];töövahend kalapüügiks
+physical-object;['altarimaal', 'retaabel', 'altaripilt', 'reredos', 'altari tükis', 'altarpieces', 'reredo'];Wikimedia kategooria
+physical-object;['buun', 'muul', 'lainemurdja', 'kannustamm', 'põiktamm', 'sadamasild', 'breakwall', 'groynes', 'lainemurdjate', 'maabumissillad', 'malecón', 'mere seina', 'mutt', 'seawalls'];sadamasse või jõe suudmesse ehitatud tamm
+physical-object;['kelgutamine', 'luge'];Luge loodus-ja tehisrada
+physical-object;['klooster', 'kloostrid'];munkade või nunnade kogukond
+physical-object;['keps', 'kiertokanki', 'kepsud', 'peamised varras', 'peamised varraste'];väntmehhanismi osa
+physical-object;['väntvõll', 'väntvõlli', 'väntvõllide'];Väntmehhanismi osa
+physical-object;['reisilaev', 'reisipraam', 'reisiliiniliikluse'];Reisijate vedamiseks mõeldud laevatüüp
+physical-object;['klaver', 'klaveri ehitus', 'klaveriehitus', 'akustiline klaver', 'beebi tiibklaver', 'forte-piano', 'fortepianist', 'grand piano', 'haamerklaveril', 'klassikalise klaveri'];Muusikariist
+physical-object;['katus', 'katuse', 'katused'];ehitist kattev osa
+physical-object;['tellingud', 'telling'];ajutine abiehitis ehitus- v. remonditöödel kõrgel töötavate inimeste, materjalide ja tööriistade alusena
+physical-object;['reoveepuhastus', 'reoveekäitlus', 'reovee eelselitus', 'kanalisatsioonisüsteemi', 'kanalisatsiooni', 'reoveepuhasti', 'biopuhastuse', 'reoveepuhasteid', 'reoveepuhastid', 'reoveepuhastusjaama'];Reovee töötlemine enne selle suunamist keskkonda või vee taaskasutusse
+physical-object;['pilvelõhkuja', 'hiiglakõrge pilvelõhkuja', 'ülikõrge pilvelõhkuja', 'büroo torni', 'kõrghooneid', 'supertall'];Väga kõrge hoone
+physical-object;['kuuskantvõti', 'allen wrench', 'hex võti', 'kuuskantvõtmega'];Tööriist kruvimiseks
+physical-object;['ämber', 'pang', 'kopp', 'viis gallonit kopp'];sangaga pealt lahtine anum
+physical-object;['vanker', 'vůz', 'ristpuu', 'rõuk', 'rõukpakud', 'vahepulk', 'vahepuu', 'tarne vagun', 'universaal', 'vaguni'];veolooma(de)ga veetav kahe või nelja rattaga veok
+physical-object;['pühaveenõu', 'püha vesi font', 'stoup'];Liturgiline nõu püha vee hoidmiseks kristlikus kirikus
+physical-object;['jalgratas', 'ratas', 'jalgratta', 'jalgrattad'];(enamasti) kaherattaline inimjõul liikuv sõiduvahend
+physical-object;['klavessiin', 'tšembalo', 'klavessinist', 'cembalo', 'klavessiinid'];Ajalooline klahvpill
+physical-object;['laser', 'optiline kvantgeneraator', 'valguskvantgeneraator', 'impulss laser', 'laserid', 'laservalgust', 'optilise maser'];Tere Ardi, Sven otsib sind
+physical-object;['elektromeeter', 'elettrometro'];Wikimedia täpsustuslehekülg
+physical-object;['savitellis', 'mudatellis', 'adobe', 'adobe tellis', 'adobe telliskivi'];savist või mudast valmistatud telliskivi
+physical-object;['kooriruum', 'koor', 'koori', 'koori kioskeid', 'koori varisemine'];Wikimedia täpsustuslehekülg
+physical-object;['prikk', 'brikk', 'brigs'];Purjelaeva tüüp
+physical-object;['äärik', 'flansch', 'flanš'];Wikimedia täpsustuslehekülg
+physical-object;['pagas', 'pagasi'];Teisaldatav mahuti reisija esemete jaoks
+physical-object;['puitkiudplaat', 'puitlaastplaat', 'laast', 'puitkiudplaati', 'puitlaastplaati'];kokkupressitud puiduosakestest valmistatud materjal
+physical-object;['raudteejaam', 'vaksal', 'raudteejaama', 'rongi depoo', 'rongijaama', 'lõppjaam', 'peatus', 'raudtee peatus', 'raudtee peatus mis', 'raudtee terminal', 'raudtee terminali', 'raudteejaamades', 'rongidepoo', 'rongijaamades'];Raudteetaristu rajatis
+physical-object;['railased', 'rajidae'];sugukond kalu
+plan;['režiim', 'raviskeemi'];Wikimedia täpsustuslehekülg
+political-geographic-object;['worcester'];Perekonnanimi
+political-geographic-object;['los angeles', 'l.a.', 'los angeles, california', 'los ángeles', 'city of angels'];Ameerika Ühendriikide linn Vaikse ookeani rannikul
+political-geographic-object;['peterburi', 'leningrad', 'neevalinn', 'petrograd', 'piiter', 'sankt-peterburg', 'sankt peterburg', 'sankt peterburi', 'sankt petersburg', 'sankt pieter burch', 'st peterburg', 'leningradi', 'peterburg', 'petrogradi'];Venemaa suuruselt teine linn
+political-geographic-object;['norra', 'norra kuningriik', 'noreg', 'norge', 'kongeriket noreg', 'kongeriket norge', 'nor', 'norra kuningriigi'];Põhja-Euroopa kuningriik
+political-geographic-object;['linnarajoon', 'linnaosa'];haldusüksus Venemaal, Serbias ja Horvaatias
+political-geographic-object;['šveits', 'ĩveits', 'šveitsi konföderatsioon', 'ch', 'sui', 'sveits', 'schweiz', 'suisse', 'svizzera', 'šveitsi konföderatsiooni'];Riik Kesk-Euroopas
+political-geographic-object;['nõukogude liit', 'nsvl', 'nõukogude sotsialistlike vabariikide liit', 'nsv liit', 'cccp', 'n. liit', 'n liit', 'nõukogude võim', 'nsv liidu vabariikide', 'nõukogude liidu', 'venemaa'];Nõukogude Sotsialistlike Vabariikide Liit
+political-geographic-object;['svaasimaa', 'eswatini', 'endine svaasimaa', 'eswatini kuningriik', 'swz', 'svaasimaa kuningriik'];Kuningriik Lõuna-Aafrikas
+political-geographic-object;['austria', 'austria vabariik', 'aut', 'oesterreich'];Riik Kesk-Euroopas
+political-geographic-object;['austraalia', 'austraalia ühendus', 'aus', 'austraalia liit'];Riik Austraalia mandril
+political-geographic-object;['apartheid', 'apartheidipoliitika', 'apartheidi'];Lõuna-Aafrika Vabariigis 1948–1994 kehtinud rassilise eraldatuse poliitika
+political-geographic-object;['itaalia', 'itaalia vabariik', 'itaalias', 'italia'];riik Euroopas
+political-geographic-object;['ukraina', 'ukr', 'ukraina vabariik', 'ukrayina'];riik Ida-Euroopas
+political-geographic-object;['mehhiko', 'mex', 'mehhiko ühendriikide'];Põhja-Ameerika vabariik
+political-geographic-object;['iraak', 'iraagi vabariik', 'al-iraagis'];riik Lähis-Idas
+political-geographic-object;['lõuna-korea', 'kor', 'korea vabariik', 'korea vabariigi'];Riik Ida-Aasias
+political-geographic-object;['ecuador', 'ec', 'ecu', 'ecuadori vabariik', 'ekuador', 'ekvador'];Demokraatlik vabariik Lõuna-Ameerikas
+political-geographic-object;['iirimaa', 'iiri vabariik', 'iirimaa saar', 'iiri', 'iiri saar', 'ire'];riik Euroopas
+political-geographic-object;['rootsi', 'rootsi kuningriik', 'swe', 'sverige'];Põhja-Euroopa kuningriik
+political-geographic-object;['pealinn', 'kapitali', 'pealinnas'];Riigi poliitiline keskus
+political-geographic-object;['kansas', 'ks', 'päevalill riik'];Ameerika Ühendriikide osariik
+political-geographic-object;['alaska', 'alaska osariik', 'ak', 'last frontier'];Ameerika Ühendriikide osariik
+political-geographic-object;['arizona', 'grand canyon riik'];Ameerika Ühendriikide osariik
+political-geographic-object;['mississippi osariik', 'mississippi', 'magnolia riik'];Ameerika Ühendriiikide osariik
+political-geographic-object;['virginia', 'virginia osariik', 'old dominion', 'old dominion riik'];Ameerika Ühendriikide osariik
+political-geographic-object;['idaho', 'gem osariigile'];Ameerika Ühendriikide osariik
+political-geographic-object;['alabama', 'alabama osariik', 'camellia riik', 'heart of dixie'];Ameerika Ühendriikide osariik
+political-geographic-object;['nevada', 'battle born riik', 'nv', 'sagebrush riik', 'silver riik'];Ameerika Ühendriikide osariik
+political-geographic-object;['california', 'california osariik', 'californias', 'golden state'];Ameerika Ühendriikide osariik
+political-geographic-object;['wyoming', 'võrdõiguslikkuse riik', 'wy'];Ameerika Ühendriikide osariik
+political-geographic-object;['utah', 'state of utah', "utah' osariik", 'mesitaru riigi', 'mormoni riik'];Ameerika Ühendriiikide osariik
+political-geographic-object;['colorado', 'centennial riik'];Ameerika Ühendriikide osariik
+political-geographic-object;['sakkara', 'saqqara', 'saqqarah'];Village in Egiptus
+political-geographic-object;['ōsaka', 'osaka'];Jaapani elanike arvult kolmas linn
+political-geographic-object;['island', 'islandi vabariik', 'isl'];Põhja-Euroopa vabariik
+political-geographic-object;['vald', 'omavalitsusüksus', 'gewog', 'kohalik omavalitsusüksus', 'kohaliku omavalitsuse üksus', 'gemeente'];Territoriaalüksus, mille piires teostatakse kohalikku omavalitsust
+political-geographic-object;['sofia', 'sofija', 'bulgaaria pealinnas', 'sardica', 'serdica'];Bulgaaria Vabariigi pealinn
+political-geographic-object;['praha', 'prag', 'tšehhi pealinnas'];Tšehhi Vabariigi pealinn
+political-geographic-object;['budapest', 'aquincum', 'ungari pealinn', 'ungari pealinnas'];Ungari Vabariigi pealinn
+political-geographic-object;['belgrad', 'beograd', 'kapitali serbia ja montenegro'];Serbia Vabariigi pealinn
+political-geographic-object;['berliin', 'berlín', 'berliinis', 'saksa kapitalil'];Saksamaa Liitvabariigi pealinn
+political-geographic-object;['bahama', 'bahama saared', 'bah', 'bahama ühendus'];Atlandi ookeani saareriik
+political-geographic-object;['chicago', 'windy city'];Ameerika Ühendriikide linn Michigani järve läänekaldal
+political-geographic-object;['manhattan', 'manhattani linnaosa', 'new yorgi maakond', 'manhattan kiltkivi'];New Yorgi keskne linnaosa
+political-geographic-object;['soome', 'some', 'soome vabariik', 'fin'];Vabariik Põhja-Euroopas
+political-geographic-object;['boston', 'trimountaine', 'bean linn', 'beantown', 'hub of the universe', 'kapitali massachusetts'];Massachusettsi osariigi pealinn Ameerika Ühendriikides
+political-geographic-object;['kabul', 'afganistani pealinna'];Afganistani pealinn
+political-geographic-object;['tirana', 'albaania pealinn'];Albaania Vabariigi pealinn
+political-geographic-object;['viin', 'vindobona', 'wien', 'austria pealinna', 'austria pealinnas'];Austria Vabariigi pealinn
+political-geographic-object;['london', 'londinium', 'briti kapital', 'greater london', 'kapitali suurbritannia'];Suurbritannia ja Põhja-Iiri Ühendkuningriigi kui ka Inglismaa pealinn
+political-geographic-object;['tallinn', 'reval', 'kesoniemi', 'koluvan', 'lindanise', 'lyndanise', 'revel', 'tallinna', 'tallinna linn', 'eesti pealinnas'];Eesti Vabariigi pealinn
+political-geographic-object;['helsingi', 'helsingfors', 'helsingi linn', 'helsinki', 'hesa', 'stadi', 'soome pealinn'];Soome Vabariigi pealinn, Uusimaa ajalooline keskus
+political-geographic-object;['pariis', 'lutetia', 'lutetia parisiorum', 'city of light', 'kapitali prantsusmaa', 'pariisis', 'prantsusmaa pealinna'];Prantsusmaa pealinn
+political-geographic-object;['ateena', 'ateena vald', 'athinai', 'kreeka pealinn', 'kreeka pealinna'];Kreeka pealinn
+political-geographic-object;['riia', 'riga', 'riia linn', 'rīga', 'läti pealinn'];Läti Vabariigi pealinn
+political-geographic-object;['vilnius', 'vilno', 'wilno', 'leedu pealinn', 'vilna'];Leedu Vabariigi pealinn
+political-geographic-object;['oslo', 'kristiaania', 'kristiania', 'christiania', 'kapitali norra'];Norra pealinn
+political-geographic-object;['varssavi', 'warszawa', 'varssav', 'warsaw', 'poola pealinn'];Poola Vabariigi pealinn ja suurim linn
+political-geographic-object;['canberra', 'austraalia pealinnas', 'kapitali austraalia'];Austraalia pealinn
+political-geographic-object;['ottawa', 'kanada pealinn', 'kapitali kanada'];Kanada pealinn
+political-geographic-object;['zagreb', 'agram', 'andautonia', 'zagrebis'];Horvaatia Vabariigi pealinn
+political-geographic-object;['kairo', 'al qāhira', 'egiptuse pealinnas', 'el qahira', 'pealinna egiptus'];Egiptuse pealinn
+political-geographic-object;['ljubljana', 'aemona'];Sloveenia Vabariigi pealinn
+political-geographic-object;['tel aviv', 'tel-aviv', 'tel aviv-jaffa', 'tel aviv-yalo'];Iisraeli suuruselt teine linn
+political-geographic-object;['i̇stanbul', 'istanbul', 'tsargrad', 'miklagard', 'stamboul', 'stambul'];Türgi linn
+political-geographic-object;['new york', 'new york city', 'nyc', 'city of new york', 'n.y.c.', 'new yorgis', 'suurem new york'];Ameerika Ühendriikide suurim linn
+political-geographic-object;['québec', 'quebec', 'quebeci provints', 'québeci provints'];Kanada provints
+political-geographic-object;['toronto'];Kanada suurim linn
+political-geographic-object;['texas', 'texase osariik', 'teksas', 'teksase osariik', 'lone star riik', 'tx'];Ameerika Ühendriikide osariik
+political-geographic-object;['vald'];Prantsusmaa haldusüksuse tüüp
+political-geographic-object;['phoenix'];Linn Ameerika Ühendriikides
+political-geographic-object;['departemang', 'prantsusmaa departemangud', 'conseiller général'];Prantsusmaa haldusüksuse tüüp
+practice;['tatakelakuan', 'käitumine koodi', 'käitumiskoodeks'];Wikimedia täpsustuslehekülg
+quality;['egocentrism', 'enesekeskne', 'enesekesksusest', 'füüsilisest isikust mure'];Wikimedia täpsustuslehekülg
+quality;['monoteism', 'ainujumal', 'ainujumalakultus', 'monoteismi', 'monoteistliku', 'monoteistliku religiooni'];ainujumalausk
+quality;['viskoossus', 'viskkoossus', 'inviscid', 'kinemaatiline viskoossus', 'viscousness', 'viskoosne', 'viskoossusega'];voolamise võime
+quality;['moraalitus', 'amoraalsus', 'ebamoraalsus', 'moraalilagedus', 'ebamoraalne', 'moraalne pankrot', 'moraalselt pankrotis'];filosoofiline ja religioosne mõiste
+quality;['kollane', 'kollasus'];Üks põhivärvustest
+quality;['julgus', 'hardihood'];hirmu vastand
+region;['sekund', 'teine', 's', 'aatomisekund', 'efemeriidisekund', 'sekundit'];järgarv
+region;['sõlm', 'meremiil', 'kiirusühik', 'geograafiline miil', 'merepenikoorem', 'nm', 'mpk', 'meremiili miil', 'meremiili miili', 'rahvusvaheliste meremiili miil', 'ruudu meremiili miil', 'sõlme', 'õhu miil'];põhiühik kauguste mõõtmiseks merenduses ja lennunduses
+regulation;['inimõigused', 'inimõigus', 'inimõiguslane', 'inimõiguste', 'inimõiguste rikkumine', 'inimõiguste rikkumise', 'universaalsete inimõiguste'];Iga indiviidi sünnipärased õigused
+regulation;['võrdsed võimalused', 'võrdne võimalus', 'võrdsete võimaluste'];Olukord, kus inimesi koheldakse võrdsetel alustel
+relation;['konjunktiiv', 'subjunktiiv', 'tingivas kõneviisis', 'konjunktiivne', 'tingivas'];grammatiline kategooria, kõneviis
+relevant-part;['kuldvillak', 'kuldvillaku'];Kullast jääranahk vanakreeka mütoloogias
+relevant-part;['habe', 'vurrud', '05:00 vari', 'nägu seen', 'vibrissae'];karvastik näo alaosal
+simple-collective;['rahvas', 'rahvad', 'inimesed'];Wikimedia täpsustuslehekülg
+simple-planned-collective;['konsistoorium', 'konsistooriumi'];kirikuvalitsus protestantlikus kirikus
+situation;['ksenofoobia', 'ksenofoobsete'];Hirm või viha võõrapärase või võõramaise vastu
+situation;['postmargi eraldamine', 'imperforaatse'];Postmarkide puhul on eraldamine vahend, mille abil üksikud margid on üksteisest kergesti eraldatavad.
+situation;['koht kick', 'koht-lööd'];Wikimedia täpsustuslehekülg
+situation;['sünoptik', 'prognoosimine', 'ennustada', 'ennustav', 'prognoose'];Ilma kohtafaktide kogumine
+situation;['tuberkuloos', 'tiisikus', 'tuberkuloosi', 't.b.'];Teaduslik artikkel
+situation;['laminiit', 'kabjajooksva', 'kabjanaha põletik', 'laminiidi'];Kabjanaha põletik
+situation;['abstsess', 'mädanik', 'abscessus', 'mädakolle', 'abstsessid'];Sidekoeline mädanik
+situation;['genotsiid', 'genotsiidi', 'genotsiidide', 'rassilise hävitamine', 'rassimõrv'];Mingi rahvusliku, etnilise, rassilise või usulise ühenduse liikmete ettekavatsetud hävitamine
+situation;['reisimine', 'reis', 'teekond', 'reisi'];liikumine suhteliselt kaugete geograafiliste paikade vahel
+situation;['ilm', 'ilmastik', 'ilmastikutingimused', 'atmosfääri seisund'];atmosfääri olek
+situation;['medal of honor', 'aumedal', 'kongressi aumedali', 'kongressi medal of honor', 'medalid of honor'];USA kõrgeim sõjaline teenetemärk
+situation;['rikkus', 'küllus', 'varakus', 'rikkuse', 'rikkad', 'wealthiness', 'üleküllus'];vararohkus
+situation;['süü', 'süüdi kohtuotsust', 'süüdiolek'];sotsiaal-eetiline etteheidetavus inimese käitumisel
+socially-constructed-person;['cimabue', 'giovanni cimabue'];Itaalia maalikunstnik
+socially-constructed-person;['tizian', 'tiziano vecellio'];Itaalia maalikunstnik
+socially-constructed-person;['henry viii'];inglismaa kuningas 1509–1547
+socially-constructed-person;['gioachino rossini', 'rossini', 'gioacchino antonio rossini', 'gioacchino rossini', 'gioachino antonio rossini', 'giloacchino antonio rossini'];Itaalia helilooja
+socially-constructed-person;['frédéric chopin', 'chopin', 'frederic chopin', 'fryderyk chopin', 'fryderyk franciszek chopin', 'fryderyk frantiszek chopin', 'frederic francois chopin'];Poola helilooja
+socially-constructed-person;['dante gabriel rossetti', 'rossetti'];Wikimedia täpsustuslehekülg
+socially-constructed-person;['émile zola', 'emile zola', 'emil zola', 'zola'];Prantsusmaa kirjanik
+socially-constructed-person;['mahatma gandhi', 'mohandas karamchand gandhi', 'mohandas gandhi'];India poliitiline ja religioosne liider
+socially-constructed-person;['erwin schrödinger', 'erwin rudolf josef alexander schrödinger', 'schrödinger'];Austria füüsik
+socially-constructed-person;['adolf hitler', 'füürer', 'führer', 'hitler', 'adolf schicklgruber', 'der füürer'];Saksamaa füürer aastatel 1934–1945
+socially-constructed-person;['humphrey bogart', 'humphrey deforest bogart', 'bogart'];Ameerika näitleja
+socially-constructed-person;['banshee', 'mardus', 'banshie'];Haldjanaine, kelle halamine kuulutab ette surma.
+socially-constructed-person;['amor', 'cupido'];Rooma armastusjumal
+socially-constructed-person;['taimer', 'ajanäitaja'];Wikimedia täpsustuslehekülg
+socially-constructed-person;['christoph kolumbus', 'christopher columbus', 'christoffa corombo', 'christoph columbus', 'christopher kolumbus', 'kolumbus', 'cristobal colon', 'cristoforo colombo'];Maadeavastaja ja kaupmees
+socially-constructed-person;['michelangelo anselmi'];Itaalia maalikunstnik
+socially-constructed-person;['james buchanan', 'buchanan', 'president buchanan'];Ameerika poliitik ja aseesimees
+socially-constructed-person;['joseph haydn', 'franz joseph haydn'];Austria helilooja
+socially-constructed-person;['georg wilhelm friedrich hegel', 'georg friedrich wilhelm hegel', 'georg hegel', 'hegel', 'hegeli', 'hegellik'];Saksamaa filosoof
+socially-constructed-person;['andrew johnson', 'president andrew johnson'];USA poliitik ja 17. president
+socially-constructed-person;['herman melville', 'melville'];Ameerika kirjanik
+socially-constructed-person;['george bernard shaw', 'g. b. shaw', 'bernard shaw'];Iirimaa näitekirjanik
+socially-constructed-person;['pablo picasso', 'picasso', 'pablo ruiz picasso'];Hispaania kunstnik
+socially-constructed-person;['maurice utrillo', 'utrillo'];Prantsusmaa maalikunstnik
+socially-constructed-person;['erwin panofsky', 'panofsky'];Saksamaa kunstiajaloolane
+socially-constructed-person;['andrew jackson', 'old hickory'];Ameerika poliitik ja aseesimees
+socially-constructed-person;['martin van buren', 'president van buren', 'van buren'];USA poliitik, advokaat ja diplomaat, 8. president
+socially-constructed-person;['tisler', 'mööbelsepp', 'puidunikerdamine'];Käsitöö eriliik
+socially-constructed-person;['sopran'];Kõrgeim naishääl
+socially-constructed-person;['charles baudelaire', 'charles-pierre baudelaire', 'baudelaire', "charles baudelaire'i", 'charles pierre baudelaire'];Prantsusmaa luuletaja
+socially-constructed-person;['koduabiline', 'teener', 'teenijad', 'teenijarahvas', 'teenijaskond', 'teenijanna', 'koduabilised', 'kodumaise helper', 'kodumaise sulane', 'kodumaise töötaja', 'maja teenistuja', 'majapidamistöödes', 'sise-', 'teenistujate'];Tööandja kodus töötav abitöötaja
+socially-constructed-person;['mustlased', 'roma', 'romad', 'romid', 'romi', 'mustlane', 'mustlaste täielik hävitamine eestis', 'romade', 'romanis', 'rommany', 'rroma'];India päritolu rahvarühm Euroopas ja Ameerikas
+socially-constructed-person;['paiutid', 'paiuuted', 'piute', 'paiute', 'paiute inimesed', 'paiutes'];Indiaani hõim
+socially-constructed-person;['aasialased', 'aasia'];Wikimedia täpsustuslehekülg
+socially-constructed-person;['pastor', 'esipreester', 'kirikuõpetaja', 'vanempreester', 'minister', 'rektor', 'abivaimulik', 'assistent kuraatorile', 'koguduse preester', 'kristlik minister', 'kristlikud vaimulikud', 'kuraatorile', 'ordineeritud minister', 'pastor-õpetaja', 'pastorid', 'ravida', 'vaimuliku', 'vaimulikuga', 'vanempastor'];kristlik vaimulik
+socially-constructed-person;['reisija', 'sõitja'];Sõidukis reisija
+socially-constructed-person;['välismaalane', 'mittekodanik', 'elavad välismaalased', 'mittekodanikest', 'outlander'];Isik, kes ei ole kodanik selles riigis, kus ta asub
+socially-constructed-person;['lipnik', 'enseigne de vaisseau', 'fähnrich zur see'];Madalaim ohvitseri auaste
+socially-constructed-person;['polüglott'];inimene, kes valdab paljusid keeli
+socially-constructed-person;['kunstnik', 'artist', 'kunstnikud', 'loovisik'];inimene, kes teeb kunsti
+socially-constructed-person;['rätsep', 'rätsepad', 'sartor', 'seamster', 'õmblemine'];riiete valmistaja
+socially-constructed-person;['advokaat', 'jurist', 'vandeadvokaat', 'vannutatud advokaat', 'advokaadiga', 'kriminaalmenetluse advokaat', 'uuringu advokaatide', 'õigusnõustaja'];Juristi, kelle peamiseks ülesandeks on klientide kohtus esindamine
+socially-constructed-person;['professor', 'täielikult professor'];kõrgeim akadeemiline ametijärk ülikoolides
+socially-constructed-person;['cicero', 'marcus tullius cicero', 'tully'];Vana-Rooma oraator, riigimees, poliitiline filosoof, jurist ja filosoof
+socially-constructed-person;['lev tolstoi', 'leo tolstoi', 'ljov tolstoi', 'krahv lev nikolayevitch tolstoi', 'tolstoi'];Venemaa kirjanik
+socially-constructed-person;['filosoof', 'filosoofid'];Mõtleja, kes tegeleb igapäevaküsimustest kaugemale ulatuvate põhimõtteliste küsimustega
+socially-constructed-person;['walter gropius', 'gropius'];Saksamaa arhitekt
+socially-constructed-person;['luuletaja', 'poeet', 'poetess', 'luuletajad'];Inimene, kes kirjutab ja avaldab luulet
+socially-constructed-person;['poeg'];meessoost laps
+socially-constructed-person;['naine', 'täiskasvanud naine'];täiskasvanud naissoost inimene
+socially-constructed-person;['pagulane', 'põgenik', 'varjupaigataotleja', 'varjupaigataotlejate', 'pagulaste', 'sõda pagulaste'];Võõrsil elav isik, kes sunniti kodumaalt lahkuma
+socially-constructed-person;['dante alighieri', 'dante'];Itaalia luuletaja
+socially-constructed-person;['francesco petrarca', 'petrarca'];Itaalia poeet ja teadlane
+socially-constructed-person;['köster', 'kellamees', 'sakristaan', 'sexton'];Kirikuteener
+socially-constructed-person;['laozi', 'lao-zi', 'lao zi', 'lao-tse', 'lao-tzu'];Hiina filosoof, Daodejingi autor, taoismi rajaja
+socially-constructed-person;['fernão de magalhães', 'fernao magalhaes', 'fernao de magalhaes', 'magalhaes', 'magalhães', 'ferdinand magellan', 'magellan'];Portugali maadeavastaja
+socially-constructed-person;['millard fillmore', 'fillmore', 'president fillmore'];USA poliitik, 13. president
+socially-constructed-person;['john maynard keynes', 'keynes'];Suurbritannia majandusteadlane
+socially-constructed-person;['giovanni da verrazzano', 'giovanni da verrazano', 'verrazano', 'verrazzano'];itaalia päritolu maadeavastaja
+socially-constructed-person;['karl marx', 'karl heinrich marx', 'marx'];Saksa filosoof, majandusteadlane ja revolutsionäär, marksismi rajaja
+socially-constructed-person;['honoré de balzac', 'balzac', 'honore de balzac', 'honore balzac'];Prantsusmaa kirjanik
+socially-constructed-person;['immanuel kant', 'kant'];Saksamaa filosoof
+socially-constructed-person;['geiger', 'hans geiger'];Saksamaa füüsik
+socially-constructed-person;['heinrich rudolf hertz', 'heinrich hertz', 'heinrich rudolph hertz'];Saksamaa füüsik
+socially-constructed-person;['martin luther', 'luther'];Saksa kristlik teoloog ja augustiini munk
+socially-constructed-person;['homeros', 'homerus'];Vanakreeka luuletaja, keda traditsiooniliselt peetakse eeposte Iliase ja Odüsseia autoriks
+socially-constructed-person;['evangelista torricelli', 'torricelli'];Itaalia füüsik
+socially-constructed-person;['chlodovech i', 'chlodowech i', 'clovis i', 'chlodwig i', 'clovis'];Franki esimese kuningas (c 466-511)
+socially-constructed-person;['albert einstein', 'einsteini'];Saksa füüsikateoreetik
+socially-constructed-person;['bernhard riemann', 'georg friedrich bernhard riemann', 'georg friedrich bernhard riemanni', 'riemann'];Saksamaa matemaatik
+socially-constructed-person;['elizabeth i', 'elisabeth i', 'gloriana', 'hea kuninganna bess', 'kuninganna elizabeth i', 'neitsikuninganna', 'queen elizabeth i', 'the virgin queen'];inglismaa kuninganna 1558–1603
+socially-constructed-person;['fjodor dostojevski', 'dostojevski', 'fjodor mihhailovitš dostojevski', 'dostoevski', 'fjodor dostoevski', 'fjodor mihhailovitš dostoevski'];vene kirjanik
+socially-constructed-person;['jossif stalin', 'stalin', 'ioseb džugasvili', 'ioseb džugašvili', 'j. v. stalin', 'josea džugašvili', 'jossif džugašvili', 'jossif džugašvili-stalin', 'jossif vissarionovitš stalin', 'iosif vissarionovich dzhugashvili'];Nõukogude Liidu juht
+socially-constructed-person;['kokk', 'lühiajaliste et kokk', 'lühike selleks kokk'];elukutse
+socially-constructed-person;['wright'];Perekonnanimi
+socially-constructed-person;['biokeemik', 'biokeemikud'];Biokeemiaga tegelev teadlane
+socially-constructed-person;['ingel', 'inglid'];madalamat sorti üleloomulik olend monoteistlikes religioonides
+socially-constructed-person;['sakti', 'shakti'];Wikimedia täpsustuslehekülg
+socially-constructed-person;['jacob grimm', 'jakob grimm', 'jacob ludwig carl grimm', 'jakob ludwig karl grimm'];saksa folklorist
+socially-constructed-person;['anne boleyn', 'anna boleyn', 'boleyn'];inglismaa kuninganna 1533–1536
+socially-constructed-person;['doyen', 'nestor'];Perekonnanimi
+socially-constructed-person;['lesk kuninganna'];Wikimedia täpsustuslehekülg
+socially-constructed-person;['wilhelm grimm', 'wilhelm carl grimm', 'wilhelm karl grimm'];saksa folklorist
+space-region;['metsapiir', 'puupiir', 'puuraja', 'timberline', 'treeline'];piir, millest ei võimalda ühegi puuliigi normaalset kasvu
+spatial-feature;['mercedario'];Mägi Argentinas
+spatial-feature;['huascarán'];Mägi Peruus
+spatial-feature;['nacimiento'];Mägi Argentinas
+spatial-feature;['coropuna'];Mägi Peruus
+spatial-feature;['yerupaja'];Mägi Peruus
+spatial-feature;['tupungatito'];Mägi Argentinas
+spatial-feature;['kaljumäestik', 'rockies', 'rocky mountains'];Mäestik Põhja-Ameerika lääneosas
+subject;['antiigiuuringud', 'classics', 'klassika', 'klassikalise filoloogia', 'klassikalise kirjanduse', 'klassikalise stipendiumi', 'klassikalise uuringud', 'klassikat'];Antiik-Kreeka ja -Rooma teaduslik uurimine
+subject;['retoorika', 'kõnekunst', 'klassikalise retoorika', 'retooriline', 'retooriliselt', 'retorikko', 'rhetor'];veenmise kunst
+subject;['hambaravi', 'stomatoloogia', 'hambaarstiteadus', 'hambaarstitöö', 'hambakliinik', 'hambaravi meditsiin', 'hambaravis', 'odontologist', 'odontoloogiale', 'suuõõne tervise'];Hammaste, suuõõne ja lõualuu haigustega tegelev meditsiiniharu
+subject;['majandusteadus', 'ökonoomika', 'poliitiline ökonoomia', 'poliitökonoomia', 'majanduslikult', 'majandusteadlane', 'poliitilise ökonoomika'];sotsiaalteadus, mille eesmärk on kirjeldada, seletada ja ennustada majandusagentide käitumist ning majandusnähtusi
+substance-role;['veeaur', 'aur', 'veeauru'];Gaasilises olekus vesi
+taxonomic-collection;['kääne', 'käänded', 'kaasus', 'juhul', 'käändes', 'grammatilisi juhtudel', 'käändelõpp', 'nimisõna puhul'];Grammatiline kategooria, mis väljendab fraasis või lauses morfoloogiliselt sõna süntaktilist rolli ja grammatilist seost teiste sõnadega
+taxonomic-collective;['sugukond', 'familia', 'pere', 'sugukondadesse'];Taksonoomiline kategooria
+taxonomic-collective;['monotüüpne takson', 'monotypic', 'monotypic perekonnast', 'monotypic taksoni'];vaid üht liiki sisaldav takson
+taxonomic-collective;['perekond', 'genus', 'perekond bioloogias', 'perekondade', 'perekonna', 'perekonna nimi'];Taksonoomiline kategooria
+taxonomic-collective;['liik', 'loomaliik', 'bioloogiline liik', 'geneetiline liik', 'morfoloogiline liik', 'tüpoloogiline liik', 'bioloogilistele liikidele', 'fülogeneetilise liigi mõiste'];Taksonoomiline kategooria
+taxonomic-collective;['moosipuu', 'muntingia calabura', 'muntingia', 'perekonda muntingia'];taimeliik
+taxonomic-collective;['kammhai', 'hexanchus', 'perekonda hexanchus'];perekond kalu
+taxonomic-collective;['heeringahai', 'lamna', 'perekonnast lamna'];perekond kalu
+taxonomic-collective;['pterodaktülos', 'pterodactylus', 'pterodaktül', 'pterodaktülus', 'perekonda pterodactylus'];Fossiilsete reptiilide perekond
+taxonomic-collective;['kontpuulised', 'cornaceae', 'dogwood pere', 'pere cornaceae'];Taimesugukond
+taxonomic-collective;['tatar', 'fagopyrum', 'perekonnast fagopyrum'];taimeperekond tatraliste sugukonnas
+taxonomic-collective;['habehai', 'orectolobus', 'perekonda orectolobus'];perekond kalu
+taxonomic-collective;['kaslased', 'kaslane', 'felidae', 'felid', 'pere felidae'];Loomade sugukond
+taxonomic-collective;['kärpsäga', 'ictalurus', 'perekonnast ictalurus'];perekond kalu
+taxonomic-collective;['tursalised', 'gadiformes', 'selleks gadiformes'];Kalade selts tursklaste sugukonnast
+taxonomic-collective;['krokodillilised', 'crocodilia', 'crocodylia', 'crocodilians', 'crocodylian', 'krokodilliliste', 'selleks crocodilia', 'selleks crocodylia'];Selts suuri roomajaid
+taxonomic-collective;['oblikas', 'rumex', 'perekonna rumex'];taimeperekond
+taxonomic-collective;['kuldvihm', 'laburnum', 'perekonda laburnum'];perekond taimi
+taxonomic-collective;['komeetkäpp', 'angraecum', 'angreekum', 'perekonda angraecum', 'perekonda angrecum'];Taimeperekond orhideeliste sugukonnast
+taxonomic-collective;['heeringlased', 'clupeidae', 'pere clupeidae'];Sugukond kalu
+taxonomic-collective;['tursklased', 'tursk', 'gadus morhua', 'gadidae', 'pere gadidae'];kalade sugukond
+taxonomic-collective;['helmekaktus', 'rhipsalis', 'perekonda rhipsalis'];Taimeperekond
+taxonomic-collective;['sidrunhai', 'negaprion', 'perekonda negaprion'];perekond kalu
+taxonomic-collective;['lumik', 'limenitis', 'perekonda limenitis'];perekond liblikaid
+taxonomic-collective;['makohai', 'isurus', 'perekonnast isurus'];perekond kalu
+taxonomic-collective;['ammhai', 'ginglymostoma', 'perekonda ginglymostoma'];perekond kalu
+taxonomic-collective;['lahnarohulised', 'isoetaceae', 'pere isoetaceae', 'quillwort pere'];Taimesugukond
+taxonomic-collective;['neitsirohi', 'parthenium', 'parteenium', 'perekonda parthenium'];Taimeperekond
+taxonomic-collective;['charales', 'selleks charales'];Wikimedia kategooria
+taxonomic-collective;['nugishailased', 'triakidae', 'hagijas hai', 'houndshark', 'pere triakidae'];sugukond kalu
+taxonomic-collective;['astelrailased', 'dasyatidae', 'pere dasyatidae'];kalade sugukond
+taxonomic-collective;['kedriklased', 'lasiocampidae', 'pere lasiocampidae'];sugukond liblikaid
+taxonomic-collective;['viirpuu', 'crataegus', 'perekonda crataegus'];Taimeperekond
+taxonomic-collective;['tiigerhai', 'galeocerdo', 'perekonda galeocerdo'];perekond kalu
+taxonomic-collective;['kihvhai', 'liivhai', 'carcharias', 'odontaspis', 'perekonda carcharias', 'perekonda odontaspis'];perekond kalu
+taxonomic-collective;['kihvhai', 'liivhai', 'carcharias', 'odontaspis', 'perekonda carcharias', 'perekonda odontaspis'];perekond kalu
+taxonomic-collective;['tuur', 'acipenser', 'perekonda acipenser'];kalade perekond tuuraliste seltsis
+taxonomic-collective;['hammassäga', 'arius', 'perekonda arius'];perekond kalu
+taxonomic-collective;['hallhai', 'carcharhinus', 'perekonda carcharhinus'];perekond kalu
+taxonomic-collective;['heeringas', 'clupea', 'perekonda clupea'];Perekond kalu
+taxonomic-collective;['tihane', 'parus', 'tihased', 'perekonnast parus'];linnuperekond
+taxonomic-collective;['rai', 'raja', 'perekonda raja'];perekond kalu
+taxonomic-collective;['kuldtiib', 'lycaena', 'perekonda lycaena'];perekond liblikaid
+taxonomic-collective;['mooruspuu', 'morus', 'mooruspuumarjad', 'mulbery', 'perekonnast morus'];Perekond mooruseliste (Moraceae) sugukonnas
+taxonomic-collective;['peoleo', 'oriolus', 'perekonda oriolus'];perekond linde
+taxonomic-collective;['magun', 'papaver', 'moon', 'perekonda papaver'];Rohttaimede perekond
+taxonomic-collective;['säga', 'silurus', 'perekonnast silurus'];perekond kalu
+technique;['tarkus', 'elutarkus', 'tarkust'];võime mõelda ja toimida teadmiste, kogemuste, terve mõistuse ja mõistmise toel
+temporal-region;['1. juuli', 'dominion day'];Kuupäev
+temporal-region;['1. jaanuar', 'suurpüha maarja'];Kuupäev
+temporal-region;['2. veebruar', 'groundhog day', '2 veebruar'];Kuupäev
+temporal-region;['pühakutepäev', '1. november', '1 november', 'allhallows', 'hallowmas', 'hallowmass', 'kõigi pühakute päev'];Kuupäev
+temporal-region;['jõulud', '25. detsember', 'jõulupüha', 'jõulupühad', 'xmas', 'esimene jõulupüha'];Kuupäev
+temporal-region;['19. märts', '19 märts', 'st joseph'];Kuupäev
+temporal-region;['14. aprill', 'pan-ameerika day'];Kuupäev
+temporal-region;['24. oktoober', '24 oktoober', 'üro päeva'];Kuupäev
+temporal-region;['12. oktoober', 'columbus day', 'dia de la raza', 'discovery day'];Kuupäev
+temporal-region;['4. juuli', 'ameerika ühendriikide iseseisvuspäev', 'neljas juuli', 'iseseisvuspäev'];Kuupäev
+temporal-region;['24. mai', 'commonwealth day', 'empire day', 'empire päev'];Kuupäev
+temporal-region;['17. september', 'kodakondsus päeva'];Kuupäev
+temporal-region;['rukkimaarjapäev', 'astumine blessed virgin', 'astumine blessed virgin mary', 'astumine pühima neitsi', 'dogma taevaminemise', 'maarja taevaminek', 'neitsi', 'neitsi maarja', 'our lady of neitsi maarja', 'taevaminemise päeval'];Neitsi Maarja taevamineku päev
+temporal-region;['esimene nelipüha', 'nelipüha', 'nelipühade esimene püha', 'suvistepüha', 'suvistepühadega', 'helluntaisunnuntai', 'nelipühad', 'nelipühade', 'whitweek'];Kristlik püha. esimene pühapäev 7 nädalat pärast lihavõtteid
+temporal-region;['1. august', 'lammas', 'lammas päeva'];Kuupäev
+temporal-region;['14. juuni', '14 juuni', 'lipu päeva', 'lipupäev'];Kuupäev
+temporal-region;['29. juuni', '29 juuni', 'pühade peetruse ja pauluse'];Kuupäev
+temporal-region;['pühapäev', 'p', 'issanda päev', 'dominicus'];Nädalapäev
+temporal-region;['utc', 'koordineeritud maailmaaeg', 'maailmaaeg', 'universal time coordinated', 'koordineeritud maailmaaja', 'universal coordinated time', 'zulu aega', 'zulu time'];Kehtiv maailmaaeg (ajastandard)
+temporal-region;['mihklipäev', '29. september', 'kasupäev'];Kuupäev
+temporal-region;['suvine pööripäev', '21. juuni', 'jaanipäev', 'leedopäev', 'suvine päikeseseisak', '21 juuni', 'jaanipäeva', 'südasuvi'];Kuupäev
+temporal-region;['1. mai', 'maipüha', 'esiteks mai'];Kuupäev
+temporal-region;['2. märts', 'texas iseseisvuspäev'];Kuupäev
+temporal-region;['halloween', "hallowe'en", 'allhallows eve', 'kõik pühitsema eve'];kalendritähtpäev
+temporal-region;['neljapäev', 'n', 'kaduneljapäev', 'neljapäeval'];Nädalapäev
+temporal-region;['kolmapäev', 'ko', 'kolmapäeva', 'kolmapäeval', 'naima'];Nädalapäev
+temporal-region;['juuni', 'jaanikuu', 'pärnakuu'];Aasta kuues kuu
+temporal-region;['29. veebruar', 'liigpäev', 'hüpe päev', '29 veebruar', 'bissextile päev', 'karkauspäivä'];Kuupäev
+temporal-region;['23. juuni', 'jaanipäev', 'jaani eve', 'jaaniõhtu', '23 juuni', 'jaani õhtu', 'jaani öö', 'suveöö'];Kuupäev
+temporal-region;['tsiviilaeg', 'talveaeg', 'vööndiaeg', 'standardaeg', 'kohaliku aja järgi', 'ajanorm', 'tsiviil-aeg'];Standardne ajavöönd
+temporal-region;['esmaspäev', 'e', 'esmaspäeval'];Nädalapäev
+temporal-region;['laupäev', 'l', 'poolpäiv', 'laup', 'laupäeva', 'laupäeval', 'sabbatum'];Nädalapäev
+temporal-region;['reede', 'r', 'reedel'];Nädalapäev
+temporal-region;['teisipäev', 't', 'teisip', 'teisipäeval'];Nädalapäev
+temporal-region;['suveaeg', 'suveajale', 'suveaja', 'päevavalgust kokkuhoid aeg'];Vööndiajast ühe tunni võrra edasi nihutatud kellaaeg
+temporal-region;['6. jaanuar', 'kolmekuningapäev', 'veeristmine', 'kaheteistkümnes päev', 'kolmekuningapäev issanda', "three kings 'day"];Kuupäev

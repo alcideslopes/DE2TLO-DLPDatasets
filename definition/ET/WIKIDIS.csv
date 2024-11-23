@@ -1,0 +1,164 @@
+activity;['fiksatsioon', 'fikseerimine', 'fikseerumine'];Et nende struktuuri edasiseks uurimiseks säilitada.
+activity;['kontsert', 'elav muusika', 'kontsertreisil', 'live kontsert', 'muusika kontsert'];Muusikateos (t) e ettekanne.
+activity;['prantsuse revolutsioon', 'suur prantsuse revolutsioon', 'prantsuse kodanlik revolutsioon'];Sündmused aastail 1789 -- 1799.
+activity;['post', 'postiside', 'postside', 'posti', 'postiteenus', 'postal service', 'posti kättetoimetamist', 'posti teenus', 'postikulu', 'postisüsteemi'];Kui ka kiri
+agentive-figure;['lerna hüdra'];Kes elas Argoses Lerna järve juures.
+agentive-figure;['helena', 'ilus helena', 'helen', 'helen of troy'];Trooja sõja põhjustanud ilus naine kreeka mütoloogias
+agentive-figure;['golem', 'trollidest'];Juudi mütoloogiast pärinev tehislik olend
+agentive-figure;['religioon', 'usk', 'usund', 'usuliste veendumuste', 'religioosne traditsioon', 'religioosse traditsiooni', 'usu', 'usulisi tõekspidamisi'];Usund, religioon
+agentive-figure;['nõukogude liit', 'nsvl', 'nõukogude sotsialistlike vabariikide liit', 'nsv liit', 'cccp', 'n. liit', 'n liit', 'nõukogude võim', 'nsv liidu vabariikide', 'nõukogude liidu', 'venemaa'];Mida kasutas Rahvusvaheline Olümpiakomitee
+agentive-physical-object;['tamm', 'tammepuit', 'quercus', 'tammepuu', 'ameerika tamm', 'tammepuud'];Kuhu kuulub ka harilik tamm.
+agentive-physical-object;['veski', 'gristmill', 'corn mill', 'flourmill', 'gristmills', 'jahvevili veskid', 'söödaveskis', 'tangainete', 'veskikiviga'];Kus toimub teravilja jahvatus.
+agentive-physical-object;['kala', 'kalaks', 'toidu kala', 'toit kala'];Eelkõige lihastest saadav toiduaine.
+agentive-physical-object;['sammaltaim', 'sammal', 'sammaltaimed', 'soonteta taimed', 'samblad', 'alamad taimed', 'bryobionta', 'bryota', 'brüofüüdid', 'mittesoontaimed', 'sammaltaimed sensu lato', 'sammaltaimi', 'mitte-soontaimi', 'nonvascular taim'];Kelle elutsüklis domineerib gametofüütne faas | gametofüüt | gametofüütne faas. seda võib käsitleda ka kui sammaltaimed sensu lato ehk sammaltaimed (kõige) laiemas mõttes.
+agentive-physical-object;['anakin skywalker', 'darth vader'];Filmisaaga" Tähtede sõda" tegelane
+agentive-physical-object;['kanna', 'taurotragus oryx', 'ühise eland'];Kes elab Aafrika savannides (Taurotragus oryx).
+agentive-physical-object;['abakus', 'arvelaud'];Vana-Roomas ja keskaegses Lääne-Euroopas kasutusel olnud arvutuslaud
+agentive-physical-object;['jänes', 'jack küülik', 'jackrabbits', 'jänesed'];Jäneslaste sugukonda kuuluv perekond
+agentive-physical-object;['sammal', 'lehtsammaltaimed', 'samblad'];Seda võib käsitleda ka kui sammaltaimed sensu stricto (kitsamas mõttes).
+amount-of-matter;['tint', 'tušš', 'trükimust', 'trükivärv', 'kustumatu tindiga', 'tindid'];Mida kasutatakse kirjutamiseks.
+amount-of-matter;['malm', 'malmist'];Milles on vähemalt 2,14% süsinikku
+biological-object;['silmalaug', 'laug', 'palpebra', 'silmalaud', 'palpebrae', 'silmalau'];Lindude ja osade roomajate silma abi elundid
+biological-object;['aju kõvakest', 'dura mater encephali', 'peaaju-kõvakest', 'peaaju kõvakest', 'kõvakesta', 'dura'];Mis asetseb vastu kolju sisepinda
+biological-object;['saba'];Mis jääb pärakust tahapoole.
+classification-system;['andmestruktuur', 'andmestruktuurid'];Mis ühendab mitut muutujat.
+course;['müra', 'elektrilise müra', 'elektroonilise müra', 'häireid', 'juhuslik müra', 'signaali müra'];Häire, mis on seotud elektrivooluga
+functional-matter;['depressant', 'depressandid', 'närvisüsteemi depressant', 'rahusti', 'depressantidega', 'downers', 'rahustid', 'sedatiivset ravimit', 'tujurikkuja'];Mis pärsivad, pidurdavad või suruvad alla teatud närvisüsteemi funktsioone.
+functional-matter;['puri', 'seil', 'purjed', 'sõidavad'];Ajalooliselt purjekatel pehmest materjalist.
+functional-matter;['depressant', 'depressandid', 'närvisüsteemi depressant', 'rahusti', 'depressantidega', 'downers', 'rahustid', 'sedatiivset ravimit', 'tujurikkuja'];Mis pärsivad, pidurdavad või suruvad alla teatud närvisüsteemi funktsioone.
+functional-matter;['hall', 'härmatis', 'kahu', 'öökülm', 'hoar', 'hoar külm', 'külm', 'raske kuura'];Taimedele ja esemetele tekkiv sade.
+functional-matter;['lisand', 'lisandeid'];Mille molekulid esinevad põhiliselt ühe aine molekulidest koosnevas materjalis või võõras keemiline element, mille aatomid asendavad aineomaseid mõne keemilise aine kristallvõres.
+genetic-collective;['hannoveri dünastia', 'hannoveri liini', 'hanoverians', 'house of hanover', 'maja hannoveri'];Braunschweig-Lüneburgi kuurvürstkonna, Hannoveri kuningriigi ja Suurbritannia valitsejate dünastia
+geographical-object;['california laht', 'kalifornia laht', 'meri cortes'];Vaikse ookean | Vaikne ookean | Vaikse ookeani servas.
+geographical-object;['amazonas', 'amazonase jõgi', 'amasoonas', 'solimões'];Jõgi Lõuna-Ameerikas
+geographical-object;['columbia jõgi', 'columbia river'];Jõgi Põhja-Ameerikas
+geographical-object;['araabia', 'araabia poolsaar', 'araabia poolsaare'];Mida tõlgitakse tavaliselt soov või iha
+geographical-object;['niagara jõgi', 'niagara juga'];Mida eesti keeles tuntakse Kitsesaare nime all.
+geographical-object;['green river', 'greeni jõgi'];Jõgi USA-s Utah' , Wyomingi ja Colorado osariigis. Colorado jõe suurim lisajõgi.
+geographical-object;['saint-martini saar', 'sint maarten', 'saint-martin', 'saint martin', 'saint martini saar', 'sint-maarten', 'saint maarten', 'st maarten'];Saar Kariibi meres
+geographical-object;['saint-martini saar', 'sint maarten', 'saint-martin', 'saint martin', 'saint martini saar', 'sint-maarten', 'saint maarten', 'st maarten'];Madalmaade Kuningriigi maa
+geographical-object;['beauforti meri'];Meri Põhja-Jäämeres
+geographical-object;['angeli juga', 'cheru-meru', 'cherun meru', 'kerepakupai merú', 'kerepakupai vena', 'kerepakupai vená', 'angel falls'];Maailma kõrgeim juga
+information-object;['beauforti skaala', "beaufort'i skaala", 'beauforti pall', 'bofoor', 'tuulekiiruse skaala', 'tuuleskaala', 'beauforti pallid', 'beauforti skaala järgi', 'orkaani jõu', 'tugevad tormituuled', 'tuul skaala'];Tuule kiiruse skaala
+information-object;['oomega', 'omega', 'ω'];Kreeka täht
+information-object;['a', 'la', 'lah'];Diatoonilise alushelide rea kuues aste.
+information-realization;['arvutiprogramm', 'programm', 'arvutiprogrammi', 'tarkvara koodi'];Rakendusprogrammidest või rakendusliidestest.
+information-realization;['instrumentaalkontsert', 'kontsert', 'concerto', 'kontserdid'];Muusikažanr soolopillile ja sümfooniaorkestrile.
+information-realization;['kiilkiri', 'talbjas', 'assüüria kiilkirja', 'sumeri kiilkirja', 'sumeri kiilkirjas', 'talbjas kirjalikult'];Mida kirjutatakse kiilja tööriistaga savisse.
+information-realization;['muusika', 'helikunst', 'muusika portaal'];Mida kasutatakse nii helikõrguse kui ka helivältuse valdkonnas.
+information-realization;['teadusulme', 'sci-fi', 'science fiction', 'teaduslik fantastika', 'teaduslik ulme', 'sci fi', 'ulme', 'ulmekirjandus'];Mida läbides on võimalik ülikiirelt katta väga pikki vahemaid.
+information-realization;['opera buffa', 'koomiline ooper', 'bouffe', 'buffo', 'kerge ooper', 'koomiline oopereid', 'ooper bouffe', 'opera comique'];Koomiline ooper
+language;['puštu keel', 'afgaani keel', 'pashtu', 'paxto', 'pukhto', 'pushto', 'pushtu', 'puštu', 'puštu keeles'];ISO 639 alpha-2 keelekood
+locative-role;['nice', 'nizza', 'nicæa', 'nissa'];Vana-Kreeka aegne nimi.
+locative-role;['monaco', 'monaco vürstiriik', 'monako', 'munegu'];Mida kasutab Rahvusvaheline Olümpiakomitee.
+locative-role;['franche-comté', 'franche-comté piirkond', 'franche-comte'];Endine Prantsusmaa provints, tänapäeval Prantsusmaa piirkond. Algselt Burgundia vabakrahvkond Saksa-Rooma riigis.
+locative-role;['burgundia', 'bourgogne'];Prantsusmaa piirkond
+locative-role;['park', 'avalik park', 'linnapark', 'puiestik', 'avalikes parkides', 'haljasala', 'puhkebaas'];Kindlapiiriline haljastusega maaala
+locative-role;['leedu', 'leedu vabariik', 'lietuva', 'lietuvos respublika'];Mida kasutab Rahvusvaheline Olümpiakomitee.
+locative-role;['jordani läänekallas', 'läänekallas', 'juudamaa ja samaaria', 'läänekaldal'];Jordani jõe Läänekallas
+locative-role;['chicago', 'windy city'];USA suurlinn
+locative-role;['troopika', 'palavvööde', 'troopilised vöötmed', 'troopiline vöönd', 'kuum tsoon', 'troopikas', 'troopiline piirkond'];Piirkond pöörijoone vahel ja läheduses
+non-agentive-physical-object;['kanal', 'niisutuskanal', 'kanalid'];Kitsas veekogu
+non-physical-collection;['religioon', 'usk', 'usund', 'usuliste veendumuste', 'religioosne traditsioon', 'religioosse traditsiooni', 'usu', 'usulisi tõekspidamisi'];Usund, religioon
+non-physical-collection;['naturalism', 'filosoofilise naturalismi', 'metoodiline naturalism'];Mis lähendavad filosoofiat loodusteadusele.
+phenomenon;['faas', 'aine faas', 'gaasifaasis'];Milles aine keemiline koostis ja omadused on kogu selle ulatuses ühesugused.
+phenomenon;['plasma', 'ioniseeritud gaas', 'plasma allika', 'plasma allikas', 'plasmafüüsika'];Milles positiivsete ja negatiivsete laengute ruumitihedus on praktiliselt ühesugune.
+phenomenon;['kiudrünkpilved', 'cirrocumulus', 'kiudrünkpilv', 'cirrocumulus pilv'];Pilvede põhiliik
+phenomenon;['fenomen', 'nähtus', 'fenomenaalne'];Filosoofiline mõiste
+phenomenon;['erosioon', 'uuristus', 'mullaerosioon', 'veeerosioon', 'erosiooni', 'jää erosiooni', 'kulumine', 'söö ära', 'vee-erosioon', 'õõnestades'];Mille käigus maakoore pealmine osa mureneb ja kandub ühest kohast teise.
+physical-body;['krabi udukogu', 'krabi udu', 'm 1', 'messier 1', 'ngc 1952', 'crab nebula'];Messier' kataloogi esimene objekt
+physical-body;['siirius', 'siirius a', 'siirius b', 'sirius a', 'sirius b', 'canicula', 'koer tärni', 'sirius', 'sothis'];Tegelikult on Siirius kaksiktäht.
+physical-body;['spiika', 'alpha virginis', 'α vir', 'α virginis', 'spica'];Täht Neitsi tähtkujus.
+physical-object;['kaar', 'arch', 'intrados', 'võlvitud'];Mis sildab nendevahelise avause, ehituses kõvera varda kujuline tasandiline sildetarind.
+physical-object;['tuumareaktor', 'aatomikatel', 'aatomireaktor', 'tuumareaktori', 'lõhustumisreaktori', 'tuuma kuhi', 'tuumalõhustumise reaktor', 'tuumareaktori tehnoloogiat'];Seade, milles toimub tuumareaktsioon
+physical-object;['helikassett', 'audiokassett', 'audiocassette'];Helilinti sisaldav helikandja
+physical-object;['vedelkristallkuvar', 'lcd-ekraan', 'liquid crystal display', 'lcd-kuvar', 'lcd-paneel', 'lcd ekraan', 'lcd', 'lcd-paneeli', 'vedelkristallekraan', 'vedelkristallekraanide', 'vedelkristallkuvaritega'];Elektrooniline pildikuvamistehnoloogia
+physical-object;['lakk', 'lakitud', 'nitrotselluloosi lakk'];Mille kuivamisel moodustub kelme ning mis sisaldab orgaanilist lahustit.
+physical-object;['kai', 'randumissild', 'sadamasild', 'kaid', 'kalapüügi muuli', 'kaubakai', 'muuli', 'quai on', 'rõõm muuli', 'staithe', 'wharve'];Ehitis laevade sildumiseks sadamas
+physical-object;['silmalaug', 'laug', 'palpebra', 'silmalaud', 'palpebrae', 'silmalau'];Lindude ja osade roomajate silma abi elundid
+physical-object;['klassiruum', 'klassiruumis', 'klassituba'];Kus toimub õppeprotsess
+physical-object;['baar', 'barroom', 'ginmill', 'salongi pidaja', 'õllekallamise'];Kus pakutakse kohapeal tarbimiseks alkohoolseid jooke.
+physical-object;['parklaev', 'bark', 'pursi'];Purjelaeva tüüp
+physical-object;['reaktor', 'keemiline reaktor', 'keemilise reaktori', 'reaktsioonianumat'];Aparaat, milles toimub mingi aine saamiseks vajalik keemiline protsess
+physical-object;['sõlm', 'knotting', 'sõlme'];Näiteks köie sidumisel või põimimisel.
+physical-object;['kiil', 'emapuu', 'kiilson', 'kimmikiil', 'laeva kiil', 'laevakiil', 'paadi kiil', 'paadikiil', 'raskuskiil', 'kiilu'];Mis jääb täielikult vee alla.
+physical-object;['ülekanne', 'transmissioon', 'ülekanded masinates', 'käigukastid', 'käik vähendamine', 'käik vähendamise', 'ülekandesüsteemi'];Mis võimaldavad mehaanilist energiat üle kanda vahemaa taga ning seejuures muuta pöördemomente, jõude, kiirusi või liikumise iseloomu.
+political-geographic-object;['nice', 'nizza', 'nicæa', 'nissa'];Vana-Kreeka aegne nimi.
+political-geographic-object;['monaco', 'monaco vürstiriik', 'monako', 'munegu'];Mida kasutab Rahvusvaheline Olümpiakomitee.
+political-geographic-object;['belize', 'briti honduras', 'biz', 'briti honduuras'];Riik Kariibi mere ääres, varasema nimega Briti Honduras
+political-geographic-object;['šveits', 'ĩveits', 'šveitsi konföderatsioon', 'ch', 'sui', 'sveits', 'schweiz', 'suisse', 'svizzera', 'šveitsi konföderatsiooni'];Millel on kaks nime: Aa ja Aabach. Peale selle on Šveitsis
+political-geographic-object;['nõukogude liit', 'nsvl', 'nõukogude sotsialistlike vabariikide liit', 'nsv liit', 'cccp', 'n. liit', 'n liit', 'nõukogude võim', 'nsv liidu vabariikide', 'nõukogude liidu', 'venemaa'];Mida kasutas Rahvusvaheline Olümpiakomitee
+political-geographic-object;['luksemburg', 'luksemburgi suurhertsogiriik', 'luksemburgi suurhertsogiriigi'];Mida kasutab Rahvusvaheline Olümpiakomitee.
+political-geographic-object;['suurbritannia', 'suurbritannia ja põhja-iiri ühendkuningriik', 'ühendkuningriik', 'briti', 'gbr', 'suurbrittannia', 'suur–britannia', 'ük', 'suurbritannia suurbritannia ja põhja-iirimaa', 'suurbritannias', 'ühendkuningriikidele'];Tööstus-ja kaubandusseltsi Royal Society of Arts nime lühend.
+political-geographic-object;['saudi araabia', 'saudi araabia kuningriik', 'sau', 'saudi-araabia', 'saudi'];SA on ISO 3166-1 standardi kohaselt Saudi Araabia kahekohaline maakood
+political-geographic-object;['malawi', 'malawi vabariik', 'malaavi', 'nyasaland', 'vabariigi, malawi'];Mida kasutab Rahvusvaheline Olümpiakomitee.
+political-geographic-object;['mali', 'mali vabariik', 'mli', 'prantsuse sudaan'];Tänapäeva riik Aafrikas
+political-geographic-object;['afganistan', 'islami riik afganistani'];Mida kasutavad NATO, Rahvusvaheline Olümpiakomitee, FIFA, ITU ja paljud teised rahvusvahelised organisatsioonid. Samuti on see Afganistani mootorsõidukite maatähis.
+political-geographic-object;['kambodža', 'kampuchea', 'kambod', 'kambodža kuningriik'];Mida kasutab Rahvusvaheline Olümpiakomitee.
+political-geographic-object;['austraalia', 'austraalia ühendus', 'aus', 'austraalia liit'];Mida kasutab Rahvusvaheline Olümpiakomitee.
+political-geographic-object;['briti columbia', 'briti kolumbia', 'british columbia'];Kanada provints
+political-geographic-object;['poola', 'poola vabariik', 'polska'];Seimis esindatud sotsiaalliberaalne erakond.
+political-geographic-object;['paraguay', 'paraguai', 'paraguay vabariik', 'paraguay vabariigi'];Mida kasutab Rahvusvaheline Olümpiakomitee.
+political-geographic-object;['iraak', 'iraagi vabariik', 'al-iraagis'];Mida kasutab Rahvusvaheline Olümpiakomitee.
+political-geographic-object;['dominikaani vabariik'];Mida kasutab Rahvusvaheline Olümpiakomitee.
+political-geographic-object;['gambia', 'gambia vabariik', 'the gambia'];Mida kasutab Rahvusvaheline Olümpiakomitee.
+political-geographic-object;['niger', 'nigeri vabariik', 'nig', 'niiger', 'nigeri'];Maakood FIPS-standardi järgi
+political-geographic-object;['iirimaa', 'iiri vabariik', 'iirimaa saar', 'iiri', 'iiri saar', 'ire'];Mida kasutab Rahvusvaheline Olümpiakomitee.
+political-geographic-object;['lõuna-dakota', 'lõuna-dakota osariik', 'south dakota', 'coyote riik', 'mount rushmore riik', 'sd'];Osariik USA-s
+political-geographic-object;['lõuna-austraalia', 'south australia'];Mis tuleneb ingliskeelsest nimest South-Australia
+political-geographic-object;['florida', 'florida osariik', 'everglade riik', 'fl', 'sunshine state'];Mis pruuliti 1000. laari puhul.
+political-geographic-object;['põhja-dakota', 'north dakota', 'rahu garden state'];Osariik USA-s
+political-geographic-object;['jordaania', 'jordan', 'jordaania hašimiidi kuningriik', 'jor'];Riik Aasias
+political-geographic-object;['bahrein', 'bahreini riik'];Mida kasutab Rahvusvaheline Olümpiakomitee.
+political-geographic-object;['trinidad ja tobago', 'tri', 'trinidadian', 'vabariigi trinidad ja tobago'];Riigi 2-täheline kood standardi ISO-3166 järgi
+political-geographic-object;['chicago', 'windy city'];USA suurlinn
+political-geographic-object;['san salvador', 'salvadori pealinn'];El Salvadori pealinn
+political-geographic-object;['port-au-prince', 'haiti pealinnas'];Haiti pealinn
+political-geographic-object;['edmonton'];Kanada Alberta provintsi halduskeskus (53 ° 33' N, 113 ° 30' W)
+political-geographic-object;['sydney'];Linn Austraalias
+political-geographic-object;['regina'];Saskatchewani provintsi pealinn.
+practice;['rahu'];Milles puudub sõjaseisukord, ning leping, millega sõjaseisukord lõpetatakse.
+quality;['religioon', 'usk', 'usund', 'usuliste veendumuste', 'religioosne traditsioon', 'religioosse traditsiooni', 'usu', 'usulisi tõekspidamisi'];Usund, religioon
+quality;['arabesk', 'arabesque'];Teine jalg on taha sirutatud.
+quality;['kaal', 'brutokaal'];Vektoriaalne füüsikaline suurus
+region;['lii', 'li'];Hiina pikkusühik
+region;['küprose nael', 'küprose naela'];Küprose endise rahaühiku ISO 4217 kood
+relation;['lisand', 'apositsioon', 'apositsiooni'];Mis osutab samale asjale nagu täiendi põhisõna.
+relation;['laager'];Mis toetab võlle ja pöörlevaid telgi.
+simple-collective;['sotsiaalne klass', 'seisus', 'ühiskonnaklass', 'klassi', 'klassi süsteemi', 'klassiühiskond', 'madalamate klasside', 'sotsiaal-majandusliku klassi', 'sotsiaal-majandusliku kuuluvuse', 'sotsiaal-majandusliku kuuluvusega', 'sotsiaalmajanduslike rühmade', 'sotsiaalse klassi', 'sotsiaalsete klasside'];Mis eristub mingi tunnuse alusel ja tekib sotsiaalse kihistumise tulemusel
+situation;['laste tserebraalparalüüs', 'paralysis cerebralis infantilis', 'tserebraalne lastehalvatus', 'aju halvatus', 'cerebal halvatus', 'spastiline paralüüs', 'spastilisus'];Püsiv kesknärvisüsteemi kahjustus
+situation;['pookimine', 'pooge', 'vääristamine', 'poogitud'];Et nad kokku kasvaksid. vegetataviise paljundamise võte.
+socially-constructed-person;['richard iii'];Inglise kuningas
+socially-constructed-person;['herodes', 'herodes i suur', 'herodes suur', 'heroodes', 'heroodes suure'];Juudamaa kuningas 37 eKr -- 4 eKr
+socially-constructed-person;['karl suur', 'charlemagne', 'carolus', 'karl'];Kes hiljem ristiti Pippin | Pippin (Itaalia kuningas) | Pippiniks
+socially-constructed-person;['io'];Zeusi armuke.
+socially-constructed-person;['athena', 'pallas athena', 'pallas athene'];Mille ta võttis sõbratari mälestuseks.
+socially-constructed-person;['rāhu', 'rahu'];Budismis üks krodhadevatatest (hirmuäratavatest jumalatest).
+socially-constructed-person;['rāhu', 'rahu'];Hinduistlikus mütoloogias üks asuratest, madu, kes varjutuste ajal kuu või päikese alla neelab.
+socially-constructed-person;['valitsev kuninganna', 'kuninganna', 'keisrinna domineeriv', 'naine monarh'];Kes on pärinud trooni ja omab kuningriigis reaalset võimu
+socially-constructed-person;['jeesus', 'hea karjane', 'jeesus kristus', 'kristus', 'jeesus naatsaretist', 'jeesus natsorai', 'jeesuslaps', 'jeesuse kristuse', 'kristuse', 'nazarene'];Kristluse rajaja.
+socially-constructed-person;['john dalton', 'daltoni seadus', 'daltoni seadused', 'dalton'];Inglise keemik
+socially-constructed-person;['heinrich rudolf hertz', 'heinrich hertz', 'heinrich rudolph hertz'];Saksa füüsik, kelle järgi see sagedusühik oma nime sai
+socially-constructed-person;['hel', 'hela'];Vanapõhja jumalanna, loomulikku surma surnute riigi valitsejanna
+socially-constructed-person;['galileo galilei', 'galileo'];Itaalia astronoom, filosoof ja füüsik
+socially-constructed-person;['maarja magdaleena', 'maarja magdalast', 'püha maarja-magdaleena'];Jeesuse kaaslane
+socially-constructed-person;['maarja', 'neitsi maarja', 'püha maarja', 'püha neitsi', 'neitsi', 'pühima neitsi'];Jeesuse ema
+socially-constructed-person;['anne boleyn', 'anna boleyn', 'boleyn'];Inglismaa kuninganna, Henry VIII teine abikaasa
+socially-constructed-person;['kuninganna', 'keisrinna consort', 'kuninganna-abikaasa', 'kuningannad consort'];Kes reeglina ise võimu ei oma
+space-region;['siiditee'];Mille nime on ka hiljem kasutatud.
+spatial-feature;['ararat', 'ararati mägi', 'suur-ararat', 'mt. ararat'];Mille jalamilt kerkivad Suur-Ararat ja Väike-Ararat.
+subject;['maastikuarhitektuur', 'maastik', 'maastikukujundaja'];Inimese poolt loodud maastikukujunduse konstruktsioonid
+subject;['kosmogoonia', 'cosmogeny', 'cosmogenesis', 'kosmiline evolutsioon', 'kosmogooniline', 'kosmoloogid', 'kosmoloogiline mudel', 'universumi päritolu'];Mis uurib Universumi ja selle osade tekkimist ja arengut
+subject;['botaanika', 'taimeteadus', 'taimebioloogia', 'botaaniline', 'meditsiini botaanika', 'plant science', 'taimebioloogiat'];Mille külgharudel on vahelduvate leheroodude (või lehekeste) puhul esimene (kõige pearoo | pearood | pearoole kõige lähem) suunatud alla (lehe aluse suunas).
+subject;['tehisintellekt', 'kunstlik intellekt', 'tehisintelligents', 'tehisintellekti', 'kunstliku intellekti', 'kunstlikult intelligentne', 'masinintelligentsi'];Inglise keelsetest sõnadest artificial intelligence
+subject;['dünaamika', 'kineetika'];Mis uurib kehadevahelist vastasmõju.
+subject;['hulgateooria', 'enesestmõistetav hulgateooria'];Mis on moodustatud kõikidest hulga A elementidest, mis ei kuulu hulka B.
+subject;['filosoofia', 'mõtteteadus', 'filosoofiline'];Mööduv omadus vastandina alalisele omadusele ehk atribuudile. 16.-18. sajandi filosoofias on moodus üksikasi kui muutumatu substantsi avaldus.
+subject;['füüsika', 'loodusfilosoofia', 'loodusfilosoof', 'looduslik filosoofia', 'füüsiline filosoof', 'füüsiline filosoofid'];Tähtede füüsika, Galaktikate füüsika
+subject;['keeleteadus', 'lingvistika', 'keeleteadlane', 'keeleteadused', 'lingvist', 'keeleline', 'keeleliselt', 'keeleteadlased', 'verbaalne suhtlemine'];Näidates kõneleja suhet öeldavasse ja öeldava suhet tegelikkusega.
+taxonomic-collection;['aeg', 'grammatiline aeg', 'tempus', 'pingeline', 'aegades', 'grammatilisi pingeline'];Mille abil sõna (tavaliselt tegusõna) viitab tegevuse toimumisele kõnelemise hetkest (või hetkest või ajavahemikust, millest parajasti kõneldakse) varem või hiljem või sellega samaaegselt ning mõnikord tegevuse kestusele või ühe-või mitmekordsusele.
+taxonomic-collective;['klass', 'infraclass', 'klassi'];Mis jaguneb seltsideks
+taxonomic-collective;['vint', 'fringilla', 'perekonda fringilla'];Kuhu kuuluvad näiteks
+technique;['gemini programm', 'gemini', 'kaksikud programmi'];USA kosmoseaparaatide seeria.
+temporal-region;['juura', 'juura ajastu', 'jurassic jooksul', 'juura-aegne'];Mis vastab ajavahemikule 199... 145 miljonit aastat tagasi.
+temporal-region;['aeg', 'aega', 'aja jooksul', 'ajakava', 'sündmuste jada'];Samuti varasema ja hilisema eristamise alus.

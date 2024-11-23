@@ -1,0 +1,83 @@
+activity;['arbeidsløshetstrygd', 'pogey', 'pogy'];Penger som arbeidsledige får fra staten eller fra en forsikring.
+activity;['tale'];Et foredrag, det å snakke foran et publikum om en sak eller ens opplevelser, følelser, ofte i en bestemt hensikt.
+activity;['arbeidsledighetstrygd', 'arbeidsløshetstrygd', 'arbeidsledighetsforsikring', 'dagpenger', 'arbeidsledighet forsikring'];Penger som arbeidsledige får fra staten eller fra en forsikring.
+activity;['valg'];Det å velge noen eller noe.
+activity;['regn', 'regnvær', 'regnvann', 'regnbyge', 'styrtregn', 'nedbør', 'rains', 'rainstorm', 'regn storm'];Nedbør i form av vanndråper med diameter større enn 0,5 millimeter.
+agentive-physical-object;['hval', 'hvalfisk', 'kval'];Stort marint dyr i ordenen Cetecea. kroppen er strømlinjeforma, den brede flate halen brukes til framdrift, og lemmene brukes til å balansere.
+agentive-physical-object;['katt', 'pus', 'pusekatt', 'tamkatt', 'huskatt', 'felis catus', 'felis silvestris catus', 'kattene', 'kattepus', 'kattunge', 'kjette', 'domestic cat', 'katter', 'sanne katt'];Et vanlig firbeint dyr (Felis silvestris) som ofte holdes som kjæledyr.
+agentive-physical-object;['gulrot', 'daucus carota sativa', 'dyrket gulrot', 'gulrøtter'];En guloransje avlang rotvekst som spises enten rå eller kokt.
+agentive-physical-object;['gnager', 'gnagere', 'enkelttannede gnagere', 'rodentia', 'smågnager', 'smågnagere', 'gnawer'];Navn på pattedyr i ordenen Rodentia.
+agentive-physical-object;['bringebær', 'blå bringebær', 'bringebær bush'];Lite og spiselig bær fra plantearten Rubus idaeus.
+agentive-physical-object;['kalv'];Ungt fe.
+amount-of-matter;['salt', 'salter', 'ionisk salt', 'kalium salt', 'kaliumsaltet'];Produktet i en reaksjon der et metall erstatter hydrogenet i en syre.
+biological-object;['hjerte', 'hjertemuskel', 'hjertekammer', 'hjertet', 'hvor mange liter blod pumper hjertet i minuttet', 'hjertekammeret', 'menneskelige hjertet', 'venstre hjerte'];En muskel som pumper blod gjennom kroppen.
+biological-object;['hjernestamme', 'hjernestammen', 'hjerne-stammen'];Hjernens nederste del som forbinder hjernen med ryggmargen. Den består av edulla oblongata, mesencephalon og hjernebroen.
+biological-object;['stein', 'endocarp'];Treskallet som omgir frøemnet i noen frukter, især steinfrukter.
+functional-matter;['yoghurt', 'jogurt', 'joghurt', 'yogurt', 'tilsatt'];Et syrnet melkeprodukt.
+functional-matter;['is', 'naturis', 'is høsting'];Det faste stoffet som dannes når vann fryser. Forekommer ofte i form av sekskantede iskrystaller.
+functional-matter;['iskrem', 'is', 'is krem', 'italiensk is'];Mat som inneholder hovedsakelig fryst fløte, melk eller vann/saft.
+functional-matter;['stein', 'bergart', 'bergarter', 'bergartssekvens', 'sten', 'rock', 'steiner'];Små uregelmessige stykker av forskjellige mineraler, ca. 20-200 mm i diameter
+functional-matter;['is', 'naturis', 'is høsting'];Det faste stoffet som dannes når vann fryser. Forekommer ofte i form av sekskantede iskrystaller.
+geographical-object;['svartehavet', 'sortehavet', 'svartehavskysten', 'svarthavet', 'euxine sea', 'svart sea'];Et innlandshav mellom Sørøst-Europa og Anatolia.
+language;['jiddisch', 'jiddisk', 'jiddisch språk', 'jiddish', 'jiddisk språk', 'yiddisch', 'yiddish', 'yiddisk'];Et germansk språk som snakkes av tre til fire millioner mennesker verden over, primært askenasiske jøder.
+language;['urindoeuropeisk', 'protoindoeuropeisk', 'proto-indoeuropeisk språk', 'proto-indoeuropeisk', 'ur-indoeuropeisk', 'urindoeuropeisk språk', 'proto-indo european'];Et hypotetisk språk som er felles opphav for de indoeuropeiske språkene.
+language;['norsk', 'norsk språk', 'no', 'det norske språk', 'norsk sprog', 'samnorsk'];Et nordisk språk som snakkes i Norge.
+language;['dansk', 'da', 'dan', 'dansk sprog', 'dansk språk', 'danske språket'];Et nordgermansk språk som hovedsakelig snakkes i Danmark.
+language;['svensk', 'svensk språk', 'svenska', 'svenske', 'svenske språket'];Et nordisk språk som hovedsakelig snakkes i Sverige og deler av Finland.
+language;['esperanto'];Et internasjonalt planspråk snakket verden over, grunnlagt av L. L. Zamenhof.
+language;['rumensk', 'romensk', 'rumensk språk', 'rumenske språk'];Et romansk språk som hovedsakelig snakkes i Romania, Moldova og Vojvodina.
+language;['afrikaans', 'oranjerivier-afrikaans', 'østgrense-afrikaans', 'afrikans', 'afrikaans språk', 'sørafrikanske dutch', 'taal'];Et vestgermansk språk, snakket hovedsaklig i Sør-Afrika og Namibia.
+language;['nynorsk', 'landsmål', 'landsmålet', 'nynorsken', 'landsmaal', 'landsmal', 'ny norsk', 'nynorsk språk'];Et av to offisielle norske skriftspråk, bygd på dialekter. Det andre er bokmål.
+language;['riksmål', 'bokmål', 'riksmaal'];Et av to offisielle norske skriftspråk, bygd på dansk. Det andre er nynorsk.
+language;['koreansk', 'koreansk språk', 'koreanske språket'];Et språk som hovedsakelig snakkes i Nord- og Sør-Korea.
+language;['hebraisk', 'hebraiske', 'hebr.', 'hebraisk språk', 'hebreisk språk', 'ivrit', 'moderne hebraisk', 'עִבְרִית', 'עברית'];Et semittisk språk som brukes hovedsakelig av jøder i Israel og andre steder i verden.
+language;['amerikansk-engelsk', 'engelsk', 'amerikansk engelsk', 'ame', 'ameng', 'amerikanskengelsk', 'american english', 'amerikansk språk', 'english'];Et vestgermansk språk som stammer fra England som nå snakkes i hele Storbritannia, Det britiske samveldet, USA og andre deler av verden.
+language;['indoeuropeisk', 'indoeuropeiske språk', 'indo-europeisk', 'indo-europeisk språk', 'indo-europeiske', 'indo-europeiske språk', 'indoeuropeisk språk', 'indoeuropeiske', 'indoeuropeiske sprog', 'indogermansk', 'indogermansk språk', 'indogermanske språk', 'den språkfamilien', 'indo-hettittisk'];En større språkfamilie som inkluderer mange av språkene fra Europa til India, med viktige indiske, iranske og europeiske underfamilier.
+language;['gresk', 'gresk språk', 'greske språk', 'græsk', 'moderne gresk', 'greske språket', 'hellenic', 'hellenic språk'];Et indoeuropeisk språk som hovedsakelig snakkes i Hellas og på Kypros.
+language;['albansk', 'albansk språk', 'albanske språket'];Et indoeuropeisk språk som snakkes i Albania, Kosovo, Hellas, Serbia, Montenegro og Makedonia.
+language;['armensk', 'armensk språk', 'armenske språk'];Et indoeuropeisk språk snakket av armenere.
+language;['khmer', 'khmer-språk', 'khmer språk', 'khmerspråk', 'khmer språket'];Et språk som snakkes i Kambodsja og Vietnam.
+language;['estisk', 'estlandsk', 'estisk språk', 'esthonian', 'estonian'];Et finsk-ugrisk språk som hovedsakelig snakkes i Estland.
+language;['finsk', 'finsk sprog', 'finsk språk', 'finsktalende'];Et finsk-ugrisk språk som hovedsakelig snakkes i Finland.
+language;['latvisk', 'latvisk språk', 'lettisk', 'latviske'];Et baltisk språk som hovedsakelig tales i Latvia.
+language;['spansk', 'kastiljansk språk', 'kastiliansk', 'kastiljansk', 'spansk språk', 'spansk-språklige', 'spanske språket'];Et romansk språk som hovedsaklig blir snakket i Spania, Latin-Amerika og i Karibia.
+language;['arabisk', 'arabisk språk', 'arabersk', 'arabersk språk', 'arabisk-språklige'];Semittisk språk som tales i det meste av Nord-Afrika, den arabiske halvøy og Midtøsten, og som islams liturgiske språk.
+language;['polsk', 'polsk språk'];Et vestslavisk språk som hovedsakelig snakkes i Polen.
+language;['hviterussisk', 'kviterussisk', 'hviterussisk språk', 'kviterussisk språk'];Et østslavisk språk som hovedsakelig snakkes i Hviterussland.
+language;['ukrainsk', 'ukrainsk språk', 'ukrainske', 'ukrainske språket'];Et østslavisk språk som hovedsakelig snakkes i Ukraina.
+language;['russisk', 'russisk språk', 'русский', 'russiske språket', 'russiskspråklige'];Et østslavisk språk som hovedsakelig snakkes i Russland og de tidligere sovjetrepublikkene.
+language;['tysk', 'høytysk', 'tysk språk', 'det tyske språk', 'høgtysk', 'høytysk språk', 'høytyske språk', 'oldhøytysk', 'tyske', 'tyske språk', 'tyskspråklig', 'germanophone', 'high tyske språk', 'høy tysk', 'tysk-talende', 'tyskspråklige'];Et indoeuropeisk språk hovedsaklig snakket i Tyskland, Austerrike, Liechtenstein, Sør-Tyrol, Sveits og en liten del av Belgia.
+language;['nederlandsk', 'hollandsk', 'hollansk', 'nederlandsk språk', 'nederlansk språk', 'nederlands', 'nederlandske språket'];Et vest-germansk språk snakket hovedsaklig i Nederland, Flandern og Surinam.
+non-agentive-physical-object;['vei', 'veg', 'rute', 'landevei', 'veier', 'vegforbindelse', 'veibygging', 'veien'];Smal strekning med hard bakke, hvor man kjører fra ett sted til ett annet.
+non-agentive-physical-object;['reagensrør', 'reagensglass', 'prøverør'];Et glassrør som er avrundet i den ene enden og åpen i det andre. Brukes i laboratoriet.
+non-agentive-physical-object;['ørering', 'øredobb', 'øredobbe', 'øre-piercing', 'øredobber'];Smykke til å ha i ørene.
+phenomenon;['fordøyelse', 'fordøyelsen', 'ekstracellulær fordøyelse', 'fordøyelseskanal', 'intracellulær fordøyelse'];Bearbeidelse av mat i magesekken og tarmene til stoffer som kroppen kan nyttegjøre seg.
+phenomenon;['regn', 'regnvær', 'regnvann', 'regnbyge', 'styrtregn', 'nedbør', 'rains', 'rainstorm', 'regn storm'];Nedbør i form av vanndråper med diameter større enn 0,5 millimeter.
+physical-object;['bil', 'karet', 'slede', 'vogn', 'øse', 'automobil', 'auto', 'bilen', 'biler', 'motorcar'];Et motorkjøretøy med fire hjul brukt til landtransport.
+political-geographic-object;['australia', 'australier', 'commonwealth of australia', 'australiere', 'australsk', 'australske'];En person fra Australia.
+political-geographic-object;['australia', 'australier', 'commonwealth of australia', 'australiere', 'australsk', 'australske'];Det største landet i Oseania, med Canberra som hovedstad.
+political-geographic-object;['polen', 'polska', 'pol', 'poland', 'republikken polen'];Et land i Europa.
+political-geographic-object;['sverige', 'kongeriket sverige', 'svearike', 'sveavelde', 'svenske', 'sør-sverige'];Et land i Nord-Europa, og del av Skandinavia.
+political-geographic-object;['finland', 'republikken finland', 'fennia', 'fin', 'finlendar', 'finlender', 'finlending', 'finnland', 'suomi'];Et land i Norden som grenser til Sverige, Norge og Russland.
+practice;['våpenhvile', 'våpenstillstand', 'stans i kamphandlingene'];Forlik om midlertidig opphør av krigshandlinger for partene i en krig
+quality;['rød', 'rødfarget', 'rødt', 'raud'];Fargen en får om en tar grønt og blått bort fra hvitt. En primærfarge i det additive fargesystemet, og en sekundærfarge i det subtrahive fargesystemet. Det er komplementærfargen til turkis.
+region;['atomnummer', 'atom tall', 'proton nummer'];Antall protoner i en atomkjerne.
+region;['lunasjon', 'måne', 'måned', 'lunation', 'synodisk måned', 'draconic måned', 'lunar måned', 'lunar måneden'];En måned ifølge månen, ca. 28 dager.
+relevant-part;['stein', 'endocarp'];Treskallet som omgir frøemnet i noen frukter, især steinfrukter.
+situation;['definisjon', 'definere', 'definisjoner'];En konsis forklaring av betydningen til et ord, en frase eller et symbol.
+situation;['hodepine', 'cephalalgia', 'cefalalgia', 'ekstrakraniell hodepine', 'hodepiner', 'ishodepine', 'iskrem-hodepine', 'iskremhodepine', 'kefalalgi', 'primær hodepine', 'primærhodepiner', 'sekundærhodepine'];En vanlig og ofte plutselig smerte i hodet eller der omkring.
+socially-constructed-person;['dronning', 'majestet', 'dronningen', 'norges dronning', 'dronning regnant', 'keiserinne regnant', 'kvinnelige monark'];En kvinnelig monark.
+socially-constructed-person;['kone', 'hustru', 'ektehustru', 'frue', 'viv', 'ekteviv', 'gift kvinne', 'koner'];En gift kvinne.
+socially-constructed-person;['baskisk', 'euskara', 'euskera'];Et språk som hovedsakelig snakkes i Baskerland.
+socially-constructed-person;['bulgarere', 'bulgarsk', 'bulgarene', 'bulgarer'];Et sørslavisk språk som hovedsaklig blir snakket i Bulgaria.
+socially-constructed-person;['tysker'];Person av tysk nasjonalitet.
+socially-constructed-person;['japansk', 'japansk-språklig', 'japanske språket', 'nipponese'];Et språk som hovedsakelig brukes i Japan.
+socially-constructed-person;['barnepike', 'barnepasser', 'pleier', 'pleierske', 'sykepleier', 'sykepleierske', 'sykesøster', 'søster', 'nanny', 'dagmamma'];En person som passer på andre personers barn.
+socially-constructed-person;['jente', 'pike', 'jenter', 'fille', 'missy', 'ung dame', 'ung kvinne'];En ung person av hunkjønn, vanligvis et barn eller en tenåring.
+socially-constructed-person;['dronning', 'dronning-consort', 'dronninger consort', 'empress consort', 'gemalinne', 'queen consort'];En konges hustru.
+socially-constructed-person;['dronning'];En konges hustru.
+spatial-feature;['bre', 'isbre', 'isbreer', 'botnbre', 'dalbre', 'jøkel', 'platåbre', 'breen', 'breis', 'glacial trau'];Store ismasser som har samlet seg i fjell- eller polområdene og som beveger seg langsomt nedover.
+taxonomic-collection;['adjektiv', 'eigenskapsord', 'tilleggsord', 'adjektiver', 'adj.', 'adjectival form', 'attributive adjektiv', 'predikat adjektiv'];et ord som endrer eller beskriver et substantiv eller pronomen
+taxonomic-collective;['fisk', 'pisces', 'fiskearter', 'ichthyofauna', 'marin fisk'];Et kaldblodig virveldyr som lever i vann, beveger seg med hjelp av finner og puster med gjeller. (Pisces).
+technique;['kreativitet', 'skaperevne', 'kreativ', 'kreativ tenkning', 'creativeness', 'kreative prosessen'];En persons mulighet til å skape eller finne opp noe.
+temporal-region;['jul', '25. desember', 'første juledag', 'juledagen', 'kristi fødselsfest', 'femogtyvende desember', 'gisladag', 'julen', 'tjuendedagen', 'juledag', 'xmas', '25 desember'];Høytid som feirer fødselen til Jesus.

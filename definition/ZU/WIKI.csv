@@ -1,0 +1,335 @@
+activity;['umbhoxo'];Umbhoxo/iRaghbi uhlobo lomdlalo othi awufani nomdlalo webhola lezinyawo.
+activity;['imfundo yabadala'];Imfundo yabadala yinqubo lapho khona abantu abadala bengenela khona imisebenzi eqhubekayo yokuzifundisa ukuze bathole ulwazi olusha, amakhono, imibono noma ama-value.
+activity;['ibhola'];Ibhola, noma ibhola likanobhutshuzwayo, lingumdlalo.
+activity;['ikhilikithi'];iKhilikithi ngumdlalo.
+activity;['ubuciko bomlomo'];Ubuciko bomlomo yinkulumo enobuchwepheshe noma eyingxoxo eyedluliselwa ezizukulwaneni ngezizukulwane ngomlomo, isibonelo izithakazelo,izibongo, izinganekwane njjl.
+activity;['imfundo', 'education'];Imfundo inqubo lula yokufunda.
+activity;['ukuhlolwa kwesifo', 'ukubhekwa kwesifo'];Ukuhlolwa kwesifo kusho ukuthola ukuthi yisiphi isifo esihambiselana nezimpawu ezitholakala esigulini.
+activity;['itiye'];Itiye isiphuzo.
+activity;['imfundo', 'education'];Imfundo inqubo lula yokufunda.
+agentive-figure;['isayiklopsi'];Isayiklopsi umdondoshiya onehlo elilodwa.
+agentive-figure;['isonto'];Isonto indawo lapho amakholwa eyakhona uma edumisa uNkulunkulu.
+agentive-figure;['ibhange womhlaba'];iBhange woMhlaba.
+agentive-physical-object;['ilaptop'];Upheqe waziwa kakhulu njengomathangeni.
+agentive-physical-object;['isilwane', 'izilwane', 'animalia'];iziLwane ezitholakala eNingizimu Afrika yilezi : Indlovu Ibhubesi or Ingonyama Ingwe /Isilo Inyathi Ubhejane Umkhombe Ikhanka / Impungushe Inkentshane Impisi Ingulule Indlonzi/ndlozi/hlosi Impala Inyala Imbokodo Insimba Insele Unogolantethe Ingungumbane Isambane Isidla-izintuthwane Ivondwe Uchakide Ingulube yehlathi Unogwaja Intibane Idube Indlulamithi Imboma or Imvubu Ingwenya Inkawu Insimango Imfene Intulo Imbila Inkonkoni Inqe Inhlwathi Ibululu Ihlengethwa Iselesele nezinye eziningi.
+agentive-physical-object;['ikhompyutha', 'ikhompiyutha'];Ikhompiyutha yinto esiza kakhulu ezimpilweni zethu, yenza impilo ibe lula.
+agentive-physical-object;['inja', 'canis lupus familiaris'];Inja (noma Inja enkulu) isilwane.
+agentive-physical-object;['umuthi'];iBhukina Faso izwe eAfrika.
+agentive-physical-object;['pinnipedia'];Izilwane ezinezinyawo-izigwedlo (isiRoma: Pinnipedia)
+agentive-physical-object;['inyamazane yase-athiki', 'rangifer tarandus'];Inyamazane yase-Athiki (noma IKaribhuu. isiSayensi: Rangifer tarandus) uhlobo wenyamazane.
+agentive-physical-object;['inyamazane', 'cervidae'];Umndeni wezinyamazane (isiRoma: Cervidae).
+agentive-physical-object;['impisi'];Impisi yisilwane esifananenja futhi esinamabala esiyingxenye yezilwane ezincelisayo sase-Afrika.
+agentive-physical-object;['i-lansium parasiticum'];I-Lansium parasiticum, eyaziwa kakhulu ngesiNgisi ngokuthi i-langsat noma i-lanzones, iyisihlahla somuthi emndenini wakwaMahogany ngezithelo ezidliwayo ezidayiswayo.
+agentive-physical-object;['iwalerosi', 'odobenus rosmarus'];Iwalerosi (IsiLatini: Odobenus rosmarus) liyisilwane esincelisayo esihlala e-Athiki.
+agentive-physical-object;['ikati', 'felis silvestris catus', 'felis catus'];Ikati noma ingobe.
+agentive-physical-object;['indlovu', 'elephantidae'];Izindlovu ziyizilwane ezincelisayo ezihlala e-Afrika ne-Eshiya.
+agentive-physical-object;['amadumbe'];Amadumbe ayisitshalo esishisayo.
+agentive-physical-object;['indluzele'];Indluzele (isiSayensi: Alcephalus buselaphus) isilwane somndeni wezinkomo.
+agentive-physical-object;['impalampala'];Impalampala (isiSayensi: Hippotragus niger) uhlobo wenkomo.
+agentive-physical-object;['ibhubesi', 'imbube', 'ingonyama', 'panthera leo'];Ibhubesi (noma imbube noma ingonyama noma isilo) uhlobo lwehlosi.
+agentive-physical-object;['i-eliki', 'alces alces'];I-eliki (Alces alces) uhlobo wenyamazane.
+agentive-physical-object;['umkhombe', 'ubhejane', 'umduzu', 'umkhombo'];Isingeniso: Kukhona izinhlobo ezimbili zobhejane eNingizimu Afrika, umkhombe nobhejane omnyama.
+agentive-physical-object;['idwi elijwayelekilea', 'xenopus laevis'];Idwi elijwayelekilea yiselesele.
+agentive-physical-object;['iphengwini', 'penguin'];Iphengwini wuhlobo lenyoni ese-Antatika.
+agentive-physical-object;['umsinsi', 'erythrina lysistemon'];uMsinsi e yomthi wase Ningizimu Afrika.
+agentive-physical-object;['ixoxo', 'bufonidae'];Ixoxo yiselesele.
+agentive-physical-object;['imfinyezi'];Izimfinyezi ziyizilwane ezincelisayo ezihlala e-Afrika ne-Eshiya.
+agentive-physical-object;['imvu', 'ovis aries', 'izimvu'];Imvu (isiSayensi: Ovis aries) isilwane sasomndeni wezinkomo.
+amount-of-matter;['ikhofi'];Ikhofi iyiphuzo.
+amount-of-matter;['amanzi', 'h₂o'];Amanzi iyinto ebalulekile emhlabeni.
+amount-of-matter;['umthofu', 'cu'];Umthofu uwucingo oluthambile.Lolu cingo lusetshenziswa ezindaweni eziningi, ikakhulukazi emakhaya lapho kwenziwa khona izinto ezahlukahlukene, ezakhiwe ngocingo, njengezimoto zocingo, kanye namabhodo uma sekwenziwa izibambo zawo.
+amount-of-matter;['isiliva', 'ag'];Isiliva liyinsimbi etholakala ngaphansi komhlaba.
+amount-of-matter;['igolide'];Igolide liyinsimbi.
+amount-of-matter;['ubisi'];Ubisi into esamanzi akhiqizwa ngama-mammary glands atholakala ezilwaneni ezingama-mammals.
+amount-of-matter;['ibhulonze'];Ibhulonze linginsimbi.
+amount-of-matter;['ubisi'];Ubisi into esamanzi akhiqizwa ngama-mammary glands atholakala ezilwaneni ezingama-mammals.
+biological-object;['ihhabhula', 'iapula'];Ihhabhula iyisithelo.
+cognitive-event;['amaphupho'];Ukuchaza amaphupho kuyingxenye esemqoka osikweni lwamaZulu.
+course;['ubhubhane'];Ubhubhane igama elisuselwa esiGrikhini, lichaza ukuqubuka kwesifo esithelelanayo esesihambe amazwe ahlukene nezindawo ezahlukene.
+functional-matter;['ikhofi'];Ikhofi iyiphuzo.
+functional-matter;['umthofu', 'cu'];Umthofu uwucingo oluthambile.Lolu cingo lusetshenziswa ezindaweni eziningi, ikakhulukazi emakhaya lapho kwenziwa khona izinto ezahlukahlukene, ezakhiwe ngocingo, njengezimoto zocingo, kanye namabhodo uma sekwenziwa izibambo zawo.
+functional-matter;['isiliva', 'ag'];Isiliva liyinsimbi etholakala ngaphansi komhlaba.
+functional-matter;['ushizi'];Ushizi ukudla ukwenziwe kususelwa obisini.
+functional-matter;['ikhambi lokugoma'];Ikhambi lokugoma ikhambi elinyusa amandla wamasosha omzimba ukuze ezolwa nasifo thizeni.
+functional-matter;['ubisi'];Ubisi into esamanzi akhiqizwa ngama-mammary glands atholakala ezilwaneni ezingama-mammals.
+functional-matter;['izambane', 'solanum tuberosum'];Izambane uhlobo lomfino omila phansi komhlabathi.
+functional-matter;['iqhwa'];Iqhwa lingimvelo.
+functional-matter;['imifino'];Imifino uhlobo lwezitshalo ezimila engadini.
+functional-matter;['mayonezi', 'mayonnaise'];Imayonnaise noma Mayo awugqinsi ukudla isosi.
+functional-matter;['isinkwa'];Isinkwa ukudla okuyisisekelo okulungiselelwe kusukela enhlama eyenziwe ngofulawa namanzi, ngokuvamile ngokubhaka.
+functional-matter;['ihhabhula', 'iapula'];Ihhabhula iyisithelo.
+functional-matter;['ubisi'];Ubisi into esamanzi akhiqizwa ngama-mammary glands atholakala ezilwaneni ezingama-mammals.
+functional-matter;['amaqanda'];Amaqanda ngesilungu bathi "eggs".
+functional-matter;['iqhwa'];Iqhwa lingimvelo.
+geographical-object;['imelika eningizimu'];IMelika Eningizimu lizwekazi.
+geographical-object;['ulwandle'];Ulwandle inkimbinkimbi yamazi anosawoti azungeze umhlaba, ewuhlukanisa iziqhingi ezinkulu nezincane ezibizwa ngamazwekazi, amazwe neziqhingi.
+geographical-object;['iziqhingi ikhaneli', 'icanary islands'];Isiqhingi sase Khanali ezwenikazi laseAfrika.
+geographical-object;['iziqhingi wefalkland', 'i-falkland islands'];Iziqhingi weFalkland izwe Umbuso Ohlangeneyo eMelika Eningizimu.
+geographical-object;['i-osheaniya', 'iosheaniya'];I-Osheaniya lizwekazi.
+geographical-object;['impophoma', 'fervenza'];Impophoma lingimvelo.
+geographical-object;['i-antatika', 'i-antaktika', 'i-antarctica', 'iantaktika'];i-Antaktika lizwekazi.
+geographical-object;['umfula thames'];Thames singumfula eLondon eNgilandi.
+information-object;['ukuhumusha'];Ukuhumusha ngenye yezindlela ezindala zokwenza abantu abakhuluma izilimi ezingefani bezwe noma bafunde umbhalo bathole umqondo ofanayo.Ubufakazi bokuthi ukuhumusha ngenye yezindlela zokwenza ukuxhumana kube lula phakathi kwabantu abakhuluma izilimi ezingafani ibhayibheli.
+information-realization;['isichazamazwi', 'isichazimazwi'];Isichazamazwi yincwadi ebalulekile ngempela emphakathini ngoba iyona esiza intsha ukuthi ingalahlekelwa ulimi lwayo.
+information-realization;['inkondlo yesizwe'];Inkondlo yesizwe iyiculo ukuhuba esehlakalo webukhulu yesizwe.
+information-realization;['umculo'];Umcuko lingubuciko.
+information-realization;['the star-spangled banner'];The Star-Spangled Banner iyinkondlo wesize weMelika.
+information-realization;['ibhayibheli'];Genesise
+language;['isi-icelandic'];Isi-Iceland ulimi olukhulunywa e-Iceland.
+language;['isiswidishi', 'isiswidi'];IsiSwidishi singulimi weSwidi.
+language;['isi-esperanto', 'esperanto', 'i-esperanto'];Esperanto kuyinto ulimi international.
+language;['isingisi'];IsiNgisi (English) singulimi.
+language;['isibhunu', 'isafrikansi', 'afrikaans'];IsiBhunu (Afrikaans) singulimi saseNingizimu Afrika neNamibhiya.
+language;['ilatin'];iLatin singulimi.
+language;['isishayina'];IsiShayina singulimi weShayina.
+language;['ngolimi lwezandla', 'ngolimi iwezandla'];A lwezandla siwulimi esebenzisa Ukukhulumisana manual kanye komzimba ukuze adlulisele incazelo, ubone acoustically wadlulisela amaphethini sound.
+language;['isihebheru'];IsiHebheru (עִבְרִית, Ivrit) singulimi lwase-Israyeli.
+language;['isi-indonesia'];Isi-Indonesia ulimi olukhulunywa e-Indonesia.
+language;['isitswana', 'tswana'];isiTswana singulimi lwasoTswana neNingizimu Afrika.
+language;['isigreki'];IsiGreki singulimi waseGreki
+language;['isitsherokii'];IsiTsherokii (ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ, Tsalagi Gawonihisdi) singulimi lwaseKarolina laseNyakatho ne-Oklahoma.
+language;['isiosithani'];Isi-Osithani (isi-Osithani: Occitan, Lenga d'òc) singulimi lwaseFulansi, ne Speyini, neTaliya, neMonako.
+language;['isihawayi'];IsiHawayi (ʻŌlelo Hawaiʻi) singulimi lwaseHawayi.
+language;['isilatviya'];IsiLatviya singulimi weLatviya.
+language;['isispeyini', 'isispanish'];IsiSpeyini singulimi weSpeyini.
+language;['isipholisi'];IsiPholisi (Polszczyzna) kuyinto isiSlaviki singulimi lwasePolandi.
+language;['isitsheki', 'isi-czech'];IsiTsheki (Čeština) singulimi lwaseTsheki.
+language;['isirashiya'];IsiRashiya (Русский) singulimi lwaseRashiya.
+language;['isijalimani'];IsiJalimani singulimi seJalimani.
+language;['isiholandi', 'isi-dutch'];IsiHolandi (Nederlands) singulimi lwaseHolandi.
+locative-role;['mwami, zimbabwe'];IMwami yisigodi esikwisifundazwe se Mashonaland West, eZimbabwe.
+locative-role;['edirne'];Edirne, ngokomlando eyaziwa ngokuthi i-Adrianople, ungumuzi osenyakatho-ntshonalanga Theki Isifundazwe sase-Edirne esifundeni se i-East Thrace, eduze komngcele weTurkey imingcele neGreki ​​kanye iBulgariya.
+locative-role;['ihochiminh'];Idoloba likaHo Chi Minh (isiViyetnami: Thành phố Hồ Chí Minh) inhlokodolobha yaseViyetnami.
+locative-role;['brighton'];Brighton iyidolobha eNgilandi.
+locative-role;['iserbiya', 'i-serbia', 'србија'];iSerbiya (Србија) iyizwe eYurobhu.
+locative-role;['soweto'];ISoweto yidolobha elikwisifundazwe sase Gauteng, eNingizimu Afrika.
+locative-role;['mombasa'];IMombasa yidolobhakazi elikwisifundazwe se Mombasa, eKhenya
+locative-role;['ilithuwaniya'];ILithuwaniya (Lietuva, Lietuvos Respublika) izwe laseYurophu.
+locative-role;['idolobha'];Idolobha = town or city
+locative-role;['indawo yesikhathi', 'isikhathi sendawo'];Isikhathi sendawo yisikhathi esitshenziswa ngamazwe ahlukene emhlabeni wonke jikelele.
+locative-role;['chicago'];Chicago iyidolobha eIllinois.
+locative-role;['iwelisi'];IWelisi izwe Umbuso Ohlangeneyo laseYurophu.
+locative-role;['rotterdam'];Rotterdam ( /ˈrɒtərdæm/. isiHolandi [ˌrɔ.tər.ˈdɑm] ( listen)) iyidolobha ikhulu e-Netherlands futhi iyitheku ikhulu.
+locative-role;['rio de janeiro'];Rio de Janeiro iyisiqongo Rio de Janeiro (isifunda weBrazili).
+locative-role;['new york'];New York iyidolobha elisesifundeni saseNew York.
+locative-role;['imelika wenkaba', 'emelika wenkaba'];IMelika Wenkaba uqukatha Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, no-Panama.
+locative-role;['ikapa', 'ekapa'];IKapa yidolobhakazi elikwisifundazwe se Ntshonalanga Kapa, eNingizimu Afrika.
+non-agentive-physical-object;['isikipa'];I Isikipa iqanjwe ngenxa yesimo sayo T. Ngokwesiko inemikhono emifushane nentambo eyindilinga, eyaziwa ngokuthi yintamo yabasebenzi, engenayo ikholaji.
+physical-body;['inyanga'];Inyanga ngumzimba amafu.
+physical-body;['umerkuriyu'];UMerkuriyu ingeplanethi yokuqala ovela Elangeni.
+physical-object;['icilongo'];Icilongo lingubuciko.
+physical-object;['isikipa'];I Isikipa iqanjwe ngenxa yesimo sayo T. Ngokwesiko inemikhono emifushane nentambo eyindilinga, eyaziwa ngokuthi yintamo yabasebenzi, engenayo ikholaji.
+physical-object;['isizindalwazi sokuxhumana somhlaba jikelele'];Isizindalwazi sokuxhumana somhlaba jikelele phecelezi i-"World Wide Web" isizinda solwazi lapho kugcinwe khona amakhasi anolwazi phakathi kuhleloxhumano lomhlaba okanye i-intanethi.
+physical-object;['umakhalekhukhwini', 'i-cell', 'icell', 'iselula'];Umakhalekhukhwini ucingo oluncane olungenazo izintambo njengalolu lwasendlini.
+physical-object;['izinkundla', 'inkundla'];Inkundla yilapho kubanjelwa khona imidalo ehlukile, lapho uthola abalandeli abathanda eqembu elithize behlezi kwindawo lapho iqembu labo likora khona.
+physical-object;['isigubhu'];Isigubhu lingubuciko.
+physical-object;['imoto'];Imoto iyinto eyenziwe ukuze kubelula ukufinyelela ezindaweni ezahlukakhukene, ngokushesha.
+physical-object;['ipiyano'];iPiyano lingubuciko.
+physical-object;['ibhayisikobho'];Ibhayisikobho lingubuciko.
+physical-object;['ngembazo'];Ngembazo ucezu ekhethekile ithuluzi esandleni ngokujwayelekile ukugawula izihlahla noma izingodo, efana a pickaxe.
+physical-object;['isihlanzandaba'];Isihlanzandaba noma isikhahlamezi Umshini ocishe ufane nocingo olushaywayo kodwa lona luyaloba incwadi ewumbiko.
+political-geographic-object;['mwami, zimbabwe'];IMwami yisigodi esikwisifundazwe se Mashonaland West, eZimbabwe.
+political-geographic-object;['edirne'];Edirne, ngokomlando eyaziwa ngokuthi i-Adrianople, ungumuzi osenyakatho-ntshonalanga Theki Isifundazwe sase-Edirne esifundeni se i-East Thrace, eduze komngcele weTurkey imingcele neGreki ​​kanye iBulgariya.
+political-geographic-object;['ihochiminh'];Idoloba likaHo Chi Minh (isiViyetnami: Thành phố Hồ Chí Minh) inhlokodolobha yaseViyetnami.
+political-geographic-object;['brighton'];Brighton iyidolobha eNgilandi.
+political-geographic-object;['inoki', 'i-norway', 'inorweyi', 'noreg', 'norge'];INoki au INorweyi (isiNoki: Norge, Noreg) izwe ini iYurophu.
+political-geographic-object;['netherlands', 'i-netherlands'];Ama-Netherlands (/ˈnɛðərləndz/. Dutch: Nederland [ˈneːdə(r)lɑnt] or [ˈneɪ̯də(r)lɑnt] ( listen). West Frisian: Nederlân. Papiamento: Hulanda) iyizwe e-Umbuso wama-Netherlands, eYurobhu Entshonalanga nenyakatho neziqhingi eCaribbean.
+political-geographic-object;['osotho', 'i-lesotho'];oSotho izwe eAfrika.
+political-geographic-object;['ijapani', 'ijaphani', 'i-japan', 'japani', 'japhani'];IJaphani iyizwe e-Eshiya.
+political-geographic-object;['central african republic', 'i-central african republic'];Central African Republic izwe eAfrika.
+political-geographic-object;['ijibuthi', 'ijibhuthi', 'i-djibouti', 'djibouti', 'ejibhuthi', 'ijibouti', 'jibhuthi'];leli khasi limayelana nezwe, uma ufuna elimayelana nedolobha bheka la Djibouti.IJibhuthi yizwe lase Afrika.
+political-geographic-object;['inamibhiya', 'i-namibia'];INamibhiya (isiNgisi: Namibia) linguzwe lase-Afrika.
+political-geographic-object;['imoritaniya', 'i-mauritania'];iMoritaniya izwe eAfrika.
+political-geographic-object;['belize', 'i-belize'];Belize iyizwe eMelika Wenkaba.
+political-geographic-object;['igini enkabazwe', 'inkabazwe gini', 'i-equatorial guinea', 'equatorial guinea'];INkabazwe Gini yizwe lase Afrika.
+political-geographic-object;['isikhomorosi', 'i-comoros'];isiKhomorosi izwe eAfrika.
+political-geographic-object;['ingilandi', 'engilandi', 'ngilandi'];INgilandi (isiNgisi: England) izwe laseYurophu.
+political-geographic-object;['imorokho', 'i-morocco', 'morocco'];IMorokho
+political-geographic-object;['umbuso ohlangeneyo', 'i-united kingdom', 'ombuso ohlangeneyo', 'wombuso ohlangeneyo'];Umbuso Ohlangeneyo (isiNgisi: United Kingdom) izwe laseYurophu.
+political-geographic-object;['ispeyini', 'i-spain', 'ispaniya', 'ispayini'];iSpeyni yizwe laseYurophu.
+political-geographic-object;['itshedi', 'i-chad'];iTshedi izwe eAfrika.
+political-geographic-object;['iyuganda', 'i-uganda', 'eyuganda', 'uganda', 'yuganda'];IYuganda yizwe lase Afrika.
+political-geographic-object;['ibelarusi', 'i-belarus'];IBelarusi (IsiBelarusi: Беларусь, IsiRashiya: Беларусь) izwe eYurophu.
+political-geographic-object;['imalawi', 'i-malawi', 'malawi'];iMalawi izwe eAfrika.
+political-geographic-object;['izimbabwe', 'i-zimbabwe', 'ezimbabwe', 'zimbabwe'];IZimbabwe yizwe elise-Afrika eNingizimu lingumakhelwane neNingizimu Afrika, iButswana iZambiya kanye neMozambiki.
+political-geographic-object;['azerbaijan', 'i-azerbaijan'];==== azerbaijans bxjhcnerbdhjcnhfnd jadkjfkkeijmzaenaaak kiidjiezz iejurkao, koijeijjejejej jcjuheunnjark ====
+political-geographic-object;['imali', 'i-mali', 'malí'];iMali izwe eAfrika.
+political-geographic-object;['soweto'];ISoweto yidolobha elikwisifundazwe sase Gauteng, eNingizimu Afrika.
+political-geographic-object;['new jersey'];New Jersey iyisifunda eMelika.
+political-geographic-object;['eswatini', 'i-swaziland', 'iswazilandi', 'iswazi', 'iswaziland'];ESwazini yizwe elise-Afrika.
+political-geographic-object;['ipakistani', 'i-pakistan', 'ipakistan'];IPakistani (isi-Urdu: پاکِستان Pakistān) izwe lase-Eshiya.
+political-geographic-object;['bangladesh', 'i-bangladesh'];Bangladesh iyizwe e-Eshiya.
+political-geographic-object;['i-afganistani', 'i-afghanistan', 'i-afganistan'];i-Afganistani izwe lase-Eshiya.
+political-geographic-object;['i-ostriya', 'iaustriyiya', 'i-austria'];I-Ostriya (isiJalimani: Österreich) izwe laseYurophu.
+political-geographic-object;['i-ostreliya', 'i-australia', 'iaustralia'];I-Ostreliya (noma I-Australiya. isiNgisi: Australia) izwe nezwekazi elikhulu lase-Ostreliya.
+political-geographic-object;['connecticut'];Connecticut iyisifunda eMelika.
+political-geographic-object;['mombasa'];IMombasa yidolobhakazi elikwisifundazwe se Mombasa, eKhenya
+political-geographic-object;['uhlelo lobandlululo', 'apartheid'];Uhlelo lobandlululo, olwaziwa ngolimi lwesiBhunu ngokuthi yi-Apartheid, okuyigama elisho "isimo sokwehlukanisa", kwakuwuhlelo lokwehlukanisa izakhamizi zaseNingizimu Afrika ngokobuhlanga.
+political-geographic-object;['iruwanda', 'i-rwanda', 'eruwanda', 'ruwanda', 'rwanda'];IRuwanda yizwe lase Afrika.
+political-geographic-object;['izambiya', 'i-zambia', 'izambhiya', 'izambia'];Zambia ( /ˈzæmbiə/) iyizwe e-Afrika.
+political-geographic-object;['iriphabliki labantu wekongo', 'ikhongo-kinshasa', 'i-zaire', 'e-congo [drc]', 'zaire', 'congo-kinshasa', 'democratic republic of congo', 'khongo-kinshasa', 'kongo'];IKhongo-Kinshasa yizwe lase Afrika.
+political-geographic-object;['honduras', 'i-honduras'];Honduras iyizwe eMelika Wenkaba.
+political-geographic-object;['guatemala', 'i-guatemala'];Guatemala iyizwe eMelika Wenkaba.
+political-geographic-object;['costa rica', 'i-costa rica', 'crc'];Costa Rica iyizwe eMelika Wenkaba.
+political-geographic-object;['ipolandi', 'i-poland'];IPolandi (isiPholisi: Polska) izwe laseYurophu.
+political-geographic-object;['iburundi', 'i-burundi', 'burundí'];iBurundi iyizwe eAfrika.
+political-geographic-object;['itanzania', 'ithanzaniya', 'i-tanzania', 'tanzania', 'thanzaniya'];IThanzaniya, yizwe lase-Afrika.
+political-geographic-object;['igini', 'i-guinea'];iGini izwe eAfrika.
+political-geographic-object;['isomalia', 'isomaliya', 'i-somalia', 'esomaliya', 'somalia', 'somaliya'];ISomaliya yizwe lase Afrika.
+political-geographic-object;['iviyetnami', 'i-vietnam', 'ivietnami', 'iviyetnamu'];IViyetnami izwe lase-Eshiya.
+political-geographic-object;['ilibiya', 'i-libya'];Libya (Isi-Arabhu: ‏ليبيا‎, isiBerber: ⵍⵉⴱⵢⴰ, Libya) iyizwe elizwekazi i-Afrika.
+political-geographic-object;['ijalimani', 'i-germany'];iJalimani iyisizwe laseYurophu.
+political-geographic-object;['isudan', 'i-sudan', 'sudan'];iSudan izwe eAfrika, eduze neGibhithe, I-Ithiopia, I-Eritrea, iSudan yaseNingizimu, Central African Republic, iTshedi, iLibiya, noLwandle oluBomvu.
+political-geographic-object;['igibhithe', 'gibhithe', 'i-egypt', 'igibhithi'];iGibhithe iyizwe e-Afrika.
+political-geographic-object;['venezuela', 'i-venezuela'];Venezuela iyizwe elizwekazi iMelika Eningizimu.
+political-geographic-object;['ialjiriya', 'i-algeria', 'i-aljiriya', 'i-aljiria'];iAljiriya izwe e-Afrika.
+political-geographic-object;['india', 'indiya', 'i-india'];iNdiya iyizwe e-Eshiya.
+political-geographic-object;['italiya', 'i-italy', 'wetaliya'];iTaliya iyizwe eYurobhu.
+political-geographic-object;['chili', 'itshile', 'i-chile'];ITshile (República de Chile) iyizwe eMelika Eningizimu.
+political-geographic-object;['ibutswana', 'i-botswana', 'botswana', 'butswana', 'ibotswana', 'webutswana'];IButswana yizwe lase Afrika.
+political-geographic-object;['imozambiki', 'i-mozambique', 'imozambikhi', 'mozambiki'];IMozambiki (isiPutukezi: Moçambique) yizwe elise zwenikazi iMozambiki.
+political-geographic-object;['igreki', 'igirisi', 'i-greece', 'igriki', 'igrisi'];IGreki (noma IGriki, noma IGrisi. isiGreki: Ελλάδα Elláda) izwe laseYurophu.
+political-geographic-object;['iyukreyini', 'ukraine'];I-Yukreyini
+political-geographic-object;['imekisiko', 'i-mexico'];IMekisiko iyizwe elizwekazi iMelika Enyakatho.
+political-geographic-object;['i-iraki', 'i-iraq'];I-Iraki iyizwe e-Eshiya.
+political-geographic-object;['igambia', 'i-gambia'];iGambia izwe eAfrika.
+political-geographic-object;['igana', 'i-ghana', 'ighana', 'ighanna'];IGana (isiNgisi: Ghana) izwe sase-Afrika.
+political-geographic-object;['inigeria', 'i-nigeria'];iNigeria iyizwe eAfrika.
+political-geographic-object;['ugu emhlophe', 'i-ivory coast', 'ugu umhlophe'];Ugu Emhlophe iyizwe elizwekazi iAfrika.
+political-geographic-object;['inayighe', 'i-niger', 'níger'];iNayighe izwe eAfrika.
+political-geographic-object;['igaboni', 'igabhoni', 'i-gabon', 'egabhoni', 'gabhoni', 'gabon'];iGabhoni yizwe lase Afrika.
+political-geographic-object;['ikongo', 'iriphabliki wekongo', 'ikhongo-brazzaville', 'e-congo [republic]', 'republic of the congo', 'congo-brazzaville', 'khongo-brazzaville', 'republic of congo'];IKongo yizwe elise Afrika.
+political-geographic-object;['ikongo', 'iriphabliki wekongo', 'ikhongo-brazzaville', 'e-congo [republic]', 'republic of the congo', 'congo-brazzaville', 'khongo-brazzaville', 'republic of congo'];IKhongo-Brazzaville yizwe lase Afrika.
+political-geographic-object;['ikamerooni', 'i-cameroon', 'cameroon', 'icameroon', 'ikameruni'];iKameruni izwe eAfrika.
+political-geographic-object;['igini bisawu', 'i-guinea-bissau'];iGini Bisawu izwe eAfrika.
+political-geographic-object;['isenegal', 'i-senegal'];iSenegal iyizwe eAfrika.
+political-geographic-object;['ifulansi', 'i-france', 'france', 'fulansi', 'iflansi', 'wafulansi'];IFulansi (isiFulentshi: France) izwe laseYurophu.
+political-geographic-object;['i-ayilendi', 'celts', 'i-ayilandi'];i-Ayilendi iyizwe eYurophu.
+political-geographic-object;['imadagasika', 'i-madagascar'];IMadagasika iyizwe elizwekazi i-Afrika.
+political-geographic-object;['el salvador', 'i-el salvador'];El Salvador iyizwe eMelika Wenkaba.
+political-geographic-object;['isiseyisheli', 'i-seychelles', 'iseyisheli'];isiSeyisheli izwe eAfrika.
+political-geographic-object;['iswidi', 'i-sweden'];ISwidi (Sverige) izwe laseYurophu.
+political-geographic-object;['isiqongo'];IsiQongo lidolobha obalulekile.
+political-geographic-object;['i-andora', 'i-andorra'];I-Andora iyizwe eYurobhu.
+political-geographic-object;['vermont'];Vermont iyisifunda eMelika.
+political-geographic-object;['massachusetts'];Massechusetts iyisifunda eMelika.
+political-geographic-object;['florida'];Florida iyisifunda eMelika.
+political-geographic-object;['arizona'];Arizona iyisifunda eMelika.
+political-geographic-object;['virginia'];Virginia iyisifunda eMelika.
+political-geographic-object;['idaho'];Idaho iyisifunda eMelika.
+political-geographic-object;['hawaii'];Hawaii iyisifunda eMelika.
+political-geographic-object;['nevada'];Nevada iyisifunda eMelika.
+political-geographic-object;['california', 'california isifunda'];California iyisifunda eMelika.
+political-geographic-object;['wyoming'];Wyoming iyisifunda eMelika.
+political-geographic-object;['utah'];Utah iyisifunda eMelika.
+political-geographic-object;['colorado'];Colorado iyisifunda eMelika.
+political-geographic-object;['algiers'];Algiers isiqongo e-Aljiriya.
+political-geographic-object;['indolobha yasevathikhani', 'i-vatican city'];Indolobha yaseVathikhani izwe laseYurophu.
+political-geographic-object;['ifiji', 'i-fiji', 'fiji'];iFiji iyizwe e-Osheaniya.
+political-geographic-object;['i-amsterdami', 'amsterdam'];Amsterdam (/ˈæmstərdæm/. isiHolandi [ˌɑms.tər.ˈdɑm] ( listen)) iyidolobha elikhulu nesiqongo weHolandi.
+political-geographic-object;['ikhepi vedhi', 'i-cape verde', 'ikhepi verde'];iKhepi Vehi izwe eAfrika.
+political-geographic-object;['i-ayisilandi', 'i-iceland'];i-Ayisilandi iyizwe eYurophu.
+political-geographic-object;['igaborone', 'gaborone'];IGaborone yisiqongo sezwe lase Butswana futhi yilona dolobha elikhulu kunawo wonke ezweni lase Butswana.
+political-geographic-object;['ipraha'];IPraha isiqongo waseTsheki.
+political-geographic-object;['iyerusalem'];IYerusalem iyisiqongo saseIsreyili.
+political-geographic-object;['iberlini', 'berlin', 'iberlin'];IBerlini isiqongo saseJalimani.
+political-geographic-object;['imbabane', 'mbabane'];IMbabane yidolobha elikhulu kunawo wonke amadolobha asezweni laseSwazini.
+political-geographic-object;['beijing'];Beijing inhlokodolobha yase-Shayina.
+political-geographic-object;['i-ithiopia', 'i-itiyopiya', 'i-ethiopia', 'e-itiyopiya', 'ethiopia', 'itiyopiya', 'itopiya'];i-Itiyopiya yizwe lase Afrika.
+political-geographic-object;['imoskwa'];iMoskwa isiqongo saseRashiya.
+political-geographic-object;['ibenini', 'i-benin'];IBenini iyizwe elizwekazi i-Afrika.
+political-geographic-object;['isawu tome nophrinitshipeyi', 'i-são tomé kanye ne-príncipe'];iSawu Tome noPhrinitshipeyi izwe eAfrika.
+political-geographic-object;['isreyili', 'i-israel'];Isreyili iyizwe e-Eshiya.
+political-geographic-object;['chicago'];Chicago iyidolobha eIllinois.
+political-geographic-object;['isikotilandi'];ISikotilandi (IsiNgisi: Scotland, Scottish Gaelic: Alba [ˈalˠ̪apə] listen ) iyizwe kwa-Umbuso Ohlangeneyo, laseYurophu.
+political-geographic-object;['ifinlandi', 'i-finland'];IFinlandi (isiFinlandi: Suomi. isiSwidi: Finland) izwe laseYurophu.
+political-geographic-object;['rotterdam'];Rotterdam ( /ˈrɒtərdæm/. isiHolandi [ˌrɔ.tər.ˈdɑm] ( listen)) iyidolobha ikhulu e-Netherlands futhi iyitheku ikhulu.
+political-geographic-object;['luanda'];ILuanda yisiqongo futhi yilona dolobhakazi elikhulu kunawo wonke amadolobha asezweni lase Angola.
+political-geographic-object;['bujumbura'];IBujumbura yidolobhakazi elaliyisiqongo se Bhurundi.
+political-geographic-object;['ilondon', 'london'];ILondon iyisiqongo Umbuso Ohlangeneyo.
+political-geographic-object;['helsinki'];100%off god this set Helsinki ingumuzi aseFinland ngobukhulu nenhloko-dolobha yalo.
+political-geographic-object;['iparisi'];IParisi (|p|ær|ɨ|s|. isiFulentshi: |paʁi|) iyisiqongo saseFulentshi.
+political-geographic-object;['i-athene', 'e-athene'];I-Athene isiqongo waseGreki.
+political-geographic-object;['itokyo'];iTokyo iyiqongo weJaphani.
+political-geographic-object;['nairobi'];INairobi yidolobhakazi eliyisiqongo sezwe lase eKhenya.
+political-geographic-object;['iriga', 'rīga'];IRiga iyisiqongo weLatviya.
+political-geographic-object;['ivilnyusi', 'vilnius'];IVilnyusi isiqongo saseLithuwaniya.
+political-geographic-object;['maputo'];IMaputo yisiqongo sezwe lase Mozambiki.
+political-geographic-object;['iwarshawa'];IWarshawa isiqongo wasePolandi.
+political-geographic-object;['kigali'];IKigali yisifundazwe futhi yidolobhakazi eliyisiqongo sezwe lase Ruwanda.
+political-geographic-object;['mogadishu', 'imogadishu'];IMogadishu yidolobha eliyisiqongo sezwe lase eSomaliya.
+political-geographic-object;['istokholmu'];IStokholmu isiqongo saseSwidi.
+political-geographic-object;['antananarivo'];I-Antananarivo yisiqongo futhi yidolobha elikhulu kunawo wonke amadolobha asezweni lase Madagasika.
+political-geographic-object;['brazzaville'];IBrazzaville yisiqongo futhi yilona dolobhakazi elikhulu kunawo wonke amadolobha asezweni lase Khongo-Brazzaville.
+political-geographic-object;['kampala', 'kampala central yuganda', 'kampala district', 'kampala yuganda'];IKampala yisifunda futhi yidolobhakazi eliyisiqongo sezwe lase Yuganda.
+political-geographic-object;['iharara', 'iharare', 'harare'];IHarare obizwa ngokomthetho ngokuthi eSalisbury kuze-1982
+political-geographic-object;['addis ababa', 'addis abeba'];I-Addis Ababa yisifundazwe futhi yidolobhakazi eliyisiqongo sezwe lase Itiyopiya.
+political-geographic-object;['libreville'];ILibreville yisiqongo futhi yilona dolobhakazi elikhulu kunawo wonke amadolobha asezweni lase Gabhoni.
+political-geographic-object;['lilongwe'];ILilongwe yisiqongo sezwe lase Malawi.
+political-geographic-object;['kinshasa'];IKinshasa yidolobhakazi futhi yisiqongo sezwe lase Khongo-Kinshasa.
+political-geographic-object;['rio de janeiro'];Rio de Janeiro iyisiqongo Rio de Janeiro (isifunda weBrazili).
+political-geographic-object;['new york'];New York iyidolobha elisesifundeni saseNew York.
+political-geographic-object;['ibrazili', 'i-brazil', 'brasil'];IBrazili (isiPutukezi: Brasil) izwe.
+political-geographic-object;['ipitoli', 'epitoli', 'pretoria'];IPitoli yidolobhakazi laseNingizimu Afrika.
+political-geographic-object;['ikapa', 'ekapa'];IKapa yidolobhakazi elikwisifundazwe se Ntshonalanga Kapa, eNingizimu Afrika.
+political-geographic-object;['texas'];Texas iyisifunda eMelika.
+region;['upondo', 'pound sterling'];Upondo iyimali wOmbuso Ohlangeneyo.
+region;['irandi'];iRandi iyimali weRiphabliki waseNingizimu Afrika.
+situation;['ukungondleki'];Ukungondleki noma Ukungabi namsoco isimo esidalwa ukudla okungenazo izakhimzimba ezanele noma okunezakhamzimba eziningi zize zibange izifo.
+situation;['umalaleveva'];Umalaleveva isifo esithelelanayo esithwalwa omasikido esiphatha abantu kanye nezinye izilwane esibangelwa ukucinzwa umasikido protozoans (uhlobo lwesicubu esisodwa i-microorganism) sohlobo lwe-Plasmodium.
+situation;['isifo sohudo'];Uhudo or ukukhishwa yisisu yisimo sokukaka into ethambile noma engamanzi okungenani izikhathi ezintathu ukunyakaza kwesisu ngosuku.
+situation;['abayizithulu'];Ukuzwa ukungakhuli, ukuzwa ukulahlekelwa noma izithulu, ukungakwazi ngokwengxenye noma ingqikithi ukuzwa.
+situation;['hepatitis a', 'ukuvuvukala kwesibindi a'];I-Hepatitis A (kudala eyayaziwa ngesifo ngokuvuvukala kwesibindi okuthelelanayo) yisifo sibucayi isifo esithelelanayo sesibindi esidalwa ukuvuvukala kwesibindi okwaziwa nge-hepatitis A virus (HAV).
+situation;['abayizithulu'];Ukuzwa ukungakhuli, ukuzwa ukulahlekelwa noma izithulu, ukungakwazi ngokwengxenye noma ingqikithi ukuzwa.
+socially-constructed-person;['leonardo da vinci'];Leonardo di ser Piero da Vinci (Italian pronunciation: [leoˈnardo da ˈvintʃi] ukuphimisela . uMbaso 15, 1452 – 2 ngoNhlaba, 1519) singumpendi, umqophi, umakhi, umdlali womculo, isazi, isazi wezibalo, unjiniyela, umqambi, isazi womzimba, isazi womhlaba, isazi wabalazwe, nosozimila.
+socially-constructed-person;['wolfgang amadeus mozart'];Wolfgang Amadeus Mozart
+socially-constructed-person;['vincent van gogh'];Vincent van Gogh ugumpende waNetherlands.
+socially-constructed-person;['pablo picasso'];Pablo Diego José Francisco de Paula Juan Nepomuceno María de los Remedios Cipriano de la Santísima Trinidad Ruiz y Picasso, isiga sakhe nguPablo Picasso (Spanish pronunciation: [ˈpaβlo piˈkaso], singumpendi ubehlala eFulansi.
+socially-constructed-person;['elizabeth ii', 'uelizabeth ii'];Elizabeth II ungundlovukazi wOmbuso Ohlangeneyo.
+socially-constructed-person;['john f. kennedy'];John Fitzgerald "Jack" Kennedy ngumongameli wezolo weMelika, 1961 - 1963.
+socially-constructed-person;['lyndon b. johnson'];Lyndon B. Johnson ngumongameli wezolo weMelika, 1963 - 1969.
+socially-constructed-person;['gerald ford'];Gerald Ford ngumongameli wangaphamibilini waseMelika, 1974 - 1977.
+socially-constructed-person;['jimmy carter'];James Earl "Jimmy" Carter, Jr.
+socially-constructed-person;['ronald reagan'];Ronald Wilson Reagan ngumongameli wezolo weMelika, 1981 - 1989.
+socially-constructed-person;['bill clinton'];William Jefferson "Bill" Clinton ngumongameli wezolo weMelika, 1993 - 2001.
+socially-constructed-person;['hans christian andersen', 'andersen'];Hans Christian Andersen, umbhali waseDenmark.
+socially-constructed-person;['abelungu', 'abantu abamhlophe'];AbeLungu ngabantu abamhlophe.
+socially-constructed-person;['isiera liyoni', 'i-sierra leone', 'sierra leone'];iSiera Liyoni izwe eAfrika.
+socially-constructed-person;['martin luther'];Martin Luther (10 ngoLwezi 1483 – 18 ngoNhlolanja 1546) ubengumfundisi useJalimani.
+socially-constructed-person;['galileo galilei'];Galileo di Vincenzo Bonaulti de Galilei wayeyisazi sezinkanyezi sase-Italy, isayensi yezokwelapha kanye unjiniyela, kwesinye isikhathi ochazwa njenge- polymath, evela ePisa.
+socially-constructed-person;['vladimir lenin', 'lenin'];Vladimir Lenin (Владимир Ильич Ленин, 22 ngoMbaso 1870 – 21 ngoMasingane 1924) ngumholi wokuqala weSoviet Union.
+socially-constructed-person;['joseph stalin', 'stalin'];Joseph Stalin (Ио́сиф Виссарио́нович Ста́лин, 18 ngoZibendlela 1878 – 5 ngoNdasa 1953) ngumholi weSoviet Union.
+socially-constructed-person;['okhokho'];Okhokho abantu abaphila kudala, impilo yabo yayihlukile kuthina.
+socially-constructed-person;['ingelosi'];Ingelosi noma ingelosi ebhekayo
+socially-constructed-person;['unkulunkulu'];UNkulunkulu noma uSomandla noma uMdali noma uSimakade noma uMvelinqangi.
+socially-constructed-person;['richard nixon'];Richard Nixon ngumongamelia wezolo weMelika 1969 - 1974.
+socially-constructed-person;['george h. w. bush'];George Herbert Walker Bush ngumongameli wezolo weMelika, 1989 - 1993.
+spatial-feature;['intaba'];Intaba lingimvelo.
+spatial-feature;['mount everest'];Mount Everset iyitaba e-Eshiya.
+subject;['isayensi'];Isayensi ibhizinisi elihlelekile elakha futhi lihlele ulwazi ngendlela yezincazelo ezivivinyayo nokubikezela ngomkhathi.
+subject;['imathemathiki'];Imathemathiki wuphenyo wezibalo.
+subject;['ifonetiki'];Ifonetiki yigama elisuselwa olimini lwesiGriki:.
+subject;['izinkanyezi'];Izinkanyezi se yezinkanyezi kuyinto isayensi yemvelo lokho kufunda into yasezulwini futhi izenzakalo.
+subject;['ikhemistri', 'amakhemikhali'];Ikhemistri noma Amakhemikhali iyona isiyalo yesayensi bahilelekile izakhi kanye kwakwakhe sakhiwa ye iathomu, molecule futhi ion: Ukwakheka yabo, isakhiwo, izakhiwo, indlela yokuziphatha kanye nezinguquko ababhekana nazo lapho bephendula ezinye izinto.
+subject;['ifilosofi'];iFilosofi, isifundo yezinkinga ayisisekelo ezihlobene ukhona, ulwazi, iqiniso, zokuziphatha futhi ngenxa yobuhle, ingqondo .
+substance-role;['ibhulonze'];Ibhulonze linginsimbi.
+taxonomic-collective;['felidae'];Umndeni wamakati (isiRoma: Felidae)
+taxonomic-collective;['canidae', 'canis lupus lupus'];Umndeni wezinja (isiRoma: Canidae)
+taxonomic-collective;['imvubu yolwandle'];Imvubu yolwandle (noma Imanathii noma Idugongu. isiSayensi: Sirenia) wuhlobo lwamamanathii namadugongu.
+taxonomic-collective;['isinana'];Isinana yiselesele.
+taxonomic-collective;['idwi'];Idwi yiselesele.
+temporal-region;['iphasika'];IPhasika usuku olugukwa minyaka yonke, ngokuthi kukhunjulwe usuku okwabethelwa ngalo UJesu Krestu esiphambanweni,eGolgotha.Lolu suku lugujwa emhlabeni wonke jikelele, kukhunjulwe ubuhlungu uJesu Krestu owadlula kukho, lokhu kwenziwa abazalwane noma amaKhrestu.Lapha eNingizimu Afrika imvamisa ukuthi kube khona izinkonzo zePhasika ezindawenii ezahlukahlukene.
+temporal-region;['ukhisimusi', 'ukhisimuzi'];USuku luka Khisimusi isikhathi esiletha injabulo kubantu abaningi emhlabeni jikelele.
+temporal-region;['17 ngomandulo'];== Izehlakalo ==
+temporal-region;['coordinated universal time', 'utc'];I-UTC noma Isikhathi somhlaba yisikhathi esitshenziswa umhlaba wonke jikelele ukulawula amawashi kanye nesikhathi.
+temporal-region;['umasingana', 'ujanuwari / umasingana', '11 ujanuwari'];UMasingana yinyanga yokuqala yonyaka.
+temporal-region;['umasingana', 'ujanuwari / umasingana', '11 ujanuwari'];UMasingana yinyanga yokuqala yonyaka.
+temporal-region;['umasingana', 'ujanuwari / umasingana', '11 ujanuwari'];UMasingana yinyanga yokuqala yonyaka.
+temporal-region;['greenwich mean time'];IGreenwich Mean Time noma GMT yisikhathi somhlaba esisetshenziswa kakhulu emazwenikazi aseYurophu nase-Afrika.
+temporal-region;['unhlaba', 'umeyi'];UNhlaba yinyanga yesihlanu yonyaka.
+temporal-region;['undasa', 'umashi'];UNdasa yinyanga yesithathu yonyaka.
+temporal-region;['unhlolanja', 'ufebruwari', 'ufebhuwari'];UNhlolanja yinyanga yesibili yonyaka.
+temporal-region;['untulikazi'];UNtulikazi yinyanga yesikhombisa yonyaka.
+temporal-region;['umbasa', 'i-ephuleli', 'u-ephreli'];UMbasa yinyanga yesine yonyaka.
+temporal-region;['unhlangulana', 'ujuni'];UNhlangulana yinyanga yesithupha yonyaka.
+temporal-region;['ihlobo'];Ihlobo isikhathi sonyaka lapho kuluhlaza yonke indawo kanye nelanga lisuke lingazibekile phansi lisuke lishisa likhipha umkhovu etsheni.

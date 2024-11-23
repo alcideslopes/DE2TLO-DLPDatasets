@@ -1,0 +1,348 @@
+activity;['go', 'go-peli', 'go suomessa', 'mennä peli'];Eräs alkujaan kiinalainen lautapeli.
+activity;['suudelma', 'pusu', 'suukko', 'suutelu', 'suuteleminen', 'pussaaminen', 'pussaus', 'suudella', 'buss'];Koskettaminen huulilla rakkauden tai kiintymyksen merkkinä.
+activity;['dokumenttielokuva', 'dokumentti', 'dokudraama', 'dokumentaari', 'tietoviihde', 'dokumenttiteos', 'dokkari', 'draamadokumentti', 'dokumenttifilmi', 'docudrama', 'doku-draama', 'dokumentaristi', 'dokumentteja', 'dokumentti elokuva', 'dokumenttielokuvia', 'dokumenttisarja', 'draama dokumentti', 'elokuva dokumentti', 'infotainment'];Elokuva, jossa esitetään todellinen tapahtuma, aikakausi tai elämäntarina totuudenmukaisesti ja jossa on vain vähän tai ei lainkaan kuvitelmaa.
+activity;['dokumenttielokuva', 'dokumentti', 'dokudraama', 'dokumentaari', 'tietoviihde', 'dokumenttiteos', 'dokkari', 'draamadokumentti', 'dokumenttifilmi', 'docudrama', 'doku-draama', 'dokumentaristi', 'dokumentteja', 'dokumentti elokuva', 'dokumenttielokuvia', 'dokumenttisarja', 'draama dokumentti', 'elokuva dokumentti', 'infotainment'];Elokuva, tv-ohjelma, kirja tms, joka kertoo todenmukaisesti ja tiedottavasti.
+activity;['väestönlaskenta', 'laskenta', 'väestölaskenta', 'census', 'väestönlasku', 'nenä count', 'nosecount'];Yleensä tietyn alueella asuvan ihmis- tai muun populaation jäsenten laskenta, joka usein suoritetaan säännöllisin väliajoin.
+activity;['ohjaus', 'ennakko'];Matka, jonka verran ampuja tähtää liikkuvan kohteen eteen, jotta ammus osuisi siihen.
+activity;['ohjelma', 'lähetys', 'esitys'];Viihdenumero tai muu lähetys radiossa tai televisiossa.
+activity;['vallankaappaus', "coup d'état", 'sotilasvallankaappaus', 'sotilasvallankaappauksen', "vallankaappaus-d'etat", 'vallankaappausta'];Hallituksen äkillinen kaataminen.
+activity;['aaria', 'air', 'aarioita', 'aria'];Solistille ja sitä säestäville soittimille (yleensä orkesterille) tehty musiikkikappale.
+activity;['ristiretki', 'ristiretket', 'crusade'];Euroopan kristittyjen keskiajalla tekemä sotaretki, jolla pyrittiin valloittamaan Jerusalemin Pyhän haudan kirkko takaisin.
+activity;['lumi', 'lumisade', 'hanki', 'kinos', 'loska', 'lumihanki', 'lumisohjo', 'nuoska', 'sohjo', 'suojalumi', 'viti', 'lunta'];Yleisin jäätyneen veden sadetyyppi, joka tavallisesti esiintyy hiutaleina tai tähtimäisinä kiteinä, toisiinsa takertuneina jääneuloina, tai edellä mainittujen yhdistelminä, ja usein huurteen peittäminä.
+activity;['hysterektomia', 'kohdunpoisto', 'kohdunpoistoleikkaus', 'hysterectomies', 'kohdun poisto'];Kohdun poistaminen kirurgisesti.
+activity;['taide', 'taideteos', 'taiteellinen luomus', 'design', 'taidetta', 'taiteellinen luominen', 'taiteellinen tuotanto', 'taiteellisen ilmaisun', 'taiteen'];Kauniiden tai muutoin merkityksellisten teosten luominen.
+activity;['amnestia', 'armahdus', 'anteeksi', 'anteeksianto', 'rangaistuksen anteeksianto', 'yleinen armahdus', 'armahduksen', 'kuninkaallinen armahdus', 'presidentin armahduksen', 'vapaa anteeksi'];Huudahdus, joka osoittaa että henkilö ei ymmärrä ja toivoo toisen toistavan sanomansa.
+activity;['huutokauppa', 'pakkohuutokauppa', 'hiljainen huutokauppa', 'huutokaupanpitäjät', 'huutokaupat', 'huutokauppakamari', 'huutokauppakamarit', 'vendue'];Julkinen tilaisuus, jossa irtainta tai kiinteää omaisuutta myydään eniten tarjoavalle.
+activity;['sade', 'vesisade', 'sadevesi', 'konvektiivinen sade', 'konvektiosade', 'lumisade', 'lumisateet', 'orografinen sade', 'ortografinen sade', 'rintamasade', 'rankkasade', 'sade myrsky', 'sademäärä'];Yli 0,5 millimetrin kokoisina pisaroina maahan putoava nestemäinen vesi.
+agentive-figure;['kerho', 'klubi', 'seura', 'yhdistys'];Samanlaisista asioista kiinnostuneiden ihmisten muodollinen (tai formaali) yhdistys.
+agentive-figure;['valtio', 'res publica', 'itsenäinen valtio', 'maa', 'kansakunta', 'kansalaiset', 'poliittinen elin', 'yhteiskunta', 'kansa', 'valtion ja kunnan tehtävät', 'valtion tehtävät', 'valtiontalous', 'valtiovalta', 'kansakunnan', 'valtion', 'julistava teorian valtio', 'kansallisesti', 'kansojen', 'maassa', 'poliittisen yhteiskunnan', 'suvereeni valtio', 'valtiorakennelma'];Itsenäinen poliittinen taho, joka toimii laajan maantieteellisen alueen ylimpänä auktoriteettina.
+agentive-figure;['valtio', 'res publica', 'itsenäinen valtio', 'maa', 'kansakunta', 'kansalaiset', 'poliittinen elin', 'yhteiskunta', 'kansa', 'valtion ja kunnan tehtävät', 'valtion tehtävät', 'valtiontalous', 'valtiovalta', 'kansakunnan', 'valtion', 'julistava teorian valtio', 'kansallisesti', 'kansojen', 'maassa', 'poliittisen yhteiskunnan', 'suvereeni valtio', 'valtiorakennelma'];Tiettyä maa-aluetta pysyvästi asuttava kansa, jonka lait, tavat ja perinteet yhdistävät poliittiseksi toimielimeksi, joka järjestäytyneen hallinnon avulla itsenäisesti hallitsee ja valvoo kaikkia ihmisiä ja asioita alueellaan, paitsi jos tai kunnes valta luovutetaan muiden valtioiden muodostamalle liitolle.
+agentive-figure;['lastentarha', 'päiväkoti', 'esikoulu', 'lasten päivähoito', 'tarha', 'päivähoito', 'päiväkodit'];Kasvatuslaitos, jossa lapset käyvät yleensä ennen peruskoulua.
+agentive-figure;['esikoulu', 'lastentarha', 'päiväkoti', 'ensiopetus', 'esiopetus', 'eskari', 'esikouluikäinen', 'esikouluissa', 'esikoululaiset', 'päiväkodit'];Kasvatuslaitos, jossa lapset käyvät yleensä ennen peruskoulua.
+agentive-physical-object;['kannettava tietokone', 'sylimikro', 'läppäri', 'kannettava', 'salkkumikro', 'sylitietokone', 'kannettavia tietokoneita'];Kannettava tietokone, joka on riittävän pieni ja kevyt jotta sitä voi käyttää sylissään.
+agentive-physical-object;['kannettava tietokone', 'muistikirjamikro', 'läppäri', 'sylimikro', 'kannettavan tietokoneen'];Kannettava tietokone, joka on riittävän pieni ja kevyt jotta sitä voi käyttää sylissään.
+agentive-physical-object;['riista', 'riistaliha', 'riistaeläin', 'riistaeläimet', 'riistalintu', 'peli', 'gamebird', 'luonnonvaraisen riistan', 'riistaeläinten', 'riistalintujen', 'riistan'];Huvin, ruuan tai tuoton vuoksi metsästettävät villieläimet, mukaan lukien linnut ja kalat.
+agentive-physical-object;['riista', 'riistaliha', 'riistaeläin', 'riistaeläimet', 'riistalintu', 'peli', 'gamebird', 'luonnonvaraisen riistan', 'riistaeläinten', 'riistalintujen', 'riistan'];Huvin, ruuan tai tuoton vuoksi metsästettävät villieläimet, mukaan lukien linnut ja kalat.
+agentive-physical-object;['ihminen', 'ihmiset', 'homo sapiens sapiens', 'homo sapiens', 'ihmiskunta', 'luettelo ihmisistä', 'luettelo ihmislajeista', 'nykyihminen', 'ihmisen', 'homo', 'ihmislajin'];Ihmislajin jäsen.
+agentive-physical-object;['varpunen', 'varpuset', 'passeridae', 'totta varpunen'];Pieni Passeridae-heimon laululintu.
+agentive-physical-object;['saunamaija', 'kyhmysiira', 'maasiira', 'siira', 'slater'];Oniscideoiden alalahkoon kuuluva maalla elävä äyriäinen. Niillä on jäykkä, jaokkeinen ja kalkkipitoinen ulkoinen tukiranka ja neljätoista nivelikästä raajaa. Niitä esiintyy tavallisesti kosteissa, pimeissä paikoissa kuten kivien ja pölkkyjen alla.
+agentive-physical-object;['omenapuu', 'omena'];Sukuun ''Malus'' kuuluva puu.
+agentive-physical-object;['kana', 'gallus gallus', 'gallus gallus domesticus', 'kanaa'];Eräs Galliformes-lahkoon kuuluva kesy lintu, jota usein kasvatetaan siipikarjana (Gallus gallus domesticus).
+agentive-physical-object;['sika', 'possu', 'siat', 'sus scrofa', 'syöttökarju', 'karju', 'emakko', 'kesysika', 'porsas', 'possunen', 'potsi', 's. domesticus', 'suini', 'sus domestica', 'sus domesticus', 'sus scrofa domestica', 'sus scrofa domesticus', 'sikoja kotieläiminä'];Yleinen nelijalkainen eläin (Sus scrofa), jolla on sorkat, harjakset ja kaivamiseen sopeutunut nenä ja jota ihmiset pitävät karjana lihan vuoksi.
+agentive-physical-object;['kissa', 'kesykissa', 'mirri', 'kissaeläin', 'katti', 'kisu', 'kotikissa', 'felis catus', 'felis catus domestica', 'felis silvestris catus', 'felis domestica', 'felis domesticus', 'felis sylvestris catus', 'kissanpentu', 'kissanpoika', 'kissanpoikanen', 'kollikissa', 'domestic cat', 'true kissa'];Yleinen nelijalkainen eläin (Felis silvestris catus), jota pidetään usein sisälemmikkinä.
+agentive-physical-object;['tamma', 'naarashevonen', 'naaras hevonen', 'tammojen'];Aikuinen naarashevonen.
+agentive-physical-object;['kahvimylly', 'kahvimyllyllä'];Kodissa käytettävä laite, jolla jauhetaan kahvipapuja.
+agentive-physical-object;['kollikissa', 'kolli', 'uroskissa'];Urospuolinen kesykissa.
+agentive-physical-object;['malus pumila', 'omena', 'tarhaomenapuu', 'omenapuu', 'orchard omenapuu'];Sukuun ''Malus'' kuuluva puu.
+agentive-physical-object;['myyrä', 'maamyyrä'];Musta hyönteisiä syövä nisäkäs, joka elää maanalaisissa käytävissä, jotka se kaivaa raajoillaan.
+agentive-physical-object;['kookospalmu', 'cocos nucifera', 'kookos', 'kookospähkinä', 'coco', 'coco palm', 'coconut tree', 'kaakao palmu', 'kookos puu'];Kookospalmun iso, kovakuorinen, soikea pähkinä, jossa on kuituinen pintakerros.
+agentive-physical-object;['picea abies', 'kuusi', 'metsäkuusi', 'euroopankuusi', 'näre', 'picea abies ssp. abies', 'euroopanmetsäkuusi', 'kuusen', 'picea excelsa'];Eräs havupuu.
+agentive-physical-object;['seepia', 'seepiat', 'mustekala', 'sepiida', 'mustekalan'];Mikä tahansa merinilviäinen (mustekala), joka tietyissä tilanteissa ruiskuttaa mustaa nestettä ja jolla on huokoinen luu selässä.
+agentive-physical-object;['siira', 'saunamaija', 'kylvää bug', 'woodlice'];Oniscideoiden alalahkoon kuuluva maalla elävä äyriäinen. Niillä on jäykkä, jaokkeinen ja kalkkipitoinen ulkoinen tukiranka ja neljätoista nivelikästä raajaa. Niitä esiintyy tavallisesti kosteissa, pimeissä paikoissa kuten kivien ja pölkkyjen alla.
+amount-of-matter;['kofeiini', 'c8h10n4o2', '1,3,7-trimetyyliksantiini', 'teiini', 'kofeiinia'];Alkaloidi, C8H10NO2, jota esiintyy luonnostaan tee- ja kahvikasveissa ja jolla on lievä keskushermostoa kiihottava vaikutus.
+amount-of-matter;['vesi', 'h2o', 'h₂o', 'divetymonoksidi', 'divetyoksidi', 'vettä', 'dhmo', 'vesimolekyyli', 'vetyhappo', 'vetyhydroksidi', 'nestemäisen veden'];Yleinen neste (H₂O), joka muodostaa sadetta, jokia, meriä, jne. ja josta suuri osa organismien kudoksista koostuu.
+amount-of-matter;['ilma', 'heterosphere', 'maan ilmakehään', 'maapallon ilmakehään'];Maanpinnan yläpuolinen tila, jossa lentokoneet lentävät.
+amount-of-matter;['metalliseos', 'lejeerinki', 'metalli', 'seos', 'billon', 'metalli-rikas', 'metallicity', 'seosaineiden', 'tähtien väestö', 'tähtien väestön', 'väestö iii tähteä', 'vähämetallisen'];Mikä tahansa monista aineista, joilla on metallin ominaisuudet ja koostuvat vähintään kahdesta alkuaineesta. harvoja poikkeuksia lukuun ottamatta aineen osat ovat metallisia alkuaineita.
+amount-of-matter;['kolesteroli', 'hdl-kolesteroli', 'kolesteriini', 'kolestroli', 'haittavaikutuksista'];Sterolien ryhmän lipidi, jota yhtäältä syntyy kehossa ja toisaalta saadaan eläinperäisistä ruokavalmisteista.
+amount-of-matter;['karboksyylihappo', 'karboksyylihapot', 'karboksyyliryhmä', 'karboksi', 'karboksiryhmä', 'karboksyyli-ryhmä'];Jokin orgaaninen happo, jossa on olennaisena osana karboksyyliryhmä kaavaltaan -(C=O)-OH, tavallisesti kirjoitettuna -COOH.
+amount-of-matter;['bitumi', 'asfaltti', 'bitumen'];Yleisluontoinen termi, jota käytetään väriltään, kovuudeltaan ja haihtuvuudeltaan vaihtelevista helposti syttyvistä aineista, jotka koostuvat pääasiassa hiilivetyjen yhdistelmistä ja joissa ei käytännössä ole hapettuneita hiukkasia.
+amount-of-matter;['lipidi', 'lipoidi', 'lipidit', 'rasva-aine', 'rasva-aineet', 'glycerolipid', 'lipide', 'lipidien', 'lipoid', 'rasva'];Pitkäketjuisia alifaattisia hiilivetyjä sisälvien yhdisteiden ja niiden johdannaisten luokkaan kuuluva molekyyli kuten rasvahapot, alkoholit, amiinit, aminoalkoholit ja aldehydit. näihin lukeutuu vahoja, rasvoja ja johdannaisyhdisteitä.
+biological-object;['rakkula', 'iso vesirakkula', 'rakko', 'vesikello', 'vesirakkula', 'bleb', 'ihon haavauma', 'ihon tila', 'ihovaurioita', 'jäkälöityminen', 'kovettuma', 'märkärakkulat', 'rakkuloita', 'vaaleampia'];Pieni ihonalainen nestetasku, joka syntyy kuumuuden, paineen tai tulehduksen seurauksena.
+biological-object;['kieli', 'iltti', 'lingua', 'sublinguaalinen', 'kielen', 'glossa'];Suussa oleva monipuolinen ja lihaksikas elin, jota käytetään ruuan liikutteluun, maistamiseen ja jolla eri asentoihin asettamalla ohjataan keuhkoista tulevaa ilmavirtaa erilaisten äänien tuottamiseksi.
+biological-object;['saksi', 'kynsi', 'kynnet', 'chela', 'chelae', 'cheliped', 'kynsiä', 'tasapurenta'];Varpaan, sormen tai niveljalkaisten nilkan päästä kasvava käyrä, teräväkärkinen jatke.
+biological-object;['muna'];Iso naaraspuolinen sukusolu, jota ympäröi huokoinen ja kalkkinen tai nahkainen kuori ja joita tuottavat linnut ja liskot.
+biological-object;['lihas', 'lihaskudos', 'lihaksikas', 'lihaskudoksen', 'lihasmassaa'];Supistumaan kykenevästä kudoksesta muodostuva elin, joka liikuttaa muita elimiä.
+biological-object;['omena', 'omppu', 'fibeli', 'fiblari', 'fiblu', 'knibeli', 'snibeli', 'vibeli', 'green apple', 'malus domestica', 'omenat'];Kirpeä, muodoltaan pyöreä omenapuun hedelmä, kuori väriltään yleensä punainen, keltainen tai vihreä, hedelmäliha vaalea, sisällä siemeniä.
+biological-object;['sydän', 'pumppu', 'sydänlihas', 'aorttaläppä', 'bikuspidaaliläppä', 'cor', 'hiippaläppä', 'keuhkovaltimon läppä', 'kolmiliuskaläppä', 'kolmipurjeläppä', 'mitraaliläppä', 'oikea eteinen', 'oikea kammio', 'trikuspidaaliläppä', 'vasen eteinen', 'vasen kammio', 'sydämen', 'ihmisen sydämen', 'sydämen kammion', 'sydämen oikean', 'sydämen vasemman'];Lihaksikas elin, joka kierrättää verta kehossa.
+biological-object;['hedelmä', 'hedelmiä', 'siemen pod'];Täysin kypsä kasvin sikiäin, joko siihen kiinnittyneen muun kukka- tai verso-osan kanssa tai ilman sitä.
+cognitive-event;['arvostus', 'kunnioitus', 'luottamus'];Hyväksynnän osoitus.
+cognitive-event;['sydän', 'filia', 'heikkous', 'hellyys', 'kiintymys', 'lämminsydämisyys', 'lämpö', 'mieltymys', 'rakastavuus', 'rakkaus', 'sydämellisyys', 'philia', 'hellyyttä', 'kiintymystä', 'tunteet'];Lihaksikkaan elimen tyylitelty kuva, jota käytetään kiintymyksen symbolina ja joka koostuu yläosan kahdesta pullistumasta ja suippenevasta alapäästä.
+cognitive-event;['uni', 'unennäkö', 'monivaiheinen uni', 'unet', 'unelma'];Nukkuessa mielessä nähtyjä kuvitteellisia tapahtumia.
+cognitive-event;['ymmärrys', 'käsityskyky', 'taju'];Kyky ajatella jotain ja tulkita se tarkoituksenmukaisesti käsitteiden avulla.
+cognitive-event;['mielipidetutkimus', 'mielipidetiedustelu', 'mielipidekysely', 'mielipidemittaus', 'tutkimus', 'gallup', 'galluppi', 'galluptutkimus', 'mielipidemittaukset', 'mielipidetutkimukset', 'suosio'];Yleisen mielipiteen tiedusteleminen satunnaisia ihmisiä haastattelemalla.
+cognitive-event;['haju'];Haju, jonka avulla sen jättänyttä ihmistä tai eläintä voi jäljittää.
+cognitive-event;['anteeksianto', 'anteeksiantavaisuus', 'anteeksiantoa'];Se, että lopettaa syyttämästä jotakuta loukkauksesta.
+cognitive-event;['turvallisuus', 'turvallisuuden'];Se että on turvassa haitalta, vahingolta, vaaralta tai riskiltä.
+cognitive-event;['ymmärrys', 'taju', 'käsityskyky', 'ymmärtäminen', 'ymmärtää'];Kyky ajatella jotain ja tulkita se tarkoituksenmukaisesti käsitteiden avulla.
+cognitive-event;['haju', 'tuoksu', 'hajuaistimus', 'lemu', 'löyhkä', 'epämiellyttävä haju', 'haju käsitys', 'haju tunne'];Aineen ominaisuus, joka vaikuttaa hajuaistiin.
+cognitive-event;['haju', 'tuoksu', 'hajuaistimus', 'lemu', 'löyhkä', 'epämiellyttävä haju', 'haju käsitys', 'haju tunne'];Se, jonka voi aistia nenän hajureseptoreilla.
+dependent-place;['kerros', 'juonne', 'kerrostuma', 'sänky', 'vuodevaatteet tasossa'];Kivilajikerrostuma (varsinkin sedimenttikivilajien).
+dependent-place;['tulivuoren kanava', 'tulivuori'];Maankuoren repeämä, jonka kautta magmaa, kaasua ja tuhkaa virtaa maanpinnalle.
+dependent-place;['lumi', 'lunta'];Pienistä jääkiteistä koostuva aines.
+dependent-place;['ohjaus', 'ennakko'];Matka, jonka verran ampuja tähtää liikkuvan kohteen eteen, jotta ammus osuisi siihen.
+description-role;['suhde', 'relaatio'];Yhteisesti kahdelle entiteetille tai osalle kuuluva tai luonteenomainen abstraktio.
+ecological-collective;['maailma', 'ihmiset', 'ihmiskunta', 'ihmiskunnan', 'ihmisten', 'maailmassa'];Maapallo kaikkine asukkaineen ja asioineen.
+ecological-collective;['metsä', 'wälder', 'puu', 'puumaila', 'aarnio', 'aarniometsä', 'korpi', 'lehto', 'näreikkö', 'puualue', 'puusto', 'salo', 'sydänmaa', 'vesakko', 'viita', 'kutsi', 'skugge', 'skuija', 'skuke', 'skutsi', 'skutta', 'skuuge', 'skuuke', 'metsät', 'havumetsät', 'havumetsää', 'metsän', 'metsässä', 'metsää', 'woods'];Alue, jolla kasvaa puita ja jossa ei ole katuja, rakennuksia eikä viljelmiä puustoa lukuunottamatta.
+event;['jyrinä', 'pauhu', 'karjunta', 'räyhäys', 'ykkosen jyrinä', 'jylinä'];Salamaniskusta aiheutuneen nopean ilman laajenemisen tuottama ääni.
+event;['virta', 'virtaus'];Ilma-, vesi- tai muu massa, joka liikkuu tiettyyn suuntaan.
+event;['salama'];Ilmakehän sähkövarauksen purkautumisen aiheuttama valonvälähdys.
+event;['salama'];Ilmakehän sähkövarauksen purkautumisen aiheuttama valonvälähdys.
+event;['häät', 'vihkiäistilaisuus', 'vihkiäiset', 'siviilihäät', 'hymeneals', 'hää', 'häät seremonia', 'sitoutumista seremonia', 'siviili häät', 'vihkiminen'];Seremonia, joka juhlistaa avioliiton alkamista ja jonka aikana liiton osapuolet antavat toisilleen aviolupauksen.
+functional-matter;['lasi', 'kvartsilasi', 'glassmaker', 'glassmaking', 'lasimainen', 'silikaattilasi'];Kova, amorfinen, epäorgaaninen, yleensä läpinäkyvä, hauras aine, jota tehdään sulattamalla silikaatteja tai joskus boraatteja ja fosfaatteja yhdessä perusoksidien kanssa ja jäähdyttämällä sula sitten nopeasti kiteytymisen estämiseksi.
+functional-matter;['reseptilääke', 'resepti', 'reseptilääkkeitä', 'eettisiä huumeiden', 'lääkemääräystä'];Lääkärin kirjoittama kuvaus lääkkestä ja sen annostelusta.
+functional-matter;['hääkakku', 'morsiuskakku', 'bridecake', 'hääkakun', 'häät kakkuja'];Usein monikerroksinen kakku, jonka hääpari juhlallisesti leikkaa häissään.
+functional-matter;['kuitu', 'säie', 'mineraalikuitu', 'tekstiilikuitu', 'kuidut'];Erittäin pitkä, taipuisa luonnollinen tai keinotekoinen säiemäinen kappale, josta kehrätään lankaa tekstiilien valmistukseen.
+functional-matter;['juusto', 'juustoja'];Juoksetettu tai maitohapoilla käytetty maitotuote.
+functional-matter;['sokeri', 'sokerit', 'jalostettu sokeri', 'palasokeri', 'c6h12o6', 'inverttisokeri', 'puhdistettu sokeri', 'sokeria kuution'];Suurin piirtein kuution muotoon puristettu sokeri.
+functional-matter;['jää', 'jäätynyt vesi', 'vesijää', 'älä mene heikoille jäille'];Veden kiinteään olomuotoon jäätyessään muodostama tiheä aine. se esiintyy tavallisesti kuusikulmaisina kiteinä.
+functional-matter;['kuitu', 'ravintokuitu', 'ravintokuitua', 'karkearehua', 'liukoista kuitua'];Kasviperäisen ruuan se osa, joka imeytymättä kulkee ihmisen ruuansulatuskanavan läpi.
+functional-matter;['pehmis', 'jäätelön kaltainen maitokiisselijälkiruoka', 'pehmeäjäätelö', 'pehmytjäätelö', 'jäädytetty vaniljakastike', 'pehmeä palvella', 'pehmojäätelö'];Eräänlainen puolijuokseva jäätelö, jota pursotetaan tuutteihin tai kuppeihin.
+functional-matter;['jäätelö', 'jätski', 'glace', 'pehmis', 'suklaajäätelö', 'jäätelöä'];(Vedestä, kermasta tai maidosta yhdessä makuaineiden, emulsifiointiaineiden ja sokerin kanssa valmistettava) kylmä jälkiruoka, joka on suosittua kuumalla ilmalla.
+functional-matter;['omena', 'omppu', 'fibeli', 'fiblari', 'fiblu', 'knibeli', 'snibeli', 'vibeli', 'green apple', 'malus domestica', 'omenat'];Kirpeä, muodoltaan pyöreä omenapuun hedelmä, kuori väriltään yleensä punainen, keltainen tai vihreä, hedelmäliha vaalea, sisällä siemeniä.
+functional-matter;['kuura', 'huurre', 'hoar'];Suoraan kappaleiden pinnalle härmistymällä muodostunut jääkiteiden kerrostuma.
+functional-matter;['raaka-aine', 'raakamateriaali'];Raaka, käsittelemätön tai osittain käsitelty aine, jota hyödynnetään jatkojalostuksen perusmateriaalina.
+functional-matter;['sianliha', 'porsas', 'possu', 'sika', 'porc'];Sian liha.
+functional-matter;['muna', 'kananmuna', 'munat', 'munankeltuainen', 'munanvalkuainen', 'kala muna', 'kanan muna', 'munantuotannon', 'munantuotanto', 'munia'];Kesyn linnun, yleensä kanan, muna ruuaksi käytettynä.
+functional-matter;['seepia'];Seepian mustenesteestä valmistettu mustanruskea väriaine.
+functional-matter;['paahtoleipä', 'paahtoleipää'];Leipä, jota on kypsennetty kuivalla lämmöllä (yleensä leivänpaahtimessa). tavallinen aamiaisruoka.
+functional-matter;['aamiainen', 'aamupala', 'breakfast', 'mannermainen aamiainen', 'amerikkalainen aamiainen'];Päivän ensimmäinen, yleensä aamulla syöty, ateria. The first meal of the day, usually eaten in the morning.
+functional-matter;['kana', 'broilerinliha', 'siipikarjanliha', 'kanaa', 'kanoja', 'poulet', 'volaille'];Kesyn kanan ("Gallus gallus domesticus") liha.
+functional-matter;['jää', 'jäätynyt vesi', 'vesijää', 'älä mene heikoille jäille'];Veden kiinteään olomuotoon jäätyessään muodostama tiheä aine. se esiintyy tavallisesti kuusikulmaisina kiteinä.
+genetic-collective;['perhe', 'suku', 'lapsiperhe', 'uusperhe', 'perhesuhteet', 'perhettä'];Ryhmä johon lukeutuvat vanhemmat, jälkeläiset ja muut läheiset sukulaiset ja elinkumppanit.
+genetic-collective;['avioliitto', 'aviopari', 'mies ja vaimo', 'avio', 'avioliitot', 'avioliittoa', 'naimisiin', 'naimisissa ja'];Liitto kaksi henkilöä (yleensä mies ja nainen), joka sisältää oikeudellisia velvoitteita ja on tarkoitus kestää koko eliniän.
+geographical-object;['meri'];Valtamerta pienempi suolaisen veden massa, joka sijaitsee yleensä mantereen läheisyydessä.
+geographical-object;['saaristo', 'saariryhmä', 'rab ketju', 'saaristot'];Usean saaren muodostama ketju ja niitä ympäröivä vesialue.
+geographical-object;['niemimaa', 'luettelo niemimaista', 'niemi'];Maa-alue, joka työntyy mereen ja on lähes kokonaan veden ympäröimä.
+geographical-object;['puro', 'virtavesi', 'virta', 'vesireitti', 'vesistö', 'vesitie', 'väylä', 'noro', 'oja', 'jokireitti', 'järvireitti', 'reittivesi', 'stream', 'ajoittaista stream', 'ruisseau'];Pieni joki. törmien rajoittama liikkuvan veden massa.
+geographical-object;['puro'];Pieni virta tai puro, tavallisesti epätasaisessa maastossa ripeästi virtaava, puroa lyhyempi ja pienempi. erityisesti puro joka pulppuaa suoraan maasta, kuten lähde, tai syntyy rankkasateesta tai sulavasta lumesta.
+geographical-object;['kahluupaikka', 'kahlaamo', 'kahlauspaikka', 'ylityspaikka', 'ylikulkupaikka', 'kahluu', 'ford', 'joen fordin'];Matala joen kohta, josta joen voi ylittää kävelemällä.
+geographical-object;['lampi', 'lammikko', 'lätäkkö', 'lampia'];Pieni, luonnollinen, yleensä makean veden massa. esim. suolla tai luolassa seisova vesimassa.
+geographical-object;['egeanmeri', 'aigeianmeri', 'aigeian meri', 'aegeanmeri', 'ageianmeri', 'aigeanmeri', 'egeanmeren'];Välimeren osa, joka sijaitsee eteläisen Balkanin ja Anatolian niemimaiden välissä.
+geographical-object;['atlantin valtameri', 'atlantti', 'pohjois-atlantti', 'eteläinen atlantti', 'atlanti', 'etelä-atlantti'];Valtameri, jonka länsipuolella sijaitsevat Amerikan mantereet ja itäpuolella Eurooppa ja Afrikka.
+information-object;['pronomini', 'asemosana', 'asemo', 'pronominit'];Sana, joka viittaa toiseen sanaan. Sana, johon viitataan, on ominaisesti riippumaton (usein itsenäinen pääsana). Viittava sana on epäitsenäinen.
+information-object;['persoonapronomini', 'persoonapronominit', 'hän'];Pronomini, joka viittaa aikaisemmin mainittuun henkilöön.
+information-object;['piste', 'ajan', 'täysi kohta'];Pistemäinen välimerkki, joka osoittaa virkkeen loppua.
+information-object;['piste', 'ajan', 'täysi kohta'];Pistemäinen välimerkki.
+information-object;['kronikka', 'historia', 'historiikki', 'selostus', 'aikakirja', 'kronikat', 'historian', 'huomioon', 'kronikoissa'];Järjestelmälliset kirjalliset muistiinpanot, jotka käsittävät (esimerkiksi kaupungin, valtion, kansakunnan, instituution, tieteen tai taiteen) tapahtumia aikajärjestyksessä ja jotka yleensä sisältävät tapahtumien syyn ja alkuperän filosofisen selityksen.
+information-object;['alakäsite', 'hyponyymi', 'suppeampia termejä', 'hyponym', 'alainen sana', 'hypernym'];Tesauruksen termejä, joilla on toisia suppeampi merkitysalue.
+information-object;['sanaluokka', 'sanaluokat', 'leksikaalinen luokka', 'muodossa luokka', 'osa-of-puheen'];Luokka, johon sana luetaan sen perusteella mikä sen syntaktinen funktio on määrätyssä kielessä.
+information-object;['grafeemi', 'kirjoitusmerkki', 'kirjain', 'merkki', 'symboli', 'typografinen merkki', 'typografinen symboli', 'grapheme', 'graafinen tunnus', 'graphemes'];Kirjoitusjärjestelmän perusyksikkö.
+information-object;['pääte', 'suffiksi', 'loppu', 'jälkiliite', 'takaliite', 'desinence', 'päätteitä'];Morfeemi, joka liitetään sanan loppuun.
+information-object;['hälytys', 'herätyskello', 'herätyslaite', 'hälytyslaite', 'merkinantolaitteen koneisto', 'varoitusmerkki', 'hälyttäminen', 'aposematic', 'aposematism', 'touhua', 'varoitussignaali'];Uhkaavasta vaarasta ilmoittaminen, jotta huomio kiinnittyisi johonkin tapahtumaan tai jamaan.
+information-object;['kirjain', 'aakkoskirjain', 'aakkonen', 'grafeemi', 'kirjaimen'];Symboli aakkosissa.
+information-object;['oomega', 'omega', 'ω'];Klassisen ja nykykreikan aakkoston viimeinen kirjain. Iso kirjainsymboli: Ω. pieni: ω.
+information-realization;['tietokoneohjelma', 'ohjelma', 'sovellus', 'sovellutusohjelma', 'ohjelmisto', 'sovellusohjelma', 'ohjelmistot', 'tietokoneohjelmatyyppi', 'ohjelman', 'tietokoneohjelman', 'tietokoneohjelmistojen koodin'];Tiettyä tarkoitusta varten suunniteltu tietokoneen sovellus tai sovellusjoukko.
+information-realization;['ohjelmisto', 'ohjelma', 'tietokoneohjelmisto', 'ohjelmistokokonaisuus', 'ohjelmistotekniikka', 'softa', 'tietokoneohjelma', 'pehmo', 'tietokoneohjelmistot', 'modulaarinen ohjelmointi', 'modulaarisuus', 'moduuli', 'ohjelmistoja', 'tietokoneohjelmistojen'];Tiettyä tarkoitusta varten suunniteltu tietokoneen sovellus tai sovellusjoukko.
+information-realization;['lumiukko', '☃', 'lumiukkoja'];Luomesta muotoiltu ihmismäinen hahmo.
+information-realization;['kortti', 'postikortti'];Littana, tavallisesti suorakaiteenmuotoinen, jäykkä pala paperia, muovia, jne.
+information-realization;['rauhansopimus', 'rauha', 'rauhoittaminen', 'rauhansopimuksen', 'rauhansopimukset', 'rauhansopimusta'];Sodaton tila. eritoten valtioiden välillä.
+information-realization;['armenialaiset aakkoset', 'armenialainen aakkosto', 'armenialainen', 'armenian aakkoset', 'armenialainen kirjaimisto'];Armenian kielen käyttämä kirjoitusjärjestelmä.
+information-realization;['aaria', 'air', 'aarioita', 'aria'];Solistille ja sitä säestäville soittimille (yleensä orkesterille) tehty musiikkikappale.
+information-realization;['grafiikka', 'kuvamateriaali', 'kuvitus', 'muu kuin tekstiaineisto', 'nontextual väliä'];Valokuvat ja muut graafiset esitykset painetussa julkaisussa.
+information-realization;['taide', 'kuvataide', 'taide-'];Ihmisen luomisvoiman tuotteet. taideteokset kokonaisuutena.
+information-realization;['resepti', 'lääkemääräys'];Lääkärin kirjoittama kuvaus lääkkestä ja sen annostelusta.
+language;['kieli', 'kielellinen kommunikaatio', 'ihmisen kieli', 'kielellinen viestintä', 'kielellisen monimuotoisuuden', 'kielellistä monimuotoisuutta'];Kommunikointijärjestelmä, joka käyttää puhuttuja tai viitottuja sanoja tai joka käyttää sanoja, viittomia tai äänteitä esittäviä symboleita.
+language;['ido', 'ido-kieli', 'idon kieli'];Keinotekoinen, esperantosta muokattu kieli.
+language;['korea', 'korean kieli', 'korean', 'korean kielen'];Pääasiassa Pohjois- ja Etelä-Koreassa puhuttava kieli.
+language;['amerikanenglanti', 'englanti', 'amerikan englanti', 'pohjois-amerikan englanti', 'american kieli'];Englannista lähtöisin oleva länsigermaaninen kieli, jota nykyään puhutaan kaikilla Brittein saarten alueilla, Kansainyhteisön maissa, Yhdysvalloissa ja muilla maailman alueilla.
+language;['armenian kieli', 'armenia'];Indoeurooppalainen kieli, jota armenialaiset puhuvat.
+language;['viro', 'viron kieli', 'eesti', 'eestin kieli', 'vironkieli', 'esthonian', 'virolainen'];Suomalais-ugrilainen kieli, jota puhutaan lähinnä Virossa.
+language;['suomi', 'suomen kieli', 'finnish', 'nykysuomi', 'suomen kielen murteet', 'suomenkieli', 'suomenkielinen', 'suomenkieliset', 'suomen kielen'];Eräs suomalais-ugrilainen kieli, jota puhutaan etupäässä Suomessa.
+language;['liettualainen', 'liettuan'];Liettuaan, liettualaisiin tai liettuan kieleen liittyvä
+language;['espanja', 'espanjan kieli', 'kastilian kieli', 'kastilia', 'español', 'espanjan kielen', 'espanjan'];Romaaninen kieli, jota puhutaan pääasiassa Espanjassa, Keski- ja Etelä-Amerikassa sekä Karibialla.
+language;['portugalilainen', 'lusitanialainen', 'lusitanian', 'portugalin'];Portugaliin, Portugalin kansaan tai portugalin kieleen kuuluva tai liittyvä.
+language;['valkovenäjä', 'valkovenäjän kieli', 'valkovenäläinen', 'valko', 'valkovenäjän kielellä'];Valkovenäjän kansalainen.
+language;['saksa', 'saksan kieli', 'yläsaksa', 'deutsch', 'deutsche sprache', 'saksan aakkoset', 'yläsaksan', 'saksan kielen', 'saksankielinen', 'saksankielisten'];Indoeurooppalainen kieli, jota puhutaan pääasiassa Saksassa, Itävallassa, Liechtensteinissa, Etelä-Tirolissa, Sveitsissä ja pienessä osassa Belgiaa.
+locative-role;['serbia', 'srbija', 'serbian tasavalta'];Eräs Kaakkois-Eurooppalainen valtio.
+locative-role;['penkki', 'kukkapenkki'];Maatilkku, jossa kasvaa kasveja.
+locative-role;['maaseutu', 'maa', 'maaseudulla', 'maaseudun', 'maaseudun elämää', 'maassa'];Maalaismainen seutu kaupungin vastakohtana.
+locative-role;['valuma-alue', 'vesistöalue', 'sadealue', 'vesistö', 'allas', 'valuma', 'altaan', 'jokialue', 'valuma-alueella', 'vesistöalueen', 'vesistöalueilla'];Maa-alue, jolta sade- ja sulamisvesi luonnostaan kulkeutuu yhteen ja samaan vesistöön.
+locative-role;['valuma-alue', 'vesistöalue', 'sadealue', 'vesistö', 'allas', 'valuma', 'altaan', 'jokialue', 'valuma-alueella', 'vesistöalueen', 'vesistöalueilla'];Maa-alue, jolta sade- ja sulamisvesi luonnostaan kulkeutuu yhteen ja samaan vesistöön.
+method;['demokratia', 'kansanvalta', 'tasavalta', 'yhteisö', 'demokraattinen', 'demokraattisuus', 'demokratian tunnusmerkit', 'demokratismi', 'kansanvaltainen', 'kansanvaltaisuus', 'demokraattinen hallitus', 'demokraattiseen prosessiin', 'demokratialiikkeen', 'demokratian', 'demokratioissa', 'maallinen demokratia', 'tasavallaksi', 'tasavallan'];Valtiomuoto, jossa valta on viime kädessä kansalla, ja sitä käyttävät joko suoraan itse kansalaiset tai heidän vapaasti valitsemat edustajansa.
+non-agentive-physical-object;['turkki', 'turkikset', 'turkiskauppa', 'turkistakki', 'turkin', 'turkkeja', 'turkkurin'];Eläimen turkista tehty takki.
+non-agentive-physical-object;['kieli', 'kitaran kieli', 'merkkijono'];Joissain soittimissa äänen tuottamiseen käytetty lanka.
+non-agentive-physical-object;['käytävä', 'halli', 'kokoustila', 'käytävällä', 'sali'];Kapea sali tai kulkutie, joka on yhteydessä useisiin huoneisiin.
+non-agentive-physical-object;['ornamentti', 'koriste', 'koristelu', 'koristus', 'somiste', 'koriste-esine', 'dekoraatio', 'koristeet', 'ornamentiikka', 'koristeita'];Koristekuvio tai -aihe.
+non-physical-collection;['historia', 'historiaa', 'historian'];Tapahtumien tieteellinen tutkimus ajankulun näkökulmasta, ja tälläisen tutkimuksen kautta hankitun tiedon välittäminen toisille opetustarkoituksessa.
+organized-collection;['taulukko', 'asetelma', 'tilasto', 'taulukkomuodossa', 'taulukkomuodossa array', 'taulukossa'];Järjestelmällinen tieto esitysmuoto, tavallisesti riveinä ja sarakkeina.
+organized-collection;['virta', 'kulku', 'suuntaus'];Tapahtumien eteneminen tai tavanomainen sarja.
+parameter;['suuruusluokka', 'kertaluokka', 'suuruusluokka kymmenjärjestelmässä', 'biljoona', '1000000000000', 'kertaluokkaa', 'suuruusluokkaa'];Miljoona miljoonaa. miljoona toiseen potenssiin. 1.000.000.000.000 (10^12).
+parameter;['auringonnousu', 'sarastus', 'aamunkoitto', 'aamurusko', 'kukonlaulu', 'aamunkoi', 'koitto', 'päivänkoitto', 'koite', 'aamuhämärä', 'päivänkoi', 'päivänkoite', 'päivännousu', 'iltarusko', 'aamunkoite', 'auringonnousun', 'dayspring', 'first light', 'rikkoa päivän'];Hiukan auringonnousun edelle päivän alkuun osuva hetki, jonka aikana valo kirkastuu vähitellen.
+parameter;['tempo', 'tahti', 'vauhti'];Muutoksen nopeus.
+parameter;['aikuisuus'];(Ihmisen tai eläimen) tila, jossa on saavutettu täydet mitat ja voimat.
+phenomenon;['sähkövirta', 'virta', 'i', 'sähkövirran voimakkuus', 'johtavuusvirta', 'varauksenkuljettaja', 'sähkövirtaa'];Potentiaalieron aikaan saama elektronien virtaus johtimen läpi.
+phenomenon;['myrsky', 'rajumyrsky', 'myrskyvahinko', 'rajuilma', 'ukkosmyrsky', 'myrskyt'];Vallitsevia paine- ja tuulikenttiä sekoittava, kokoluokaltaan tornadoista tropiikin ulkopuolisiin syklooneihin vaihteleva ilmakehän häiriö. myös siihen liittyvä säätila ja vastaavat.
+phenomenon;['salama'];Ilmakehän sähkövarauksen purkautumisen aiheuttama valonvälähdys.
+phenomenon;['lumi', 'lumisade', 'hanki', 'kinos', 'loska', 'lumihanki', 'lumisohjo', 'nuoska', 'sohjo', 'suojalumi', 'viti', 'lunta'];Yleisin jäätyneen veden sadetyyppi, joka tavallisesti esiintyy hiutaleina tai tähtimäisinä kiteinä, toisiinsa takertuneina jääneuloina, tai edellä mainittujen yhdistelminä, ja usein huurteen peittäminä.
+phenomenon;['tuli', 'liekki', 'avotuli', 'liekehtivä', 'tulipalot'];Aineen yhdistyminen happeen niin nopeasti, että se palaa tuottaen lämpöä, liekkejä ja usein savua.
+phenomenon;['sade', 'vesisade', 'sadevesi', 'konvektiivinen sade', 'konvektiosade', 'lumisade', 'lumisateet', 'orografinen sade', 'ortografinen sade', 'rintamasade', 'rankkasade', 'sade myrsky', 'sademäärä'];Yli 0,5 millimetrin kokoisina pisaroina maahan putoava nestemäinen vesi.
+physical-body;['hiukkanen', 'subatominen hiukkanen', 'alkeishiukkanen', 'hiukkasen', 'atomia hiukkanen'];Erittäin pieni osa ainetta, kuten molekyyli, atomi tai elektroni.
+physical-body;['aurinko'];Mikä tahansa tähti, varsinkin kun se katsotaan jonkin aurinkokunnan keskukseksi.
+physical-body;['kiintotähti', 'aurinko', 'kiinteä tähti'];Mikä tahansa tähti, varsinkin kun se katsotaan jonkin aurinkokunnan keskukseksi.
+physical-object;['šakkinappula', 'shakkinappula', 'shakki pala', 'shakkinappulat'];Šakin pelaamiseen käytettävä pelinappula.
+physical-object;['vankila', 'tyrmä', 'linna', 'nuorisovankila', 'rangaistuslaitos', 'luettelo kuuluisista vankiloista', 'suomen vankilat', 'vankeinhoidon laitos', 'vankiloissa', 'county jail', 'keskitason tietoturvan', 'keskitason vankilan', 'vangita', 'vangittuna', 'vankeinhoitolaitoksen', 'vankilaan', 'vähimmäisturvaa'];Paikka, jossa yksilöiden henkilökohtaista vapautta on rajoitettu.
+physical-object;['ratsu', 'hevonen', '♘', '♞', 'ritari'];Shakkipelin nappula, joka on usein muotoiltu muistuttamaan hevosen päätä.
+physical-object;['turkki', 'turkikset', 'turkiskauppa', 'turkistakki', 'turkin', 'turkkeja', 'turkkurin'];Eläimen turkista tehty takki.
+physical-object;['hälytys', 'hälytysjärjestelmä', 'hälytin', 'hälytyslaite', 'hälyytys', 'hälytykset', 'varoituslaite'];Merkki, joka annetaan huomion kiinnittämiseksi johonkin tapahtumaan tai jamaan, joka uhkaa koitua vaaraksi.
+physical-object;['sauna', 'löylyhuone', 'saunat', 'höyrysauna', 'infrapunasauna', 'kärrysauna', 'saunamajuri', 'saunavasta', 'saunavihta', 'saunominen', 'siirrettävä sauna', 'vihta', 'vihtominen', 'hiki huone'];Huone - usein puuseinäinen - joka on suunniteltu kuivan ilman kuumentamiseksi ja johon voidaan saada höyryä heittämällä vettä kiukaalle.
+physical-object;['vitriini', 'lasikko', 'näytekaappi', 'lasikaappi', 'ilmoitustaulukaappi', 'näyttää kaapin', 'vitriinissä', 'vitrine'];Osittain läpinäkyvästä lasista tai muovista valmistettu huonekalu, jossa voidan pitää esineitä näkyvillä.
+physical-object;['matkapuhelin', 'kännykkä', 'känny', 'kapula', 'käsipuhelin', 'multimediamatkapuhelin', 'matkapuhelimet', 'kännyköiden', 'matkaviestinnän', 'solukkojärjestelmän'];Kannettava elektroninen laite, jolla soitetaan puheluita.
+physical-object;['linna', 'château-fort', 'keskiaikainen linna', 'linnoja'];Historiallinen sotilaallinen suojarakennus tai -rakennusryhmä, jonka tärkeimpiä osia ovat muurit ja tornit.
+physical-object;['virtapiiri', 'piiri', 'virtapiirin', 'elektroniikkaa', 'virtapiiriteollisuudelle'];Sähkövirran täydellinen kulkureitti, johon tavallisesti luetaan mukaan myös virtalähde.
+physical-object;['kirjoituspöytä'];Pöytä, kehikko tai laatikko, jonka ylätaso on yleensä kalteva, vaikkakin usein tasainen, ja joka on tarkoitettu kirjoittajille ja lukijoille. Sen alla on usein vetolaatikko tai hyllykkö.
+physical-object;['kirjahylly', 'kirjakaappi', 'kehukaappi'];Huonekalu, jossa on melkein aina hyllyjä kirjojen säilytykseen.
+physical-object;['vankila', 'linna', 'tyrmä', 'jailhouse', 'ahdas', 'vankilaan', 'vankilassa'];Paikka, jossa yksilöiden henkilökohtaista vapautta on rajoitettu.
+physical-object;['koulu', 'koulurakennus', 'koulun', 'koulutalo'];Laitos tai rakennus, jossa lapset ja nuoret saavat opetusta.
+physical-object;['hissi', 'nostin', 'hissit', 'hissin'];Mekaaninen laite, joka koostuu tasosta joka voi liikkua pystysuunnassa ylös ja alas ja jota käytetään kuljettamaan ihmisiä ja tavaroita talon kerrosten välillä.
+physical-object;['pamppu', 'billy club', 'billy klubi', 'billystick', 'poliisin viestikapulan', 'viestikapulan'];Pieni ja kevyt, pyöreäpäinen nuija, jota käytetään aseena.
+physical-object;['piirilevy', 'piirikortti', 'laajennuskortti', 'plug-in', 'add-in', 'piirilevyjä', 'plugins', 'teho kone'];Piirilevy, joka voidaan asettaa tietokoneen laajennuspaikkaan tietokoneen ominaisuuksien lisäämiseksi.
+physical-object;['höyrysauna', 'löylyhuone', 'sauna'];Huone - usein puuseinäinen - joka on suunniteltu kuivan ilman kuumentamiseksi ja johon voidaan saada höyryä heittämällä vettä kiukaalle.
+physical-object;['kirjahylly'];Huonekalu, jossa on melkein aina hyllyjä kirjojen säilytykseen.
+physical-object;['jakkara', 'palli'];Selkä- ja käsinojaton tuoli.
+physical-object;['kaappi', 'komero', 'astiakaappi', 'keittiökaappi', 'studiolo'];Varastotila, joko erillinen tai seinään rakennettu.
+physical-object;['kaappi', 'komero', 'astiakaappi', 'keittiökaappi', 'studiolo'];Suljettu, ei ihmisen mentävä säilytystila, johon pääsee käsiksi oven kautta. Tavallisesti se sijaitsee keittiössä.
+physical-object;['piano', 'pianoforte', 'akustinen piano', 'flyygeli', 'forte-piano', 'fortepianisti', 'fortepiano', 'grand piano', 'klassista pianoa'];Soitin, jonka ääni syntyy värähtelivissä kielissä, kun kosketinmekanismin liikuttamat huopapäällysteiset vasarat lyövät niitä.
+physical-object;['rakennus', 'julkinen rakennus', 'rakennelma', 'julkisten rakennusten', 'mahtava rakennus'];Something built with a roof and walls, such as a house or factory. Jokin rakennettu asia, jossa on katto ja seinät, kuten talo tai tehdas.
+physical-object;['rakennustelineet', 'rakennusteline', 'työteline', 'telineet', 'tukirunkoja'];Metalli-, puu- tai bambuosista koottava väliaikainen kehikko, jota käytetään rakennus- tai kunnostustyömailla ihmisten ja tavaroiden kannattelemiseen
+physical-object;['jojo', 'yoyo', 'jo-jo', 'yo-yo'];Leikkikalu, jossa on painoina kaksi tasapainotettua kiekkoa ja ne yhdistävä akseli, jonka ympärille on kiedottu naru. Lelulla leikitään laittamalla narun päässä oleva lenkki sormeen, tarttumalla painoon ja heittämällä tämä sulavaan liikkeeseen. Ennen painon palaamista käteen voi lelulla tehdä temppuja.
+physical-object;['sohva', 'leposohva', 'seslonki', 'vuodesohva', 'sohvalla', 'sohvat'];Huonekalu, jolla voi istua useita ihmisiä, ja jossa on selkä- ja käsinojat.
+physical-object;['huonekalu', 'huonekalut', 'kaluste', 'kalusteet', 'kodin sisustamiseen', 'huonekaluja'];Yksi osa kalusteita.
+physical-object;['lipasto', 'piironki', 'kirjoituslipasto', 'kirjoituspöytä'];Huonekalu, jossa on päällekkäin useita vaakatasoisia vetolaatikoita.
+physical-object;['torni', 'linna', '♖', '♜'];Šakkinappula, joka on yleensä tornin muotoinen. Kummallakin pelaajalla niitä on kaksi, ja ne liikkuvat laudalla pysty- tai vaakasuorilla linjoilla.
+physical-object;['iltti', 'kieli'];Kengässä nauhojen ja jalan väliin jäävä läppä.
+physical-object;['kuningatar', '♕', '♛'];Shakkipelin kyvykkäin nappula, joka voi siirtyä sekä suoraan että vinottain minkä tahansa määrän ruutuja.
+physical-object;['tulitikku', 'rikkitulitikku', 'tulitikkulaatikko', 'tulitikkurasia', 'tulitikut', 'kitka ottelu', 'ottelu', 'varmuustulitikut'];Tikku, jonka toisessa päässä on kitkan vaikutuksesta helposti syttyvää ainetta.
+physical-object;['nuija', 'ryhmysauva', 'pamppu', 'nuijia'];Pieni ja kevyt, pyöreäpäinen nuija, jota käytetään aseena.
+physical-object;['rautatieasema', 'juna-asema', 'junapysäkki', 'asema', 'juna asema', 'juna varikko', 'matkustajan asema', 'pysähtyi', 'pääteasema', 'railroad depot', 'rautatie pysäkki sijaitsee', 'rautatien pysähtyi', 'rautatien terminaalin', 'rautatientorille terminaalin'];Rakennus, jonka sisällä tai vieressä juna pysähtyy.
+political-geographic-object;['kirgisia', 'kirgisian tasavalta', 'kirgistan', 'kirgiisia', 'kirgisistan', 'kirgisistanin tasavalta', 'kgz', 'kirgiisien tasavalta', 'kirgisian', 'kirgisiassa', 'kirgizia'];Valtio Keski-Aasiassa.
+political-geographic-object;['guyana', 'guyanan kooperatiivinen tasavalta', 'guyanan osuustoiminnallinen tasavalta', 'ison-britannian guyana', 'brittiläinen guiana', 'guyanan tasavalta', 'britannian guayana', 'british guiana', 'osuuskunta guyanan tasavalta'];Etelä-Amerikassa sijaitseva maa, jonka pääkaupunki on Georgetown.
+political-geographic-object;['italia', 'italian tasavalta', 'it', 'ita', '🇮🇹', 'italiassa'];Etelä-Euroopan maa, jonka pääkaupunki on Rooma.
+political-geographic-object;['indonesia', 'indonesian tasavalta', 'alankomaiden itä-intia', 'hollannin itä-intia', 'republik indonesia', 'idn', 'hollannin itä-intian'];Valtio Kaakkois-Aasiassa, jonka pääkaupunki on Jakarta.
+political-geographic-object;['amsterdam', 'hollannin pääkaupunki', 'alankomaiden pääkaupunki', 'alankomaiden pääkaupungissa'];Alankomaiden pääkaupunki.
+political-geographic-object;['dublin', 'irlannin pääkaupunki', 'baile atha cliath', 'baile átha cliath', 'irlannin pääkaupungissa', 'pääoman irlanti'];Irlannin tasavallan pääkaupunki.
+political-geographic-object;['sofia', 'serdica', 'bulgarian pääkaupunki', 'sofija', 'bulgarian pääkaupungin', 'sardica'];Bulgarian pääkaupunki.
+political-geographic-object;['praha', 'tšekin pääkaupunki', 'prag', 'prague', 'tšekin pääkaupungin'];Tšekin tasavallan pääkaupunki.
+political-geographic-object;['rooma', 'ikuinen kaupunki', 'italian pääkaupunki', 'roma', 'italian pääkaupungissa'];Italian pääkaupunki.
+political-geographic-object;['berliini', 'saksan pääkaupunki', 'berlín', 'berliinissä', 'saksan pääkaupungissa'];Saksan pääkaupunki ja osavaltio, maan suurin kaupunki sekä pinta-alaltaan että väkiluvultaan, ja Euroopan unionin toiseksi väkirikkain kaupunki.
+political-geographic-object;['benin', 'beninin tasavalta', 'dahomey', 'dahomeyn kuningaskunta', 'beninin tasavallan'];Valtio Länsi-Afrikassa.
+political-geographic-object;['doha', 'bida', 'al-bida', 'qatarin pääkaupunki', 'el beda', 'pääkaupunki qatar'];Qatarin pääkaupunki.
+political-geographic-object;['lontoo', 'britannian pääkaupunki', 'ison-britannian pääkaupunki', 'londinium', 'british pääomaa', 'lontoon', 'pääkaupunki yhdistyneen kuningaskunnan', 'suur-lontoo'];Yhdistyneen kuningaskunnan ja Englannin pääkaupunki.
+political-geographic-object;['pariisi', 'ranskan pääkaupunki', 'valon kaupunki', 'pariisin', 'ranskan pääkaupungin'];Ranskan pääkaupunki.
+political-geographic-object;['luxemburg', 'luxemburgin pääkaupunki', 'luxembourg', 'luxembourgin kaupunki', 'luxemburgin kaupunki', 'luxembourg-ville', 'luxembourg city', 'pääoma luxemburgin'];Luxemburgin pääkaupunki.
+political-geographic-object;['oslo', 'kristiania', 'norjan pääkaupunki', 'christiania', 'oslon lääni', 'norjan pääkaupunki'];Norjan pääkaupunki ja suurin kaupunki.
+political-geographic-object;['varsova', 'warszawa', 'puolan pääkaupunki', 'warsaw', 'warschau'];Puolan pääkaupunki.
+political-geographic-object;['madrid', 'espanjan pääkaupunki', 'hortaleza', 'espanjan pääkaupungissa'];Espanjan pääkaupunki.
+political-geographic-object;['tukholma', 'ruotsin pääkaupunki', 'stockholm', 'stockholms kommun', 'tukholman kunta'];Ruotsin pääkaupunki ja suurin kaupunki.
+political-geographic-object;['maa', 'valtio', 'meksikon osavaltiot', 'osavaltio', 'meksikon valtion', 'meksikon yhdysvaltojen'];Itsenäinen poliittinen taho, joka toimii laajan maantieteellisen alueen ylimpänä auktoriteettina.
+practice;['häät', 'avioliiton solmiminen', 'vihkiäistilaisuus', 'vihkimistä'];Seremonia, joka juhlistaa avioliiton alkamista ja jonka aikana liiton osapuolet antavat toisilleen aviolupauksen.
+quality;['seepia', 'mahonki', 'poltettu sienna', 'punaisenruskea', 'venetsian punainen', 'venetsianpuna', 'palanut sienna', 'punaruskea', 'venetian red', 'venetsialainen punainen'];Synteettinen pigmentti, joka vastaa seepian musteen väriä.
+quality;['hiljaisuus'];Äänten täydellinen puuttuminen.
+quality;['ilme', 'olemus', 'näköinen', 'ilmeet'];Ilme tai olemus, joka ilmaisee tiettyä mielentilaa.
+quality;['sukupuoli', 'sosiaalinen sukupuoli', 'sukupuolisuus', 'sosiaalinen sukupuolijärjestelmä', 'seksuaalisuus', 'sukupuolen ilmaisun'];Jompikumpi niistä kahdesta ryhmästä (joko uros tai naaras), joihin monet organismit voi sijoittaa suvunjatkamistoimintojen tai -elinten perusteella.
+region;['1000000000', 'tuhat miljoonaa', 'miljardi', 'biljoona', '1000000000000', 'asteikko', 'pitkän ja lyhyen asteikot'];Miljoona miljoonaa. miljoona toiseen potenssiin. 1.000.000.000.000 (10^12).
+region;['nolla', 'ei mitään', 'ei-mikään', 'ei mikään', 'ei yhtään', 'ei yhtään mitään', 'tyhjyys', 'ei-kukaan', 'numero', '0', 'ei-mitään', 'mitään', 'null', 'hanhen muna', 'nada', 'tyhjyyteen', 'vähintäkään', 'zippo'];Kardinaalinumero, joka ilmaisee ettei jotain määrää ole ollenkaan.
+region;['kuukausi', 'kalenterikuukausi', 'kuu'];Kausi, joihin vuosi on jaettu ja joka perustuu historiallisesti kuun vaiheisiin. Gregoriaanisessa kalenterissa on kaksitoista kuukautta.
+region;['maili', 'maamaili', 'mi', 'kansainvälinen maili', 'neliömaili', 'survey mile', 'kansainvälinen kilometriä', 'kilometrin', 'maa kilometriä', 'ohjesääntö kilometriä', 'stat mi'];Monissa järjestelmissä käytetty pituusyksikkö, joka vastaa 5280 jalkaa.
+region;['league', 'legua', 'liiga'];Epävirallinen pituus- ja pinta-alayksikkö, joka vastaa järjestyksessä kolmea meripeninkulmaa (5,56 kilometriä) ja 4428,4 aaria.
+region;['neljäsosa', 'kaksikymmentäviisi prosenttia', 'neljännes-', 'neljännes', 'vartti', 'neljäs osa', 'quartern'];Jokin neljästä yhtäläisestä osasta, joihin jokin on jaettu.
+region;['kap verden escudo', 'escudo', 'kap verden escudon'];Kap Verden valuutta.
+region;['9', 'yhdeksän', 'ix', 'yhdeksikkö', 'yhdeksännes', 'yhdeksäsosa', '0', 'ennead', 'nina carolina', 'niner'];Kahdeksan jälkeen ja ennen kymmentä tuleva kardinaaliluku, jonka esitys roomalaisin numeroin on VIIII tai IX ja arabialaisin numeroin 9.
+region;['6', 'kuusi', 'puoli tusinaa', 'sekstetti', 'captain hicks', 'heksa', 'kuusikko', 'kuutonen', 'vi', 'hexad', 'kapteeni hicks', 'sise', 'sixer'];Viiden jälkeen ja ennen seitsemää tuleva kardinaaliluku, jonka esitys roomalaisin numeroin on VI ja arabialaisin numeroin 6.
+region;['5', 'viisi', 'v', 'pentadi', 'pikku phoebe', 'viitonen'];Neljän jälkeen ja ennen kuutta tuleva kardinaaliluku, jonka esitys roomalaisin numeroin on V ja arabialaisin numeroin 5.
+region;['kymmenen', '10', 'dekadi', 'kybä', 'kymppi', 'kypä', 'x', '10 luku', '1 e1', 'kymmen'];Yhdeksän jälkeen ja ennen yhtätoista tuleva kardinaaliluku, jonka esitys roomalaisin numeroin on X, arabialaisin numeroin 10, ja heksadesimaalilukuna A.
+region;['3', 'kolme', 'iii', 'kolmonen', 'kolmikko', 'kolminaisuus', 'tertsetti', 'tertsiini', 'triadi', 'trio', 'troikka', 'ässä', 'deuce-ässä', 'tercet', 'ternaariselle', 'ternion', 'terzetto', 'trine'];Kahden jälkeen ja ennen neljää tuleva kardinaaliluku, jonka esitys roomalaisin numeroin on III ja arabialaisin numeroin 3.
+region;['2', 'kaksi', 'ii', 'kakkonen', 'ahdin'];Numero "2".
+region;['8', 'kahdeksan', 'viii', 'kahdeksikko', 'kasi', 'eighter', 'eighter decatur', 'octad', 'octonary', 'ogdoad'];Seitsemän jälkeen ja ennen yhdeksää tuleva kardinaaliluku, jonka esitys roomalaisin numeroin on VIII ja arabialaisin numeroin 8.
+region;['7', 'seitsemän', 'vii', 'heptadi', 'seitsemäinen', 'seitsikko', 'septetti', 'seven', 'heptad', 'seitsenäisen', 'sevener'];Kuuden jälkeen ja ennen kahdeksaa tuleva kardinaaliluku, jonka esitys roomalaisin numeroin on VII ja arabialaisin numeroin 7.
+region;['4', 'neljä', 'iv', 'kvartetti', 'kvaternio', 'neli-', 'nelikko', 'neljän ryhmä', 'neloset', 'quaternion', 'little joe', 'quatern', 'quaternions', 'quaternity', 'tetractys', 'tetrad'];Kolmen jälkeen ja ennen viittä tuleva kardinaaliluku, jonka esitys roomalaisin numeroin on IV ja arabialaisin numeroin 4.
+region;['tämä päivä', 'tänään'];Nykyinen päivä tai päivämäärä.
+region;['kardinaaliluku', 'perusluku', 'cardinal aritmeettinen', 'kardinaali numero', 'kardinaali numerot'];Määrää ilmaiseva luku.
+region;['1000000', 'miljoona', 'tuhat tuhatta', 'meg', 'meur', 'milj', 'miljoonaa', 'tuhat tuhat'];Kardinaaliluku 1.000.000.
+region;['järjestysluku', 'atomiluku', 'atomin järjestysluku', 'atomiluvut'];Atomin ytimessä olevien protonien lukumäärä.
+region;['yksi', '1', 'i', 'ykkönen', 'kuuden hengen', 'monikon', 'n-tuple', 'tuplat', 'ässä'];Nollan jälkeen ja ennen kahta tuleva kardinaaliluku, jonka esitys roomalaisin numeroin on I ja arabialaisin numeroin 1.
+relation;['semanttinen suhde'];Sanojen merkitysten välillä oleva suhde.
+relation;['suhde', 'relaatio'];Yhteisesti kahdelle entiteetille tai osalle kuuluva tai luonteenomainen abstraktio.
+relation;['konjunktio', 'joskin', 'kuitenkin', 'mutta', 'sitävastoin', 'vaikka', 'kieliopin yhdessä', 'kiinnekohta yhdessä', 'yhdessä'];[esittelee sanan tai lauseen, joka erottuu edeltävästä sanasta tai lauseesta tai on sen vastainen]
+relation;['hypernymia', 'yläkäsitteisyys', 'hyperonyymi', 'yläkäsite', 'hypernym', 'hypernymy', 'superordination'];Tesauruksen termejä, joilla on toisia laajempi merkitysalue.
+relevant-part;['yhteys', 'konnektio', 'liitos', 'yhdistäminen', 'side', 'affiini konnektio'];Paikkojen, henkilöiden, tapahtumien tai asioiden välinen yhteys.
+simple-collective;['keskiluokka', 'porvaristo', 'porvarillisuus', 'porvarissääty', 'porvarit', 'keskiluokan', 'ammatillinen luokka', 'bourgeoise', 'keskitulotason', 'porvarillisen yhteiskunnan', 'porvariston', 'työpöytä työpaikka'];Keskiluokka.
+simple-planned-collective;['pikkukaupunki', 'asutusalue', 'kylä', 'ihmisasutus', 'asutuskeskus', 'yhteisö', 'asutettu paikka', 'asutuksen'];Kaupunki, kylä tai muu ihmispopulaation keskittymä, joka asuttaa ympäristöstä tietyn segmentin tai alueen.
+situation;['huomautus', 'alaviite', 'viite', 'merkintä', 'muistiinpano', 'huomio', 'kommentaari', 'kommentti', 'notaatio', 'reunahuomautus', 'viiteapparaatti', 'alaviitteet', 'loppuviite', 'loppuviitteet'];Tekstiin lisätty ruotiva tai selittävä merkintä.
+situation;['määritelmä', 'määrittely', 'määritelmät'];Sanan, lauseen tai symbolin merkityksen ytimekäs selitys.
+situation;['tervetulotoivotus', 'tervetuloa'];Tervehdys, jota käytetään, kun joku saapuu.
+situation;['uni', 'nukkuminen'];Jaksollinen fysiologisen levon tila, jonka aikana tietoisuus vaimenee ja aineenvaihdunta hidastuu.
+situation;['ala', 'piiri', 'alue', 'areena', 'vaikutuspiiri', 'alalla'];Erityinen elämän osa-alue tai kulku.
+situation;['mahdollisuus', 'tilaisuus'];Suotuisa tilaisuus tai tilanne.
+situation;['mainos', 'mainonta', 'mainostaminen', 'mainostus', 'ilmoitus', 'ilmoittelu', 'ajoneuvomainonta', 'mainokset', 'mainoskampanja', 'suoramainonta', 'advertizement', 'mainoksia', 'mainonta media', 'mainostaa', 'tulostaa mainoksen'];Maksettu, ei henkilökohtainen ilmoitus, jota sponsori esittää jossain joukkoviestimessä tehden itsensä tunnetuksi.
+situation;['etikettivirhe', 'faux pas', 'kömmähdys', 'moka', 'tahdittomuus', 'karkeus', 'munaus', 'möhläys', 'harha-askel', 'tyylivirhe'];Typerä virhe, varsinkin julkisuudessa tehty.
+situation;['rauhansopimus', 'rauha', 'rauhoittaminen', 'rauhansopimuksen', 'rauhansopimukset', 'rauhansopimusta'];Sodaton tila. eritoten valtioiden välillä.
+situation;['myrsky', 'rajumyrsky', 'myrskyvahinko', 'rajuilma', 'ukkosmyrsky', 'myrskyt'];Vallitsevia paine- ja tuulikenttiä sekoittava, kokoluokaltaan tornadoista tropiikin ulkopuolisiin syklooneihin vaihteleva ilmakehän häiriö. myös siihen liittyvä säätila ja vastaavat.
+situation;['lavantauti', 'tyyfys', 'tyfus', 'tyyfus', 'suolisto kuume'];Salmonella typhi -bakteerin aiheuttama sairaus. Se tarttuu sairastuneiden ihmisten ulosteiden saastuttamasta ruuasta tai juomasta. Sen tavallisia oireita ovat vatsakivut, korkea kuume, päänsärky ja toisinaan ripuli tai ummetus.
+situation;['määräys', 'sääntö'];Toiminnan tarkka määritelmä, jota pidetään käyttäytymisen virallisena ohjeena.
+situation;['huomautuksen lisääminen', 'kommentaarin lisääminen', 'selityksen lisääminen', 'huomautus', 'kommentti', 'kommentointiin'];Tekstiin lisätty sitä käsittelevä toteamus.
+situation;['muokkaaminen', 'muuttaminen', 'muutos', 'sovittaminen', 'muokkaus', 'muovaaminen', 'muovaus'];Jonkun tekeminen erilaiseksi.
+situation;['turvallisuus'];Se että on turvassa haitalta, vahingolta, vaaralta tai riskiltä.
+situation;['turvallisuus'];Se että on turvassa haitalta, vahingolta, vaaralta tai riskiltä.
+social-role;['luottokortti', 'maksuaikakortti', 'muoviraha', 'latauskortti', 'muovi', 'yrityskortti', 'yritysluottokortti', 'yritysluottokorttien vertailu', 'maksukortti', 'maksu levy'];Muovikortti, jossa on magneettiraita tai upotettu mikropiiri ja joka on yhdistetty luottotiliin ja jota käytetään tavaroiden tai palveluiden maksamiseen.
+social-role;['kolikko', 'lantti', 'klaava', 'kolikot', 'kruuna', 'leimakiilto', 'metalliraha', 'exergue', 'kolikoita', 'kolikon'];Maksuväline, joka on tavallisesti metallinen ja kiekon muotoinen, mutta toisinaan sen reuna on monikulmio tai sen keskellä on reikä.
+socially-constructed-person;['pluto', 'haades', 'aides', 'aidoneus', 'hades', 'pluton'];Eräs roomalaisen mytologian hahmo, tuonpuoleisen jumala.
+socially-constructed-person;['sisko', 'sisar', 'sisarensa'];Naispuolinen henkilö, jolla on samat vanhemmat jonkun toisen kanssa.
+socially-constructed-person;['kuningatar', 'naishallitsija', 'hallitseva kuningatar', 'keisarinna hallitseva', 'naaras hallitsija'];Naispuolinen hallitsija.
+socially-constructed-person;['aviomies', 'mies', 'siippa', 'miehensä', 'ukko'];Avioliiton miespuolinen osapuoli.
+socially-constructed-person;['vaimo', 'naimisissa oleva nainen', 'aviovaimo', 'rouva', 'vaimoja', 'vaimonsa'];Avioliitossa oleva nainen.
+socially-constructed-person;['silmälääkäri', 'oftalmologi', 'silmäkirurgi'];Silmien hoitoon erikoistunut lääkäri (kirurgi).
+socially-constructed-person;['palomies', 'palokuntalainen', 'pelastaja', 'palopelastaja', 'palo-ja pelastustoimen', 'palo yritys', 'palomiehet', 'palomiesten', 'vapaaehtoinen palomies'];Henkilö, joka on koulutettu sammuttamaan tulipaloja.
+socially-constructed-person;['saksalainen', 'saksatar'];Saksan kansalainen.
+socially-constructed-person;['portugalilainen', 'portugalilaiset'];Portugalissa asuva tai sieltä peräisin oleva henkilö
+socially-constructed-person;['typerys', 'tomppeli', 'hölmö', 'pölkkypää', 'yksinkertainen ihminen', 'höntti', 'juntti', 'kahjo', 'mäntti', 'pässinpää', 'tyhmä', 'ääliö', 'hupsu', 'pöllöpää', 'tyhmyri'];Vähä-älyinen tai käsityskyvyltään huono ihminen.
+socially-constructed-person;['idiootti', 'ääliö', 'typerys', 'hölmö', 'imbesilli', 'debiili', 'vähä-älyinen', 'älykääpiö', 'höntti', 'juntti', 'kahjo', 'mäntti', 'pässinpää', 'tomppeli', 'tyhmä', 'henkisesti jälkeenjäänyt', 'jälkeenjäänyt', 'idiotismi', 'debiliteetti', 'idiotia', 'tylsämielisyys', 'hidastaa', 'kääpiöt', 'vaihdokas'];Vähä-älyinen tai käsityskyvyltään huono ihminen.
+socially-constructed-person;['sukulainen'];Henkilö, jonka katsotaan kuuluvan samaan sukuun yhteisten esivanhempien, avioliiton tai adoptoinnin perusteella.
+socially-constructed-person;['vitriini', 'lasikko', 'näytekaappi', 'lasikaappi', 'ilmoitustaulukaappi', 'näyttää kaapin', 'vitriinissä', 'vitrine'];Osittain läpinäkyvästä lasista tai muovista valmistettu huonekalu, jossa voidan pitää esineitä näkyvillä.
+socially-constructed-person;['tomppeli', 'mäntti', 'typerys', 'tyhmä', 'jurpo', 'pahvi', 'pahvipää', 'tollo', 'urvelo', 'hölmö', 'höntti', 'juntti', 'kahjo', 'pässinpää', 'ääliö', 'huono kala', 'pillock', 'pudden-head', 'stupe', 'vanukas pään'];Vähä-älyinen tai käsityskyvyltään huono ihminen.
+socially-constructed-person;['nynny', 'pelkuri', 'itkupilli', 'mammanpoika', 'nahjus', 'nysväke', 'nössö'];Henkilö jolta puuttuu rohkeutta.
+socially-constructed-person;['tollo', 'tomppeli', 'typerys', 'pölkkypää', 'torvi', 'hölmö', 'höntti', 'juntti', 'kahjo', 'mäntti', 'pässinpää', 'tyhmä', 'ääliö', 'saphead', 'tomfool'];Vähä-älyinen tai käsityskyvyltään huono ihminen.
+socially-constructed-person;['pianisti', 'pianonsoittaja', 'klassinen pianisti', 'konserttipianisti', 'pianistit'];Pianoa soittava henkilö.
+socially-constructed-person;['pelkuri', 'mammanpoika'];Henkilö jolta puuttuu rohkeutta.
+socially-constructed-person;['puoliso', 'parempi puolisko', 'aviopuoliso', 'elämänkumppani', 'mies', 'siippa', 'aviomies', 'vaimo', 'naimisissa henkilö', 'parempi puoli'];Avioliiton miespuolinen osapuoli.
+socially-constructed-person;['hovinarri', 'narri', 'ilveily', 'motley fool'];Värikkääseen asuun ja narrinhattuun pukeutunut henkilö, joka keskiajalla viihdytti kuninkaan hovia.
+socially-constructed-person;['nunna', 'äiti', 'äiskä', 'nunnuus', 'nunnia'];Nainen, jolla on ainakin yksi lapsi.
+socially-constructed-person;['alaikäinen', 'lapsi', 'ipana', 'kersa', 'lapsukainen', 'muksu', 'napero', 'pentu', 'pikkumies', 'tenava', 'vekara', 'vintiö', 'alaikäisyys', 'nuorten', 'nuorukainen', 'vähäinen'];Ihminen, joka ei ole vielä tullut murrosikään.
+socially-constructed-person;['diplomaatti'];Henkilö, kuten suurlähettiläs, joka edustaa hallitusta sen ja muiden hallitusten välisessä kanssakäymisessä.
+socially-constructed-person;['maria', 'neitsyt maria', 'madonna', 'neitsyt', 'pyhä neitsyt', 'neitsyt maaria', 'autuas neitsyt maria', 'jumalanäiti', 'maria, jeesuksen äiti', 'neitsyt maaria emoinen', 'pyhä madonna', 'virgin'];Jeesuksen äidin nimi.
+socially-constructed-person;['kuningatar', 'kuningatarpuoliso', 'keisarinna puoliso', 'kuningatar-puoliso', 'kuningattaret consort'];Kuninkaan vaimo.
+socially-constructed-person;['kuningatar'];Kuninkaan vaimo.
+space-region;['taso', 'pinta', 'kerros', 'tasossa'];Litteä pinta, joka ulottuu äärettömän kauas joka suunnassa.
+space-region;['kuutio', 'säännöllinen kuusikulmio', '6-tahokas', 'kuusitahokas', 'heksaedri'];Kolmiulotteinen monitahokas, jonka sivuina on kuusi samansuuruista neliötä. eräs viidestä Platonin kappaleesta.
+space-region;['pallo', 'kehrä', 'pallomainen', '2-alalla', 'pallon', 'puolipallon'];Oggetto rotondo tridimensionale di cui ogni punto della superficie è equidistante dal centro. Pyöreä kolmiulotteinen kappale, jonka pinnan kaikki pisteet ovat yhtä kaukana sen keskipisteestä.
+space-region;['pallo', 'kehrä', 'pallomainen', '2-alalla', 'pallon', 'puolipallon'];Oggetto rotondo tridimensionale di cui ogni punto della superficie è equidistante dal centro. Pyöreä kolmiulotteinen kappale, jonka pinnan kaikki pisteet ovat yhtä kaukana sen keskipisteestä.
+space-region;['heksaedri', 'kuusikulmio', 'kuutio', 'heksaedrin', 'hexahedron'];Kolmiulotteinen monitahokas, jonka sivuina on kuusi samansuuruista neliötä. eräs viidestä Platonin kappaleesta.
+spatial-feature;['kanjoni', 'rotkolaakso', 'kanjoneita'];Laakso, erityisesti pitkä, kapea ja jyrkkä laakso, jonka joki on leikannut kallioon.
+spatial-feature;['pohja', 'allas'];Painauma, joka muodostaa maapohjan vesimassan alle.
+spatial-feature;['vuorijono', 'vuoristo', 'vuoriketju', 'talojono', 'poimuvuoristo', 'ketju vuoret', 'vuoristot'];Yksittäinen, laaja, huipullinen tai huiputon kivimassa, joka koostuu peräkkäisistä vuorista tai lähekkäisistä vuorenharjanteista, jotka kuuluvat yhteen sijaintinsa, suuntansa, muodostumisensa ja ikänsä puolesta.
+state;['skitsofrenia', 'dementia praecox', 'skitsofreenistyyppinen psykoosi', 'skitsofreniaryhmän häiriö', 'jakomielisyys', 'jakomielitauti', 'skitsofreenia', 'prstomielisyys', 'sitsofreenikko', 'pirstomielisyys', 'skitsofreenikko', 'negatiivisia oireita', 'positiivisia oireita', 'skitsofreenikoilla', 'skitsofreeninen häiriö', 'skitsofreeninen psykoosi'];Dopamiinin sääntelyhäiriöiksi luokiteltavien psykiatristen ongelmien ryhmä.
+state;['kosteus', 'ilmankosteus', 'ilman kosteus', 'humidisuus', 'absoluuttinen kosteus', 'humidness', 'kostea'];Vesihöyryn määrä ilmassa.
+status;['arvostus', 'kunnioitus', 'luottamus'];Hyväksynnän osoitus.
+subject;['ontologia', 'eksistentiaaliontologia', 'formaaliontologia', 'olemisoppi', 'ontologinen', 'oppi olevasta', 'ontologian historia', 'ontologisen'];Metafysiikan haara, joka tutkii olemisen ja olemassaolon luontoa tai sen perimmäistä laatua.
+substance-role;['metalliseos', 'lejeerinki', 'metalli', 'seos', 'billon', 'metalli-rikas', 'metallicity', 'seosaineiden', 'tähtien väestö', 'tähtien väestön', 'väestö iii tähteä', 'vähämetallisen'];Mikä tahansa monista aineista, joilla on metallin ominaisuudet ja koostuvat vähintään kahdesta alkuaineesta. harvoja poikkeuksia lukuun ottamatta aineen osat ovat metallisia alkuaineita.
+taxonomic-collection;['maskuliininen', 'maskuliini'];Miespuolista kieliopillista sukua edustava.
+taxonomic-collection;['sanaluokka', 'sanaluokat', 'leksikaalinen luokka', 'muodossa luokka', 'osa-of-puheen'];Luokka, johon sana luetaan sen perusteella mikä sen syntaktinen funktio on määrätyssä kielessä.
+taxonomic-collective;['heimo', 'yläheimo', 'perheen', 'taksonomisen perheen'];Taksonominen taso eli ryhmä eläimiä tai kasveja, osa jotain lahkoa, ja koostuu yhdestä tai useammasta suvusta.
+taxonomic-collective;['armadillidiidae', 'heimo armadillidiidae', 'saunamaija', 'siira', 'perhe armadillidiidae', 'pillbug'];Oniscideoiden alalahkoon kuuluva maalla elävä äyriäinen. Niillä on jäykkä, jaokkeinen ja kalkkipitoinen ulkoinen tukiranka ja neljätoista nivelikästä raajaa. Niitä esiintyy tavallisesti kosteissa, pimeissä paikoissa kuten kivien ja pölkkyjen alla.
+technique;['opetusmenetelmä', 'pedagogiikka', 'kasvatusoppi', 'opetusmetodi', 'kasvatustiede', 'pedagogi', 'opetusmenetelmät', 'pajapedagogiikka', 'pedagogia', 'opetusmenetelmiä', 'pedagoginen', 'pedagogist'];Kasvatusta ja opettamista tutkiva tiede.
+technique;['lukutaito', 'luku- ja kirjoitustaito', 'lukutaidoton', 'lukutaidottomuus', 'lukutaitoisuus', 'aikuisten lukutaito', 'lukutaidottomia'];Henkilö joka ei osaa lukea eikä kirjoittaa.
+technique;['taito', 'kyvykkyys', 'taitavuus', 'taidetta', 'taiteellisuus', 'taiteen'];Erityisen hyvä kyky, jonka voi saavuttaa opiskelemalla, harjoittelemalla ja tarkkailemalla.
+temporal-region;['pääsiäinen', 'pääsiäisen ajankohdan määrittäminen', 'pääsiäisloma', 'pääsiäispäivä', 'pääsiäissunnuntai', 'sukkasunnuntai'];Kristillinen juhla Kristuksen ylösnousemuksen muistoksi. ensimmäinen sunnuntai, joka seuraa kevätpäiväntasaukseksi tai sen jälkeen sattuvaa täysikuuta.
+temporal-region;['kausi', 'aika', 'ajanjakso', 'historian jakso', 'vaihe', 'ikä', 'historiallisen ajan'];Historiallinen ajanjakso.
+temporal-region;['kausi', 'urheilukilpailun kausi', 'urheiluseuran kausi', 'urheiluliigan kausi', 'urheilusarjan kausi', 'kauden', 'koti-ja vierasottelut kausi', 'lähellä kauden', 'off-season', 'offseason', 'pre-season', 'rauhoitusaika', 'runkosarjan'];Ennalta määrätty kulttuuritapahtumien sarja. esimerkiksi teatteriesitykset tai urheilutapahtumat, jotka pidetään pitkän ajanjakson, mutta kuitenkin alle vuoden, aikana.
+temporal-region;['neljännesvuosi', 'kolmekuukautisjakso', 'vuosineljännes'];Neljäsosa vuodesta.
+temporal-region;['kausi', 'aika', 'ajanjakso', 'historian jakso', 'vaihe', 'ikä', 'historiallisen ajan'];Historiallinen ajanjakso.
+temporal-region;['vuodenaika', 'kausi', 'vuodenajat', 'aikaan vuodesta'];Jokin neljästä keskenään yhtä pitkästä ajanjaksosta, joihin vuosi jakautuu tasaus- ja seisauspäivien hetkiltä, jotka määräytyvät auringon näennäisen, päiväntasaajan pohjois- ja eteläpuolisen liikkeestä Maan kiertäessä sitä. Näillä jaksoilla (kevät, kesä, syksy, talvi) on luenteenomaiset sääolosuhteet eri alueilla, ja ne sattuvat päinvastaiseen aikaan vuodesta pohjoisella ja eteläisellä pallonpuoliskolla.
+temporal-region;['kuukausi', 'kalenterikuukausi', 'kuu'];Kausi, joihin vuosi on jaettu ja joka perustuu historiallisesti kuun vaiheisiin. Gregoriaanisessa kalenterissa on kaksitoista kuukautta.
+temporal-region;['tammikuu', 'tammik.', 'tammikuuta'];Gregoriaanisen kalenterin ensimmäinen kuukausi, jossa on 31 päivää.
+temporal-region;['tammikuu', 'tammik.', 'tammikuuta'];Gregoriaanisen kalenterin ensimmäinen kuukausi, jossa on 31 päivää.
+temporal-region;['tammikuu', 'tammik.', 'tammikuuta'];Gregoriaanisen kalenterin ensimmäinen kuukausi, jossa on 31 päivää.
+temporal-region;['joulukuu', 'talvikuu', 'jouluk.', 'joulukuuta', 'joulukuussa'];Gregoriaanisen kalenterin kahdestoista kuukausi, jossa on 31 päivää.
+temporal-region;['joulukuu', 'talvikuu', 'jouluk.', 'joulukuuta', 'joulukuussa'];Gregoriaanisen kalenterin kahdestoista kuukausi, jossa on 31 päivää.
+temporal-region;['toukokuu', 'toukokuuta'];Gregoriaanisen kalenterin viides kuukausi, jossa on 31 päivää.
+temporal-region;['syyskuu', 'syysk.', 'syyskuuta', 'syyskuussa'];Gregoriaanisen kalenterin yhdeksäs kuukausi, jossa on 30 päivää.
+temporal-region;['maaliskuu', 'maalisk.', 'maaliskuuta', 'maaliskuussa'];Gregoriaanisen kalenterin kolmas kuukausi, jossa on 31 päivää.
+temporal-region;['helmikuu', 'helmik.', 'helmikuuta'];Gregoriaanisen kalenterin toinen kuukausi, jossa on 28 päivää.
+temporal-region;['elokuu', 'elok.', 'kylvökuu', 'mätäkuu', 'elokuuta', 'elokuussa'];Gregoriaanisen kalenterin kahdeksas kuukausi, jossa on 31 päivää.
+temporal-region;['heinäkuu', 'heinäkuuta'];Gregoriaanisen kalenterin seitsemäs kuukausi, jossa on 31 päivää.
+temporal-region;['huhtikuu', 'huhtik.', 'huhtikuuta'];Gregoriaanisen kalenterin neljäs kuukausi, jossa on 30 päivää.
+temporal-region;['kesäkuu', 'suvikuu', 'kesäkuuta'];Gregoriaanisen kalenterin kuudes kuukausi, jossa on 30 päivää.
+temporal-region;['marraskuu', 'marrask.', 'marraskuuta', 'marraskuussa'];Gregoriaanisen kalenterin yhdestoista kuukausi, jossa on 30 päivää.
+temporal-region;['lokakuu', 'lokak.', 'lokakuuta', 'lokakuussa'];Gregoriaanisen kalenterin yhdestoista kuukausi, jossa on 31 päivää.
+temporal-region;['tämä päivä', 'tänään'];Nykyinen päivä tai päivämäärä.
+temporal-region;['huvikausi', 'aika', 'korjuuaika', 'kausi', 'sosiaalinen kausi', 'sosiaalisen kausi'];Vuosittain toistuva määrittelemättömän pituinen jakso - suhteellisen pitkä, mutta kuitenkin vuotta lyhyempi - jolloin tietty sato kypsyy tai tietynlainen, tavallisimmin maatalouteen liittyvä työ pitää tehdä.
+temporal-region;['lapsuus'];Ajanjakso, jolloin ihminen on lapsi.

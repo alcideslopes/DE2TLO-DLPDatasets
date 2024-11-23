@@ -1,0 +1,76 @@
+activity;['ịwụli elu'];ọnọdụ ịmegharị ahụ site na-ịwụlị elu
+activity;['ịgba ọsọ'];ndọrọndọrọ igba ọsọ iji nwee mmerị
+activity;['agha'];Agha bụ nsogbu maọbụ ihe ọbụla yiri nsogbu sitere na ọgụ, ekworo na nghọtahie.
+activity;['mmiri ozizo', 'mmiri ozuzo'];mmiri na-esi n'igwe ehudata
+agentive-physical-object;['ebe a na-azụ ọkukọ'];Ebe a na-azụ ọkụkọ bụ ụlọ e nedebe ọkụkọ na-enye ha nri ka ha too maka oriri na orire.
+agentive-physical-object;['anụmanụ', 'anụmani'];Anụmanụ bụ ihe di ndu, na eku ume ma na abụhi nmadu. Ụfọdụ n'ime ha bụ anụ ọhịa, ebe ụfọdụ bụ anụ ụlọ.
+agentive-physical-object;['nkịta', 'canis lupus familiaris'];ụdị anụmanụ na-ebi n'ụlọ
+agentive-physical-object;['ewu', 'capra aegagrus hircus'];Ewu bu otu n'ime anumanu ndi nwere ụkwụ anọ na-ebi n'ụlọ. Ana eri ya eri ma na- erekwa ya ere iji nweta ego.
+agentive-physical-object;['ehi', 'bos primigenius taurus', 'efi'];anụ na-ebi n'ụlọ. A na-eri ya eri.
+agentive-physical-object;['ehi', 'bos primigenius taurus', 'efi'];anụ na-ebi n'ụlọ. A na-eri ya eri.
+agentive-physical-object;['ele'];Ele bụ otu n'ime anụ ndi na-ebi n'ọhia. A na-erikwa ya eri.
+agentive-physical-object;['ebe', 'coleoptera'];Ebe bụ otu n'ime ahụhụ ndi na enwe nku abụọ siri ike n' iru bụ nke na-ekpuchi nku nke di n' azụ mgbe ọ na-ezu ike.
+agentive-physical-object;['ágwu', 'ágụ', 'panthera pardus', 'agwu'];Agụ bụ anụ ọhịa nke na-acha upa-upa ma tụọ agwa ojii n'ahụ ya.
+agentive-physical-object;['agwọ'];ihe na enweghị ụkwụ maọbụ aka na-arị arị ma na-ata ata
+agentive-physical-object;['enyi mmiri', 'hippopotamus amphibius', 'mgbada-awururu'];nnukwu anụmanụ na-ebi n'ala na ebikwa n'ime mmiri. O na- erikwa ahihia.
+amount-of-matter;['mmịrị ọṅụṅụ'];ụdịrị mmiri dị ọcha a na aṅụ aṅụmaọbụ iji sie ihe oriri.
+biological-object;['akpa nwa'];Nke a na-adi n'ime ahụ ụmụ nwaanyị, ọ bụ akpa nwa ka nwa aga-amụ ọhụụ na anọ ọnwa iteolu tupu a mụọ ya
+biological-object;['áká', 'aka'];Aka bụ akụkụ ahụ mmadụ maọbụ anụmanụ
+biological-object;['anya', 'ányá'];akụkụ ahụ eji ahụ ụzọ
+biological-object;['onu', 'olu'];akụkụ ahụ na-ebu isi mmadụ
+cognitive-event;['ekworo'];Inwere mmadụ ibe gị obi ọjọọ na anya ọjọọ.
+cognitive-event;['anya ụfụ'];Inwe obi maọọbụ anya ọjọọ n'ebe mmadụ maọọbụ ihe ya nọ.
+cognitive-event;['aṅụli', 'aṅụri', 'eṅụli'];Aṅuli bụ ọnọdụ obì ụtọ.
+event;['agbamakwụkwọ'];agbamakwụkwọ bụ Emume aṅụri nwoke na nwaanyị tozuru etozu ịlụ di na nwunye dika iwu ndị ụka si kwuo ji ebi dika di na nwunye.
+functional-matter;['aja'];ọ na adi ka okwute egwere egwe
+information-encoding-system;['ekwuecheọzọ'];Okwu aghụghọ eji agwa mmadụ okwu kama ikwupụta ihe ka osi di.
+information-encoding-system;['ejije obi mwute'];Nke a bụ egwuregwu/ejije nke onye isi mkpagwa n'ime ya nwụrụ anwụ
+information-object;['orfor'];Biko
+information-object;['nkowa onwe', 'ederede nkowa onwe nke mmadu ji aka ya de gbasara onwe ya.'];Nke a bu Ederede nkowa gbasara onwe, nke mmadu dere gbasara onwe ya.
+information-realization;['mkpịsị odee'];ihe eji ede ihe odide
+information-realization;['akwụkwọ ọgụgụ', 'tutorial'];akwụkwọ ọbụla a na-agụ iji nweta mmụta maọbụ amamihe.
+information-realization;['ite egwu', 'ị zọ ụkwụ egwu', 'ịgba egwu'];mmegharị ahụ site n'usoro egwu
+language;['ahịrịokwu'];mkpụrụokwu gakọrọ ọnụ na ezigbo usoro ma nwee nghọta zuru oke
+locative-role;['ebe a na-eli ndi nwụrụ anwụ'];ebe a na-eli ndi nwụrụ anwụ bụ ani ebe a na egwu ma dobe ozu ndi nwụrụ anwụ.
+locative-role;['light'];ahà nnà
+phenomenon;['aṅụ'];Aṅụ bụ okwu na-akọwa ọnọdụ iri ihe di mmiri mmiri.
+phenomenon;['ọmụmụ nwa'];omumu nwa
+phenomenon;['mmiri ozizo', 'mmiri ozuzo'];mmiri na-esi n'igwe ehudata
+physical-object;['ụgbọala', 'ugbọ awara awara'];ihe ọbụla nwere taya na-agba n'okporo ụzọ koluta
+physical-object;['nkata', 'ọda'];ihe eji etinye ihe bụ nke eji ọmụ nkwụ kpọrọ nkụ wee kpaa
+physical-object;['ama-egwuregwu'];Ama-egwuregwu bụ aha ebe a na-egwuri-egwu di iche-iche di ka, igba egwu, igba mgba, igba bọọlu, dirigawazia, ma ọ bụ, ebe ndi obodo na-enwe ogbakọ
+physical-object;['ịgba'];ụdịrị ihe eji eti egwu
+physical-object;['ebe ọgụgọ arụsi', 'ebe a na agọ alụsi'];ebe ọgụgọ arụsị bụ ebe dị asọ a na-anọ ekpere chi di iche iche n'ụzọ omenala
+physical-object;['enyo', 'ugegbe'];Enyo bụ aha ịhe na-egosi enyinyo ihe kwụ n' ihu ya.
+physical-object;['galari'];Galari bu ulo maọbụ ebe ọbụla ana-akpọsa ọlụ nka nine n'udi ọbụla maka nkiri maọbụ orire.
+physical-object;['mkpịsị odee'];ihe eji ede ihe odide
+physical-object;['ahia'];Ahia bụ ebe a na-ere ma na-azụta ihe ndi di iche iche.
+physical-object;['ulo uka', 'ụlọ ụka'];ụlọ ebe ndị otu krist na anọ ekpere chi ha
+physical-object;['akpati ozu'];Nke a bụ ebe ana-etinye onye nwụrụ anwụ tupu elie ya n'ala. Ana eji osisi arụ ya maọbụ ugogbe
+physical-object;['efere', 'afere', 'ewhele'];efere bụ ihe eji etinye ihe oriri.
+political-geographic-object;['naijiria', 'nigeria', 'naigeria'];Ọ̀hàn'ezènànjikọ̀ dị nà Eluàlà orìè
+situation;['eze mgbu'];Nke a bụ ụfụ maọbụ mgbu na-esite n'ọria eze.
+situation;['gaa ije'];ọnụdụ imeghari ahụ site na- itụpụ ụkwụ ugboro ugboro.
+socially-constructed-person;['nwata akwụkwọ'];onye ọbụla na-aga ụlọ mmụta maọbụ ebe a na-akuzi ihe mmụta.
+socially-constructed-person;['dinta'];Dinta bụ aha aka orụ eji mara onye na-achụta ma gbuo anụmanụ n'ime ọhia maka oriri maọbụ ire ha wee kpata ego.
+subject;['physics', 'ọ̀mụ̀ntụdị'];Mmụ̀ma ịh'ịhẹ nà ùjìjè ya, mà amụ̀uchè ibè ya dị kà umere nà ikeụgaga
+taxonomic-collective;['akwụ'];Akwụ bụ otu n'ime ihe chineke kere maka ihe oriri mmadụ.Ọ bụ nkwụ na-amita ya. Ọ n'adi n'ogbe. a na esi na akwụ emeputa nmanu nri .
+temporal-region;['july 1', '1 julaị', '1 july', 'julaị 1'];Aka
+temporal-region;['önwa mbu 1', '1 january', '1 jenụwarị', 'january 1', 'jenụwarị 1'];Aka
+temporal-region;['february 2', '2 febrụwarị', '2 february', 'febrụwarị 2'];Aka
+temporal-region;['november 1', '1 novemba', '1 november', 'novemba 1'];Aka
+temporal-region;['19 maachị', '19 march', 'maachị 19', 'march 19'];Aka
+temporal-region;['april 14', '14 eprel', '14 april', 'eprel 14'];Aka
+temporal-region;['july 4', '4 julaị', '4 july', 'julaị 4'];Aka
+temporal-region;['may 24', '24 mee', '24 may', 'mee 24'];Aka
+temporal-region;['august 1', '1 ọgọọst', '1 august', 'ọgọọst 1'];Aka
+temporal-region;['önwa ishií 14'];Aka
+temporal-region;['önwa ishií 29'];Aka
+temporal-region;['september 29', '29 septemba', '29 september', 'septemba 29'];Aka
+temporal-region;['önwa ishií 21'];Aka
+temporal-region;['may 1', '1 mee', '1 may', 'mee 1'];Aka
+temporal-region;['march 2', '2 maachị', '2 march', 'maachị 2'];Aka
+temporal-region;['february 29', '29 febrụwarị', '29 february', 'febrụwarị 29'];Aka
+temporal-region;['önwa ishií 23'];Aka
+temporal-region;['abalị'];Abali bụ oge na ụbọchi mgbe anyanwụ nke nọ na elu-igwe labara na ndida tụpụ ya apụta kwa na ụtụtụ ọzọ.
+temporal-region;['önwa mbu 6'];Aka

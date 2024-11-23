@@ -1,0 +1,493 @@
+activity;['balonpede', 'futbale'];Balonpede, ye maxim lingues savat per li nome "Futbale" es li maxim populal sporte ye li monde.
+activity;['shake'];Lude inventati en lun unesmi forme da Indianes kun li nome de Shaturanga, adoptati da l'Iranianes e Arabes kun li nome de شطرنج shatranj pos shitranj.
+activity;['aikido'];Aikido es arte orientat al defense, kun profundi filosofial base, in li kel li defensor ridiriga li movos e li energie del atakes a mesme sen oponent.
+activity;['taekwondo'];Li taekwondo (태권도. 跆拳道) es martial arte e sporte de kombate kun sen fonte in Korea.
+activity;['gimnastike', 'gimnastikes'];Gimnastike es li exekuto de gimnastikal exerses kun li korpore.
+activity;['balete'];Balete es klasiki danso kun musike e mimes, ma sin parlo.
+activity;['edukatione'];Li vorde edukatione es derivat fro li latini educare (kun kurti u) signifikant "kreskifika" o "dresa", via "educatio/nis", kreskifiko o dreso.
+activity;['sporte'];Li sporte es fisikal aktiveso segun regles.
+activity;['martial artes', 'martial arte'];Martial artes es apelatione kun li maxim larji sense kelen omni signifikationes deskripte maneres de kombata bonim.
+activity;['personal defense', 'personal defenso'];Li personal defense o autodefense es disipline kel agrupa junkto de prinsipales utilisat por stopar ofensiv aktione realisat konter irgi persone.
+activity;['teatre'];Teatre es spektaklet da aktores tu donationa eventes a hiri audientia.
+activity;['edukatione'];Li vorde edukatione es derivat fro li latini educare (kun kurti u) signifikant "kreskifika" o "dresa", via "educatio/nis", kreskifiko o dreso.
+agentive-figure;['drake'];Li drake es mitologial bestie kun li forme de reptere kun quar gambes e du ales.
+agentive-figure;['viverne'];Li viverne es mitologial drake kun du ales e du gambes.
+agentive-figure;['mantikore'];Li mantikore es mitologial bestie kun korpore de redi leone, kape de home kun tri ranges de akuti dentes e voise kom trumpete.
+agentive-figure;['unikorne'];Li unikorne es mitogial bestie kun korpore de kavale e un korne mid sen fronte.
+agentive-figure;['nato'];Li NATO
+agentive-figure;['europan unione', '🇪🇺'];Li Europan Unione (EU) es statal organisatione del europani states.
+agentive-figure;['unionati nationes'];Li Unionati Nationes es organisatione de landes del monde.
+agentive-figure;['eklesie de jesu kristo de li sanktis de li lasti dies'];Li Eklesie de Jesu Kristo de li Sanktis de li Lasti Dies es eklesie kristiani.
+agentive-figure;['religione'];Religione es komun kredos e praktisos generalim tenat da grupe de homes, ofte in li forme de prego, rituale e religional lege.
+agentive-figure;['nazi germania'];Nazi Germania es nome de Germania fro 1933 til 1945.
+agentive-figure;['grifone'];Li grifone (latinum gryphus, fro ansieni grekum γρυψ, gryps) es mitologial bestie kun korpore de leone e kape e ales de agle.
+agentive-physical-object;['animalia', 'animale'];Animales es grandi grupe de multselulal organismes, in li regia Animalia o Metazoa.
+agentive-physical-object;['mammalia', 'mamifere', 'mamiferes'];Li mamiferes (klase Mammalia) es li klase de vertebrosi animales karakterisat dal presenteso de mamal glandes, kel in females produkte milke por nutrio de yunes.
+agentive-physical-object;['migranti turde', 'nordamerikani robin'];Migranti turde
+agentive-physical-object;['koralie'];Koralie es mikri maral animale, li kalke-skeletes de kel forma korali-rifes e isles in varmi mares.
+agentive-physical-object;['chiroptera', 'vespertilie'];Vespertilies es mamiferes del ordine Chiroptera.
+agentive-physical-object;['orcinus orca'];Orcinus orca es li maxim grandi spesie ek li familie de oseanal delfines (Delphinidae).
+agentive-physical-object;['rodentia', 'rodere'];Rodentia es ordine de mamiferes anke nomat roderes, karakterisat per du kontinuim kreskanti insisives in li supri e subi maxiles keles mus bli akutisat per rodo.
+agentive-physical-object;['monotremata'];Monotremes (fro li greki vorde monos 'singli' + trema 'true', referant al kloaka) es mamiferes kel partura oves insted naskiso vivanti yunes kom marsupiales (Metatheria) e plasental mamiferes (Eutheria).
+amount-of-matter;['klore', 'cl'];Klore es li dek-sepesmi kemial elemente.
+amount-of-matter;['nitrogene', 'n'];Nitrogene es li sepesmi kemial elemente.
+amount-of-matter;['kalium', 'k'];Kalium es li dek-ninesmi kemial elemente.
+amount-of-matter;['fosfore', 'p'];Fosfore es li dek-sinkesmi kemial elemente.
+amount-of-matter;['hidrogene', 'h'];Hidrogene es li unesmi kemial elemente.
+amount-of-matter;['fluore', 'flüor', 'f'];Fluore es li ninesmi kemial elemente.
+amount-of-matter;['dna'];DNA, deoxiribonuklei aside, es nuklei aside.
+amount-of-matter;['aluminie', 'al'];Aluminie es li dek-triesmi kemial elemente.
+amount-of-matter;['natrium', 'na'];Natrium es li dek-unesmi kemial elemente.
+amount-of-matter;['ore'];Ore es li setanti-ninesmi kemial elemente.
+amount-of-matter;['bore', 'b'];Bore es li sinkesmi kemial elemente.
+amount-of-matter;['helium', 'he'];Helium es li duesmi kemial elemente.
+amount-of-matter;['karbo', 'c'];Karbo es li sixesmi kemial elemente.
+amount-of-matter;['sulfre', 's'];Sulfre es li dek-sixesmi kemial elemente.
+amount-of-matter;['proteine'];Proteine es pesosi molekule komposit ek amino-asides.
+amount-of-matter;['elemente', 'kemial elemente'];Elemente (kemial) es simpli substantie komposit ek identi atomes.
+amount-of-matter;['alkali', 'base'];Base in kemie es li komplemente de aside.
+amount-of-matter;['alkali', 'base'];Alkali es aque-soluebli substantie kel akte kom forti base in kemial reaktiones.
+amount-of-matter;['aside'];Aside es substantie kapabli tu produkte iones de hidrogene in kemial reaktiones.
+amount-of-matter;['amino-aside'];Amino-asides es importanti klase de asides kel kontena un o pluri amino-grupes.
+amount-of-matter;['materie'];Materie es material substantie, tum kel have extensione in spatie e tempe.
+biological-object;['klitore'];Klitore es feminini sexual organe de mamiferes.
+biological-object;['ovarie'];Ovarie es feminini sexual organe de mamiferes.
+biological-object;['penise', 'penis'];Penise es parte del korpore maskulini de mamiferes.
+chemical-object;['molekule'];Molekule es kompositione de atomes ligat per kemial liges e aktent kom unitate.
+chemical-object;['ione', 'anione', 'katione'];Ione es atome o grupe de atomes kel ha aquira elektri charjo per gano o perdo de negativim charjat elektrones.
+chemical-object;['proteine'];Proteine es pesosi molekule komposit ek amino-asides.
+chemical-object;['isotope'];Isotopes es atomes de kemial elemente kel have li sam nombre de protones in li nukleus ma diferanti nombre de neutrones.
+classification-system;['distributione de bernoulli', 'binomial distributione', 'bernoulli distributione'];In probableso teorie e statistike, li Bernoulli distributione, nomat segun suisi sientiiste Jakob Bernoulli, es diskreti probableso distributione, kel have valore 1 kun probableso
+cognitive-event;['plesire'];Plesire es li stando de konsientie oposit a dolore.
+cognitive-event;['silogisme'];Silogisme es li logikal forme de un argumente konsistant ek tri asertiones: du premises e un konklusione.
+combinatorial-system;['sintaxe'];Sintaxe, in linguistike, es li studio del strukture de frases e satses in lingues.
+dependent-place;['nukleus'];Nukleus es li sentral parte de atome.
+functional-matter;['vitamine'];Vitamine es spesial molekule kel es nesesari in li diete de homes.
+functional-matter;['vitamine'];Vitamine es spesial molekule kel es nesesari in li diete de homes.
+geographical-object;['lagune'];Lagune es korpore de aque separat fro li mare da rive o rife.
+geographical-object;['kayman isles', 'cayman isles'];Kayman Isles es lande de Nord Amerika.
+geographical-object;['angila', 'anguilla'];Angila es lande de Nord Amerika.
+geographical-object;['sudi amerika', 'sud amerika'];Sudi Amerika es kontinente kun li maxim grandi parte de sen area in li Sudi Hemisfere.
+geographical-object;['republike de china'];Republike de China es lande de esti Asia.
+geographical-object;['faro isles'];Li Faro Isles es arkipelage ek 18 isles.
+geographical-object;['bermuda'];Bermuda es lande de Nord Amerika.
+geographical-object;['nederlandani antiles'];Nederlandani Antiles es lande de Nord Amerika.
+geographical-object;['isles kanarias', 'isles canaries'];Li Isles Kanaries es autonomi komunie de Spania.
+geographical-object;['falklande isles'];Falklande Isles (Unionati Regia) es lande de Sud Amerika.
+geographical-object;['montserat', 'montserrat'];Montserat es lande de Nord Amerika.
+geographical-object;['isles baleares'];Isles Baleares es komunie de Spania.
+geographical-object;['antarktika', 'antarkte'];Antarktika es kontinente kel sirkumda li Sudi Pole del Tere.
+geographical-object;['martinik'];Martinik es lande de Nord Amerika.
+geographical-object;['guadelupe'];Guadelupe es lande de Nord Amerika.
+geographical-object;['australasia'];Australasia es li area kel inkluse Australia, Novi Selande, Novi Ginea e li multi, proximi, plu mikri isles, ek kel maxim multes es in li esti parte de Indonesia.
+geographical-object;['isle de man'];Li Isle de Man es li isle inter Anglia e Irlande.
+geographical-object;['verdi-lande'];Verdi-lande es lande de Nord Amerika.
+geographical-object;['honshu'];Honshu es li maxim grandi e maxim populosi isle de Japan.
+geographical-object;['hokkaido'];Hokkaido (北海道, Hokkaidō, literalim "North Sea Circuit"), anteuim savat kom Ezo, Yezo, Yeso, or Yesso, es li duesmi maxim grandi isle de Japan. lu es anke li maxim grandi e maxim nordi del 47 japanani prefektures.
+information-object;['foneme'];Foneme es li maxim mikri fonetikal elemente de lingue kel pove diferisa du frases.
+information-object;['morfeme'];Morfeme, in linguistike, es li maxim mikri signfikant elemente in lingue.
+information-object;['svastike', '卐'];Li svastike (ek sanskritum: स्वस्तिक svastika) es simbole, kel exista ye multi kultures.
+information-realization;['musike'];Musike es tipe de arte.
+information-realization;['danso'];Danso es moves de korpore segun musike.
+information-realization;['literature'];Ansieni Greki Literature
+information-realization;['bible', 'sankti bible'];Li Bible es li libre sankte del kristianisme.
+language;['balti lingues'];Li balti lingues es mikri branche del indo-europani lingual familie.
+language;['bantual lingues'];Li bantual lingues es parla maxim in Afrika.
+language;['norvegum'];Norvegum es germanidi lingue kel bli parla in Norvegia.
+language;['danum', 'da', 'dan'];Danum es germanidi lingue kel bli parla in Dania.
+language;['lingues', 'lingue'];Li lingue es li forme oral de komunikatione del homes.
+language;['esperanto'];Konstrukteti lingue kreat da Zamenhof.
+language;['idiom neutral'];Idiom Neutral es konstrukteti lingue kreat da Waldemar Rosenberger ye 1902, komensim kun li intentione tu plubonisa Volapük.
+language;['interlingua'];Interlingua es konstrukteti lingue, kel li germani Alexander Gode kread ye 1951.
+language;['ido'];Ido es konstrukteti lingue kreat da Louis Couturat e Louis de Beaufront ye 1907.
+language;['rumanum'];Rumanum es romanikal lingue kel bli parla in Rumania.
+language;['anglum'];Anglum es vestgermanidi lingue, kel es nun li maxim vastim usati lingue del monde.
+language;['afrikansum'];Afrikansum es lingue kel bli parla in Sud Afrika.
+language;['latinum'];Latinum es ansieni Indo-Europani lingue.
+language;['chinum'];Li chinum es lingue parlat en China.
+language;['tswanum'];Tswanum es bantual lingue kel bli parla in Sud Afrika e Botswana.
+language;['latinidi lingues', 'romanikal lingues'];Li latinidi lingues es grandi branche del indo-europani lingual familie.
+language;['grekum'];Grekum (ελληνικά, [eliniˈka]) es nondependanti branche de li Indo-europani familie de lingues.
+language;['persanum'];Fransum es Indo-europani lingue ke es parla in Iran, Afganistan, Tajikistan e altri partes del monde..
+language;['oksitanum'];Oksitanum es li romanikal lingue parlat in Oksitania.
+language;['swahilum'];Swahilum es bantual lingue kel bli parla in sentral e esti Afrika.
+language;['limba urdu', 'urdû'];Urdu este numele uneia dintre limbile vorbite în Asia de Sud.
+language;['spanum'];Spanum es lingue kel bli parla in Spania e altri partes del monde.
+language;['arabum'];Arabum es lingue parlat in multi landes del monde kom Algeria, Barayn, Komoros, Chad, Djibuti, Egiptia, Eritrea, Irak, Israel, Jordan, Katar, Kuwayt, Liban, Libia, Moritania, Moroko, Oman, Saudi Arabia, Somalia, Sudan, Siria, Tunisia, Unionati Arabi Emirates e Yemen
+language;['oldi kirkeslavum'];Oldi kirkeslavum (словѣньскъ ѭзыкъ, slověnĭskŭ językŭ), anke konosat sub li nomes oldi slavum, oldi bulgarum e oldi makedonum, es li maxim oldi skriptet lingue del Slaves.
+language;['germanum'];Germanum es germanidi lingue kel bli parla in Germania, Austria, Suisia, Liechtenstein, Belgia, Luxemburgia, Namibia e altri partes del monde.
+language;['nederlandum'];Nederlandum es germanidi lingue kel bli parla in Nederlande, Belgia, Suriname, Aruba, Nederlandani Antiles e altri partes del monde.
+locative-role;['edirne'];Edirne es urbe de Turkia.
+locative-role;['punta arenas'];Punta Arenas es urbe de Chile.
+locative-role;['ho chi minh city'];Ho Chi Minh City (til 1976: Saigon) es urbe in Vietnam.
+locative-role;['leipzig'];Leipzig es urbe de Germania
+locative-role;['los angeles'];Los Angeles es li maxim grandi urbe de Kalifornia, Unionati States de Amerika.
+locative-role;['monako', 'monaco'];Monako es urbe-lande de sudi Europa.
+locative-role;['serbia', 'србија'];Serbia (Србија) es lande de sudi Europa.
+locative-role;['andalucía', 'andalusia'];Andalucia es autonomi komunie de Spania.
+locative-role;['lituania'];Lituania es lande de nordi Europa.
+locative-role;['gallia'];Latini nome del lando kelen li gali numad Celtiia en latini literes e ΚΕΛΤΙΙΑ en greki literes kelen les usad plu ofte.
+locative-role;['saxonia'];Saxonia es un ek li 16 federali landes de Germania.
+locative-role;['osaka'];Osaka (大阪, Ōsaka) listen es an urbe in li Kansai region de Japan's main island de Honshu, a designated urbes under li Local Autonomy Law, li chef-urbes de Osaka Prefecture e anke li maxim grandi part de Keihanshin metropolis, which comprises tri major urbes de Japan: Kyoto, Osaka e Kobe.
+locative-role;['martinik'];Martinik es lande de Nord Amerika.
+locative-role;['são paulo'];São Paulo es li maxim grandi urbe de Brasilia (e Sud Amerika).
+locative-role;['tempe-sone'];Li Tere have duanti-quar tempe-sones.
+locative-role;['chicago'];Chicago es li maxim grandi urbe de Illinois, Unionati States de Amerika.
+locative-role;['wales'];Wales es li westi parte de Unionati Regia.
+locative-role;['münchen'];[[Category:Urbes de Germania]]
+locative-role;['milano'];Milano es urbe de Italia.
+locative-role;['rio de janeiro'];Rio de Janeiro es li urbe de Brasilia.
+locative-role;['novi york'];Novi York es li maxim grandi urbe de Unionati States de Amerika (e Nord Amerika).
+non-physical-collection;['feminisme'];Feminsime es politikal e sosial movo por li egalitate de femas.
+non-physical-collection;['astrologia'];Astrologia es li arte e sientie de divina li future per studia li siele.
+non-physical-collection;['religione'];Religione es komun kredos e praktisos generalim tenat da grupe de homes, ofte in li forme de prego, rituale e religional lege.
+non-physical-collection;['stoikisme'];Stoikisme (ek greki vokable Στοά, "stoa", "kolonaro") es filosofikal skole kel bli fonda per Zeno Citieus de Kipre sirk 300 aKE. Skole ha resiva disi nome proke unesmi dosistes de Atenes did dose inu stoa (kolonaro) in agora.
+non-physical-collection;['kristianisme'];Kristanisme es li maxim grandi religione del monde.
+organized-collection;['galaxie'];Galaxie es li maxim grand individui konglomeratione de materie, kontenant steles, gase, polve, e planetes.
+parameter;['akseleratione'];Akseleratione es li chanjo-rapiditate del velositate de movanti korpore.
+phenomenon;['lume'];Lume es elektromagneti radiatione a kel li okule homal es sensitivi.
+phenomenon;['inertia'];Inertia es trete de omni materie kel representa lun resisto de chanjo de sen movo-stando.
+phenomenon;['origine de vivo'];Inquesto pri li origine de vivo es limitat fake malgre lusen profundi efekte in biologia e homal komprendo del natural monde.
+phenomenon;['katalise'];Katalise es li chanjo del rapiditate de kemial reaktione per adi mikri quantitate de substantie kel es nonchanjat after li reaktione.
+phenomenon;['doppler-efekte'];Doppler-efekte es li chanjo observat in li ond-longitate de suonal, elektromagneti o altri onde pro li relativi movo inter li ond-fonte e li observere.
+phenomenon;['liquide'];Liquide es un del tri standos de materie, li altris esent solide e gase.
+phenomenon;['solide'];Solide es un del tri fisikal standos de materie.
+phenomenon;['gase'];Gase es un del tri standos de materie, li altris esent solide e liquide.
+physical-body;['komete'];Komete es neblosi korpore kel sirkvada li sune.
+physical-body;['krabe-nebula'];Krabe-nebula (M1) es brilianti nebula in li stelaro Tauro.
+physical-body;['variabli stele'];Variabli stele es stele kel varia sen lumositate.
+physical-body;['duopli stele'];Duopli stele o binari stele es pare de steles kel sirku-jira komuni sentre de gravitatione.
+physical-body;['neutrone'];Neutrone es sin-charji subatomi partikle kun mase pokim plu grandi kam tu del protone.
+physical-body;['elektrone'];Elektrone es subatomi partikle kun tre mikri mase e negativi elektri charjo.
+physical-body;['positrone'];Positrone es li antipartikle del elektrone.
+physical-body;['lune', 'luna'];Li Lune es li soli natural satelite del Tere.
+physical-body;['universe'];Universe es li klosat sisteme de omnum kel exista o eventa.
+physical-body;['tere'];Li Tere es li triesmi planete del Sunal Sisteme.
+physical-body;['mars', '♂', 'marte'];♂
+physical-body;['merkurie'];☿
+physical-object;['elektrode'];Elektrode es komposiente in elektri sirkuite.
+physical-object;['satelite'];Satelite in astronomia es sielal objekte kel jira kun, o sirk, altri tal objekte.
+physical-object;['louvre'];Li Musee del Louvre (fransim: Musée du Louvre), situat in Paris, Fransia, es li maxim visitati arte musee del monde.
+physical-object;['lume'];Lume es elektromagneti radiatione a kel li okule homal es sensitivi.
+physical-object;['televisione'];Televisione es li komunikatione de movant imajes inter distani lokes per drate- o radio-transmisiones.
+political-geographic-object;['rumania'];Rumania es lande de esti Europa.
+political-geographic-object;['jugoslavia'];Jugoslavia esed lande in sud-esti Europa, kel existad fro 1918 til 2003 e konsistad ek nuni Slovenia, Kroatia, Bosnia e Hertsegovina, Serbia, Montenegro, Makedonia e Kosovo.
+political-geographic-object;['edirne'];Edirne es urbe de Turkia.
+political-geographic-object;['punta arenas'];Punta Arenas es urbe de Chile.
+political-geographic-object;['ho chi minh city'];Ho Chi Minh City (til 1976: Saigon) es urbe in Vietnam.
+political-geographic-object;['leipzig'];Leipzig es urbe de Germania
+political-geographic-object;['los angeles'];Los Angeles es li maxim grandi urbe de Kalifornia, Unionati States de Amerika.
+political-geographic-object;['abu dabi', 'abú dhabí'];Abu Dabi es li chef-urbe de Unionati Arabi Emirates.
+political-geographic-object;['nord korea'];Nord Korea es lande de esti Asia.
+political-geographic-object;['norvegia', 'noreg', 'norge'];Norvegia es lande in nordi Europa.
+political-geographic-object;['nederlande'];Nederlande es lande de westi Europa.
+political-geographic-object;['lesutu', 'lesoto'];Lesutu es lande de sudi Afrika.
+political-geographic-object;['japan', 'japon'];Japonia es suvereni islelande in Esti Asie kun sa situatione in li Pasifiki Oseane.
+political-geographic-object;['monako', 'monaco'];Monako es urbe-lande de sudi Europa.
+political-geographic-object;['sentral afrikani republike', 'sentral afrikani republik'];Sentral Afrikani Republike es lande de sentral Afrika.
+political-geographic-object;['djibuti', 'djibouti'];Djibouti es lande de esti Afrika.
+political-geographic-object;['malaysia'];Malaysia es lande de sud-esti Asia.
+political-geographic-object;['namibia'];Namibia es lande de sudi Afrika.
+political-geographic-object;['antigua e barbuda'];Antigua e Barbuda es lande de Nord Amerika.
+political-geographic-object;['moritania'];Moritania es lande de westi Afrika.
+political-geographic-object;['beliz', 'belize'];Beliz es lande de Nord Amerika.
+political-geographic-object;['equatoral gini', 'equatorial gini'];Equatoral Gini es lande de sentral Afrika.
+political-geographic-object;['sankte kits e nevis'];Sankte Kits e Nevis es lande de Nord Amerika.
+political-geographic-object;['komoros'];Komoros es lande de esti Afrika.
+political-geographic-object;['dominika'];Dominika es lande de Nord Amerika.
+political-geographic-object;['sankte lusia'];Sankte Lusia es lande de Nord Amerika.
+political-geographic-object;['nordi irlande'];Nordi Irlande es parte de Unionati Regia.
+political-geographic-object;['suisia', 'ch'];Suisia es lande de westi Europa.
+political-geographic-object;['unionati arabi emirates'];Unionati Arabi Emirates es lande de westi Asia.
+political-geographic-object;['luxembourg', 'luxemburgia'];Luxemburgia es lande de westi Europa.
+political-geographic-object;['moroko'];Moroko es lande de nordi Afrika.
+political-geographic-object;['unionati regia', 'ur'];Unionati Regia es lande de westi Europa.
+political-geographic-object;['spania'];Spania es lande de Europa.
+political-geographic-object;['saudi arabia'];Saudi Arabia es lande de westi Asia.
+political-geographic-object;['chad'];Chad es lande de sentral Afrika.
+political-geographic-object;['tajikistan'];Tajikistan es lande de sentral Asia.
+political-geographic-object;['uganda'];Uganda es lande de esti Afrika.
+political-geographic-object;['belarus'];Belarus es lande de Europa.
+political-geographic-object;['malawi'];Malawi es lande de esti Afrika.
+political-geographic-object;['zimbabwe', 'zimbabve'];Zimbabwe es lande de esti Afrika.
+political-geographic-object;['aserbaijan', 'azerbaijan'];Aserbaijan es lande de westi Europa.
+political-geographic-object;['kirgistan'];Kirgistan es lande de sentral Asia.
+political-geographic-object;['uzbekistan'];Uzbekistan es lande de sentral Asia.
+political-geographic-object;['mali'];Mali es lande de westi Afrika.
+political-geographic-object;['kasakstan', 'kazakhstan'];Kazakhstan es lande de sentral Asia.
+political-geographic-object;['mongolia'];Mongolia Монгол Улс, Mongol Uls es lande de esti Asia.
+political-geographic-object;['illinois'];Illinois es un state de Unionati States de Amerika.
+political-geographic-object;['belgia'];Belgia es lande de westi Europa.
+political-geographic-object;['swazilande', 'svaziland', 'swaziland'];Swazilande es lande de sudi Afrika.
+political-geographic-object;['pakistan'];Pakistan es lande de sudi Asia e de musulmani religione.
+political-geographic-object;['bangladesh'];Bangladesh es lande de sudi Asia.
+political-geographic-object;['afganistan'];Afganistan es lande de sentral Asia.
+political-geographic-object;['austria'];Austria es lande de westi Europa.
+political-geographic-object;['laos'];Laos es lande de sud-esti Asia.
+political-geographic-object;['myanmar'];Myanmar es lande de sud-esti Asia.
+political-geographic-object;['kambodia'];Kambodia es lande de sud-esti Asia.
+political-geographic-object;['australia'];Australia es lande de Oseania.
+political-geographic-object;['makau'];Makau es lande de esti Asia.
+political-geographic-object;['butan', 'bhutan'];Butan es lande de sudi Asia.
+political-geographic-object;['gansu'];Gansu (simplifikat Chinum: 甘肃. traditional Chinum: 甘肅. pinyin: Gānsù. Wade–Giles: Kan-su, Kansu, Kan-suh) es provinse del Populen Republike de China, situat nordvestu del lande.
+political-geographic-object;['katalunia'];Katalunia es autonomi komunie de Spania.
+political-geographic-object;['turkmenistan'];Turkmenistan es lande de sentral Asia.
+political-geographic-object;['georgia'];Georgia es lande de westi Asia.
+political-geographic-object;['rwanda'];Rwanda es lande de esti Afrika.
+political-geographic-object;['zambia'];Zambia es lande de esti Afrika.
+political-geographic-object;['demokrati republike de kongo', 'demokratiki republik del kongo'];Demokrati Republike de Kongo es lande de sentral Afrika.
+political-geographic-object;['honduras'];Honduras es lande de Nord Amerika.
+political-geographic-object;['guatemala'];Guatemala es lande de Nord Amerika.
+political-geographic-object;['kosta rika', 'crc'];Kosta Rika es lande de Central Amerika.
+political-geographic-object;['hungaria'];Hungaria es lande de sentri Europa.
+political-geographic-object;['polonia'];Polonia es lande de esti Europa.
+political-geographic-object;['burundi'];Burundi es lande de esti Afrika.
+political-geographic-object;['tanzania'];Tanzania es lande de esti Afrika.
+political-geographic-object;['gini'];Gini es lande de westi Afrika.
+political-geographic-object;['somalia'];Somalia es lande de esti Afrika.
+political-geographic-object;['vietnam'];Vietnam es lande de sud-esti Asia.
+political-geographic-object;['libia'];Libia es lande de nordi Afrika.
+political-geographic-object;['germania'];Germania es lande de westi Europa.
+political-geographic-object;['sudan'];Sudan es lande de nordi Afrika.
+political-geographic-object;['egiptia', 'ejipt'];Egiptia es lande de nordi Afrika.
+political-geographic-object;['guyana'];Guyana es lande de Sud Amerika.
+political-geographic-object;['suriname'];Suriname es lande de Sud Amerika.
+political-geographic-object;['venezuela'];Venezuela es lande de Sud Amerika.
+political-geographic-object;['algeria'];Algeria es lande de nordi Afrika.
+political-geographic-object;['india'];India (Devanagari: भारत Bhārat), ofisialim li Republike de India (Bhārata Gaṇarājya), es lande in Sud Asia.
+political-geographic-object;['italia'];Italia es lande de sudi Europa.
+political-geographic-object;['chile'];Chile (spanim: República de Chile) es lande de Sud Amerika.
+political-geographic-object;['paraguay'];Paraguay es lande de Sud Amerika.
+political-geographic-object;['botswana', 'botsvana'];Botsvana es lande de sudi Afrika.
+political-geographic-object;['mozambik'];Mozambik es lande de esti Afrika.
+political-geographic-object;['indonesia'];Indonesia es lande de sud-esti Asia.
+political-geographic-object;['grekia'];Grekia es lande de sudi Europa.
+political-geographic-object;['ukraina'];Ukraina es lande de esti Europa.
+political-geographic-object;['mexiko'];Mexiko es lande de Nord Amerika.
+political-geographic-object;['armenia'];Armenia es landi de esti Europa.
+political-geographic-object;['irak'];Irak es lande de westi Asia.
+political-geographic-object;['sud korea'];Sud Korea es lande de esti Asia.
+political-geographic-object;['dominikal republike'];Dominikal Republike es lande de Nord Amerika.
+political-geographic-object;['gambia'];Gambia es lande de westi Afrika.
+political-geographic-object;['gana'];Gana es lande de westi Afrika.
+political-geographic-object;['nigeria'];Nigeria es lande de westi Afrika.
+political-geographic-object;["côte d'ivoire"];Côte d'Ivoire es lande de westi Afrika.
+political-geographic-object;['niger'];Niger es lande de westi Afrika.
+political-geographic-object;['gabon'];Gabon es lande de sentral Afrika.
+political-geographic-object;['kongo'];Kongo es lande de sentral Afrika.
+political-geographic-object;['kamerun'];Kamerun es lande de sentral Afrika.
+political-geographic-object;['gini-bisau'];Gini-Bisau es lande de westi Afrika.
+political-geographic-object;['senegal'];Senegal es lande de westi Afrika.
+political-geographic-object;['fransia'];Fransia , ofisialim li Fransi Republike, es lande kelen metropolitan teritorie es situat in Westi Europa e kel inkluse diversi isles e teritories situat in altri kontinentes.
+political-geographic-object;['equador'];Equador es lande de Sud Amerika.
+political-geographic-object;['republike de irlande'];Li Republike de Irlande es lande de nordi Europa.
+political-geographic-object;['madagaskar'];Madagaskar es lande de esti Afrika.
+political-geographic-object;['maldives'];Maldives es lande de sudi Asia.
+political-geographic-object;['el salvador'];El Salvador es lande de Nord Amerika.
+political-geographic-object;['filipines'];Filipines es lande de sud-esti Asia.
+political-geographic-object;['seyshels'];Seychels es lande de esti Afrika.
+political-geographic-object;['suedia'];Suedia es lande de nordi Europa.
+political-geographic-object;['chef-urbe', 'chef-urbes'];Chef-urbe es li plu multi importanti urbe del lande.
+political-geographic-object;['puerto riko'];Puerto Riko es lande de Nord Amerika.
+political-geographic-object;['liechtenstein'];Liechtenstein es tre mikri lande en Europa e es situat inter Austria e Suisia.
+political-geographic-object;['andora'];Andora es mikri lande de sudi Europa.
+political-geographic-object;['alaska'];Alaska es state de Unionati States de Amerika.
+political-geographic-object;['alabama'];Alabama es state de Unionati States de Amerika.
+political-geographic-object;['oman'];Oman es lande de westi Asia.
+political-geographic-object;['damaskus'];Damaskus es li chef-urbe de Siria.
+political-geographic-object;['kuwayt'];Kuwayt es lande de westi Asia.
+political-geographic-object;['jordan'];Jordan es lande de westi Asia.
+political-geographic-object;['liban'];Liban es lande de westi Asia.
+political-geographic-object;['vatikan urbe'];Vatikan Urbe es urbe-lande de westi Europa.
+political-geographic-object;['fiji'];Fiji es lande de Oseania.
+political-geographic-object;['amsterdam'];Amsterdam es li chef-urbe de Nederlande.
+political-geographic-object;['osaka'];Osaka (大阪, Ōsaka) listen es an urbe in li Kansai region de Japan's main island de Honshu, a designated urbes under li Local Autonomy Law, li chef-urbes de Osaka Prefecture e anke li maxim grandi part de Keihanshin metropolis, which comprises tri major urbes de Japan: Kyoto, Osaka e Kobe.
+political-geographic-object;['kabe verdi'];Kabe Verdi es lande de westi Afrika.
+political-geographic-object;['sankte vinsent e li grenadines'];Sankte Vinsent e li Grenadines es lande de Nord Amerika.
+political-geographic-object;['barayn'];Barayn es lande de westi Asia.
+political-geographic-object;['kiribati'];Kiribati es state de Oseania.
+political-geographic-object;['trinidad e tobago'];Trinidad e Tobago es lande de Nord Amerika.
+political-geographic-object;['islande'];Islande es isle in nordi Europa.
+political-geographic-object;['grenada'];Grenada es lande de Nord Amerika.
+political-geographic-object;['são paulo'];São Paulo es li maxim grandi urbe de Brasilia (e Sud Amerika).
+political-geographic-object;['port louis'];Port Louis es li chef-urbe de Mauritius.
+political-geographic-object;['abuja'];Abuja es li chef-urbe de Nigeria.
+political-geographic-object;['lima'];Lima es li chef-urbe de Peru.
+political-geographic-object;['dublin'];Dublin es li chef-urbe e li maxim grandi urbe del Republike de Irlande.
+political-geographic-object;['sofia'];Sofia es li chef-urbe e li maxim grandi urbe de Bulgaria.
+political-geographic-object;['bogota'];Bogota es li chef-urbe de Kolombia.
+political-geographic-object;['roma'];Roma es li chef-urbe de Italia.
+political-geographic-object;['bukareshti'];Bukareshti o pli bonim Bukuresht es li chef-urbe de Rumania.
+political-geographic-object;['jerusalem'];Jerusalem es li chef-urbe de Israel.
+political-geographic-object;['kiyev'];Kyiv es li chef-urbe de Ukraina.
+political-geographic-object;['beograd'];Beograd es li chef-urbe de Serbia.
+political-geographic-object;['berlin'];Berlin es li chef-urbe de Germania e un ek 16 federal landes de Germania.
+political-geographic-object;['beyjing', 'beijing'];Beijing es li chef-urbe de Populen Republike de China.
+political-geographic-object;['tailande'];Tailande es lande de sud-esti Asia.
+political-geographic-object;['etiopia'];Etiopia es lande de esti Afrika.
+political-geographic-object;['moskva'];Moskva es li chef-urbe e li max grandi urbe de Rusia, che li Moskva fluvie.
+political-geographic-object;['benin'];Benin es lande de westi Afrika.
+political-geographic-object;['burkina faso'];Burkina Faso es lande de westi Afrika.
+political-geographic-object;['bahamas'];Bahamas es lande de Nord Amerika.
+political-geographic-object;['sao tome e prinsip'];Sao Tome e Prinsip es lande de sentral Afrika.
+political-geographic-object;['israel'];Israel es lande de westi Asia.
+political-geographic-object;['chicago'];Chicago es li maxim grandi urbe de Illinois, Unionati States de Amerika.
+political-geographic-object;['tripoli'];Tripoli es li chef-urbe de Libya.
+political-geographic-object;['skotia'];Skotia es li nordi parte de Unionati Regia.
+political-geographic-object;['finlande', 'suomi'];Finlande es lande de nordi Europa.
+political-geographic-object;['atlanta'];Atlanta es li maxim grandi urbe de Georgia, Unionati States de Amerika.
+political-geographic-object;['kabul'];Kabul es li chef-urbe de Afganistan.
+political-geographic-object;['wien'];Wien es li chef-urbe de e un ek li 9 federali landes de Austria.
+political-geographic-object;['daka', 'dhaka'];Daka es li chef-urbe de Bangladesh.
+political-geographic-object;['münchen'];[[Category:Urbes de Germania]]
+political-geographic-object;['bruxelles'];Bruxelles es li chef-urbe de Belgia.
+political-geographic-object;['santiago'];Santiago es li chef-urbe de Chile.
+political-geographic-object;['københavn'];København es li chef-urbe e li maxim grandi urbe de Dania.
+political-geographic-object;['london'];London es li chef-urbe de Unionati Regia.
+political-geographic-object;['tallinn'];Tallinn es li chef-urbe de Estonia.
+political-geographic-object;['helsinki'];Helsinki es li chef-urbe de Finlande.
+political-geographic-object;['paris'];Paris es li chef-urbe de Fransia.
+political-geographic-object;['tbilisi'];Tbilisi es li chef-urbe de Georgia.
+political-geographic-object;['akra', 'accra'];Akra es li chef-urbe de Gana.
+political-geographic-object;['port-au-prince'];Port-au-Prince es li chef-urbe de Haiti.
+political-geographic-object;['honolulu'];Honolulu es li maxim grandi urbe de Hawaii, Unionati States de Amerika.
+political-geographic-object;['tegucigalpa'];Tegucigalpa es li chef-urbe de Honduras.
+political-geographic-object;['reykjavík', 'reykjavik'];Reykjavík es li chef-urbe de Islande.
+political-geographic-object;['indianapolis'];Indianapolis es li maxim grandi urbe de Indiana, Unionati States de Amerika.
+political-geographic-object;['tokyo'];Tokyo es li chef-urbe de Japan.
+political-geographic-object;['aman', 'amman'];Aman es li chef-urbe de Jordan.
+political-geographic-object;['riga'];Riga es li chef-urbe de Latvia.
+political-geographic-object;['vilnius'];Vilnius es li chef-urbe de Lituania.
+political-geographic-object;['kuala lumpur'];Federal Territory of Kuala Lumpur (Wilayah Persekutuan Kuala Lumpur.吉隆坡联邦直辖区.கோலாலம்பூர்) es li chef-urbe de Malaysia.
+political-geographic-object;['oslo'];Oslo es li chef-urbe de Norvegia.
+political-geographic-object;['varsava', 'warszawa'];Varsava es li chef-urbe de Polonia.
+political-geographic-object;['madrid'];Madrid es li chef-urbe de Spania.
+political-geographic-object;['abidjan'];Abidjan es li chef-urbe de Cote d'Ivoire.
+political-geographic-object;['portu de spania', 'port of spain'];Portu de Spania es li chef-urbe de Trinidad e Tobago.
+political-geographic-object;['salt lake city'];Salt Lake City es li maxim grandi urbe de Utah, Unionati States de Amerika.
+political-geographic-object;['karakas', 'caracas'];Karakas es li chef-urbe de Venezuela.
+political-geographic-object;['baku'];Baku es li chef-urbe de Azerbaijan.
+political-geographic-object;['ottawa'];Ottawa es li chef-urbe de Kanada.
+political-geographic-object;['zagreb'];Zagreb es li chef-urbe de Kroatia.
+political-geographic-object;['banjul'];Banjul es li chef-urbe de Gambia.
+political-geographic-object;['milano'];Milano es urbe de Italia.
+political-geographic-object;['taipei'];Taipei es li chef-urbe de Republike de China.
+political-geographic-object;['wellinton', 'wellington'];Wellinton es li chef-urbe e duesmi maxim grandi urban are de Novi Selande.
+political-geographic-object;['ljubljana'];Ljubljana es li chef-urbe de Slovenia.
+political-geographic-object;['bern'];Bern es li chef-urbe de Suisia.
+political-geographic-object;['ankara'];Ankara es li chef-urbe de Turkia.
+political-geographic-object;['rio de janeiro'];Rio de Janeiro es li urbe de Brasilia.
+political-geographic-object;['sydney'];Sydney es li maxim grandi urbe de Australia.
+political-geographic-object;['novi york'];Novi York es li maxim grandi urbe de Unionati States de Amerika (e Nord Amerika).
+political-geographic-object;['tripoli'];Tripoli es li chef-urbe de Libya.
+political-geographic-object;['brasilia', 'brazil'];Brasilia es lande de Sud Amerika.
+political-geographic-object;['toronto'];Toronto es li maxim grandi urbe de Kanada e li chef-urbe del provinse Ontario.
+political-geographic-object;['pretoria'];Pretoria es li chef-urbe de Sud Afrika.
+political-geographic-object;['denver'];Denver es li maxim grandi urbe de Kolorado, Unionati States de Amerika.
+quality;['religione'];Religione es komun kredos e praktisos generalim tenat da grupe de homes, ofte in li forme de prego, rituale e religional lege.
+quality;['ph'];pH es mesuro del asiditate de aque-solutione.
+quality;['mase'];Mase es mesuro de li liniari inertia de un korpore, tum es, lun resisto de akseleratione kand forse bli aplika a lu.
+quality;['kristianisme'];Kristanisme es li maxim grandi religione del monde.
+region;['sero', '0'];Sero, in matematike, es nombre plu mikri kam irgi finiti positiv nombre, ma plu grandi kam irgi finiti negativ nombre.
+region;['fiji dollar'];Li FJD/Fiji Dollar es li monete ofisial de Fiji.
+set;['spatie'];Spatie in matematike es limitat o nonlimitat extensione.
+simple-collection;['stelaro'];Stelaro es grupe de steles kel forma shablone in li siele, malgre ke les es altrim nonkonektet.
+simple-collection;['mitologia'];Greki Mitologia
+simple-collection;['skandinavi mitologia'];Skandinavi mitologia es li pre-kristani religione, kredos e legendes del skandinavi popule, inklusent tes kel koloniisad Islande, vor li skriptet fontes por skandinavi mitologia blid kolekte.
+simple-collection;['universe'];Universe es li klosat sisteme de omnum kel exista o eventa.
+situation;['axiome'];Axiome es un del fundamental propositiones kel on mus suposi es veri sin pruvo in li kompilatione de logikal sisteme.
+situation;['axiome'];Axiome es un del fundamental propositiones kel on mus suposi es veri sin pruvo in li kompilatione de logikal sisteme.
+situation;['kolpe de pede'];Kolpe de pede es, in violenteso, martial artes e sportes, li kolpe kun li pede, o li gambe.
+socially-constructed-person;['george boole'];George Boole (2 de novembre, 1815-8 de desembre, 1864) esed britani matematikisto e logikiste.
+socially-constructed-person;['adolf hitler'];Adolf Hitler esed austriani politikiste.
+socially-constructed-person;['gikuyum'];Gikuyum es bantual lingue kel bli parla in sentral e esti Afrika.
+socially-constructed-person;['francis bacon'];Francis Bacon (22 de januare, 1561-9 de aprile, 1626) esed angli filosofe e politikiste.
+socially-constructed-person;['florence nightingale'];Florence Nightingale (12 de maye, 1820 - 13 de auguste, 1910) esed angli aktiviste e flegera.
+socially-constructed-person;['elisabeth ii'];Elisabeth II (naskad ye 21 de aprile 1926 in London), es li nuni rega de Unionati Regia e chefa de state ek multi landes.
+socially-constructed-person;['ronald reagan'];Ronald Wilson Reagan (naskad 6 de februare 1911 – 5 de june 2004) did es li 40smi presidante del Unionati States fro 1981 til 1989.
+socially-constructed-person;['siera leone', 'sierra leone'];Siera Leone es lande de westi Afrika.
+socially-constructed-person;['henrik ibsen'];Henrik Johan Ibsen (20 de marte, 1828–23 de maye, 1906) esed norvegi autore e pleo-skriptere.
+socially-constructed-person;['ave'];Ave es patre de patre.
+socially-constructed-person;['kemiiste'];Kemiiste es sientiiste kelen fake es kemie.
+socially-constructed-person;['aktore', 'aktor'];Aktore es pleere in li teatre, li sinemate, o li televisione.
+socially-constructed-person;['thomas edison', 'thomas a. edison', 'thomas alva edison'];Thomas Alva Edison (11 de februare, 1847–18 de oktobre, 1931) esed amerikani inventero e aferisto.
+socially-constructed-person;['dante alighieri'];Durante degli Alighieri, generalim konosat kom Dante, (sirk 1 de june, 1265 – 13/14 de septembre, 1321) esed italiani florentiani poete.
+socially-constructed-person;['sokrate'];Sokrate (Grekim: Σωκράτης, Sōkrátēs) (470/469 A.K.E. – 399 A.K.E.), esed ansieni greki filosofe.
+socially-constructed-person;['julius caesar'];Julius Caesar.
+socially-constructed-person;['isaac newton'];Isaac Newton esed britani fisikisto, matematikisto, astronomo, natural filosofo, e alkemiisto.
+socially-constructed-person;['karl marx'];Karl Marx (5 de maye, 1818 - 14 de marte, 1883) esed germani filosofo.
+socially-constructed-person;['johannes kepler'];Johannes Kepler (1571-1630) esed german astronome.
+socially-constructed-person;['hómeros', 'homer'];Hómeros (grekim Ὅμηρος, Hómeros) esed legendari, frui greki poete.
+socially-constructed-person;['galileo galilei'];Galileo Galilei (1564-1642) esed italian matematikal fisikisto kel deskovrad li leges de falanti korpores e li parabolal movo de projektiles.
+socially-constructed-person;['aristotéles', 'aristoteles'];Aristotéles (ansieni grekim: Αριστοτέλης Aristotélēs 384 – 7 marte 322 A.K.E.) esed ansieni greki filosofe, kel studiad kun Platone e dosed Aléxandros li Grandi.
+socially-constructed-person;['albert einstein'];Albert Einstein (14 de marte, 1879–18 de aprile, 1955) esed famosi teorial fisikisto.
+socially-constructed-person;['miguel de cervantes'];Miguel de Cervantes Saavedra, generalim konosat kom Miguel de Cervanes, (sirk 9 de oktobre, 1547 – 16 de aprile, 1616) esed spanum skritpero.
+spatial-feature;['rife'];Rife es linie o katene de rokes pokim sub li surfase del mare.
+subject;['matematike'];Matematike es li fake kel trakta konseptos kom quantitate, strukture, spatie e chanjo.
+subject;['geologia'];Geologia (fro grekum γη- (ge-, "li tere") e λογος (logos, "vorde", "ratione")) es li sientie e studio del solidi materie de sielal korpores, lun kompositione, strukture, fisikal tretes, historie e li prosedos kel forma lu.
+subject;['teral sienties'];Li Teral sienties (anke nomat li geosienties) es li sienties kel studia li planete Tere.
+subject;['geografia'];Afrika
+subject;['fonetike'];Fonetike, in in linguistike, es li studio del parla-suones in lingues.
+subject;['paleontologia'];Paleontologia es li studio del historie de vivo sur li Tere, de ansieni plantes e animales fro li fosilu registre kel provise evidentus de lusen existo preserva in li petres.
+subject;['astrofisike'];Astrofisike konserna li fisikal e kemial nature de sielal objektes e eventes, usant datus produket per radio-astronomia e spektroskopia.
+subject;['ekologia'];Ekologia, o ekologial sientie, es li siential studio del distributione e abundo de vivanti organismes e qualim disi tretes es afektet da interaktos inter li organismes e lusen environmente.
+subject;['soologia'];Soologia (greki zoon, animale e logos, vorde, sientie) es li biologial fake kel studia animales.
+subject;['genetike'];Genetike (fro greki γεννώ, partura) es li sientie de genes, heredo e li variatione de organismes.
+subject;['mikrobiologia'];Mikrobiologia es li studio de mikrobes o organismes de mikro nivele: exemplim bakteries, viruses, alges ets.
+subject;['botanike'];Botanike es li siential studio de plantal vivo.
+subject;['molekulal biologia', 'molekular biologia', 'molekulari biologia'];Molekulal biologia es li studio de biologia res molekules.
+subject;['informatike', 'komputal sientie'];Komputal sientie es li studio del teorial fondationes de informatione e komputatione e lusen uso in komputal sistemes.
+subject;['informatike', 'komputal sientie'];Informatike inkluse li sientie de informatione, li praktiso de trakto de informatione e li injenieria de informational sistemes.
+subject;['genomike'];Genomike es li studio del genomes de organismes e li uso del genes.
+subject;['anatomia'];Anatomia (grekim ἀνατομία (anatomia), fro ἀνατέμνειν anatemnein (trancha)) es li fake de biologia kel trakta li strukture e organisatione de vivanti organismes.
+subject;['logike'];Logike es li subfake de filosofia kel konserna li regles kel guverna korekti e nonkorekti resono.
+subject;['astronomia'];Astronomia (grekim: αστρονομία = άστρον + νόμος, astronomia = astron + nomos, literalim, "lege del astres") es li sientie de sielal objektes (exemplim steles, planetes, kometes, e galaxies) e fenomenes kel origina exter li atmosfere del Tere (exemplim, aurores e kosmal radiatione).
+subject;['topologia'];Topologia es subfake de matematike kel relate geometria.
+subject;['ensemble-teorie'];Ensemble-teorie es li teorie de ensembles in matematike.
+subject;['sosial sienties'];Li sosial sienties es grupe de akademial fakes kel studia homal tretes del monde.
+subject;['ekonomike'];Economike es li sosial sientie kel studia li produktione, distributione e konsumo de materies.
+subject;['fisiologia'];Fisiologia (grekim φύση, phusè (natura) e λόγος, logos (vorde, studio)) es li studio del mekanikal, fisikal e biokemial funktiones de vivanti organismes.
+subject;['kemie'];Kemie es li sientie del materies.
+subject;['aplikat matematike'];Aplikat matematike es un ek du basal divisiones de matematike.
+subject;['puri matematike'];Puri matematike es un ek du basal divisiones de matematike.
+subject;['organi kemie'];Organi kemie es importanti subfake de kemie kel studia kompositiones de karbo e hidrogene.
+subject;['aplikati sienties e teknologia', 'injenieria', 'aplikati sienties', 'teknologia'];Injenieria es li kreativ aplikatione de siential prinsipes por desina o developa struktures, mashines, aparate, fabrikanti prosedos o fabrikes kel usa lus singlim o in kombinatione.
+subject;['aplikati sienties e teknologia', 'injenieria', 'aplikati sienties', 'teknologia'];Aplikati sientie es li exakti sientie del aplikatione de savo fro un o plusi natural siential fakes a praktikal problemes.
+subject;['arkitekture'];Arkitekture (fro latini architectura self fro greki αρχιτεκτων, "maestri konstruktere", fro αρχι-, "chefe" o "duktere", e τεκτων, "konstruktere, karpentere") es li arte e sientie del desino de edifisies e struktures.
+subject;['algebra'];Algebra es li parte de matematike kel konserna li relationes e tretes de nombre-sistemes per usa general simboles por representa matematikal quantitates.
+subject;['biokemie', 'biokemia'];Biokemie es li studio del kemie de vivo, ponte inter biologia e kemie kel studia qualim komplexi kemial reaktiones produkte vivo.
+subject;['geometria'];Geometria es li subfake de matematike kel studia li tretes de spatie, e li linies, kurves e surfases kel pove okupa spatie.
+subject;['filosofia'];Filosofia es li fake kel studia qualim on deve viva, quali koses exista e quu kelen esential natures es. quu es real savo. e quues li korekte prinsipes de resono.
+subject;['fisike'];Fisike esed originalim li savo de natural koses (= natural sientie). nun, li sientie kel trakta li interaktione inter materie e energie (ma generalim lu exkluse kemie).
+subject;['psikologia'];Psikologia es akademial e aplikati fake kel sientialim studia mental prosedos e konduite.
+subject;['biologia'];Biologia es li studio, o sientie, de vivo.
+subject;['natural sienties'];In sientie, natural sientie es li rational studio del universe per regles o leges de natural ordine.
+subject;['linguistike'];Linguistike es li siential studio de lingues.
+subject;['antropologia'];Antropologia (fro grekum: ἄνθρωπος, anthropos, "home". e λόγος, logos, "vorde" literalim parlant pri homes) es li studio de homes.
+subject;['sosiologia'];Sosiologia (fro latinum: socius, "kompane". e li sufixe -ologia, "li studio de", fro Greek λόγος, lógos, "savo") es li sistemati e siential studio de sosie, inklusent shablones de sosial relatos, sosial aktos e kulture.
+subject;['politikal sientie'];Politikal sientie es li fake pri li teorie e praktiko de politike e li deskriptione e analiso de politikal sistemes e politikal konduite.
+subject;['semantike'];Semantike, in linguistike, es li studio de signifikatione.
+subject;['fonologia'];Fonologia es li studio de fonetikal shablones in lingues.
+substance-role;['ensime', 'enzime'];Ensime es proteine kel katalisa (vida katalise) li kemial reaktiones che vivant organismes.
+task;['subtraktione'];Subtraktione es un del basal operationes de aritmetike, li inversi operatione de aditione.
+task;['multiplikatione'];Multiplikatione es un del basal operationes de aritmetike.
+task;['divisione'];Divisione es un ek li basal operationes de aritmetike, li inversi operatione de multiplikatione.
+task;['aditione'];Aditione es un ek li basal operationes de aritmetike e algebra.
+temporal-region;['yule', '25 de desembre'];Yule es grandi kristiani feste, kel bli festa ye li 25 de desembre.
+temporal-region;['25 de marte'];== Eventes ==
+temporal-region;['tempe'];Tempe es konsepte kel konserna li ordine e duratione de eventes.
+temporal-region;['januare'];Januare es li unesmi mensu del yare.
+temporal-region;['januare'];Januare es li unesmi mensu del yare.
+temporal-region;['januare'];Januare es li unesmi mensu del yare.
+temporal-region;['desembre'];Desembre es li dek-duesmi (lasti) mensu del yare.
+temporal-region;['desembre'];Desembre es li dek-duesmi (lasti) mensu del yare.
+temporal-region;['maye'];Maye es li sinkesmi mensu del yare.
+temporal-region;['septembre'];Septembre es li ninesmi mensu del yare.
+temporal-region;['auguste'];Auguste es li otesmi mensu del yare.
+temporal-region;['julie'];Julie es li setesmi mensu del yare.
+temporal-region;['aprile'];Aprile es li quaresmi mensu del yare.
+temporal-region;['june'];June es li sixesmi mensu del yare.
+temporal-region;['novembre'];Novembre es li dek-unesmi mensu del yare.
+temporal-region;['oktobre'];Oktobre es li dekesmi mensu del yare.
+theory;['teorie de relativitate', 'relativitate'];Relativitate bli frequentim refera ma min ofte komprenda teorie pri li nature de spatie, tempe e materie.
+theory;['lude-teorie'];Lude-teorie es aplikatione de matematike e logike a desisiones in ludes, e per extensione, in komerse, politike e milite.

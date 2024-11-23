@@ -1,0 +1,163 @@
+activity;['ledo ritulys', 'ledo ritulio', 'moterų ledo ritulio', 'ritulio žaidimas'];Žiemos sporto šaka
+activity;['pamoka', 'pamokas'];Laikas, skirtas mokomajam dalykui
+activity;['antrasis pasaulinis karas', '2pk', 'antras pasaulinis karas', 'ii pasaulinis karas', 'iipk', 'nacių okupacijos', 'world war 2'];Karinis konfliktas, trukęs nuo 1939 iki 1945 m.
+activity;['pirmasis pasaulinis karas', 'didysis karas', 'didžkaris', '1 pasaulinis karas', '1pk', 'i pasaulinis karas', 'ipk', 'pirmas pasaulinis karas', 'karas karui', 'didžiojo karo', 'i pasaulinio karo', 'pasaulinio karo 1'];Karas, vykęs 1914 m. liepos 28 d. – 1918 m. lapkričio 11 d.
+agentive-figure;['centrinis bankas', 'centrinių bankų'];Turkistano
+agentive-figure;['europos sąjunga', 'es', 'europos ekonominė bendrija', 'eu', 'eeb', 'europos bendrija', '🇪🇺', 'europos sajunga', 'europos bendrijos', 'bendroji rinka', 'eb', 'es atsakomąsias', 'europos ekonominės bendrijos', 'europos sąjungos'];Europos valstybių ekonominė bei politinė bendrija
+agentive-figure;['jungtinių tautų organizacija', 'jt', 'jungtinės tautos', 'jto', 'suvienytųjų nacijų organizacija', 'un', 'united nations', 'jungtinių tautų', 'u.n', 'jungtinių tautų organizacijos'];Organizacija
+agentive-figure;['katalikų bažnyčia', 'romos katalikų bažnyčia', 'romos katalikai', 'romos katalikas', 'romos katalikybė', 'romos katalikų', 'romos katalikų bažnyčios', 'katalikai', 'katalikų bažnyčios'];Viena iš 23 katalikų bažnyčių
+agentive-physical-object;['jūriniai paukščiai', 'jūros paukščių', 'seabird', 'jūrų paukščiams'];Paukščiai, adaptavęsi gyventi jūrose
+agentive-physical-object;['bervidinis kailiavabalis', 'anthrenus scrophulariae', 'buivolo kilimų vabalas'];Vabalas iš kailiavabalių šeimos
+agentive-physical-object;['žmogus', 'žmonės', 'žmogiška būtybė', 'homo', 'homo sapiens', 'homo sapiens sapiens', 'žmonija', 'žmogaus', 'žmonių'];Dvikojis primatas, priklausantis hominidų šeimai ir žinduolių klasei.
+agentive-physical-object;['taurusis elnias', 'cervus elaphus', 'taurieji elniai', 'elaphus', 'red deer', 'tauriųjų elnių'];Elninių šeimos žinduolis
+agentive-physical-object;['hind'];Moteriškas vardas
+agentive-physical-object;['stingray', 'sting ray', 'stingrays'];Zuvis panasi i rykli
+agentive-physical-object;['helix pomatia', 'vynuoginė sraigė', 'valgomieji sraigė'];Moliuskų rūšis
+agentive-physical-object;['trijuostė sansevjera', 'uošvės liežuvis', 'sansevieria trifasciata', 'gyvatė augalų'];Smidrinių šeimos augalų rūšis
+agentive-physical-object;['mažoji žiemė', 'vinca minor', 'vinca nepilnametis'];Stepukinių (Apocynaceae) šeimos šliaužiantis augalas
+agentive-physical-object;['kačiukas', 'kačiukai'];kačių jauniklis
+amount-of-matter;['linoleno rūgšties'];Nuorodinis straipsnis Vikimedija projekte
+amount-of-matter;['kalcis', 'ca', 'atominis skaičius 20', 'kalcio'];Jo yra piene ir kituose pieno produktuose. Reikalingas dantims ir mūsų kaulams.
+amount-of-matter;['coca cola', 'coca-cola', 'kokakola', 'koka kola', 'kola', 'koka-kola', '"coca cola"'];Gazuotas gaivusis gėrimas
+biological-object;['skrandis', 'ventriculus', 'skrandžio', 'gaster', 'skrandžio sekreciją', 'tum', 'širdies angą'];virškinimo sistemos organas
+biological-object;['obuolys', 'obuolių', 'green apple', 'malus domestica', 'žalioji apple'];Būdingas obelų vaisius, morfologiškai irgi vadinamas obuoliu
+causal-role;['reagentas', 'cheminis reagentas', 'reagentai', 'reagento'];Reagentas - Tai medžiaga kuri reguoja.
+cognitive-event;['laimė', 'laimingas', 'laimės'];Pasitenkinimo, gerovės, gyvenimo džiaugsmo būvis.
+functional-matter;['limfa', 'limfinės', 'limfos'];Limfa
+functional-matter;['makaronai', 'pusgalvis', 'makaronų'];Itališkai - Pasta
+functional-matter;['kino studijos', 'kino studijas'];Akademinė disciplina, tirianti filmus įvairiais teoriniais, istoriniais ir kritiniais aspektais
+functional-matter;['coca cola', 'coca-cola', 'kokakola', 'koka kola', 'kola', 'koka-kola', '"coca cola"'];Gazuotas gaivusis gėrimas
+functional-matter;['obuolys', 'obuolių', 'green apple', 'malus domestica', 'žalioji apple'];Būdingas obelų vaisius, morfologiškai irgi vadinamas obuoliu
+functional-matter;['durpės', 'durpė', 'durpių', 'durpynai', 'durpynų'];Organinė degioji nuosėdinė uoliena
+functional-matter;['impostas', 'springer'];Nuorodinis straipsnis Vikimedija projekte
+functional-matter;['nuodegos', 'šlakas', 'šlako', 'šlako krūvos'];Cheminė medžiaga
+geographical-object;['didžioji britanija', 'didžiosios britanijos sala'];Šablonas Vikipedija
+geographical-object;['martinika'];Prancūzijos departamentas
+information-object;['prieveiksmis', 'prieveiksmiai', 'prieveiksmių'];Nei linksniais, nei asmenimis nekaitomaa kalbos dalis
+information-object;['garbės medalis', 'medal of honor', 'kongreso medal of honor'];aukščiausia karinė puošmena, apdovanota JAV.
+information-realization;['enciklika', 'enciklikoje', 'enciklikos', 'popiežiaus enciklikoje'];Popiežiaus kreipimasis į pasaulio katalikus
+information-realization;['skaičių knyga'];Ketvirtoji Penkiaknygės ir Senojo Testamento knyga, sudaryta iš 36 skyrių
+language;['mongolų kalba', 'mongolų kalbos', 'mong.', 'mongolic', 'mongolic kalba'];Kalba
+language;['indoeuropiečių prokalbė', 'proto-indo europos'];Hipotetinė indoeuropiečių kalbų pirmtakė
+language;['danų kalba', 'da', 'dan', 'danų', 'danijos'];Kalba
+language;['puštūnų kalba', 'afganistaniečių', 'afganų kalba', 'puštu kalba', 'puštų', 'paxto', 'pukhto', 'pushto', 'pushtu', 'puštūnų'];Kalba
+language;['amharų kalba', 'amcharų kalba', 'amherų kalba', 'amharų', 'etiopijos kalba', 'etiopijos semitų kalbos'];Kalba
+language;['naujos graikijos', 'šiuolaikinėje graikų', 'šiuolaikinės graikų', 'šiuolaikinės graikų kalbos'];kalba
+language;['gudžaratų kalba', 'gudžarati', 'gudžarati kalba'];Kalba
+language;['hindi', 'hindi kalba', 'standartinis hindi'];Viena iš Indijos indoarijų kalbų
+language;['estų kalba', 'estas', 'estė', 'esthonian', 'estijos'];Kalba
+language;['vengrų kalba', 'vengrų'];Kalba
+language;['latvių kalba', 'latvių', 'latviešu'];Kalba
+language;['čekų kalba'];Kalba
+language;['vokiečių kalba', 'vokiečių', 'aukštutinės vokiečių kalbos', 'hochdeutsch', 'vokiečių-aukštaičių', 'vokiečių aukštaičių', 'vokiečių aukštaičių tarmė', 'aukštos vokiečių', 'germanophone'];Kalba
+locative-role;['florencija', 'firenze', 'florencij'];Komuna Italijoje
+locative-role;['kaunas', 'kauno miesto savivaldybė', 'kauno', 'kovna', 'kovno'];Antras pagal dydį Lietuvos miestas
+locative-role;['piza', 'pisa'];Komuna Italijoje
+locative-role;['paduja', 'padova', 'paduva', 'patavijus', 'patavium'];Komuna Italijoje
+locative-role;['majenas', 'mayenne'];Prancūzijos departamentas
+locative-role;['uostas', 'avanuostas', 'giliavandenio uosto', 'giliavandenį uostą', 'jūrų uostas', 'jūrų uostų', 'neužšąlantis uostas', 'uostamiestis', 'uosto', 'šilto vandens uosto', 'žvejybos uostas'];Įrengta vieta laivams stovėti, remontuoti.
+locative-role;['lietuva', 'lietuvos respublika', 'lr', 'lietuvos respublikos'];Valstybė Europos Sąjungoje
+locative-role;['genuja', 'genova', 'genoja'];Komuna Italijoje
+locative-role;['martinika'];Prancūzijos departamentas
+locative-role;['milanas', 'milano'];Komuna Italijoje
+non-agentive-physical-object;['katiliukas', 'derbis', 'derbis skrybėlę', 'derby skrybėlę', 'kištukas skrybėlę'];Katiliukas, tai kieta fetrinė skrybėlė. Jokiu būdu nesupainiokite šios skrybėlės su gėlėmis
+non-physical-collection;['feminizmas', 'feministas', 'feministės', 'feminizmo', 'moterų emancipacijos'];Ideologinis judėjimas apibrėžiantis lyčių lygybę ir kovojantis už moterų ir merginų lygias teises.
+non-physical-collection;['krikščionybė', 'krikščionių tikėjimas', 'krikščionybės istorija', 'krikščionys', 'krikščioniškoji religija', 'krikščioniškosios religijos', 'krikščionybės'];Monoteistinė religija
+phenomenon;['biseksualumas', 'bi-seksualinis', 'biseksualų', 'dvilytiškumo'];Lytinė orientacija
+physical-body;['žemė', 'pasaulis', 'žemės rutulys', 'pasaulyje'];Trečia planeta nuo saulės saulės sitemoje
+physical-body;['vega'];Ryškiausia žvaigždė Lyros žvaigždyne
+physical-object;['motoroleris', 'motorscooter'];dviratė transporto priemonė, kurios vairuotojas sėdi suglaudęs kojas, t.y. neapžergęs transporto priemonės
+physical-object;['didžioji kinų siena', 'didžioji kinijos siena', 'kinų siena', 'kinų sienos'];SIENIKE GERIKE
+physical-object;['rogučių sportas', 'nusileidimas rogutėmis', 'kamaniņu'];Ant natūralaus ir dirbtinio bėgių kelio
+physical-object;['vaistinė', 'farmacija', 'farmacinė veikla', 'vaistinės', 'apothecary parduotuvė', 'narkotikų parduotuvėje', 'vaistinėse'];Sveikatos mokslų šaka
+physical-object;['naftos tanklaivis', 'tanklaivis', 'degalų papildymo ore', 'labai didelis žalios vežėjas', 'oro ir degalų papildymo ore', 'produktas tanklaivis', 'supertankers', 'tankas laivas', 'zondo ir pagalbiniai', 'žalios naftos tanklaivis'];Laivas, skirtas pervežti skystoms ar birioms medžiagoms
+physical-object;['metropolitenas', 'metro', 'greito tranzito sistema', 'greitojo tranzito', 'mass rapid transit', 'metro sistema', 'rapid transit'];Viešojo transporto sistema
+physical-object;['drednoutas', 'dreadnought', 'dreadnaught', 'dreadnoughts', 'drednauts šarvuotiniai', 'pusiau drednoutas', 'super drednoutas'];Linijinių laivų tipas
+physical-object;['katiliukas', 'derbis', 'derbis skrybėlę', 'derby skrybėlę', 'kištukas skrybėlę'];Katiliukas, tai kieta fetrinė skrybėlė. Jokiu būdu nesupainiokite šios skrybėlės su gėlėmis
+political-geographic-object;['florencija', 'firenze', 'florencij'];Komuna Italijoje
+political-geographic-object;['kaunas', 'kauno miesto savivaldybė', 'kauno', 'kovna', 'kovno'];Antras pagal dydį Lietuvos miestas
+political-geographic-object;['piza', 'pisa'];Komuna Italijoje
+political-geographic-object;['paduja', 'padova', 'paduva', 'patavijus', 'patavium'];Komuna Italijoje
+political-geographic-object;['šveicarija', 'šveicarijos konfederacija', 'ch', 'schweiz', 'suisse', 'svizzera'];Mažiausia pasaulyje federacinė valstybė įsikūrusi Vidurio Europoje
+political-geographic-object;['jungtinė karalystė', 'jungtinė didžiosios britanijos ir šiaurės airijos karalystė', 'didžioji britanija', 'jk', 'd. britanija', 'uk', 'britanija', 'forma, jk'];Valstybė Vakarų Europoje
+political-geographic-object;['lenkija', 'lenkijos respublika', 'pl', 'lenkijos'];Vidurio Europos valstybė
+political-geographic-object;['vokietija', 'vokietijos federacinė respublika', 'vfr', 'brd', 'deutschland', 'frg', 'vokietijoje'];Šalis centrinėje Europoje
+political-geographic-object;['prancūzija', 'prancūzijos respublika', 'prancuzija'];Vakarų Europos šalis
+political-geographic-object;['ekvadoras', 'ekvadoro respublika', 'ec', 'ecu'];Valstybė Pietų Amerikoje
+political-geographic-object;['genuja', 'genova', 'genoja'];Komuna Italijoje
+political-geographic-object;['roma', 'amžinojo miesto', 'italijos sostinė'];Komuna Italijoje
+political-geographic-object;['ryga', 'riga', 'rygos mikrorajonai', 'rīga', 'latvijos sostinėje rygoje'];Latvijos sostinė ir didžiausias Baltijos šalių miestas
+political-geographic-object;['vilnius', 'vilniaus miestas', 'wilnius', 'wilna', 'lietuvos sostinė', 'vilniaus', 'vilno', 'wilno'];Lietuvos sostinė
+political-geographic-object;['milanas', 'milano'];Komuna Italijoje
+quality;['sąžiningumas', 'honestness'];→ sąžiningas
+quality;['krikščionybė', 'krikščionių tikėjimas', 'krikščionybės istorija', 'krikščionys', 'krikščioniškoji religija', 'krikščioniškosios religijos', 'krikščionybės'];Monoteistinė religija
+region;['kilometras', 'km', 'kilometrų', 'klick'];Ilgio vienetas
+region;['matavimo vienetas', 'vienetas', 'matai', 'matavimo vienetai', 'pikometras', 'daugikliai', 'laiko matavimo vienetai', 'senieji matavimo vienetai', 'tev', 'fizinio vieneto', 'svarsčių ir matų', 'vieneto'];Rodiklis, pagal kurį apskaičiuojami kokio nors objekto matmenys
+region;['para', 'diena', 'dieną', '24 kas valandą', 'dienų', 'dvidešimt keturių valandų laikotarpis', 'pilietines parą', 'saulės dieną', 'saulės parą'];Laiko tarpas trunkantis 24 valandas
+relation;['rūšis', 'balso', 'vidutinio balsas'];veiksmažodžio gramatinė kategorija
+relation;['kaityba', 'fleksija', 'fleksyjnych', 'infekcines', 'inflexion', 'kaitymas', 'vingio'];iš tos pačios leksemos žodžio formų, turinčių skirtingas gramatines reikšmes, sudarymas
+simple-collective;['kraujo grupė', 'kraujo tipas', 'kraujo grupės', 'kraujo tipo'];Kraujo tipai
+situation;['nusižengimas', 'nusižengimo padarymu', 'patento pažeidimo', 'patentų ginčų nagrinėjimo', 'pažeidimas', 'santraukos įsitikinimu', 'smulkių nusikaltimų', 'smulkių nusikaltėlis'];Nedidelio socialinio pavojingumo veikimas arba neveikimas, kuriuo pažeidžiamos teisės arba socialinės normos. teisės pažeidimo rūšis.
+situation;['sveikata', 'gera savijauta', 'gerovė', 'sveikatingumo', 'sveikatos', 'wellness', 'žmonių sveikatai'];Normalus organizmo veikimas, bendra gyvo organizmo būklė.
+situation;['klaida', 'apsirikimas', 'liapsusas', 'suklydimas', 'netaktas'];Nesąmoningas nukrypimas nuo taisyklės, tiesos.
+situation;['opa', 'ulcus', 'opos'];Nuorodinis straipsnis Vikimedija projekte
+situation;['tuberkuliozė', 'džiova', 'tbc', 'tuberkuliozės', 't.b.'];Mokslinis straipsnis
+situation;['garbės medalis', 'medal of honor', 'kongreso medal of honor'];aukščiausia karinė puošmena, apdovanota JAV.
+situation;['skurdas', 'neturtas', 'skurdumas', 'skurdo', 'mažas pajamas', 'neturtingiems', 'paupers', 'santykinio skurdo', 'skurdo lygis', 'skurdo miestuose', 'skurdo įžadus'];Pragyvenimo priemonių stoka, neturtas.
+socially-constructed-person;['dante gabriel rossetti', 'dantė gabrielis rosetis', 'rossetti'];Nuorodinis straipsnis Vikimedija projekte
+socially-constructed-person;['mohandas gandhi', 'mahatma gandhi', 'ghāndī, mūhāndās karamshānd,', 'mahatma gandis', 'mohandas gandis', 'mohandas karamčandas gandis', 'mahatma karamchand gandhi'];Indijos politinis ir religinis lyderis
+socially-constructed-person;['seneka', 'lucijus anėjus seneka', 'lucius annaeus seneca', 'seneca', 'lucius annaeus seneka'];Romėnų valstybės veikėjas, filosofas, dramaturgas ir gamtos tyrinėtojas.
+socially-constructed-person;['adomas', 'adam'];Biblijos personažas, pirmasis žmogus. pagal savo paveikslą Dievo sukurtas iš žemės dulkių.
+socially-constructed-person;['arianrhod', 'arianrod'];Moteriškas vardas
+socially-constructed-person;['james buchanan', 'džeimsas bukananas', 'petraitis', 'prezidentas petraitis'];Amerikos politikas ir pavaduotojas
+socially-constructed-person;['abraomas linkolnas', 'abraham lincoln', 'abrahamas linkolnas', 'prezidentas abraomas linkolnas', 'prezidentas linkolnas'];Amerikos prezidentas
+socially-constructed-person;['volfgangas amadėjus mocartas', 'wolfgang amadeus mozart', 'mocartas', 'mozart'];Kompozitorius
+socially-constructed-person;['napoleonas bonapartas', 'napoleonas i', 'napoleon bonaparte', 'napoleonas', 'napoleonas pirmasis', 'napoléon bonaparte', 'bonapartas', 'mažasis kapralas'];Prancūzijos imperatorius ir karvedys
+socially-constructed-person;['sigmund freud', 'zigmundas froidas', 'froidas', 'sigmundas freudas', 'z. froidas', 'zigmundas freudas'];Austrų neurologas neuropatologas, psichiatras, psichologas.
+socially-constructed-person;['james garfield', 'james a. garfield', 'džeimsas abramas garfyldas', 'džeimsas garfildas', 'džeimsas garfyldas', 'james abram garfield', 'džeimsas a. garfyldas', 'garfildas', 'james abraomas garfildas', 'prezidentas garfildas'];Amerikos politikas
+socially-constructed-person;['andrew jackson', 'endriu džeksonas', 'endrius džeksonas', 'old hickory'];Amerikos politikas ir pavaduotojas
+socially-constructed-person;['william henry harrison', 'viljamas harisonas', 'viljamas henris harisonas', 'william harrison', 'prezidentas william henry harrison'];Amerikos politikas ir prezidentas
+socially-constructed-person;['gydytojas', 'daktaras', 'gydytoja', 'daktarė', 'medikas', 'medikė', 'gydytojai', 'medicinos pareigūnas'];Kas gydo, gydymo specialistas.
+socially-constructed-person;['azijos'];Nuorodinis straipsnis Vikimedija projekte
+socially-constructed-person;['negras', 'juodaodis', 'juodaodžiai', 'negridai', 'australidai', 'negrai', 'juoda', 'juodaodis žmogus', 'negridas', 'negro', 'afrikiečių kilmės', 'juodos moterys', 'negroids', 'negrų', 'nēģeris'];Negras
+socially-constructed-person;['nuotaka', 'nuotakos'];Tekanti mergina, jaunoji.
+socially-constructed-person;['john marshall'];Amerikos politikas
+socially-constructed-person;['moteris', 'teta', 'šnek', 'femina', 'homo sapiens: femina', 'moterys', 'moterų', 'suaugusių moterų'];Vaikus gimdančios lyties žmogus.
+socially-constructed-person;['vyras', 'vaikinas', 'žmogus', 'vir', 'vyrai', 'lytiniam brendimui', 'lytiškai subrendusių', 'suaugusių vyriškos lyties', 'vyrų'];Vyriškos lyties žmogus.
+socially-constructed-person;['john tyler', 'džonas taileris', 'prezidentas tyler'];Amerikos politikas
+socially-constructed-person;['giuseppe garibaldi', 'džiuzepė garibaldis'];Vācu politiķis
+socially-constructed-person;['aristotelis'];Graikų filosofas, tyrinėtojas. Kartu su Sokratu ir Platonu yra laikomas įtakingiausiu mąstytoju Vakarų filosofijos istorijoje.
+socially-constructed-person;['gnėjus pompėjus didysis', 'pompėjus didysis', 'gnaeus pompeius', 'gnaeus pompeius magnus', 'gnėjus pompėjus', 'pompėjus', 'nugalėk papa sasama, be mediko umpoktą gentį be dėmesio išblaškytojo pompeius didžiojo'];Romos karvedys ir politikas.
+socially-constructed-person;['generalinis direktorius', 'vadovaujantis darbuotojas', 'vykdantysis direktorius', 'gen. direktorius', 'gen. direktorė', 'generalinė direktorė', 'ceo', 'chief executive officer', 'chief operating officer', 'vyriausiasis vykdomasis pareigūnas', 'vyriausiasis', 'vyriausiasis operacijų pareigūnas'];aukščiausio lygio (C) vadovas
+socially-constructed-person;['kalėdų senelis', 'kalėdų senis', 'senis šaltis', 'kalėdų senelio', 'kriss kringle', 'santa', 'sent nikas', 'st nikas'];Kalėdų personažas
+spatial-feature;['kalnas', 'kalnų'];Aukšta geografinė vietovė
+subject;['tektonika', 'plokščių tektonika', 'plokštė tektoninių teorija', 'plokštės ribų', 'tektoninis', 'tektoninių plokščių', 'tektoninės plokštės'];geologijos mokslo skyrius, nagrinėjantis žemės plutą
+subject;['trigonometrija', 'kosinusas', 'sinusas', 'tangentas'];Geometrijos šaka, tyrinėjanti sąryšius tarp kampų ir kraštinių geometrinėse figūrose
+taxonomic-collection;['imperfektas', 'netobulas', 'continuous tense', 'laipsnišką įtempta', 'netobulas įtempta', 'nuolatinis aspektas', 'progresuojantis įtempta'];laiko forma
+taxonomic-collective;['porūšis', 'rasė', 'paskirs porūšių', 'paskirti porūšis', 'rasės', 'ssp'];Biologinė koncepcija
+taxonomic-collective;['bervidis', 'scrophularia', 'genties scrophularia'];Bervidinių (Scrophulariaceae) šeimos augalų gentis
+temporal-region;['liepos 1', 'liepos 1 d.', 'dominion day', 'liepa 1'];Data
+temporal-region;['sausio 1', 'iškilmė marijos'];Data
+temporal-region;['vasario 2', 'groundhog day', 'vasaris 2'];Data
+temporal-region;['visų šventųjų diena', 'lapkričio 1', 'visi šventieji', 'hallowmass', 'lapkritis 1', 'visų šventųjų šventė'];Data
+temporal-region;['kalėdos', 'gruodžio 25', 'šv. kalėdos', 'šventos kalėdos', 'truputi apie kalėdas', 'gruodis 25', 'kalėdų', 'kalėdų dieną'];Data
+temporal-region;['kovo 19', 'st joseph', 'kovas 19'];Data
+temporal-region;['balandžio 14', 'balandis 14', 'pan american diena'];Data
+temporal-region;['spalio 24', 'jungtinių tautų diena', 'spalis 24'];Data
+temporal-region;['spalio 12', 'kolumbo diena', '"discovery day', 'dia de la raza', 'spalis 12'];Data
+temporal-region;['nepriklausomybės diena', 'jungtinių valstijų nepriklausomybės diena', 'liepos 4', 'jav nepriklausomybės diena', 'jungtinių amerikos valstijų nepriklausomybės diena', 'ketvirta liepos', 'ketvirtas liepos', 'liepa 4'];Data
+temporal-region;['gegužės 24', 'sandraugos diena', 'empire diena', 'gegužė 24', 'imperija dieną'];Data
+temporal-region;['rugsėjo 17', 'pilietybė diena', 'rugsėjis 17'];Data
+temporal-region;['rugpjūčio 1', 'vasaros', '1 rugpjūtis', 'vasaros diena'];Data
+temporal-region;['birželio 14', 'birželis 14', 'vėliavos diena'];Data
+temporal-region;['birželio 29', 'birželis 29', 'šventųjų petro ir povilo'];Data
+temporal-region;['mykolinės', 'rugsėjo 29', 'joninės', 'rudens diena', 'rugsėjis 29'];Data
+temporal-region;['vasaros saulėgrįža', 'birželio 21', 'joninės', 'vidurvasaris', 'birželis 21'];Data
+temporal-region;['gegužės 1', 'gegužė 1', 'gegužės pirma', 'may day'];Data
+temporal-region;['kovo 2', 'teksasas nepriklausomybės diena', 'kovas 2', 'texas nepriklausomybės diena'];Data
+temporal-region;['vasario 29', 'šuolis dieną', 'vasario dvidešimt devynerius', 'vasaris 29'];Data
+temporal-region;['joninės', 'birželio 23', 'birželis 23', 'joninių išvakarės', 'jonažolės ieva', 'joninių', 'joninių išvakarėse'];Data
+temporal-region;['renesansas', 'renaissance', 'renesanso epocha', 'renesanso filosofija', 'renesanso'];Laikotarpis nuo XIV iki XVII amžiaus
+temporal-region;['pirmadienis', 'pirmadienį'];Savaitės diena
+temporal-region;['laisvalaikis', 'laisvalaikio', 'laisvalaikiu'];laikas, nepriskiriamas tokiai privalomai veiklai kaip darbas
+temporal-region;['sausio 6', 'trys karaliai', 'dvyliktą dieną', 'sausis 6', 'trijų karalių diena', 'trys karaliai mūsų viešpaties'];Data

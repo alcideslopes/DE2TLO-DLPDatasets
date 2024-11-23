@@ -1,0 +1,19 @@
+amount-of-matter;['almabor', 'cider'];Alkoholtartalmú ital, amit elsősorban erre a célra termesztett almafajtákból készítenek.
+amount-of-matter;['almabor', 'fedett almabor', 'kemény almabor'];Alkoholtartalmú ital, amit elsősorban erre a célra termesztett almafajtákból készítenek.
+biological-object;['agy', 'agyvelő', 'agyműködés', 'agyvelejéből', 'emlős agy'];Az állatok központi idegrendszerének szerve, mely a koponyában található és vezérli az élőlény cselekedeteit és gondolatait.
+biological-object;['fej', 'feji', 'fejét'];Egy állat vagy ember testének része, amely az agyat, a szájat és a fő érzékelő szerveket tartalmazza.
+functional-matter;['almabor', 'cider'];Alkoholtartalmú ital, amit elsősorban erre a célra termesztett almafajtákból készítenek.
+functional-matter;['almabor', 'fedett almabor', 'kemény almabor'];Alkoholtartalmú ital, amit elsősorban erre a célra termesztett almafajtákból készítenek.
+physical-object;['tűzoltó készülék', 'tűzoltó berendezés', 'poroltó', 'tűzoltókészülék', 'tűzoltóberendezés', 'asphyxiator', 'tűzoltó', 'tűzoltó készülékek'];Tűz eloltására használható hordozható eszköz.
+physical-object;['vödör', 'veder', 'öt gallon vödör'];Víz tárolására, szállítására használt hengeres, füles edény. Egy akó negyede kb. 12-13 liter.
+political-geographic-object;['afganisztán', 'afganisztáni iszlám állam', 'afganisztáni iszlám köztársaság', 'afgán iszlám állam', 'iszlám állam afganisztán'];Ország Közép-Ásziában, fővárosa Kabul.
+political-geographic-object;['tanzánia', 'tanzániai egyesült köztársaság', 'tanzánia történelme', 'tanzániai'];Ország Kelet-Afrikában.
+political-geographic-object;['szomália', 'szomáli szövetségi köztársaság', 'szomália történelme'];Ország Kelet-Afrikában.
+political-geographic-object;['németország', 'német szövetségi köztársaság', 'bundesrepublik deutschland', 'ger', 'németországi szövetségi köztársaság', 'deutschland', 'frg', 'németországban'];Nyugat-európai ország.
+political-geographic-object;['budapest', 'bp.', 'magyarország fővárosa', 'bpest', 'buda', 'pest', 'óbuda', 'budapesti kistérség', 'budapestinum', 'magyar fővárosban'];Magyarország fővárosa.
+political-geographic-object;['hatáskör', 'joghatóság'];A terület vagy tartomány, ahol egy adott személynek vagy csoportnak (például bíróságnak) lehetősége van jogait érvényesíteni.
+region;['2', 'kettő', 'két', 'ii', 'merevítő'];A második természetes szám (2).
+region;['1', 'egy', 'egység', 'hatszoros', 'hármas', 'multiplikatív identitás', 'n-est', 'tuple', 'ász'];A tőszámnév, ami 0 után következik és megelőzi a kettőt, római számként I-vel, arab számként 1-gyel jelöljük.
+situation;['probléma', 'baj', 'gond', 'nehézség'];Egy akadály, amelyet meg kell oldani vagy kezelni kell.
+socially-constructed-person;['pluto', 'plútó', 'hadész', 'aidoneusz', 'aidóneusz', 'aita', 'dis pater', 'haidész', 'hádész', 'aides', 'aidoneus'];Az alvilág ura a görög-római mitológiában.
+technique;['képzelet', 'fantázia', 'fantáziadús', 'képzelőerő'];Képzeletbeli képek, események, történetek létrehozásának képessége.

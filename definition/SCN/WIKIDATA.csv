@@ -1,0 +1,796 @@
+abstract-region;['grannizza fìsica scalari', 'rannizza fìsica scalari'];Grannizza fìsica chi si po'' misurari cûn nùmmiru sulu
+activity;['pruduzzioni'];L''attu di priparari e mèttiri a dispusizzioni beni e sirvizza
+activity;['nùmmiru grammaticali', 'nùmmiru'];Nùmmiru chi s''attribbuisci a n''entità grammaticali comu ad esempiu un nomu o n''aggittivu
+activity;['pizzìu', 'cunflittu'];Attritu, disaccordu, o discordia d''intra di na cumunità
+activity;['palluni', 'calciu', 'cauciu', 'football', 'càuciu'];Sport di squatra
+activity;['pillìcula', 'film', 'pillicula', 'pilliculi', 'pillìculi'];Siguenza di mmàggini in muvimentu riggistrati supra ôn supportu appòsitu
+activity;['scacchi'];Jocu di tavulu pi 2 jucaturi
+activity;['golf'];Sport innividuali unni s''havi a tirari cûn bastuni na pallina nta nu bucu
+activity;['jocu di tàvulu', 'giocu di tàvula', 'giocu di tàvulu', 'jocu di tàvula'];Jocu chi cuntempla l''usu di na tàvula o di pidini
+activity;['hockey supra ô ghiacciu', 'hockey ntô ghiacciu'];Varietà di hockey chi si joca supra ô ghiacciu
+activity;['cricket'];Sport di squatra chi si joca cu mazzi, pallini e nguantuna
+activity;['rissa'];reato ḍḍ'ordinamentu giurìdicu 'tàlianu
+activity;['cinsimentu'];Cugghiuta e riggistrazzioni di nfurmazzioni ca riguàrdunu ê genti chi fannu parti di na pupulazzioni
+activity;['hockey supra ô pratu', 'hockey ntô pratu'];Varietà di hockey chi si joca supra a l''erba
+activity;['tassunumìa', 'tassinumìa'];Disciplina dâ classificazzioni sistimàtica, ad esempiu di l''èssiri viventi, ma nun sulu
+activity;['nivi'];Pricipitazzioni atmusfèrica fatta di cristalli fini d''acqua jilata
+activity;['espusizzioni artìstica'];Postu unni si mèttunu òpiri d''arti pi fàrili a vìdiri ô pùbblicu
+activity;['disignu'];Pruggettu e organizzazzioni di n''oggettu o nu sistema
+activity;['facenna', 'cumpagnìa', 'azzienda', 'azzienna', 'imprisa', 'mprisa'];Assuciazzioni chi s''incàrrica di vìnniri beni, sirvizzi, o tutti dui
+activity;['turismu', 'turisimu', 'turìsimu'];Lu viaggiari pû piaciri di fàrilu
+activity;['canterìstica navali'];Innustria dâ custruzzioni e dâ riparazzioni di l''imbarcazzioni
+activity;['arti'];Attività di cui, pû piaciri propiu o di l''autri, esprimi sinsazzioni o li sùscita nta l''autri, o pruduci òpiri chi hannnu stu prupòsitu
+activity;['pricipitazzioni atmusfèrica'];Finòminu dî cosi chi càlunu nterra di l''atmusfera, comu ad esempiu nivi, acqua e grànnula
+activity;['tempu', 'cunnizzioni mitiurulòggichi', 'tempu atmusfèricu'];Cunnizzioni dî finòmini di l''atmusfera chi nfluenzunu l''omu: caudu, friddu, ventu, nivi, etc.
+activity;["prisidenti dî stati uniti d'amèrica"];Capu dû statu e dû guvernu dî Stati Uniti d''Amèrica
+activity;['cuffari', 'chiffari'];Chiddu chi è jè ch''un cristianu passa tempu a fari (passatempu, travagghiu, prufissiuni...)
+activity;['caccia'];L''attività di pigghiari armali, di sòlitu mmazzànnuli, nta l''ambienti naturali unni càmpunu, pi prucuràrisi manciari o piddizzi, o pi passa-tempu
+activity;['cursa di cavaddi', 'cursa dî cavaddi', 'cursa re cavaddi', 'cursa ri cavaddi', 'cursi di cavaddi'];Sport equestri unni li cavaddi cùrrunu supra a na pista fatta apposta
+activity;['acqua', 'chiuvuta', 'chioggi', 'chiova', 'acqua di celu', 'pioggia', 'acqua chiuvana', 'acqua di chioggi', 'acqua di cielu', 'acqua di cioggi', 'acqua di ghioggi', 'acqua di gioggi', 'acqua ri celu', 'chioggia', 'cioggi', 'cioggia', 'ghioggi', 'ghioggia', 'gioggi'];Pricipitazzioni atmusfèrica fatta di acqua, senza jilata, ca scinni dû celu
+agentive-figure;['leva', 'forza armata', 'arma'];Suttadivisioni ufficiali dû cumplessu di tutti li militari di na nazzioni
+agentive-figure;['òrganu'];Ntâ giurisprudenza, entità chi pigghia ligalmenti dicisioni a nomu di na pirsuna giurìdica, la quali nun essennu na pirsuna fìsica nun po'' pigghiari dicisioni ntô senzu naturali dû tèrmini
+agentive-figure;['banca cintrali'];Enti chi guverna la munita, la so offerta, e li tassi d''intiressi d''un paisi o di n''aria ecunòmica
+agentive-figure;['ufficiu pustali'];Ufficiu pùbblicu dûn sirvizzu pustali
+agentive-figure;['statu', 'statu suvranu'];Organizzazzioni pulìtica e giurìdica di nu tirritoriu dilimitatu
+agentive-figure;['statu', 'statu suvranu'];Entità pulitica chi guverna n''aria giugràfica in manera autònuma
+agentive-figure;['asilu', 'scola materna'];Istitutu educativu e ricriativu unni si pòrtunu li picciriddi quannu ancora nun hannu l''età pi jiri â scola
+agentive-figure;['cosa nostra', 'mafia', 'maffia'];Cosa che non esiste
+agentive-figure;['agginzìa di viaggi'];Ufficiu chi organizza viaggi pi cuntu di l''autri
+agentive-figure;['istitutu educativu'];Postu ca li genti friquèntunu pi fini d''istruzzioni
+agentive-figure;['culleggiu', 'college', 'colleggiu'];Istitutu educativu chi, ntê varî paìsi, offri gradi diffirenti d''educazzioni
+agentive-figure;['nazziuni uniti', 'nazzioni uniti', 'onu', 'nazziona unita', 'organizzazzioni dî nazzioni uniti', 'united nations', 'urganizzazzioni dî nazzioni uniti'];Organizzazzioni intirnazziunali chi cumprenni tutti li nazzioni dû munnu
+agentive-figure;['partitu pulìticu', 'partitu', 'partitu puliticu', 'pattitu puliticu'];Assuciazzioni di innividui cu principî pulìtici sìmili, cû scopu d''aviri rapprisintanza nta l''òrgani liggislativi, guvirnativi o amministrativi di na nazzioni
+agentive-figure;['chiesa cattòlica', 'chiesa cattòlica rumana', 'chiesa cattolica', 'chiesa cattolica romana', 'chiesia cattolica', 'cattolicesimu', 'cattolici', 'cattolicismu', 'cattolicismu romanu', 'cattolicèsimu', 'cattulicesimu', 'cattulicismu', 'cattulicèsimu', 'chiesa cattolica rumana', 'chiesia cattolica rumana', 'cresia cattolica', 'cresia cattòlica', 'cresia rumana', 'crèsia cattòlica', 'crèsia cattòlica rumana'];Cumunità cristiana ca ricanusci l''auturità dî vìscuvi comu succissura di l''apòstuli e dû Papa comu succissuri di Santu Petru
+agentive-figure;['pandora'];Pirsunaggiu dâ mituluggìa greca
+agentive-figure;['statu'];Cuncettu tiòricu
+agentive-figure;['forzi armati', 'milizzia'];Istituzzioni chi havi la funzioni di cummattiri ntê guerri, e l''arti, li menzi e li genti chi nni fannu parti o sunnu propî d''idda
+agentive-physical-object;['armali', 'animalia', 'armalu'];Regnu tassunòmicu di l''armali
+agentive-physical-object;['plantae', 'chianta', 'pianta'];Èssiri viventi chi apparteni ô regnu viggitali
+agentive-physical-object;['bàncumat', 'bancomat', 'atm'];Spurteddu autumatizzatu a sirvizzu di nu bancu unni si po'' annari pi prilivari sordi o fari autri opirazzioni
+agentive-physical-object;['computer', 'calculaturi elittrònicu', 'carculaturi', 'caṛculaturi', 'compiuter', 'compiuteri', 'compiuteru', 'computeri', 'computeru', 'cumpiuter', 'cumpiuteru', 'cumputer', 'cumputeru'];Màchina elittrònica ca s''adòpira pi fari cunti
+agentive-physical-object;['mulinu'];Arnesi chi sfrantuma nu matiriali duru nta pùrvuli, di sòlitu lu granu nta farina
+agentive-physical-object;['cani', 'canis lupus familiaris'];Suttaspecia dumèstica dû canis lupus
+agentive-physical-object;['chianta pirenni', 'pianta pirenni'];Chianta chi nurmalmenti campa cchiu'' ssai di du'' anni
+agentive-physical-object;['personal computer', 'pc'];Calculaturi elittrònicu a usu ginèricu e pirsunali
+agentive-physical-object;['lumiuni', 'citrus limon', 'limuni', 'limunara', 'lumiunara', 'pedi di lumiuni', 'limiuni', 'lumia', 'lumìa'];Àrvulu di fruttu
+agentive-physical-object;['àrvulu', 'macchia', 'àrbiru', 'àrburu', 'arbiru', 'arviru', 'àrbulu', 'àrvuru'];Chianta granni, cûn truncu lignusu chi susteni rami e fogghî
+agentive-physical-object;['procarioti'];Duminiu di l''essiri viventi cu cèlluli senza nucliu
+agentive-physical-object;['tetrapodi'];Supraclassi dî primi vertibbrati a quattru ciampi e dî so discinnenti
+agentive-physical-object;['pudditru', 'putriddru', 'putru'];cavaddu giùvini
+agentive-physical-object;['simîformi', 'simiiformi'];Infraòrdini dî Primati chi cumprenni tutti li scimî di Vecchiu e Novu Munnu, macari l''Omu, ma nun li tarsî
+agentive-physical-object;['vertebrata', 'craniati', 'vertibbrati', 'vertebbrati', 'virtibbrati', 'virtibrata', 'virtibrati'];Cladi dî Curdati
+agentive-physical-object;['vertebrata', 'craniati', 'vertibbrati', 'vertebbrati', 'virtibbrati', 'virtibrata', 'virtibrati'];Suttaphylum dî Curdati
+agentive-physical-object;['curdati', 'chordata', 'curdata'];Filu di armali Deuterostomi chi hannu na struttura di sustegnu interna
+agentive-physical-object;['urganismu', 'èssiri', 'organismu'];Entità filusòfica difinuta vagamenti comu na cosa chi esisti o chi campa
+agentive-physical-object;['èssiri umanu', 'umanu', 'homo', 'homo sapiens sapiens', 'homo sapiens', 'omu'];Specia dâ famigghia di l''Ominidi, unica specia oggi esistenti dû gèniri Homo
+agentive-physical-object;['èssiri umanu', 'umanu', 'homo', 'homo sapiens sapiens', 'homo sapiens', 'omu'];Gèniri dâ famigghia di l''Omìnidi, chi cumprenni l''Omu mudernu e li specî mparintati
+agentive-physical-object;['aranciu amaru', 'arancia amara'];Àrvulu di fruttu
+agentive-physical-object;['ominoidi'];Suprafamigghia di l''òrdini dî Primati, chi cunteni scimî antropumorfi e l''Omu stissu
+agentive-physical-object;['gattu sarvaggiu', 'jatta sarvaggia', 'jattu sarvaggiu'];Specia di felinu
+agentive-physical-object;['mammalia', 'mammìfiri', 'mammifiri', 'mammifiru', 'mammìfiru'];Classi dî Vertibbrati
+agentive-physical-object;['varcocu', 'pircocu', 'barcocu', 'crapopu', 'pricopa', 'chiricopu', 'chiricuopu', 'piricocu', 'pricopu'];Fruttu
+agentive-physical-object;['purpu', 'puppu'];òrdini ḍḍè mulluschi
+agentive-physical-object;['pipi spezzi', 'pipi spezzî', 'spezziu', 'spezzî'];Specia di chianta, dâ quali simenza si fa'' na conza picanti
+agentive-physical-object;['carcarazza', 'caccarazza'];Aceddu nìuru e biancu
+agentive-physical-object;['ciaula', 'ciàvula'];Specia di aceddu
+agentive-physical-object;['giniraturi elèttricu', 'giniraturi'];Apparicchiu chi pruduci enirgìa elèttrica a partiri di quarchi n''autra forma d''enirgìa
+agentive-physical-object;["fonti d'enirgìa"];Cosa chi pruduci enirgìa
+agentive-physical-object;['camiddu', 'camelus', 'gamiddu'];Gèniri di mammìfiru
+agentive-physical-object;['sceccu', 'equus asinus', 'camaru', 'ciucciu', 'sumaru', 'àsinu', 'sciccareddu'];Specia di mammìfiru
+agentive-physical-object;['pàssaru di campagna'];Specia di aceddu
+agentive-physical-object;['merru pettu biancu', 'turdus torquatus', 'merru a cullana', 'merru cû cuddaru jancu', 'merru pettu jancu', 'merru varvariscu'];Specia di aceddu
+agentive-physical-object;['jattu', 'gattu', 'felis silvestris catus', 'attu', 'iattu', 'jatta'];Specia dumèstica di filinu
+agentive-physical-object;['hind'];Nomu di battìu fimmininu
+agentive-physical-object;['lefanti', 'lifanti', 'elifanti', 'liotru', 'elefanti', 'liafanti', 'liufanti'];Armali mammìfiru
+agentive-physical-object;['borrago officinalis', 'vurrani', 'vurrania'];spèci ḍḍì pianta ḍḍà famigghia Boraginaceae
+agentive-physical-object;['arthropoda', 'artropudi', 'artropoda', 'artropodu'];Filu di armali invertibbrati chi hannu n''esuschèlitru, un corpu sigmintatu, e appinnici articulati
+agentive-physical-object;['tacchinu', 'gaddudinnia', 'gaddurinnia', 'jaddudinnia', 'jaddurinnia', 'pipìu', "gaddu d'innia", "gaddu r'innia", "jaddu d'innia", "jaddu r'innia", 'nuzz', 'gaddu d’innia', 'gaddu r’innia', 'iaddu d’innia', 'iaddu r’innia', 'iaddudinnia', 'iaddurinnia', 'jaddu d’innia', 'jaddu r’innia', 'meleagris gallopavo', 'nuzza', 'pi-pìu', 'pi pìu'];Specia d''aceddu
+agentive-physical-object;['nipitedda', 'clinopodium nepeta', 'niputedda'];Specia di chianta
+agentive-physical-object;['euteri', 'euplacintati'];Infraclassi dî Terî chi cumprenni l''armali cu'' placenta vera e propia
+agentive-physical-object;['marsupialia', 'marsupiali'];Infraclassi dî Mammifiri ca cumprenni l''armali chi'' crìsciunu li figghî ntôn marsupiu
+agentive-physical-object;['ficu', 'ficara', 'ficus carica', 'pedi di ficu', 'peri di ficu'];Specia di àrvulu
+agentive-physical-object;['re dî marvizzi', 'marvizza impiriali', 're di li marvizzi'];Specia di aceddu
+agentive-physical-object;['striggiformi'];Òrdini d''aceddi rapaci
+agentive-physical-object;['taddarita', 'chiroptera', 'cannarita', 'cannarìtula', 'donninaru', 'farfàgghita', 'nyctalus noctula', 'pipistrellu', 'rattàula', 'surci jaddiolu', 'surgi jaddiolu', 'sùrici vecchiu', 'chiròttiri', 'surici vecchiu', 'suricivecchiu'];Òrdini dî mammìfiri alati chi vòlunu ntâ notti
+agentive-physical-object;['spuntascebbi', 'sylvia curruca', 'beccaficu', 'munachedda'];Specia di aceddu
+agentive-physical-object;['lucerta', 'lucèrtula', 'gièrdula', 'carmasala', 'lucertula'];Rèttili
+agentive-physical-object;['mannarinu', 'mannarinara', 'pedi di mannarinu'];Àrvulu di fruttu
+agentive-physical-object;['nzettu', 'insetti', 'insettu', 'insecta', 'nzetti', 'nsetti', 'nsettu'];Classi d''armali invertibbrati dû filu di l''Artropudi
+agentive-physical-object;['marvizza furastera', 'marbizzu', 'marvizzu', 'turdu russu'];Specia di aceddu
+agentive-physical-object;['beccaficu di siminatu'];Specia di aceddu
+agentive-physical-object;['furmìcula', 'fummicula', 'formicidae', 'firmicula', 'firmìcula', 'frimmicula', 'frimmìcula', 'frumicula', 'frummica', 'frummicula', 'frummicura', 'frummìcula', 'frummìcura', 'frumìcula', 'fummica', 'fummichila', 'fummicura', 'fummìchila', 'fummìcula', 'furmica', 'furmicula', 'furmìcura'];Famigghia di insetti
+agentive-physical-object;['verbascu', 'verbascum thapsus', 'babbascara', 'barbascara'];Specia di chianta
+agentive-physical-object;['prunus armeniaca', 'barcocu', 'pedi di barcocu', 'pedi di pricopa', 'pedi di varcocu', 'pricupara', 'varcocu', 'pedi di pircocu', 'peri di pircocu'];Àrvulu di fruttu
+agentive-physical-object;['tùrtura'];Specia di aceddu
+agentive-physical-object;['camiddu', 'gamiddu', 'cameddu', 'camellu', 'camelu', 'cammeddu', 'cammellu'];Specia di mammìfiru
+agentive-physical-object;['pappagaddu', 'pappagàddu', 'pappagaḍḍu', 'pappajaḍḍu', 'pappajaddu', 'psittaciformes'];Òrdini d''aceddi
+amount-of-matter;['cumpostu chìmicu'];Sustanza chìmica pura ca cunteni dui o puru cchiu'' ssai elimenti chìmici
+amount-of-matter;['cafè', 'café'];Bivanna scura chi si pripara câ simenza rrustuta e macinata dâ chianta di cafè
+amount-of-matter;['europiu', 'eu'];Elimentu chìmicu cu nùmmiru atòmicu 63
+amount-of-matter;['zincu', 'zn'];Elimentu chìmicu cu nùmmiru atòmicu 30
+amount-of-matter;['nun mitallu', 'nun-mitaddu', 'nun-mitallu', 'nun mitaddu', 'nun metallu'];Elimentu chìmicu ca nun veni classificatu no comu mitaddu e no comu semimitaddu
+amount-of-matter;['acqua', 'occa', 'vuvù', 'h₂o'];Cumpostu chìmicu fattu di mùleculi ca hannu du'' àtumi d''idrògginu e unu d''ossìgginu, funnamentu dâ vita supra â Terra
+amount-of-matter;['argon', 'ar', 'argu', 'argun'];Elimentu chìmicu cu nùmmiru atòmicu 18
+amount-of-matter;['cloru', 'cl'];Elimentu chìmicu cu nùmmiru atòmicu 17
+amount-of-matter;['azzotu', 'n', 'azotu', 'azzòtu', 'azòtu'];Elimentu chìmicu cu nùmmiru atòmicu 7
+amount-of-matter;['tecnezziu', 'ticnezziu', 'tc', 'tecnetu', 'ticnetu', 'tecneziu'];Elimentu chìmicu cu nùmmiru atòmicu 43
+amount-of-matter;['ceriu', 'ce'];Elimentu chìmicu cu nùmmiru atòmicu 58
+amount-of-matter;['ramu', 'rami', 'cu'];Elimentu chìmicu cu nùmmiru atòmicu 29
+amount-of-matter;['gadoliniu', 'gaduliniu', 'gd'];Elimentu chìmicu cu nùmmiru atòmicu 64
+amount-of-matter;['samariu', 'sm'];Elimentu chìmicu cu nùmmiru atòmicu 62
+amount-of-matter;['cromu', 'cr'];Elimentu chìmicu cu nùmmiru atòmicu 24
+amount-of-matter;['manganesi', 'manganisi', 'mn'];Elimentu chìmicu cu nùmmiru atòmicu 25
+amount-of-matter;['cubbaltu', 'cobbaltu', 'co'];Elimentu chìmicu cu nùmmiru atòmicu 27
+amount-of-matter;['tantaliu', 'ta'];Elimentu chìmicu cu nùmmiru atòmicu 73
+amount-of-matter;['nichel', 'ni', 'nicheliu'];Elimentu chìmicu cu nùmmiru atòmicu 28
+amount-of-matter;['irìdiu', 'iridiu', 'ir'];Elimentu chìmicu cu nùmmiru atòmicu 77
+amount-of-matter;['tungstenu', 'volframiu', 'vulframiu', 'w', 'wolframiu', 'wulframiu'];Elimentu chìmicu cu nùmmiru atòmicu 74
+amount-of-matter;['mercuriu', 'mircuriu', 'argentu vivu', 'hg'];Elimentu chìmicu cu nùmmiru atòmicu 80
+amount-of-matter;['uraniu', 'u'];Elimentu chìmicu cu nùmmiru atòmicu 92
+amount-of-matter;['birilliu', 'birìlliu', 'berilliu', 'be', 'berìlliu'];Elimentu chìmicu cu nùmmiru atòmicu 4
+amount-of-matter;['cristallu lìquidu'];Statu dâ materia chi havi prupietà dî lìquidi ma si trova sutta forma cristallina
+amount-of-matter;['zirconiu', 'zr', 'zirconio'];Elimentu chìmicu cu nùmmiru atòmicu 40
+amount-of-matter;['antimoniu', 'sb', 'stibbiu'];Elimentu chìmicu cu nùmmiru atòmicu 51
+amount-of-matter;['fosfuru', 'fòsfuru', 'pòspuru', 'fòsforu', 'p'];Elimentu chìmicu cu nùmmiru atòmicu 15
+amount-of-matter;['ossìgginu', 'ussìgginu', 'o', 'ossigginu', 'ossìggenu', 'ussigginu'];Elimentu chìmicu cu nùmmiru atòmicu 8
+amount-of-matter;['iodiu', 'jodiu', 'i'];Elimentu chìmicu cu nùmmiru atòmicu 53
+amount-of-matter;['bromu', 'br'];Elimentu chìmicu cu nùmmiru atòmicu 35
+amount-of-matter;['idrògginu', 'h', 'idrogginu', 'idròggenu', 'idròginu'];Elimentu chìmicu cu nùmmiru atòmicu 1
+amount-of-matter;['fluoru', 'flüor', 'f'];Elimentu chìmicu cu nùmmiru atòmicu 9
+amount-of-matter;['copulìmiru', 'cupulìmiru'];Pulìmiru fattu di dui o cchiu'' ssai monòmiri diffirenti
+amount-of-matter;['molibdenu', 'mulibdenu', 'mo'];Elimentu chìmicu cu nùmmiru atòmicu 42
+amount-of-matter;['cesiu', 'cs'];Elimentu chìmicu cu nùmmiru atòmicu 55
+amount-of-matter;['poloniu', 'puloniu', 'po'];Elimentu chìmicu cu nùmmiru atòmicu 84
+amount-of-matter;['nobeliu', 'nubbeliu', 'no', 'nobbeliu', 'unb', 'unnilbiu'];Elimentu chìmicu cu nùmmiru atòmicu 102
+amount-of-matter;['mendeleviu', 'mindileviu', 'md', 'mendileviu', 'unniluniu', 'unu'];Elimentu chìmicu cu nùmmiru atòmicu 101
+amount-of-matter;['laurenziu', 'lr', 'unniltriu', 'unt'];Elimentu chìmicu cu nùmmiru atòmicu 103
+amount-of-matter;['rutherfordiu', 'rutirfordiu', 'rf', 'ruterfordiu', 'ruthirfordiu', 'unnilquadiu', 'unq'];Elimentu chìmicu cu nùmmiru atòmicu 104
+amount-of-matter;['berkeliu', 'bircheliu', 'bercheliu', 'birkeliu', 'bk'];Elimentu chìmicu cu nùmmiru atòmicu 97
+amount-of-matter;['fermiu'];Elimentu chìmicu cu nùmmiru atòmicu 100
+amount-of-matter;['nettuniu', 'nittuniu', 'np'];Elimentu chìmicu cu nùmmiru atòmicu 93
+amount-of-matter;['curiu', 'cm'];Elimentu chìmicu cu nùmmiru atòmicu 96
+amount-of-matter;['galliu', 'ga'];Elimentu chìmicu cu nùmmiru atòmicu 31
+amount-of-matter;['protoattiniu', 'prutuattiniu', 'pa', 'protuattiniu'];Elimentu chìmicu cu nùmmiru atòmicu 91
+amount-of-matter;['alluminiu', 'aluminiu', 'al'];Elimentu chìmicu cu nùmmiru atòmicu 13
+amount-of-matter;['ittriu', 'y'];Elimentu chìmicu cu nùmmiru atòmicu 39
+amount-of-matter;['talliu', 'tàlliu', 'tl'];Elimentu chìmicu cu nùmmiru atòmicu 81
+amount-of-matter;['chiummu', 'gghiummu', 'pb'];Elimentu chìmicu cu nùmmiru atòmicu 82
+amount-of-matter;['cesiu', 'cs'];Elimentu chìmicu cu nùmmiru atòmicu 55
+amount-of-matter;['bariu', 'ba'];Elimentu chìmicu cu nùmmiru atòmicu 56
+amount-of-matter;['rubidiu', 'rubbidiu', 'rb'];Elimentu chìmicu cu nùmmiru atòmicu 37
+amount-of-matter;['oru', 'au'];Elimentu chìmicu cu nùmmiru atòmicu 79
+amount-of-matter;['fluidu'];Sustanza ca si diforma illimitatamenti quannu veni suttaposta a sforzu di tagghiu
+amount-of-matter;['seaborgiu', 'siaborghiu', 'sb', 'seaborghiu', 'siaborgiu', 'unh', 'unnilexiu'];Elimentu chìmicu cu nùmmiru atòmicu 106
+amount-of-matter;['dubniu', 'db', 'unnilpentiu', 'unp'];Elimentu chìmicu cu nùmmiru atòmicu 105
+amount-of-matter;['olmiu', 'ho'];Elimentu chìmicu cu nùmmiru atòmicu 67
+amount-of-matter;['erbiu', 'er'];Elimentu chìmicu cu nùmmiru atòmicu 68
+amount-of-matter;['eliu', 'èliu', 'he'];Elimentu chìmicu cu nùmmiru atòmicu 2
+amount-of-matter;['arsenicu', 'arsènicu', 'arsènacu', 'as'];Elimentu chìmicu cu nùmmiru atòmicu 33
+amount-of-matter;['alumi di putassiu', 'alumi di rocca'];Cumpostu chìmicu di putassiu, aluminiu, sùrfuru e ossìgginu
+amount-of-matter;['rodiu', 'rh'];Elimentu chìmicu cu nùmmiru atòmicu 45
+amount-of-matter;['lantaniu', 'la'];Elimentu chìmicu cu nùmmiru atòmicu 57
+amount-of-matter;['carbòniu', 'carboniu', 'c'];Elimentu chìmicu cu nùmmiru atòmicu 6
+amount-of-matter;['sùrfuru', 'surfi', 'suffuru', 'sùrfaru', 's', 'sùlfaru', 'sùlfuru', 'sùrfiru'];Elimentu chìmicu cu nùmmiru atòmicu 16
+amount-of-matter;['radiu', 'ràdiu', 'ra'];Elimentu chìmicu cu nùmmiru atòmicu 88
+amount-of-matter;['oxyde de cuivre'];Pàggina di disambiguazzioni di Wikimedia
+amount-of-matter;['terra rara'];Elimentu chìmicu chi fa'' parti dâ famigghia dî 15 lantànidi cû scanniu e l''ittriu
+amount-of-matter;['elimentu dû gruppu 2'];Gruppu di elimenti chìmici chi stannu ntâ sicunna culonna dâ tabbella piriòdica
+amount-of-matter;['elimentu dû gruppu 18', 'gas nobbili'];Gruppu di elimenti chìmici chi stannu ntâ diciuttèsima culonna dâ tabbella piriòdica
+amount-of-matter;['elimentu chìmicu', 'elementu', 'elementu chìmicu', 'elimentu chimicu', 'elimentu chìmucu'];Classi dî sustanzi chìmichi fatti sulu di atumi cû stissu nùmmiru atòmicu
+amount-of-matter;['acqua pi bìviri', 'acqua pi mbìviri', 'acqua pi vìviri', 'acqua putàbbili', 'acqua di vìviri'];Acqua chi si po'' bìviri senza rìsichi pâ saluti
+biological-object;['articulazzioni'];Cugnunzioni tra du'' corpi òssei
+biological-object;['zimma'];Accumulo di cose
+biological-object;['purpuzza', 'jìritu', 'jiditu'];Organu di maniamentu e di sensu chi si trova ntê manu e ntê pedi di l''omu e di autri primati
+biological-object;['articulazzioni sinoviali'];Articulazzioni tra du corpi ossei cuntigui
+biological-object;['corpu umanu'];Stuttura matiriali di na pirsuna
+biological-object;['citrus', 'agrumi'];Gèniri di chianti
+biological-object;['itu', 'jìritu dâ manu', 'iritu', 'jiditu', 'jiritu', 'jìditu dâ manu'];Òrganu di maniamentu e di sensu chi si trova ntê manu di l''omu e di autri primati
+biological-object;['pumu', 'puma'];Fruttu
+biological-object;['ganga', 'janga', 'mola'];Denti largu e chiattu ca si trova ntê lati dâ bucca dî mammìfiri
+biological-object;['scagghiuni'];Denti longu e pizzutu tìpicu dî Mammìfiri, ca di sòlitu nn''hannu quattru, dui di supra e dui di sutta
+biological-object;['ciriveddu', 'cirveddu'];Òrganu principali dû sistema nirvusu cintrali
+biological-object;['manu', 'manazza', 'manuna', 'manuzza'];Parti dû corpu a l''estremità dû brazzu chi s''adopira pi nguantari li cosi
+biological-object;['pedi'];Parti dû corpu chi si ppoggia nterra pi stari â dritta e pi caminari
+biological-object;['coddu'];Parti dû corpu chi cugnunci la testa cû restu dû corpu
+biological-object;['coscia', 'còscia', 'cùoscia'];Parti auta dâ gamma chi va dî ncinagghî fina ô dinocchiu
+biological-object;['fruttu', 'frutti'];Parti dâ chianta ca si forma dû ciuri pi cuntèniri la simenza. certi voti si po'' manciari
+biological-object;['puseri', 'puòddici', 'puòllici', 'pòddici', 'pòllici'];Jìritu cchiu'' grossu dâ manu
+biological-object;['testa', 'capa'];Parti di n''armali ca cunteni lu ciriveddu
+causal-role;['sciugghimentu', 'sulventi', 'disciugghimentu'];Sustanza ca nni squagghia n''autra, e nzèmmula fòrmunu na suluzzioni
+causal-role;['antimicrobiano'];pàggina di disambiguazzioni di Wikimedia
+chemical-object;['isòtupu', 'isòtopu'];Varianti di nu stissu elimentu chìmicu chi si diffirenzia sulu pû nùmmiru di niutroni
+classification-system;['sistema di rifirimentu', 'sistema di coordinati', 'sistiema i riferimientu'];Sistema chi si po'' adupirari pi ditirminari univucamenti un puntu nta nu spazziu pi menzu dî so cumpunenti rispettu ôn sistema di rifirimentu
+cognitive-event;['stima'];Valuri ca si supponi apprussimativamenti currettu, ma chi putissi èssiri incumpletu, incertu, o puru instàbbili
+cognitive-modal-description;['idiuluggìa'];Sistema di cuncetti e cunvinzioni pi ntirpitrari li fatti currenti e dicìdiri l''azzioni futuri
+cognitive-modal-description;['sucialdimucrazzìa', 'sucial-dimucrazzìa', 'socialdimucrazzìa', 'socialdimucrazzia', 'sucialdimucrazzia'];Idiuluggìa pulìtica
+cognitive-modal-description;['atiismu', 'ateìsmu', 'atiìsmu', 'ateismu', 'àtiu'];Cunvinzioni di l''assenza di divinità
+collection;['espusizzioni artìstica'];Postu unni si mèttunu òpiri d''arti pi fàrili a vìdiri ô pùbblicu
+course;['manera di cuntaggiu'];Manera comu na malatìa cuntaggiusa si po'' passari di n''innividuu a n''autru
+dependent-place;['caverna', 'grutta', 'rutta', 'spilunca'];Bucu sutta terra granni abbastanza pi fari tràsiri un cristianu
+dependent-place;['chiusa'];Sistema pi jisari o calari mbarcazzioni senza niscìrili di l''acqua, chi giuva pi fàrili passari di nu specchiu d''acqua cchiu'' autu a unu cchiu'' basciu, o viciversa
+dependent-place;['purtedda', 'passu', 'passu di muntagna'];Postu unni veni bonu a passari di na parti a n''autra di na catina muntagnusa
+ecological-collective;['plantae', 'chianta', 'pianta'];Èssiri viventi chi apparteni ô regnu viggitali
+functional-matter;['cafè', 'café'];Bivanna scura chi si pripara câ simenza rrustuta e macinata dâ chianta di cafè
+functional-matter;['vitru'];Sòlidu amorfu chi, quannu si quadìa, pigghia li prupietà dû statu lìquidu senza canciari di fasi
+functional-matter;['ramu', 'rami', 'cu'];Elimentu chìmicu cu nùmmiru atòmicu 29
+functional-matter;['zirconiu', 'zr', 'zirconio'];Elimentu chìmicu cu nùmmiru atòmicu 40
+functional-matter;['conza', 'cundimentu', 'cunnimentu'];Ngridienti ca si metti ntô manciari pi dàricci lu sapuri
+functional-matter;['cesiu', 'cs'];Elimentu chìmicu cu nùmmiru atòmicu 55
+functional-matter;['cesiu', 'cs'];Elimentu chìmicu cu nùmmiru atòmicu 55
+functional-matter;['cachi', 'khaki'];Tinta avana chi s''adòpira nta l''uniformi dî surdati
+functional-matter;['terra di siena', 'terra i siena'];Tinta di marrò
+functional-matter;['ghiacciu', 'gelu', 'ghiazzu', 'iazzu', 'ielu', 'jazzu', 'jelu'];Acqua ô statu solidu
+functional-matter;['lovastatina'];Midicinali
+functional-matter;['spezziu', 'spezzia'];Ngridienti siccu ca s''adòpira a quantità picciriddi, pi dari sapuri o puru culuri ô manciari, o pi fàrilu mmantèniri megghiu. po'' èssiri nu fruttu, na ràdica o n''autra parti di na chianta
+functional-matter;['citrus', 'agrumi'];Gèniri di chianti
+functional-matter;['ocra'];Culuri
+functional-matter;['virdura'];Erba, o na so parti, ca è bona pi manciari
+functional-matter;['sarsa', 'sausa', 'salsa'];Conza lìquida, cchiu'' o menu densa, ca s''adòpira pi dari lu sapuri ô manciari
+functional-matter;['ingridienti'];Sustanza ca va a fari parti di na mistura, ad esempiu di na ricetta di manciari
+functional-matter;['jilatu', 'gelatu', 'gilatu', 'jazzatu', 'jlatu'];Ducci fattu di na crema ghiacciata
+functional-matter;['pumu', 'puma'];Fruttu
+functional-matter;['jilata'];Jelu finu ca si forma supra ê cosi ca stannu fora quannu fa'' friddu, comu ô sirinu
+functional-matter;['bitumi', 'asfalt', 'pici minirali'];Sustanza nìura, ugghiusa, viscusa chi si trova ntâ natura mmiscata a petra calcaria nta l''asfalti naturali
+functional-matter;['pasta'];Manciari fattu di acqua e farina, chi si bugghî e si po'' cunsari cu sausa, sucu, ogghiu e autri cosi
+functional-matter;['fluidu curpurali', 'fluidu biulòggicu'];Fluidu ca veni pruduciutu ntô corpu di n''èssiri viventi
+functional-matter;['ghiacciu', 'gelu', 'ghiazzu', 'iazzu', 'ielu', 'jazzu', 'jelu'];Acqua ô statu solidu
+functional-matter;['fangu'];Terra mmiscata cu acqua
+functional-matter;['sali'];Minirali fattu di clururu di sodiu
+geographical-object;['lacu', 'lagu'];Specchiu d''acqua di supirficî granni circunnatu dâ terra, di sòlitu fattu d''acqua duci
+geographical-object;['po', 'ciumi po'];Ciumi cchiu'' longu di l''Italia
+geographical-object;['arcipèlacu', 'arcipèlagu', 'archipìlagu', 'arcipìlagu', 'arcipelacu', 'arcipelagu'];Gruppu di ìsuli vicini
+geographical-object;['ìsula', 'isula'];Parti di terra chi è cumplitamenti circunnata di l''acqua
+geographical-object;['oceania', 'ociania'];Cuntinenti
+geographical-object;['mississippi', 'mississipi'];Ciumi cchiu'' longu dî Stati Uniti d''Amèrica
+geographical-object;['rusceddu', "cursu d'acqua", 'vadduni', 'lavina', 'lavinaru', 'torrenti', 'turrenti'];Cursu d''acqua naturali picciriddu, chi quannu nun chiovi po'' puru stagghiari cumpletamenti
+geographical-object;['mari aràbbicu'];Mari di l''Ocèanu Innianu sittintriunali
+geographical-object;['sguazzu', 'guadu', 'guazzu'];Postu unni un cursu d''acqua è picca funnu e si po'' passari di na banna a l''autra senza barchi e senza natari
+geographical-object;['indu', 'innu'];Ciumi dû Pakistan, chi passa macari nta Innia e Cina
+geographical-object;['chianu', 'chiana', 'gghianu'];Terra chiatta para para, senza fossa e muntagni
+geographical-object;['amèrica'];Cuntinenti dâ Terra, chi si sparti nta Amèrica Sittintriunali e'' Amèrica Miridiunali
+geographical-object;['zilanna', 'ìsula di zilanna', 'silanna'];Ìsula dâ Danimarca, di nun cunfùnniri câ pruvincia ulannisi dâ Zilanna
+geographical-object;['tamiggi'];Ciumi di l''Inghilterra
+geographical-object;['missouri', 'missuri'];Ciumi dî Stati Uniti d''Amèrica
+gestalt;['ellissoidi'];Quatrica chi custituisci l''estinsioni a tri diminsioni di chiddu chi è n''ellissi nta du'' diminsioni, comu lu sferoidi e la sfera
+information-object;['nomu di duminiu dns'];Nomu idintificativu ùnicu p''un situ Internet
+information-object;['marca'];Idintità ca nu prudutturi adotta pi signari li beni o li sirvizza ca pruduci
+information-object;['alfabbetu latinu', 'alfabbetu rumanu'];Insiemi di littri chi havi orìggini ntâ lingua latina e oggi s''adòpira pi scrìviri tanti lingui eurupei
+information-object;['simàfuru'];Signali luminusu chi règula lu tràfucu
+information-object;['caràttiri', 'grafema'];Sìmmulu ca cumponi li palori scritti
+information-object;['caràttiri', 'grafema'];Unità innipinnenti cchiu'' picciridda ntôn sistema di scrittura
+information-object;['signu'];Quarchi cosa chi tistimonia n''autra cosa o pi cunnissioni causali o pi cunvenzioni
+information-object;['kappa'];Littra di l''alfabbetu grecu
+information-object;['mi', 'miù'];Littra di l''alfabbetu grecu
+information-object;['alfa'];Littra di l''alfabbetu grecu
+information-object;['phi', 'fi'];Littra di l''alfabbetu grecu
+information-object;['chi'];Littra di l''alfabbetu grecu
+information-object;['psi', 'ψ'];Littra di l''alfabbetu grecu
+information-object;['beta'];Littra di l''alfabbetu grecu
+information-object;['èpsilon'];Littra di l''alfabbetu grecu
+information-object;['zeta'];Littra di l''alfabbetu grecu
+information-object;['eta'];Littra di l''alfabbetu grecu
+information-object;['plurali'];Nùmmiru grammaticali
+information-object;['omega'];Littra di l''alfabbetu grecu
+information-object;['sìmmulu dûn tìtulu', 'ticker'];Còdici alfanummèricu ca rapprisenta un tìtulu nta na vurza di valuri
+information-realization;['prugramma', 'applicazzioni', 'programma', 'prugramma di computer', 'prugramma nfurmàticu'];Siguenza di istruzzioni ca si dununu ôn calculaturi elittrònicu pi esiguìri un sirvizzu
+information-realization;['software', 'programma', 'prugramma', 'softuerri'];Prugramma nfurmàticu ntô senzu cchiu'' ginèricu: la parti immatiriali dûn sistema nfurmàticu
+information-realization;['cap', "còdici d'avviamèntu pustali"];Codici chi innica na distinazzioni pûn sirvizzu pustali
+information-realization;['libbru'];Cugghiuta di palori e mmàggini ca rapprisèntunu canuscenza, di sòlitu stampati o manuscritti supra carta riligata, o puru digitalizzati ntôn ducumentu elittrònicu
+information-realization;['questiunariu'];Strumentu di ricerca ca cunsisti nta na serî di dumanni, ô scopu di cògghîri nfurmazzioni statìstichi supra ê cristiani chi rispùnnunu
+information-realization;['sistema di scrittura', 'scrittura'];Modu di rapprisintari li palori di na lingua in manera gràfica, supra â carta o n''autru menzu
+information-realization;['nutazzioni'];Manera difiniua pi cudificari na nfurmazzioni
+information-realization;['artiggianatu'];Misteri di cu sapi criari o cunsari oggetti adupirannu sulu li so manu e arnesi chi nun sunnu industriali
+information-realization;['astrattismo'];Strage di capaci
+information-realization;['ambiguità'];Statu di chiddu ca è suscettìbbili di diffirenti ntirpitrazzioni
+language;['linguaggiu di prugrammazzioni'];Linguaggiu furmali artificiali ca s''adòpira pi scrìviri prugrammi pî calculatura elittrònici
+language;['lingui àustru-asiàtichi'];Famigghia di lingui dû Sud-Est Asiàticu
+language;['lingui itàlichi'];Famigghia linguistica fatta dî lingui parrati dî pupulazzioni antichi dâ pinìsula italiana e dâ Sicilia, e dî lingui muderni chi nni discìnnunu
+language;['lingui slavi'];Famigghia dî lingui parrati dî pupulazzioni slavi nta l''Europa centru-orientali e balcànica
+language;['wu', 'lingua cinisi wu', 'lingua wu'];Lingua chi si parra ntâ Cina
+language;['lingua yiddish', 'yiddish'];Lingua parrata di l''ebbrèi Ashkenazi
+language;['malayalam', 'lingua malayalam'];Lingua chi si parra ntô Kèrala, nu statu di l''Innia
+language;['mòngulu', 'lingua mòngula'];Lingua mongolica chi si parra ntâ Mungolia, ntâ Cina, ntâ Russia e ntô Kirghizzistàn
+language;['lingui uràlichi'];Famigghia di lingui chi s''iputizza àppiru orìggini ntâ riggioni di l''Urali
+language;['carilianu', 'carelianu', 'lingua careliana', 'lingua cariliana'];Lingua baltu-fìnnica chi si parra ntâ Carelia, na riggioni dâ Russia, e ntâ Finlannia
+language;['c'];Linguaggiu di prugrammazzioni
+language;['lingui afru-asiàtichi'];Famigghia di lingui chi si pàrrunu nta l''Àfrica sittintriunali e ntô Vicinu e Mediu Orienti
+language;['bingalisi', 'bangla', 'bengalisi', 'lingua bangla', 'lingua bengalisi', 'lingua bingalisi'];Lingua innu-arica chi si parra ntô Bangladesci e nta l''Innia
+language;['ossetu', 'lingua osseta'];Lingua iraniana orientali chi si parra nta l''Ossezzia
+language;['giurgianu', 'lingua giurgiana'];Lingua caucàsica chi si parra ntâ Georgia
+language;['nurviggisi', 'lingua norviggisa', 'lingua nurviggisa', 'lingua norveggisa', 'lingua norviggisi', 'lingua nurviggisi'];Lingua chi si parra ntâ Nurveggia
+language;['danisi', 'da', 'dan', 'lingua danisi'];Lingua scannìnava chi si parra ntâ Danimarca
+language;['svidisi', 'lingua svidisa', 'lingua svidisi', 'lincua svidisa', 'lincua svidisi'];Lingua girmànica sittintriunali chi si parra ntâ Svezzia
+language;['bùlgaru', 'lingua bùlgara'];Lingua slava miridiunali chi si parra ntâ Bulgarìa
+language;['lingui turchi'];Famigghia di lingui parrati di pupulazzioni turchi nta n''aria chi va dû Miditirraniu fina â Sibberia
+language;['lingua'];Capacità di cumunicari pi menzu di signa comu palori o gesti
+language;['luviu', 'lingua luvia'];Lingua morta innu-eurupea chi si parrau nta l''Anatolia fina a l''VIII sèculu a.C.
+language;['lingua sanscrita', 'sànscritu', 'lingua sànscrita', 'sanscritu'];Lingua clàssica di l''Innia
+language;['marathi', 'lingua marathi'];Lingua ufficiali di l''Innia
+language;['lingua ngrisa', 'ngrisi', 'ingrisi', 'anglisi', 'angrisi', 'inglisi', 'lincua ancrisi', 'lincua angrisi', 'lincua ingrisi', 'lincua ncrisi', 'lincua ngrisi', 'lingua ancrisi', 'lingua anglisi', 'lingua angrisa', 'lingua angrisi', 'lingua ingrisi', 'lingua ncrisi', 'lingua nglisa', 'lingua nglisi', 'lingua ngrisi', 'ngrisa'];Lingua girmànica occidintali nativa di l''Inghilterra
+language;['taggicu', 'lingua taggica', 'lingua taggika', 'taggiku'];Lingua pirsiana chi si parra ntô Taggikistàn
+language;['afrikaans', 'af', 'afr', 'lingua afrikaans'];Lingua girmànica occidintali chi si parra ntô Suddafrica e ntâ Namibbia
+language;['lingua latina', 'latinu', 'lincua latina'];Lingua innu-eurupea dâ famigghia itàlica
+language;['lingua cinisa', 'cinisi', 'lingua cinisi'];Famigghia di lingui chi si pàrrunu ntâ Cina
+language;['ngrisi anticu', 'old english'];Forma cchiu'' antica dâ lingua ngrisa chi fu parrata nfina â fini dû XII sèculu
+language;['ngrisi mudernu'];Forma dâ lingua ngrisa chi s''havi parratu a pàrtiri dâ fini dû XV sèculu
+language;['ebbrèu mudernu', 'ebbràicu mudernu', 'lingua ebbràica muderna', 'lingua ebbrèa muderna'];Lingua simìtica chi si parra nta Israeli
+language;['filippinu', 'lingua filippina'];Lingua tagalla ufficiali dî Filippini
+language;['fiammingu', 'lingua fiamminga'];Lingua ulannisi chi si parra ntô Belgiu
+language;['matri lingua', 'lingua matri', 'lingua nativa', 'matrilingua'];Lingua ca nu cristianu si nzigna quannu crisci, senza studiàrila
+language;['cheyenne', 'lingua cheyenne'];Lingua algunchina chi è parrata dî genti cheyenne ntê Stati Uniti d''Amèrica
+language;['curianu', 'lingua curiana'];Lingua orientali chi si parra ntâ Curea
+language;['lingua ebbràica', 'ebbrèu', 'ebbràicu', 'lingua ebbrèa', 'abbraicu', 'abbràicu', 'abraicu', 'abràicu', 'ebbraicu', 'ebraicu', 'ebràicu', 'lingua abbraica', 'lingua abbràica', 'lingua abraica', 'lingua abràica', 'lingua ebbraica', 'lingua ebraica', 'lingua ebràica'];Lingua simitica chi si parra nta Israèli
+language;['irlandisi', 'irlannisi', 'lingua irlandisi', 'lingua irlannisi'];Lingua gaèlica chi si parra nta l''Irlanda
+language;['sòmalu', 'lingua sòmala'];Lingua cuscìtica orientali chi si parra ntâ Sumalia e ntê paìsi cunfinanti
+language;['mannarinu', 'lingua cinisi mannarina', 'lingua mannarina'];Lingua ufficiali dâ Cina
+language;['cantunisi', 'lingua cantunisi', 'lingua cinisi cantunisi'];Lingua orientali chi si parra ntâ Cina
+language;['innunisianu', 'indunisianu', 'lingua indunisiana', 'lingua innunisiana'];Lingua austrunisiana chi si parra nta l''Innunesia e a Timòr Est
+language;['ngrisi miricanu', 'nglisi', 'lingua ngrisi miricana'];Dialettu dâ lingua ngrisa ca si parra ntê Stati Uniti d''Amèrica
+language;['lingui austrunisiani'];Famigghia linguìstica di lingui parrati principalmenti nta ìsuli chi vannu di l''Ocèanu Paciìicu fina ô Madagascàr
+language;['mannisi', 'lingua mannisi', 'lingua manx', 'manx'];Lingua guidèlica chi si parra nta l''ìsula di Man
+language;['gaèlicu scuzzisi', 'lingua gaèlica scuzzisi'];Lingua gaèlica chi si parra ntâ Scozzia
+language;['lingua greca antica', 'grecu anticu'];Lingua innu-eurupea chi fu parrata nta l''antica Grecia
+language;['lingua greca', 'grecu', 'lincua greca'];Lingua innu-eurupea chi si parra ntâ Grecia
+language;['gujarati', 'lingua gujarati'];Lingua ufficiali di l''Innia
+language;['lingua arbanisa', 'albanisi', 'arbanisi', 'lingua albanisa', 'arvanisi', 'lingua albanisi', 'lingua arbanisi'];Lingua innu-eurupea chi si parra nta l''Albanìa
+language;['lingua armena', 'armenu'];Lingua innu-eurupea chi si parra nta l''Armenia
+language;['giavanisi', 'lingua giavanisi'];Lingua maleu-pulinisìaca chi si parra nta l''ìsula di Giava, nta l''Innunesia, e ntâ Malesia
+language;['cherokee', 'lingua cherokee'];Lingua irochisi chi è parrata dî genti cherokee ntê Stati Uniti d''Amèrica
+language;['lingua persiana', 'pirsianu', 'farsi', 'lingua farsi', 'lingua pirsiana'];Lingua irànica chi si parra nta l''Iràn
+language;['malisianu', 'lingua malisi standard', 'lingua malisiana', 'malisi standard'];Lingua malisi aduttata ufficialmenti dâ Malesia
+language;['lingua occitana', 'occitanu', "lingua d'oc", 'lingua pruvinzali', 'pruvinzali'];Lingua rumanza chi si parra nta Francia miridunali, ntô Principatu di Monacu, e di minuranzi ntâ Spagna, ntô Piemunti e ntê Calabbrî
+language;['khmer', 'lingua khmer'];Lingua mon khmer chi si parra ntâ Camboggia, ntô Vietnam e ntâ Tailannia
+language;['vietnamita', 'lingua vietnamita'];Lingua chi si parra ntô Vietnàm
+language;['kiswahili', 'lingua kiswahili', 'lingua swahili', 'swahili'];Lingua bantù chi si parra nta l''Àfrica centru-orientali
+language;['hindi', 'hindī', 'lingua hindi'];Lingua nazziunali ufficiali di l''Innia
+language;['lingui girmànichi sittintriunali', 'lingui scanninavi'];Suttafamigghia di lingui girmànichi chi sunnu parrati ntâ pinìsula scannìnava e nta ìsuli assuciati
+language;['hawaianu', 'lingua hawaiana'];Lingua pulinisiana chi si parra nta l''ìsuli Hawaii
+language;['birmanu', 'lingua birmana'];Lingua tibbitu-birmana chi si parra ntâ Birmania
+language;['èstuni', 'lingua èstuni'];Lingua ugru-fìnnica chi si parra nta l''Estonia
+language;['lingua fillannisa', 'finlannisi', 'lingua finlannisa'];Lingua
+language;['lingua ungarisa', 'ungarisi', 'lingua ungarisi'];Lingua ugru-fìnnica chi si parra nta l''Ungarìa
+language;['lèttuni', 'lingua lèttuni'];Lingua bàltica orientali chi si parra ntâ Littonia
+language;['urdu', 'lingua urdu'];Lingua chi si parra ntô Pachistàn
+language;['nipalisi', 'lingua nepalisi', 'lingua nipalisi', 'nepalisi'];Lingua pahari chi si parra ntô Nepal, nta l''Innia e ntô Bhutan
+language;['lingua spagnola', 'spagnolu', 'castigghianu', 'lingua castigghiana'];Lingua rumanza chi si parra ntâ Spagna
+language;['lingua macèdoni', 'macèduni', 'lingua macèduni'];Lingua slava miridiunali chi si parra ntâ Macidonia
+language;['lingua pulacca', 'pulaccu', 'lingua polacca'];Lingua slava occidintali chi si parra ntâ Pulonia
+language;['cecu', 'lingua ceca'];Lingua slava occidintali chi si parra ntâ Ripubblica Ceca
+language;['serbu-cruatu', 'lingua serbu-cruata'];Insiemi dî lingui slavi miridiunali chi si pàrrunu ntâ Cruazzia, ntâ Serbia, ntô Muntinigru e ntâ Bosnia-Erzigovina
+language;['bielurussu', 'lingua bielurussa'];Lingua slava orientali chi si parra ntâ Bielurussia
+language;['sluvaccu', 'lingua sluvacca'];Lingua slava occidintali chi si parra ntâ Sluvacchia
+language;['ucraìnu', 'lingua ucraìna'];Lingua slava orientali chi si parra nta l''Ucraìna
+language;['lingua russa', 'russu', 'lincua russa'];Lingua slava chi si parra ntâ Russia
+language;['tidiscu', 'lingua tidesca', 'lingua tudisca', 'lingua tidisca', 'tudiscu', 'lincua tidesca', 'lincua titisca', 'lingua tedesca', 'tidescu'];Lingua girmànica occidintali
+language;['lingua ulannisa', 'ulannisi', 'olandisi', 'lingua olannisa', 'olannisi', 'lingua ulandisi', 'lingua ulannisi'];Lingua girmanica occidintali chi si parra nta l''Ulanna
+locative-role;['firenzi', 'firenze'];Nu cumuni di Tàlia
+locative-role;['saluniccu', 'salunicchi', 'tessalonica'];Città ntâ Macidonia Cintrali, riggioni dâ Grecia
+locative-role;['pisa'];Nu cumuni di Tàlia
+locative-role;['pàduva', 'padova', 'padua', 'paduva', 'pàdova', 'pàdua'];Nu cumuni di Tàlia
+locative-role;['parcu dî divirtimenti', 'giocarelli', 'luna park'];Postu unni cci sunnu armati joca e mpianti pi fari divèrtiri li genti
+locative-role;['oasi', 'òasi'];Postu isulatu ntôn disertu unni c''è acqua e po'' crìsciri la viggitazzioni
+locative-role;['pàsculu', 'pastura'];Terra unni si pòrtunu l''armali pi pàsciri
+locative-role;['scandinavia'];reggiùnanu giugrafica jé stòricu culturali ḍḍ'Europa sittintriunali
+locative-role;['metròpuli', 'citati', 'cità', 'mitròpuli'];Cità assai granni
+locative-role;['villa', 'parcu'];Jardinu pùbblicu unni si po'' annari pi rricriari
+locative-role;['vigna', 'vignera'];Locu cultivatu a racina
+locative-role;['isulatu'];Gruppu di palazzi nta na cità circunnatu dî strati
+locative-role;['gènuva', 'genova', 'genua', 'genuva', 'gènua'];Nu cumuni di Tàlia
+locative-role;['villaggiu', 'paisi', 'paìsi'];Insiemi di casi cchiu'' picciriddu di na cità, cu na pupulazzioni di na para di migghiara
+locative-role;['fruttera'];Locu cultivatu a arvuli di frutta
+locative-role;['parcu nazziunali'];Riserva naturali curata di l''enti amministrativu cchiu'' autu di na nazzioni
+locative-role;['cumuni'];Entità tirrituriali amministrativa
+locative-role;['fusu urariu', 'fusu orariu', 'fuso orario'];Riggioni dâ Terra chi havi la stissa ura ufficiali
+locative-role;['nord', 'n', 'nordu', 'sittintrioni', 'tramuntana', 'nodd'];Dirizzioni cardinali di cu varda lu polu Nord dâ Terra
+locative-role;['milanu', 'milano'];Cumuni capulocu dâ Lumbardìa
+locative-role;['nova york', 'nova jorca', 'new york', 'niu iorche', 'nu-iorchi', 'nu-jorchi', 'nu iorchi', 'nu jorchi', 'new york city', 'broccolino', 'brooklyn', 'brucchelino', 'brucchilin', 'brukelino', 'niu iorchi', 'niu jorche', 'niu jorchi', 'niuiorche', 'niuiorchi', 'niujorche', 'niujorchi', 'niù iorche', 'niù jorche', 'nova iorca', 'nova iorche', 'nova iorchi', 'nova iorka', 'nova iorki', 'nova jorche', 'nova jorchi', 'nova jorka', 'nova jorki', 'nova yokki', 'nova yorca', 'nova yorchi', 'nova yorka', 'nova yorki', 'novaiorca', 'novaiorche', 'novaiorchi', 'novaiorka', 'novaiorki', 'novajorca', 'novajorchi', 'novajorka', 'novajorki', 'novayorca', 'novayorchi', 'novayorka', 'novayorki', 'nuiorchi', 'nujorchi', 'nuova iorche', 'nuova york', 'nuovaiorche'];Città cchiu'' granni dû statu di New York e dî Stati Uniti d''Amèrica
+locative-role;['centru finanziariu'];Cità chi è sedi d''un nùmmiru significativu a liveddu ntirnazziunali di banchi, mprisi, burzi valuri
+locative-role;['favara', 'surgenti', 'surgiva'];Postu unni nasci un ciumi niscennu l''acqua di sutta terra
+mental-object;['canuscenza', 'sapiri', 'cunuscenza'];Statu di cu havi nu cuncettu ntâ so menti
+method;['munarchìa custituzziunali'];Forma di guvernu munàrchica unni lu suvranu è suggettu a na custituzzioni
+method;['munarchìa', 'monarchia', 'munarchia'];Forma di guvernu unni tutti li putiri màssimi dû statu appartènunu ôn sulu cristianu
+non-agentive-physical-object;['autustrata', 'autostrada', 'autostrata', 'autustrada'];Strata unni ponnu passari sulu veìculi a muturi viloci, chi nun s''incrocia mai cu autri sorti di strata, si nun nta punti di trasuta e nisciuta cuntrullati
+non-agentive-physical-object;['piscina'];Vasca fatta apposta pi fari natari li cristiani
+non-agentive-physical-object;['suca', 'pompa'];Tubbu gghîcàbbili e purtàtili, di gumma o di tila, ca s''adòpira pi trasfiriri nu fluidu di na banna a n''autra
+non-agentive-physical-object;['cunnuttu'];Sruttura quali è jè chi giuva a purtari un fluidu di na banna a n''autra
+non-agentive-physical-object;['tubbu'];Cosa longa e fina, vacanti dintra, aperta sulu a l''estremità, bona pi traspurtari un fluidu di n''estremità a l''autra senza spànniri
+non-agentive-physical-object;['caminu pidunali', 'caminu pidestri'];Via cs si po'' pircùrriri sulu a pedi
+non-agentive-physical-object;['ciminìa', 'canna fumaria', 'fumaloru', 'coddu dû caminu', 'caminu'];Summità dû caminu, parti chi nesci supra ô tettu di na casa o di na fàbbrica pi scarricari lu fumu
+non-agentive-physical-object;['canali'];Èpira idraulica artificiali fatta dûn fossu granni chinu d''acqua, chi giuva pi purtari l''acqua o pi fari passari barchi di na parti a n''autra
+non-agentive-physical-object;['strisci pidunali'];Traggittu pinsatu apposta pi fari passari li piduna di na banna a l''autra di na strata
+non-physical-collection;['datu'];Rapprisintazzioni simmòlica di na nfurmazzioni
+non-physical-collection;['cuncettu'];Rapprisintazzioni mentali astratta dâ rialtà d''un oggettu, di na situazzioni o d''un finòminu
+non-physical-collection;['cridenza'];Cunvinzioni chi na cosa è vera
+non-physical-collection;['monoteismu', 'monuteìsmu', 'monutiìsmu', 'munuteìsmu', 'munutiìsmu', 'monuteismu'];Riliggioni chi cuntempla l''esistenza d''un sulu diu
+non-physical-collection;['politeismu', 'politeìsmu', 'puliteìsmu', 'pulitiìsmu', 'puliteismu'];Riliggioni chi cuntempla l''esistenza di cchiu'' ssai d''un diu
+non-physical-collection;['cristianèsimu', 'riliggioni cristiana', 'cristianesimu'];Riliggioni monuteìstica ca vènira a Gesù di Nazaret comu figghiu di Diu fattu omu
+non-physical-place;['balata', 'sipultura', 'fossa'];Postu unni s''assutterra un mortu
+organized-collection;['galassia'];Gruppu i stiddi, gas e purverata chi n''davi ''na gravità propria
+organized-collection;['datu'];Rapprisintazzioni simmòlica di na nfurmazzioni
+organized-collection;['bibbliuteca'];Postu unni si sàrvunu li libbra e si ponnu cunsultari
+organized-collection;['girarchìa'];Scala di pusizzioni unni li pusizzioni cchiu'' basci sunnu subburdinati a chiddi cchiu'' auti
+organized-collective;['etnìa'];Catigurìa di cristiani ch'' cunnivìdunu na stissa idintità pi cultura, lingua, etc.
+organized-collective;['insiemi suciali'];Du'' cristiani o cchiu'' ssai ca hannu rapporti tra d''iddi
+parameter;["nùmmuru d'oru"];rapportu tra ḍḍu lunghizze disuguali, ḍḍi quali á maggiuri jè mèdiu prupurzionali tra á minuri jé á somma ḍḍi ḍḍui
+phenomenon;['statu dâ materia', 'fasi', 'statu'];Statu ntô quali si po'' truvari la materia, comu aeriformi, lìquidu, sòlidu o puru plasma
+phenomenon;['plasma'];Statu dâ materia fatta di particeddi lìbbiri pusitivi e nigativi e cumplissivamenti neutra
+phenomenon;['intirazzioni dèbbuli'];Forza rispunsàbbili dû dicadimentu radiuattivu e dâ fusioni nucliari dî particeddi suttatòmichi
+phenomenon;['intirazzioni forti'];Forza chi manteni nsèmmula prutoni ed elittroni ntô nucliu e li quark nta l''adroni
+phenomenon;['intirazzioni funnamintali'];Una dî quattru forzi funnamintali dâ fìsica
+phenomenon;['nibbulusa planitaria', 'nebbulusa planetaria'];Qualità di nibbulusa ad emissioni fatta di na scorcia di gas jonizzatu chi s''espanni, emisa di na giganti russa nta so vita tarda
+phenomenon;['etirusissualità'];Attrazzioni sissuali o sintimintali versu individui di sessu oppostu
+phenomenon;['finòminu', 'finominu'];Na cosa chi succedi e veni pigghiata a cunsiddirazzioni
+phenomenon;['masturbazzioni', 'masturbazioni'];Minarisi
+phenomenon;['ferrumagnitismu'];Prupietà dûn matiriali, comu ô ferru, ca vèni attiratu o rispinciutu dî campi magnètici
+phenomenon;['nivi'];Pricipitazzioni atmusfèrica fatta di cristalli fini d''acqua jilata
+phenomenon;['bisissualità'];Attrazzioni sissuali o sintimintali versu individui sia dû sessu oppostu, sia dû stissu sessu
+phenomenon;['pricipitazzioni atmusfèrica'];Finòminu dî cosi chi càlunu nterra di l''atmusfera, comu ad esempiu nivi, acqua e grànnula
+phenomenon;['tempu', 'cunnizzioni mitiurulòggichi', 'tempu atmusfèricu'];Cunnizzioni dî finòmini di l''atmusfera chi nfluenzunu l''omu: caudu, friddu, ventu, nivi, etc.
+phenomenon;['traîttoria', 'traittoria', 'trajettoria'];Linia pircurruta di n''oggettu ca si movi
+phenomenon;['lìquidu', 'statu liquitu', 'liquidu', 'liquitu', 'lìquitu'];Fluidu ca è diffìcili a cumprìmiri
+phenomenon;['sòlidu'];Statu dâ materia ca tenni a aviri forma e vulumi custanti
+phenomenon;['gas', 'aeriformi', 'gassi', 'statu gassusu'];Flùidu chi è fàcili a cumprìmiri
+phenomenon;['acqua', 'chiuvuta', 'chioggi', 'chiova', 'acqua di celu', 'pioggia', 'acqua chiuvana', 'acqua di chioggi', 'acqua di cielu', 'acqua di cioggi', 'acqua di ghioggi', 'acqua di gioggi', 'acqua ri celu', 'chioggia', 'cioggi', 'cioggia', 'ghioggi', 'ghioggia', 'gioggi'];Pricipitazzioni atmusfèrica fatta di acqua, senza jilata, ca scinni dû celu
+phenomenon;['risinu', 'sirinu', 'sirenu', 'zirinu'];Ùmidu ca scinni dû celu ntâ notti, e si trova la matina sutta forma di stizziceddi d''acqua pusati supra ê fogghî dî chianti o di autri supirficî esposti
+physical-body;['particedda'];Oggettu picciriddu e lucalizzatu ô quali si ponnu attribbuìri prupietà fìsichi
+physical-body;['nuclioni'];Particedda suttatomica cumpunenti dû nucliu di l''àtumu, prutoni o elittroni
+physical-body;['gluoni', 'gluon'];Busoni elimintari purtaturi di forza nta l''intirazzioni forti
+physical-body;['busoni di gauge'];Busoni chi è purtaturi di forza nta una dî quattru intirazzioni funnamintali
+physical-body;['fotoni', 'futoni'];Particedda elimintari, quantu dâ radiazzioni elettrumagnètica, purtaturi di forza ntâ forza elettrumagnètica
+physical-body;['supernova'];Stidda â fini dâ so vita chi scattìa
+physical-body;['misoni', 'mesoni'];Adroni fattu dûn quark e n''antiquark
+physical-body;['liptoni', 'lepton', 'leptoni'];Particedda elimintari cu spin ½ , chi nun subbisci l''intirazzioni forti e obbidisci ô principiu di esclusioni dû Pauli
+physical-body;['neutroni', 'niutrùni', 'niutroni', 'niutruni', 'neutruni', 'niutròna', 'niutròni'];Particedda suttatomica elittricamenti neutra
+physical-body;['elittroni', 'elettroni', 'elettrùni', 'elettruni', 'elittruni', 'alittroni', 'littroni'];Particedda suttatòmica cu càrrica elèttrica nigativa ð
+physical-body;['neutrinu', 'niutrinu', 'niutrìnu'];Particedda suttatomica elimintari elittricamenti neutra cu spin ½
+physical-body;['antiprutoni', 'antipróton'];Antiparticedda dû prutoni, chi nn''havi li stissi carattirìstichi ma havi càrrica elèttrica opposta
+physical-body;['luna'];Satèlliti dâ Terra
+physical-body;['busoni', 'bosoni'];Particedda carattirizzata di statìstica di Bose-Einstein e chi nun obbidisci ô principiu di esclusioni dû Pauli
+physical-body;['firmioni', 'fermioni'];Particedda carattirizzata di statistica di Fermi-Dirac e chi obbidisci ô principiu di esclusioni dû Pauli
+physical-body;['universu', 'cosmu'];Lu nsiemi di tuttu chiddu chi esisti
+physical-body;['terra', 'munnu', 'pianeta terra', 'suli iii'];Terzu pianeta dû Sistema Sulari, unni nascìu l''Omu
+physical-body;['marti', '♂', 'suli iv'];Quartu pianeta dû Sistema Sulari
+physical-body;['io', 'ìo', 'giovi i', 'ìu'];Satèlliti di Giovi
+physical-body;['callistu', 'callisto', 'giovi iv'];Satèlliti di Giovi
+physical-body;['mircuriu', 'mercuriu', 'suli i'];Primu pianeta dû Sistema Sulari
+physical-endurant;['entity', 'entità'];Na cosa ca esisti
+physical-object;['prucissuri', 'cpu'];Circùitu ntigratu chi esegui l''istruzzioni dûn prugramma
+physical-object;['bicicletta', 'bici'];Veìculu a du roti spinciutu a forza di pidali
+physical-object;['pub'];Lucali d''orìggini ngrisi unni si va pi bìviri bivanni alcòlichi
+physical-object;['palacciunata', 'ricintu', 'sticcatu'];Struttura liggera chi mpidisci lu passaggiu a traversu di na linia di cunfini
+physical-object;['bicicletta di muntagna', 'mountain bike', 'mtb'];Bicicletta bona pi'' jiri macari fora dî strati asfaltati
+physical-object;['traghettu', 'ferribbottu', 'ferri', 'ferry', 'ferry-boat', 'traggittu', 'ferribbuottu', 'ferribottu', 'ferribuottu', 'trachettu', 'traghetto'];Navi o barca chi porta genti o menzi di trasportu di terra di na banna a l''autra di nu specchiu d''acqua
+physical-object;['pruièttili', 'prujèttilli'];Corpu ca veni tiratu a distanza, di manera particulari nta l''armi
+physical-object;['ponti mòbbili'];Ponti ca si po'' spustari, canciannu la pussibbilità di passari supra d''iddu o sutta d''iddu
+physical-object;['risturanti', 'tratturìa'];Lucali unni si va pi manciari, a pagamentu, nu pastu cumpletu stannu assittati a tàvula
+physical-object;['càrciri', 'casa circunnariali', 'càrciara', 'càrzara', 'càrzari', 'priggiòni', 'carciri', 'càrciaru', 'càrzaru', 'càrziri'];Postu nchiusu unni si custrìnciuni a stari chiddi chi ficiru riati
+physical-object;['burdeddu', 'burdellu', 'nchiuituri'];Casa unni travàgghiunu prustituti
+physical-object;['centru suciali', 'centru sociali'];Struttura pùbblica o aperta ô pùbblicu unni si va pi participari nta attività culturali, ricriativi o di sirvizzu
+physical-object;['alferu', 'alferi', 'delfinu'];Pezzu dî scacchi chi si po'' mòviri di manera diagunali di quanti casi si voli
+physical-object;['veìculu'];Machina pî spustamenti ca po'' purtari cristiani e merci
+physical-object;['imbarcazzioni', 'immarcazzioni', 'mbarcazzioni', 'mmarcazzioni'];Menzu di trasportu chi sta nsumma nta l''acqua
+physical-object;['piscina'];Vasca fatta apposta pi fari natari li cristiani
+physical-object;['sipala', 'caia', 'caja'];Filarata di troffi chiantati e putati di manera di furmari un muriceddu cu li so pàmpini
+physical-object;['sauna'];Stanza chiusa unni si fannu caudu e vapuri d''acqua apposta pi fari sudari li genti ca cci vannu
+physical-object;['bunker'];Custruzzioni rinfurzata, pû cchiu'' sutta terra, di sòlitu a usu militari
+physical-object;['estinturi'];Arnisi purtàtili chi s''adòpira pi stutari lu focu, di sòlitu è na bùmmula chi jetta na sustanza chi stagghia li vampi, sutta forma di pùrviri o di scuma
+physical-object;['spitali', 'ospitali', 'spidali', 'uspidali'];Postu unni si cùrunu li malati
+physical-object;['bacinu'];Stuttura ranni chi si po allagari o asciugari e giuva pi mèttiri a siccu na navi duranti la so custruzzioni o manutinzioni
+physical-object;['hangar', 'aviurimissa'];Magasenu granni e chiusu fattu p''ospitari vilìvuli
+physical-object;['casteddu', 'ciambra'];Palazzu furtificatu custruutu ntê tempi antichi cu finalità difinsivi e comu sedi o sìmmulu d''auturità
+physical-object;['granni magasenu', 'granni magazzinu', 'ranni magasenu', 'ranni magazzinu'];Nigozziu assai granni unni si vìnnunu granni quantità di merci di tanti qualità
+physical-object;['idruvulanti a scaffu', 'barca vulanti'];Idruvulanti chi havi nu scaffu chi sta dirittamenti nsumma nta l''acqua, senza bisognu di galliggianti
+physical-object;['supermircatu', 'supermercatu', 'supirmircatu'];Nigozziu granni unni si vìnnunu principalmenti manciari e artìculi pâ casa
+physical-object;['palazzettu dû sport', 'stadiu', 'arina', 'campu'];Campu spurtivu cu tanti posti a ssittari pî cristiani, unni si ponnu fari macari cuncerti e autri manifistazzioni
+physical-object;['menzu di cumunicazzioni', 'media'];Canali di trasmissioni o menzu d''archiviazzioni chi s''adòpira pi cunsignari o sarvari missaggi e nfurmazzioni
+physical-object;['circuitu intigratu'];Circuitu elittrònicu fattu tuttu nta nu sìngulu pezzu di matiriali semicunnutturi
+physical-object;['sirrarìa', 'serrarìa'];Postu unni si serra lignu, màrmuru o petra pi fari tàvuli, pala, sirratizzi, balati, etc.
+physical-object;['furnu crimatoriu'];Machina chi ncinnirisci li cadàviri pi fini di sipultura
+physical-object;['arma di focu'];Arma ca tira nu pruièttili a vilucità auta, sfruttannu lu scoppu cuntrullatu di na sustanza esplusiva
+physical-object;['frangi-flutti', 'frangiflutti'];Struttura misa di l''omu a difesa dâ costa contra la forza di l''unni. po'' èssiri un molu o puru na jittata di petri o di scogghî artificiali
+physical-object;['casa di jocu', 'casa di giocu', 'casinò'];Postu unni si joca d''azzardu
+physical-object;['tribbunali'];Curti chi dicidi cu havi raggiuni ntê dìsputi cìvili e cu havi curpa ntê prucessi pinali
+physical-object;['pompa dâ binzina', 'pompa di binzina', 'rifurnimentu', 'stazzioni di sirvizzu'];Postu unni si ponnu firmari li veìculi a muturi pi fari rifurnimentu di carburanti
+physical-object;['tabbaccarìa', 'tabacchinu', 'tabbaccaru', 'privativa'];Postu unni si vìnnunu sicarri, sicaretti, prudutti dû tabbaccu, beni sturicamenti suttaposti a monupoliu, e autru
+physical-object;['cafittarìa', 'surbittarìa'];Lucali unni si sèrvunu cafè e autri bivanni
+physical-object;['pompa dâ binzina', 'pompa di binzina', 'rifurnimentu', 'stazzioni di sirvizzu'];Postu unni si ponnu firmari li veìculi a muturi pi fari rifurnimentu di carburanti
+physical-object;['funtana', 'garraffu'];Funti fabbricata di l''omu, po'' dari acqua pi bìviri o puru po'' èssiri sulu pi biddizza
+physical-object;['turri'];Edificiu assai cchiu'' autu chi largu
+physical-object;['edificiu'];Custruzzioni stàbbili chi havi pariti e suffittu
+physical-object;['cìnima', 'cìnema', 'cinema', 'cinima'];Specia di tiatru unni si va pi vìdiri li film
+physical-object;['rulòggiu', 'ruloggiu', 'raloggiu', 'rològgiu', 'ralogiu', 'riloggiu', 'orologgiu', 'ralogghiu', 'ralòggiu', 'rilòggiu', 'rogghiu', 'roggiu', 'rologghiu', 'rologgiu', 'rològghiu', 'rulogghiu', 'rògghiu', 'ròggiu'];Arnisi chi dici l''ura
+physical-object;['trasfurmaturi'];Cumpunenti elèttricu chi pruduci ntôn circùitu di nisciuta na tinsioni maggiuri o minuri di chidda dûn circùitu di trasuta
+physical-object;['trasfurmaturi'];Cumpunenti elèttricu chi pruduci ntôn circùitu di nisciuta na tinsioni maggiuri o minuri di chidda dûn circùitu di trasuta
+physical-object;['astrunavi', 'veìculu spazziali'];Veìculu, vilìvulu o màchina pruggittata p''annari ntô spazziu
+physical-object;['veìculu fora terra'];Veìculu chi camina fora dâ terra, vali a diri nta l''acqua, nta l''aria o ntô spazziu
+physical-object;['ariumòbbili', 'veìculu aeriu'];Veìculu chi camina nta l''aria pigghiannu spinta d''idda
+physical-object;['navi', 'lignu', 'navigghiu'];Imbarcazzioni granni pû trasportu di genti e merci
+physical-object;['ponti'];Parti di na strata suspinnuta nta l''aria pi scavaddari n''ostàculu, comu un ciumi o n''autra strata
+physical-object;['ariumobbili a ali fissi'];Ariumobbili chi pigghia purtanza di ali chi nun si mòvunu rispettu ô veìculu
+physical-object;['ariuportu', 'airuportu'];Postu unni ponnu attirrari e dicullari vilìvuli di linia, cummirciali o militari
+physical-object;['idruvulanti'];Vilìvulu chi po'' dicullari e attirrari nta nu specchiu d''acqua
+physical-object;['eliportu'];Postu fattu apposta pi fari attirrari l''elicòttiri
+physical-object;['mircatu', 'mircatu di strata'];Mircatu chi si arma nta strata
+physical-object;['mircatu', 'mircatu di strata'];Postu unni si ritròvunu li mircanti pi vìnniri e ccattari
+physical-object;['jucattulu'];Oggettu chi si usa spicificamenti pi jucari
+physical-object;['trasfurmaturi'];Cumpunenti elèttricu chi pruduci ntôn circùitu di nisciuta na tinsioni maggiuri o minuri di chidda dûn circùitu di trasuta
+physical-object;['arnisi', 'arnesi'];Oggettu matiriali chi havi la funzioni di spicciari quarchi travagghiu o jutari un cristianu a fàrilu
+physical-object;['telèfunu', 'tilèfunu', 'talèfunu', 'telefunu', 'tilefunu', 'tilifunìa'];Apparicchiu chi pirmetti di parrari cu cristiani luntani
+physical-object;['micruprucissura', 'micruprucissuri'];Prucissuri pi calculatura elittrònici implimintatu pi menzu di circuiti ntigrati
+physical-object;['metropulitana', 'metrupulitana', 'metrò', 'mitrupulitana'];Sorta di trenu viloci, chi servi zoni urbani, e di sòlitu camina sutta terra
+physical-object;['chiesa', 'chesia', 'chiesia', 'cresia'];Edificiu sacru dî Cristiani
+physical-object;['bicicletta', 'bici'];Veìculu a du roti spinciutu a forza di pidali
+physical-object;['gru'];Machina auta chi jisa e sposta mmarazzi granni e pisanti pi menzu dûn ganciu
+physical-object;['carburaturi'];Arnisi chi mmisca aria e carburanti pûn muturi a cumbustioni interna
+physical-object;['discu', 'album'];Cugghiuta di canzuna o mùsichi pubblicata dûn cantanti o musicista
+physical-object;['munizzioni', 'càrrica'];Chiddu ca giuva pi carricari n''arma
+physical-object;['buca', 'buca dâ posta', 'cascitta dâ posta', 'buca dî littri', 'buca dî lìttiri'];Cascitta pùbblica unni s''havi a mettiri la posta chi si voli spidiri
+physical-object;["stazzioni di l'autubbussu", 'autustazzioni', "stazzioni di l'autubus"];Postu unni fèrmunu tanti autubbussi, sia dâ cità chi pi fora, cchiu'' granni di na firmata
+physical-object;['zoo', 'giardinu zoològgicu', 'sirragghiu'];Postu unni si ponnu a vidiri armali sarvaggi tinuti in cattività
+physical-object;['rota di bicicletta'];Rota ca si po'' adupirari nta na bicicletta
+physical-object;['cuntinituri', 'ricipienti'];Oggettu fattu apposta pi mantèniri dintra autri cosi
+physical-object;['re'];Pezzu dî scacchi cchiu'' mpurtanti, chi si po'' mòviri di na casa nta tutti li dirizzioni, e chi s''havi a manciari pi vìnciri la partita
+physical-object;['furnu', 'furnu dû pani', 'putìa dû pani'];Putìa unni si po'' annari e ccattari pani, ma macari autri prudutti di furnu comu fucacci, durci, scacciati etc.
+physical-object;['stazzioni dû trenu', 'stazzioni', 'stazzioni ferruviaria'];Postu unni li treni fèrmunu pi carricari e scarricari passaggeri o merci
+political-geographic-object;['firenzi', 'firenze'];Nu cumuni di Tàlia
+political-geographic-object;['saluniccu', 'salunicchi', 'tessalonica'];Città ntâ Macidonia Cintrali, riggioni dâ Grecia
+political-geographic-object;['pisa'];Nu cumuni di Tàlia
+political-geographic-object;['pàduva', 'padova', 'padua', 'paduva', 'pàdova', 'pàdua'];Nu cumuni di Tàlia
+political-geographic-object;['norveggia', 'nurveggia', 'kongeriket noreg', 'kongeriket norge', 'noreg', 'norge', 'norvegia'];Paìsi nta l''Europa dû Nord
+political-geographic-object;['nglaterra', 'inghilterra', 'anghilterra', 'anglaterra', 'inghirterra', 'ingriterra', 'nghilterra', 'nghirterra', 'ngraterra', 'ngriterra'];Nazzioni custituenti dû Regnu Unitu
+political-geographic-object;['lussimburgu', 'luscimburgu', 'luscimmurgu', 'lussemburgu'];Paìsi di l''Europa di punenti
+political-geographic-object;['spagna', 'spain'];Paìsi di l''Europa
+political-geographic-object;['metròpuli', 'citati', 'cità', 'mitròpuli'];Cità assai granni
+political-geographic-object;['belgiu', 'beggiu', 'bergiu'];Paìsi di l''Europa di punenti
+political-geographic-object;['abbruzzu', 'abbruzzi', 'abruzzu'];Riggioni di l''Italia
+political-geographic-object;['tirolu'];Riggioni di l''Austria
+political-geographic-object;['tuscana', 'toscana'];Riggioni di l''Italia
+political-geographic-object;['pugghia', 'puglia', 'pugghi', 'puia', 'puja', 'pùgghia'];Riggioni di l''Italia
+political-geographic-object;['lummardìa', 'lumbardìa', 'lombardia', 'lumbardia', 'lummardia'];Riggiuni di l''Italia
+political-geographic-object;['emilia rumagna', 'emilia-rumagna', 'emilia-romagna'];Riggioni di l''Italia
+political-geographic-object;['trintinu-autu àdiggi', 'trintinu-tirolu dû sud'];Riggioni di l''Italia
+political-geographic-object;['vènitu', 'vèneto', 'venetu', 'venitu', 'vènetu'];Riggioni di l''Italia
+political-geographic-object;['lucania', 'basilicata'];Riggioni di l''Italia
+political-geographic-object;['mulisi', 'molise', 'molisi'];Riggioni di l''Italia
+political-geographic-object;['unghirìa', 'ungarìa', 'ncaria', 'ncarìa', 'nchiria', 'nchirìa', 'ngaria', 'ngarìa', 'nghiria', 'nghirìa', 'uncaria', 'uncarìa', 'unchiria', 'unchirìa', 'ungaria', 'ungheria', 'unghiria'];Paìsi di l''Europa cintrali
+political-geographic-object;['girmania', 'germania', 'germany', 'gimmania', 'girmania uccidintali', 'girmània', 'ripùbblica fidirali di girmania'];Paìsi di l''Europa
+political-geographic-object;['francia', 'france', 'franza', 'franzia', 'regnu di francia'];Paìsi di l''Europa
+political-geographic-object;['ecuador', 'ecuaturi', 'ec', 'ecu', "l'equador", 'acuador', 'acuaduri', 'acuator', 'acuaturi', 'aquador', 'aquaduri', 'aquator', 'aquaturi', 'cuador', 'cuaduri', 'cuator', 'cuaturi', 'ecuaduri', 'ecuator', 'equador', 'equaduri', 'equator', 'equaturi', 'quador', 'quaduri', 'quator', 'quaturi'];Statu di la Merica dû Sud
+political-geographic-object;['gènuva', 'genova', 'genua', 'genuva', 'gènua'];Nu cumuni di Tàlia
+political-geographic-object;['capitali'];Cità unni è la sedi dû guvernu di n''entità pulìtica (statu, riggioni, pruvincia, etc.)
+political-geographic-object;['mississippi'];Statu dî Stati Uniti d''Amèrica
+political-geographic-object;['ìsula dû prìncipi eduardu'];Pruvincia dû Canadà
+political-geographic-object;['cumuni'];Entità tirrituriali amministrativa
+political-geographic-object;['praga'];Cità capitali dâ Ripùbblica Ceca
+political-geographic-object;['roma', 'rruma', 'rumani'];Nu cumuni di Tàlia
+political-geographic-object;['kiev'];Capitali di l''Ucraina
+political-geographic-object;['thailandia', 'tailandia', 'regnu di thailandia', 'tailanda', 'tailannia', 'thailannia'];Paisi di l''Àsia
+political-geographic-object;['trìpuli', 'tripoli', 'tripuli'];Capitali dâ Lìbbia
+political-geographic-object;['finlandia', 'finlannia', 'fillannia'];Paìsi di l''Europa dû nord
+political-geographic-object;['albany'];Cità capitali dû statu di New York, ntê Stati Uniti d''Amèrica
+political-geographic-object;['ateni', 'atene', 'atini'];Capitali dâ Grecia
+political-geographic-object;['milanu', 'milano'];Cumuni capulocu dâ Lumbardìa
+political-geographic-object;['nova york', 'nova jorca', 'new york', 'niu iorche', 'nu-iorchi', 'nu-jorchi', 'nu iorchi', 'nu jorchi', 'new york city', 'broccolino', 'brooklyn', 'brucchelino', 'brucchilin', 'brukelino', 'niu iorchi', 'niu jorche', 'niu jorchi', 'niuiorche', 'niuiorchi', 'niujorche', 'niujorchi', 'niù iorche', 'niù jorche', 'nova iorca', 'nova iorche', 'nova iorchi', 'nova iorka', 'nova iorki', 'nova jorche', 'nova jorchi', 'nova jorka', 'nova jorki', 'nova yokki', 'nova yorca', 'nova yorchi', 'nova yorka', 'nova yorki', 'novaiorca', 'novaiorche', 'novaiorchi', 'novaiorka', 'novaiorki', 'novajorca', 'novajorchi', 'novajorka', 'novajorki', 'novayorca', 'novayorchi', 'novayorka', 'novayorki', 'nuiorchi', 'nujorchi', 'nuova iorche', 'nuova york', 'nuovaiorche'];Città cchiu'' granni dû statu di New York e dî Stati Uniti d''Amèrica
+political-geographic-object;['trìpuli', 'tripoli', 'tripuli'];Capitali dâ Lìbbia
+political-geographic-object;['piemunti', 'piamonti', 'piamunti', 'piedimonte etneo', 'piedimonti etneu', 'piemonti'];Riggioni di l''Italia
+political-geographic-object;['paìsi', 'statu'];Riggioni giugràfica cu carattirizzazzioni pulìtica distinta
+practice;['istituzzioni'];Stuttura o miccanismu suciali chi havi na certa stabbilità ntô tempu
+quality;['architittura di calculaturi elittrònicu'];Spicìfica dû funziunamentu dî cumpunenti hardware d''un calculaturi elittrònicu
+quality;['pùrpura', 'viola'];Culuri a menzu fra lu russu e lu blu
+quality;['blu marinu', 'ble marinu'];Tinta scura dû blu
+quality;['crèmisi', 'crimisinu'];Tinta dû russu
+quality;['adduratu', 'ambratu', 'ambra', 'nduratu', 'oru'];Culuri a menzu tra giarnu e ranciuni
+quality;['rosa vivu'];Tinta dû rosa sìmili ô fucsia
+quality;['azzolu', 'cilesti', 'cirùliu', 'zaffiru', 'celesti', 'cerùleu', 'cerùliu', 'azzoru', 'azzurru'];Culuri dû celu
+quality;['azzolu', 'cilesti', 'cirùliu', 'zaffiru', 'celesti', 'cerùleu', 'cerùliu', 'azzoru', 'azzurru'];Tinta dû blu
+quality;['argintatu', 'argentu'];Culuri di l''argentu
+quality;['cicculatti'];Tinta scura dû marrò
+quality;['malva', 'marva'];Tinta chiara dû viola
+quality;['griciu', 'griggiu', 'grisciu'];Culuri a menzu tra biancu e nìuru
+quality;['turchinu', 'virdi acqua'];Culuri
+quality;['siccia'];Culuri tra lu russu e lu marrò
+quality;['pèrsica'];Tinta chiara dû rosa
+quality;['avoliu', 'avoriu'];Culuri biancu cûn velu di giarnu
+quality;['curaddu', 'curallu'];Tinta dû russu
+quality;['scarlatu', 'sgarlatu'];Culuri russu vivu
+quality;['culuri', 'tinta'];Carattiristica visuali dî cosi, data dâ pircizzioni a l''occhiu umanu dî diffirenti lunghizzi d''unna dâ luci visìbbili
+quality;['monoteismu', 'monuteìsmu', 'monutiìsmu', 'munuteìsmu', 'munutiìsmu', 'monuteismu'];Riliggioni chi cuntempla l''esistenza d''un sulu diu
+quality;['politeismu', 'politeìsmu', 'puliteìsmu', 'pulitiìsmu', 'puliteismu'];Riliggioni chi cuntempla l''esistenza di cchiu'' ssai d''un diu
+quality;['grannizza', 'rannizza'];Cuncettu matimàticu ca cunsenti di cunfruntari dui esimplari di na stissa classi dicidennu quali è maggiuri e quali è minuri
+quality;['blu', 'ble'];Culuri
+quality;['gèniri'];Insiemi di li carattirìstichi ca ntô cuntestu di na sucietà difinìsciunu l''èssiri màsculu o puru fìmmina
+quality;['massa'];Grannizza fìsica chi misura la quantità di materia cuntinuta nta n''entità fìsica
+quality;['ambidestru', 'mancusu e drittusu'];Cu rinesci a adupirari câ stissa listizza tantu la manu manca quantu chidda dritta
+quality;['virdi'];Culuri
+quality;['grannizza', 'rannizza'];Cuncettu matimàticu ca cunsenti di cunfruntari dui esimplari di na stissa classi dicidennu quali è maggiuri e quali è minuri
+quality;['prifirenza di manu'];Cuncettu di quali manu nu suggettu adòpira cu prifirenza
+quality;['giarnu', 'giallu'];Culuri
+quality;['cristianèsimu', 'riliggioni cristiana', 'cristianesimu'];Riliggioni monuteìstica ca vènira a Gesù di Nazaret comu figghiu di Diu fattu omu
+region;['munita', 'valuta'];Valuta accittata comu menzu di pagamentu
+region;['byte'];Siquenza di 8 bit
+region;['unità di tempu'];Unità ca s''adòpira pi misurari lu passari dû tempu
+region;['unitati di misura', 'unità di misura', 'grannizza fisica', 'grannizza fìsica'];Quantità difinuta pricisamenti e ufficialmenti di na grannizza fìsica, chi s''adòpira pi misurari l''autri grannizzi pi cunfruntu
+region;['marcu'];Munita
+region;['yen giappunisi', 'yen'];Munita ufficiali dû Giappuni
+region;['setti', '7'];Nùmmuru naturali
+relation;['liveddu dû mari'];Puntu di rifirimentu chi'' di sòlitu s''adòpira pi misurari l''autizzi di l''entità giugràfichi
+relation;['nord', 'n', 'nordu', 'sittintrioni', 'tramuntana', 'nodd'];Dirizzioni cardinali di cu varda lu polu Nord dâ Terra
+relation;['sud', 'minziornu', 'miridioni', 's', 'suddu'];Dirizzioni cardinali opposta a chidda di cu varda lu polu Nord dâ Terra
+relation;['est', 'e', 'esti', 'levanti', 'livanti', 'orienti'];Dirizzioni cardinali dâ manu dritta di cu varda lu polu Nord dâ Terra
+relevant-part;['varva', 'barba', 'varba'];Pilu ca crisci ntâ facci di l''omu
+relevant-part;["cintura di l'astiroidi"];Riggioni dû Sistema Sulari tra di l''òrbiti di Marti e Giovi ca cunteni na granni cuncintrazzioni di astiroidi
+set;['spazziu'];Insiemi matimàticu di punti
+simple-collection;['custiddazzioni', 'custillazzioni'];Purzioni dâ volta cilesti difinuta pi cunvinzioni, chi menti nsèmmula stiddi e autri corpi cilesti
+simple-collection;['mituluggìa', 'mitoluggìa', 'mitologgìa', 'mitoluggia', 'mituluggia'];Cumplessu dî cunti tradizziunali d''un populu o di na cultura chi riguàrdunu ê so divinità e li so antinati
+simple-collection;['universu', 'cosmu'];Lu nsiemi di tuttu chiddu chi esisti
+simple-collective;['genti'];Gruppu di cristiani cunsiddirati nsèmmula tutti a na vota
+simple-collective;['nazziuni', 'nazzioni'];Cumunità di cristiani chi hannu a cumuni na lingua, na cultura, l''etnìa, la discinnenza o la storia
+simple-planned-collective;['stabbilimentu umanu'];Locu unni cristiani campunu, o hannu campatu, stabbilmenti o p''un pirìudu
+simple-planned-collective;['casali'];Insiemi di casi cchiu'' picciriddu dûn villaggiu e circunnatu dâ campagna
+simple-planned-collective;['auturità giudicanti', 'curti'];Cristianu o istituzzioni chi havi l''auturità di giudicari e prununziàrisi
+simple-planned-collective;['funzioni pùbblica'];Insiemi dî travagghiatura dâ pùbblica amministrazzioni
+simple-planned-collective;["cungressu dî stati uniti d'america"];Parlamentu bicammirali dî Stati Uniti d''Amèrica
+situation;['epilissìa'];Malatìa neurulòggica
+situation;['malatìa neuruloggica'];Malatìa o disfunzioni dû sistema nirvusu
+situation;["palora d'òrdini", 'password'];Palora sigreta adupirata pi pruvari la propia identità o di aviri nu pirmissu
+situation;['zimma'];Accumulo di cose
+situation;['arfabbètu cirillicu', 'alfabbetu cirillicu', 'cirillicu'];Alfabbetu adupiratu pi scrìviri tanti lingui slavi comu lu Russu, l''Ucraìnu e lu Serbu
+situation;['affizzioni', 'malatìa'];Altirazzioni dâ saluti
+situation;['ruttura', 'frattura', 'ossu ruttu'];Dannu di n''ossu pruvucatu di na sullicitazzioni eccissiva, comu na mmistuta
+situation;['tubbirculosi', 'consunzioni', 'cunsunzioni', 'tisi', 'tisichizza', 'tbc', 'tuberculosi'];Malatìa infittiva ca curpisci li purmuna
+situation;['orvu', 'cicità', 'cicitati', 'orbàggini', 'orvàggini', 'orbu'];Statu di cu è privu dâ vista
+situation;['suggettu'];Cuncettu filusòficu di na cosa chi havi na rilazzioni cu n''autra cosa chi è autru d''idda
+situation;['cucina'];L''arti di priparari lu manciari pî cristiani
+situation;['alfabbetu àrabbu'];Alfabbetu chi s''adòpira pi scrìviri la lingua àrabba, e macari autri
+situation;['alfabbetu grecu'];Alfabbetu chi s''adòpira pi scrìviri la lingua greca
+situation;['tempu', 'cunnizzioni mitiurulòggichi', 'tempu atmusfèricu'];Cunnizzioni dî finòmini di l''atmusfera chi nfluenzunu l''omu: caudu, friddu, ventu, nivi, etc.
+situation;['statu'];Cuncettu tiòricu
+social-role;['menzu di pagamentu'];Cosa ca si po'' dari in canciu di robba e sirvizza
+social-role;['munita', 'valuta'];Valuta accittata comu menzu di pagamentu
+socially-constructed-person;['rossetti', 'dante gabriel rossetti'];Pàggina di disambiguazzioni di Wikimedia
+socially-constructed-person;['adolf hitler', 'hitler'];Dittaturi dâ Germania, capu dû Partitu nazista
+socially-constructed-person;['ninfa'];Divinità fimminina sicunnaria dâ mituluggìa greca
+socially-constructed-person;['adi', 'plutoni', 'plutuni'];Diu di l''ìnfiri dâ mituluggìa greca
+socially-constructed-person;['ares'];Diu dâ guerra ntâ mituluggìa greca
+socially-constructed-person;['gaia', 'gaja', 'gea'];Divinità primurdiali pirsunificazzioni dâ terra ntâ mituluggìa greca
+socially-constructed-person;['atena'];Dia dâ mittuluggìa greca
+socially-constructed-person;['giapetu', 'giàpitu', 'japetu', 'jàpitu'];Titanu dâ mituluggìa greca
+socially-constructed-person;['nettunu', 'nittunu'];Diu di l''acqua ntâ mituluggìa rumana
+socially-constructed-person;['mircuriu', 'mercuriu'];Diu dâ mituluggìa rumana
+socially-constructed-person;['arianrhod'];Nomu di battìu fimmininu
+socially-constructed-person;['carolus linnaeus', 'linneu', 'carl von linné', 'carlu linneu'];Zoòlugu, butànicu e dutturi svidisi
+socially-constructed-person;['napuliuni bonaparti', 'napoleone', 'napoleoni', 'napoléon bonaparte', 'napulioni', 'napuliuni', 'napuliuni bonaparte'];Monarca, capu militari e pulìticu francisi
+socially-constructed-person;['benitu mussolini', 'benito mussolini', 'binitu mussulini', 'mussolini', 'mussulini'];Dittaturi d'Italia
+socially-constructed-person;['george washington'];Pulìticu miricanu, primu prisidenti dî Stati Uniti d''Amèrica
+socially-constructed-person;['funtaneri', 'stagnataru'];Cu munta o consa funtani, tubba e impianti idràulici
+socially-constructed-person;['vitirinariu', 'veterinariu'];Dutturi ca cura l''armali
+socially-constructed-person;['dia', 'iddìa'];Divinità fimminina
+socially-constructed-person;['riggina', 'rigina'];Suvrana fìmmina dûn regnu
+socially-constructed-person;['pirsuna', 'cristiana', 'cristianu'];Èssiri astrattu chi havi li carattirìstichi di cu apparteni â razza umana
+socially-constructed-person;['picciriddu', 'carusu', 'caruseddu', 'picciliddu', 'picciriddi', 'piccittu'];Cristianu nta dda parti dâ vita chi va dâ nàscita fina â pubbirtà
+socially-constructed-person;['mèdicu', 'medicu', 'mèricu', 'dutturi'];Prufessiunista dâ midicina
+socially-constructed-person;['patri', 'papà'];Ginituri màsculu
+socially-constructed-person;['pusteri', 'porta-littri', 'portalittri'];Cu di misteri porta la posta ntê casi e nta l''ufficî
+socially-constructed-person;['diputatu'];Tìtulu assignatu ê membri di certi assimblèi liggislativi, di sòlitu li càmmiri basci dî parramenti
+socially-constructed-person;['màsculu', 'masculinu', '♂'];Armali o chianta di sessu masculinu
+socially-constructed-person;['santu'];Pirsuna chi veni ricanusciuta comu ligata â divinità
+socially-constructed-person;['sartu', 'custureri'];Cu travagghia pi misteri facennu robbi, cunsannuli, o canciannuli
+socially-constructed-person;['scinzatu', 'scienziatu', 'scinziatu'];Cristianu chi studia na scienza
+socially-constructed-person;['biòlugu'];Scienziatu chi studia l''èssiri viventi e li rapporti d''iddi cu l''ambienti
+socially-constructed-person;['filòsufu', 'filòsufi'];Cristianu ca si ntiressa dâ filusufìa
+socially-constructed-person;['matri', 'mamma'];Ginitrici fìmmina
+socially-constructed-person;['pueta'];Cu è bonu a scrìviri puisìi
+socially-constructed-person;['omu', 'màsculu', 'corpu umanu', 'homo sapiens', 'omminu', 'omunu', 'òminu', 'òmu', 'òmunu'];Cristianu adultu màsculu
+socially-constructed-person;['ufficiali'];Cu havi na pusizzioni di cumannu ntâ girarchìa militari
+socially-constructed-person;['divinità', 'diu'];Èssiri supranaturali di impurtanza suprema
+socially-constructed-person;['pasifai', 'pasifae', 'pasiphae'];Pirsunaggiu dâ mituluggìa greca, matri dû Minutauru
+socially-constructed-person;['uranu'];Divinità primurdiali pirsunificazzioni dû celu ntâ mituluggìa greca
+socially-constructed-person;['ocèanu'];Titanu diu dû mari ntâ mituluggìa greca
+socially-constructed-person;['afruditi'];Dia di l''amuri ntâ mituluggìa greca
+socially-constructed-person;['ruluggiaru'];Cu fàbbrica o aggiusta li ruloggia
+socially-constructed-person;['ermafrudita', 'intersessuatu'];Organismu chi havi tutti dui l'òrgani sissuali masculinu e fimmininu
+socially-constructed-person;['ermafrudita', 'intersessuatu'];Organismu chi havi tutti dui l''òrgani sissuali masculinu e fimmininu
+socially-constructed-person;['ermafrudita', 'intersessuatu'];Cristianu cu canciamenti ntê carattirìstichi sissuali ca nun cunsèntunu di classificàrilu distintamenti comu màsculu o fìmmina (adupirari câ prupietà P21)
+socially-constructed-person;['casciamurtaru', 'becca-mortu', 'biccamortu', 'bicchinu', 'onoranzi funibri', 'pompa funebri', 'pompi funibri'];Cu s''incàrrica d''organizzari li funirali e ssuttirrari li morti
+socially-constructed-person;['parrucchieri', 'piluccheri', 'parruccheri'];Cu havi la prufissioni di tagghiari e curari li capiddi (ntô significatu ginèricu ca cumprenni cu ccî tagghia ê fìmmini e cu ccî tagghia ê màsculi)
+socially-constructed-person;['carciareri', 'carzareri'];Guardia chi varda e assisti li carcirati ntê càrciri
+socially-constructed-person;['prufissuri'];Cu havi lu tìtulu accadèmicu pi nzignari
+socially-constructed-person;['minossi', 'minos'];Re di Crita ntâ mituluggìa greca
+socially-constructed-person;['mpiraturi'];Suvranu di nu mperiu
+socially-constructed-person;["prisidenti dî stati uniti d'amèrica"];Capu dû statu e dû guvernu dî Stati Uniti d''Amèrica
+socially-constructed-person;['munarca', 'monarca'];Capu dû Statu ntê munarchìi
+space-region;['piràmidi'];Sòlidu geumètricu chi s''otteni cugnuncennu li vèrtici di nu pulìgunu di basi cûn puntu chi nni sta fora
+space-region;['sferoidi', 'ellissoidi di rutazzioni'];Forma geumètrica sòlida ca s''otteni facennu rutari n''ellissi attornu a unu dî so assi
+spatial-feature;['canyon', 'gula', 'ula'];Vaddi assai stritta e funna
+spatial-feature;['muntagna', 'munti'];Parti di terra inclinata ca si jisa cchiu'' auta rispettu ê terri intornu
+spatial-feature;['fruntera', 'cunfini', 'finàita', 'lìmitu'];Cunfini geugràficu di n''entità pulìtica o amministrativa
+spatial-feature;['vaddi', 'valli'];Parti di terra cchiu'' bascia dî terri circustanti, cchiu'' longa ca larga, di sòlitu scavata dûn ciumi
+spatial-feature;['surgenti', 'surgiva', 'fonti', 'funti', 'favara', "flusciu d'acqua", 'scaturìggini', "testa di l'acqua"];Postu unni l''acqua nesci naturalmenti dâ terra in quantità abbunnanti
+spatial-feature;['puntu di fini'];Postu unni finisci quarchi cosa
+spatial-feature;['catina muntagnusa'];Siguenza di muntagni chi fannu parti di nu stissu sistema muntagnusu
+spatial-feature;['ghiacciaiu', 'ghiacciaru', 'ghiacciaju', 'ghiazzaru', 'iazzaru', 'jazzaru', 'ghiacciau'];Massa naturali e pirmanenti di ghiacciu
+spatial-feature;['praia', 'plaia', 'plaja', 'praja', 'spiaggia'];Postu unni la terra scinni ducimenti ntô mari, cummigghiatu di rina o petri nichi
+spatial-feature;['etna', 'muncibeddu', 'a muntagna', 'la muntagna', 'ettena', 'ettina', 'mongibello', 'muncibbeddu', 'muncibbieddu', 'muncibeddhu', 'muncibieddu', 'muncipeddu', 'muncipieddu', 'mungibbeddru', 'mungibbeddu', 'mungibeddhu', 'mungibeddru', 'mungibeddu', 'mungibieddu', 'mungibiellu', 'èttena', 'èttina'];Vulcanu dâ Sicilia
+spatial-feature;['uadi'];Sorta di ciumara quasi sempri sciutta, eccettu quannu chiovi, chi si trova prupiamenti ntê diserti di l''Àfrica e dû Vicinu Orienti
+spatial-feature;['costa', 'ripa'];Linia unni la terra scontra l''acqua dûn mari o dûn lagu
+spatial-feature;['cima', 'pizzu', 'altura', 'curma', 'picu', 'pizzu di muntagna', 'summità'];Ntâ topugrafìa, puntu cchiu'' autu di na muntagna o di n''altura, o cchiu'' in ginirali, puntu chi si trova a èssiri cchiu'' autu di tutti li punti chi cci stannu attornu
+spatial-feature;['cima', 'pizzu', 'altura', 'curma', 'picu', 'pizzu di muntagna', 'summità'];Ntâ topugrafìa, puntu cchiu'' autu di na muntagna o di n''altura, o cchiu'' in ginirali, puntu chi si trova a èssiri cchiu'' autu di tutti li punti chi cci stannu attornu
+subject;['scienza', 'scenza', 'scientificu', 'scinziatu'];Insiemi di canuscenzi strutturati e coerenti ottinuti cu ossirvazzioni mitòdichi e rigurusi
+subject;['scienzi dâ terra'];Scienzi chi studiunu lu pianeta Terra
+subject;['giugrafìa', 'geografia', 'geografìa', 'gioggrafia', 'giografia', 'giografìa', 'geugrafìa'];La scienza chi studia li terri, li carattirìstichi, l''abbitanti, li finòmini dâ Terra e la so rapprisintazzioni
+subject;['nfurmàtica', 'infurmàtica', 'tiurìa dâ nfurmazzioni', "'nformatica", "tiurìa di l'infurmazzioni", 'infurmatica', 'ncignirìa di computer', 'nformatica', 'nfurmatica', 'scienza di li computer', 'tiuria ra infurmazzioni'];Scienza chi studìa l''elabburazzioni dî nfurmazzioni pi menzu dî calculatura elittrònici
+subject;['nfurmàtica', 'infurmàtica', 'tiurìa dâ nfurmazzioni', "'nformatica", "tiurìa di l'infurmazzioni", 'infurmatica', 'ncignirìa di computer', 'nformatica', 'nfurmatica', 'scienza di li computer', 'tiuria ra infurmazzioni'];Tecnuluggìa dâ pruggittazzioni e di l''applicazzioni dî calculatura elittrònici
+subject;["tiurìa di l'insiemi"];Rama dâ matimàtica ca studìa l''insiemi
+subject;['fìsica', 'fisica', 'fisìca', 'hìsica'];Scienza ca studia li liggi dâ natura
+subject;['bioluggìa', 'biuluggìa', 'bioluggia'];Scienza chi studia la vita
+subject;['scienzi naturali'];Scienzi ca studiunu l''aspetti fìsici, chìmici e biulòggici dâ natura
+subject;['ncignirìa ginètica', 'ingigniria ginetica', 'ngignirìa ginètica'];sittori ḍḍè biotecnologie ccâ ssì òccupa ḍḍà manipulazzioni ḍḍì gèni
+substance-role;['miscela', 'miscugghiu', 'mistioni', 'mistura'];Chiddu ca s''otteni mmiscannu nsèmmula sustanzi diffirenti
+substance-role;['suluzzioni'];Miscela omuggenia custituuta di na sula fasi
+task;['cumminazzioni'];Scelta di na quantità di cosi a partiri d''un insiemi, unni l''ordini dî cosi scigghiuti nun cunta
+taxonomic-collection;['nùmmiru grammaticali', 'nùmmiru'];Nùmmiru chi s''attribbuisci a n''entità grammaticali comu ad esempiu un nomu o n''aggittivu
+taxonomic-collective;['tribbù'];Rangu tassunòmicu secunnariu chi sta'' sutta â supratribbù e supra â suttatribbù
+taxonomic-collective;['famigghia'];Rangu tassunòmicu chi sta'' sutta a l''òrdini e supra ô gèniri
+taxonomic-collective;['classi'];Rangu tassunòmicu chi sta'' supra a l''òrdini e sutta ô filu
+taxonomic-collective;['razza', 'suttaspecia', 'suttaspecii', 'suttaspecî'];Rangu tassunòmicu chi sta'' sutta â specia
+taxonomic-collective;['razza', 'suttaspecia', 'suttaspecii', 'suttaspecî'];Suttansiemi di l''innividui di na stissa specia ca si ponnu mèttiri a cumuni pi certi carattirìstichi ginètichi
+taxonomic-collective;['òrdini'];Rangu tassunòmicu chi sta'' sutta â classi e supra â famigghia
+taxonomic-collective;['gèniri'];Rangu tassunòmicu chi sta'' sutta â famigghia e supra â specia
+taxonomic-collective;['speci', 'specia', 'specî'];Rangu tassunòmicu chi sta'' sutta ô gèniri e supra â suttaspecia
+taxonomic-collective;['filu', 'phylum'];Rangu tassunòmicu chi sta'' supra â classi e sutta ô regnu
+taxonomic-collective;['striggidi', 'strigidae'];Famigghia di aceddi rapaci comu â cucca e â pìula
+taxonomic-collective;['chiuppu', 'populus', 'chiùppiru', 'ghiuppu', 'chiuppiru'];Specia di àrvulu
+taxonomic-collective;['taxon'];Entità cuncittuali ca metti nsèmmula èssiri viventi chi hannu certi carattirìstichi in cumuni
+taxonomic-collective;['pipiruni', 'pipi', 'cápsicum', 'pipi ardenti', 'pipi brucenti', 'biezzi', 'biezzu'];Gèniri di chianti, ca cumprenni lu pipi e lu pipi ardenti
+taxonomic-collective;['palma', 'palmara'];Specia di chianta
+taxonomic-collective;['esapudi', 'hexapoda'];Supraclassi di armali chi hannu sei ciampi
+taxonomic-collective;['amenta'];Gèniri di chianti
+taxonomic-collective;['charales'];catigurìa di nu pruggettu Wikimedia
+taxonomic-collective;['tùrtura'];Specia di aceddu
+taxonomic-collective;['canis'];Gèniri ca cunteni specî comu ô cani e ô lupu
+taxonomic-collective;['culex'];Gèniri dî Culicidi chi cumprenni li zappagghiuna cumuni
+taxonomic-collective;['felis'];Gèniri dî Felidi
+technique;['abbilitati', 'abbilità', 'capacità', 'cumpitenza'];Capacità di purtari a tèrmini nu tipu di travagghiu
+temporal-region;['primu di giugnettu', '1 di giugnettu'];Data
+temporal-region;['1 di jinnaru', '1 di innaru', '1 innaru', '1º di jinnar', 'primu di jinnaru'];Data
+temporal-region;['2 di frivaru'];Data
+temporal-region;['primu di nuvèmmiru', 'tuttisanti', '1 di nuvemmiru', '1 di nuvèmmiru'];Data
+temporal-region;['natali', '25 di dicèmmiru', '25 di dicemmiru'];Festa ca cummèmura la nascita di Gesù Cristu
+temporal-region;['natali', '25 di dicèmmiru', '25 di dicemmiru'];Data
+temporal-region;['19 di marzu'];Data
+temporal-region;['14 di aprili', "14 d'aprili", '14 d’aprili'];Data
+temporal-region;['24 di uttùviru', '24 di uttuviru', '24 d’uttùviru'];Data
+temporal-region;['12 di uttùviru', '12 di uttuviru'];Data
+temporal-region;['4 di giugnettu', '4 di lugliu'];Data
+temporal-region;['oluceni', 'oloceni'];Sicunna, e currenti, èpuca dû Quatirnariu, e ùnicu pianu ca la cumponi
+temporal-region;['24 di maiu', '24 di maggiu', '24 di maju'];Data
+temporal-region;['17 di sittèmmiru', '17 di sittemmiru'];Data
+temporal-region;['1 di austu', "1 d'austu", 'primu di austu'];Data
+temporal-region;['14 di giugnu'];Data
+temporal-region;['29 di giugnu'];Data
+temporal-region;['miuceni'];Prima èpuca dû Niugeni
+temporal-region;['utc', 'ura univirsali coordinata'];Fusu urariu e ura di rifirimentu univirsali
+temporal-region;['29 di sittèmmiru', '29 di sittemmiru', '29 sittiemmiru'];Data
+temporal-region;['21 di giugnu'];Data
+temporal-region;['1 di maiu', '1 di maggiu', '1 di maju', 'primu di maiu'];Data
+temporal-region;['2 di marzu'];Data
+temporal-region;['tempu', 'tiempu', 'tèmpura'];Diminsioni chi esprimi la diffirenza tra li fatti chi già succideru, li fatti chi stannu succidennu, e li fatti chi ancora hannu a succèdiri. na succissioni cuntinua e cumpatta di istanti
+temporal-region;['dicèmmiru', 'decemmiru', 'dicembri', 'dicemmiru', 'diciemmiri'];Dudicèsimu misi di l''annu ntê calinnarî giulianu e grigurianu
+temporal-region;['dicèmmiru', 'decemmiru', 'dicembri', 'dicemmiru', 'diciemmiri'];Dudicèsimu misi di l''annu ntê calinnarî giulianu e grigurianu
+temporal-region;['ura di greenwich', 'gmt', 'ura media di greenwich'];Fusu urariu chi s''osserva ntô Regnu Unitu
+temporal-region;['marzu'];Terzu misi di l''annu ntê calinnarî giulianu e grigurianu
+temporal-region;['austu', 'aùstu', 'agustu'];Ottavu misi di l''annu ntê calinnarî giulianu e grigurianu
+temporal-region;['giugnettu', 'lugliu', 'lugghiu'];Sèttimu misi di l''annu ntê calinnarî giulianu e grigurianu
+temporal-region;['nuvèmmiru', 'nuvemmiru', 'nuvembri'];Unnicèsimu misi di l''annu ntê calinnarî giulianu e grigurianu
+temporal-region;['uttùviru', 'uttuviru', 'ottobbri', 'ottubbri'];Dècimu misi di l''annu ntê calinnarî giulianu e grigurianu
+temporal-region;['29 di frivaru'];Data
+temporal-region;['23 di giugnu'];Data
+temporal-region;['archianu', 'archïanu'];Sicunnu e ùltimu eoni dû Pricambrianu
+temporal-region;['ura muntana', 'mt', 'ura dî muntagni'];Fusu urariu statunitensi chi osserva l''ura MST ntô nvernu e l''ura MDT ntâ stati
+temporal-region;['ura pacìfica', 'pt', 'ptz', 'ura dû pacìficu', 'zona uraria pacìfica'];Fusu urariu statunitensi chi osserva l''ura PST ntô nvernu e l''ura PDT ntâ stati
+temporal-region;["ura di l'alaska"];Fusu urariu statunitensi chi osserva l''ura AKST ntô nvernu e l''ura AKDT ntâ stati
+temporal-region;['ura standard atlàntica', 'ast'];Fusu urariu chi s''osserva ntô nvernu nto Canadà e tuttu l''annu nta tanti paìsi di l''Ocèanu Atlànticu
+temporal-region;['ura cintrali', 'ct'];Fusu urariu nordamiricanu chi osserva l''ura CST ntô nvernu e l''ura CDT ntâ stati
+temporal-region;['6 di jinnaru', 'strina', 'bifanìa', 'pifanìa', '6 di innaru'];Festa chi cummèmura l''arrivu dî Re Maggi, nta l''Italia si cèlibbra lu 6 di jinnaru
+temporal-region;['6 di jinnaru', 'strina', 'bifanìa', 'pifanìa', '6 di innaru'];Data
+theory;['nfurmazzioni', 'infurmazzioni', "'nfurmazzioni", "'nformazzioni", "'nfurmazziona", 'informazzioni', 'mpurmazioni', 'nformazzioni', 'nfurmazziuni'];Entità stàtica chi cumùnica na canuscenza ôn suggettu chi la ricivi
